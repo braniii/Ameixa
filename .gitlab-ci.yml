@@ -18,7 +18,6 @@ build:
   script:
     - ./gradlew assemble lint
   artifacts:
-    paths:
         name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
         paths:
             - app/*.apk
