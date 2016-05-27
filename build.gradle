@@ -21,3 +21,12 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+// hack for deploying apks in CI builds
+applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def apk = output.outputFile;
+            def newName = "app-release-" + "myapp" + ".apk";
+            output.outputFile = new File('./', newName);
+        }
+    }
