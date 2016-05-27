@@ -17,17 +17,7 @@ before_script:
 build:
   script:
     - ./gradlew assemble lint
-  artifacts:
-        name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
-        paths:
-            - app/*.apk
-    
-# from http://blog.goddchen.de/2016/04/configuration-for-gitlab-ci-android-projects/
-# artifacts:
-#  - app/build/outputs/
-#
-# maybe this hack only downloads APKs if needed (from https://stackoverflow.com/questions/36270413/add-apk-to-zip-gitlab-ci-artifacts-gitlab-ci-yml-configuration)
-##      artifacts:
-##          name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
-##          paths:
-##              - app/*.apk
+ artifacts:
+    name: "${CI_BUILD_NAME}_${CI_BUILD_REF_NAME}"
+    paths:
+         - app/*.apk
