@@ -1,5 +1,3 @@
-
-
 package org.xphnx.ameixa;
 
 import android.content.Intent;
@@ -93,7 +91,7 @@ public class LicenseActivity extends AppCompatActivity {
         });
 
         TextView aboutText = new TextView( this );
-        aboutText.setText( "All the images included in this program are avaiable under the Creative Commons Attribution Share Alike 4.0 license." );
+        aboutText.setText( "The images included in this program are avaiable under the Creative Commons Attribution Share NonComercial Alike 4.0 license, except for non-compatible licenses images (See credits)." );
         aboutText.setTextSize( 24 );
         aboutText.setTextColor( 0xffffffff );
         aboutText.setPadding( padding, padding, padding, padding );
@@ -110,7 +108,7 @@ public class LicenseActivity extends AppCompatActivity {
 
     public void ccLink( View v ) {
 
-        Uri uri = Uri.parse( "http://choosealicense.com/licenses/cc-by-sa-4.0/" );
+        Uri uri = Uri.parse( "http://choosealicense.com/licenses/cc-by-nc-sa-4.0/" );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }

@@ -1,5 +1,3 @@
-
-
 package org.xphnx.ameixa;
 
 import android.content.Context;
