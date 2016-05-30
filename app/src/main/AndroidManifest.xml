@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ovh.ice.icecons"
+    package="org.xphnx.ameixa"
     android:minSdkVersion="16"
     android:targetSdkVersion="23"
-    android:versionCode="10"
-    android:versionName="2.6">
-
-    <uses-permission android:name="android.permission.SET_WALLPAPER" />
-    <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
+    android:versionCode="1"
+    android:versionName="0.1">
 
     <application
         android:allowBackup="true"
@@ -36,8 +33,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".WallpaperActivity" />
-        <activity android:name=".WallpaperSetActivity" />
         <activity android:name=".LicenseActivity" />
         <activity android:name=".IconActivity"></activity>
     </application>
