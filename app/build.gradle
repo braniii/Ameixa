@@ -5,11 +5,11 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "ovh.ice.icecons"
+        applicationId "org.xphnx.ameixa"
         minSdkVersion 16
         targetSdkVersion 23
-        versionCode 10
-        versionName "2.6"
+        versionCode 1
+        versionName "0.1"
     }
     buildTypes {
         release {
