@@ -1,6 +1,6 @@
 ![CI bagde](https://gitlab.com/xphnx/icecons_fork/badges/master/build.svg)
 
-Icon pack for trebuchet, kiss, nova, apex, holo, asus, adw and many more launchers, includes 4k wallpapers too
+Fork of Icecons Icon Pack for trebuchet, kiss, nova, apex, holo, asus, adw and many more launchers.
 
 
 
