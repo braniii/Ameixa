@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void gitLink( View v ) {
 
-        Uri uri = Uri.parse( "https://github.com/1C3/ICEcons" );
+        Uri uri = Uri.parse( "https://gitlab.com/xphnx/ameixa" );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }
