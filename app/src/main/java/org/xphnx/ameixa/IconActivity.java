@@ -651,7 +651,6 @@ public class IconActivity extends AppCompatActivity {
 		R.drawable.nodpi_wikimedia,
 		R.drawable.nodpi_wikipedia,
 		R.drawable.nodpi_wiktionary,
-		R.drawable.nodpi_wishperpush,
 		R.drawable.nodpi_wordpress,
 		R.drawable.nodpi_worktime,
 		R.drawable.nodpi_worldclock,

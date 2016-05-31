@@ -1127,7 +1127,6 @@
 <item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
 <item component="ComponentInfo{org.wikipedia/org.wikipedia.WikipediaActivity}" drawable="wikipedia" />
 <item component="ComponentInfo{org.wiktionary/.WiktionaryActivity}" drawable="wiktionary" />
-<item component="ComponentInfo{org.whispersystems.whisperpush/org.whispersystems.whisperpush.ui.RegistrationActivity}" drawable="wishperpush" />
 <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}" drawable="wordpress" />
 <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.splashScreen}" drawable="wordpress" />
 <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.posts.PostsActivity}" drawable="wordpress" />
