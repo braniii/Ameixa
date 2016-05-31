@@ -1,9 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU General Public License for more details.
+* You should have received a copy of the GNU General Public License
+* along with this program. If not, see <http://www.gnu.org/licenses/>.
+* @author xphnx
+*/
+-->
+
 <resources>
 
-    <scale factor="1.0" />
+<!-- Set deafult scale factor for the icons -->
+<scale factor="0.8" />
+<iconback img1="iconback" />
+<iconmask img1="iconmask" />
+<iconupon img1="iconupon" />
 
-    <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048game" />
-<item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor" />
+
+<item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="game2048" />
+<item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="editor920" />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard" />
 <item component="ComponentInfo{ch.bailu.aat/ch.bailu.aat.activities.MainActivity}" drawable="aat" />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCal}" drawable="acal" />
