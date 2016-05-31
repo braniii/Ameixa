@@ -64,7 +64,7 @@ public class LicenseActivity extends AppCompatActivity {
 
         TextView sourceText = new TextView( this );
         sourceText.setText( "This program's source code is avaiable under the GNU General Public License v3." );
-        sourceText.setTextSize( 24 );
+        sourceText.setTextSize( 16 );
         sourceText.setTextColor( ContextCompat.getColor( getApplicationContext(), R.color.colorPrimaryDark) );
         sourceText.setPadding( padding, padding, padding, padding );
         sourceClickLayout.addView( sourceText );
@@ -91,8 +91,8 @@ public class LicenseActivity extends AppCompatActivity {
         });
 
         TextView aboutText = new TextView( this );
-        aboutText.setText( "The images included in this program are avaiable under the Creative Commons Attribution Share NonComercial Alike 4.0 license, except for non-compatible licenses images (See credits)." );
-        aboutText.setTextSize( 24 );
+        aboutText.setText( "The images included in this program are avaiable under the Creative Commons Attribution Share NonComercial Alike 4.0 license, except for non-compatible derivates licenses (See credits)." );
+        aboutText.setTextSize( 16 );
         aboutText.setTextColor( 0xffffffff );
         aboutText.setPadding( padding, padding, padding, padding );
         imgClickLayout.addView( aboutText );
@@ -108,7 +108,7 @@ public class LicenseActivity extends AppCompatActivity {
 
     public void ccLink( View v ) {
 
-        Uri uri = Uri.parse( "http://choosealicense.com/licenses/cc-by-nc-sa-4.0/" );
+        Uri uri = Uri.parse( "https://creativecommons.org/licenses/by-nc-sa/4.0/" );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }
