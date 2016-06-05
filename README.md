@@ -1,6 +1,6 @@
 ![CI bagde](https://gitlab.com/xphnx/ameixa/badges/master/build.svg)
 
-Port of TwelF CMTheme for trebuchet, kiss, nova, apex, holo, asus, adw and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
+Port of TwelF CMTheme for Trebuchet, Kiss, Nova, Apex, Holo, Asus, Adw and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons).
 
 You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) for requesting icons. As determining if the icons requested are related to FLOSS apps is a tedious work, currently only [F-droid](https://f-droid.org/) hosted apps are supported.
 
