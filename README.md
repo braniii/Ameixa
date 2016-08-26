@@ -6,7 +6,7 @@ If someone was willing to deal with the code updates I could commit to add new d
 
 Port of TwelF CMTheme for Trebuchet, Kiss, Nova, Apex, Holo, Asus, Adw and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons).
 
-You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) for requesting icons. As determining if the icons requested are related to FLOSS apps is a tedious work, currently only [F-droid](https://f-droid.org/) hosted apps are supported.
+You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) for requesting icons. Only [F-droid](https://f-droid.org/) hosted apps are supported.
 
 ##### [Changelog](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CHANGELOG.md)
 
