@@ -1,7 +1,2 @@
-Use your Pebble/Mi Band/Hplus device without the vendor's closed source application and without the need to create an account and transmit any of your data to the vendor's servers.
-
-You can get notifications on your wrist and (depending on the device):
-- collect data from the device sensors
-- control music playing on your android device
-- see the weather 
-- get directions
+Icon pack compatible with Trebuchet, Kiss Launcher, OpenLauncher and many other launchers. The icons follow Material Design guidelines in order to provide a minimalist and consistent look to your device.
+Only apps hosted on F-droid are supported. You can request new icons through the Turtl application.
