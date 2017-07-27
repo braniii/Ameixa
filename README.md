@@ -19,8 +19,10 @@ Templates included into the svgs folder. You can add Activitienames or svgs too,
 ## Screenshots
 
 <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/97c6faf3cad4619e8079327a5e3d3ac4/Screenshot_2015-05-23-07-53-03.png" alt="with a dark background" width="300" />
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/b0ef81d60e8f4470e41cfec54c4a85b0/Screenshot_2015-05-23-21-03-30.png" alt="into apex launcher" width="300" />
-<!--
+<img src="https://gitlab.com/xphnx/ameixa/uploads/6a11ca228921b18225e700f6d37fcbe8/photo5463050469409663049.jpg" alt="with a dark background" width="300" />
+
+<!-- <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/b0ef81d60e8f4470e41cfec54c4a85b0/Screenshot_2015-05-23-21-03-30.png" alt="into apex launcher" width="300" />
+
 <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/081953c26fe1f8d30276f1d16bb0f672/Screenshot_2015-05-22-10-51-04.png" alt="light background" width="300" />
 <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/cec2077cb5bb09008b98d7c8681af67c/Screenshot_2015-05-22-23-47-06.png" alt="apps settings" width="300" />
 
