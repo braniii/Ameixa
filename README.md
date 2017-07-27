@@ -17,8 +17,9 @@ You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsu
 Templates included into the svgs folder. You can add Activitienames or svgs too, just MR.
 
 ## Screenshots
-![screenshot1](/uploads/7eb20d7fe9a5b14622ee4a691c84e8e3/screenshot1.jpg)
-![screenshot2](/uploads/d493c465c577956b7d20ae382eea8099/screenshot2.png)
+
+![screenshot1-thumb](/uploads/c1b689614b683cff658c3d8245ef6cea/screenshot1-thumb.jpg)
+![screenshot2-thumb](/uploads/833855214502447743662f1e010db19e/screenshot2-thumb.jpg)
 
 
 <!--<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/97c6faf3cad4619e8079327a5e3d3ac4/Screenshot_2015-05-23-07-53-03.png" alt="with a dark background" width="300" />
