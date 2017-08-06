@@ -1054,6 +1054,7 @@
 <item component="ComponentInfo{org.sudowars/org.sudowars.Controller.Local.Activity.MainMenu}" drawable="sudowars" />
 <item component="ComponentInfo{com.koushikdutta.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
 <item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
+<item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survivalmanual" />
 <item component="ComponentInfo{biz.codefuture.svgviewer/biz.codefuture.svgviewer.MainActivity}" drawable="svgviewer" />
 <item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="swiftnotes" />
 <item component="ComponentInfo{com.swiss.tournament/com.swiss.tournament.activities.Main}" drawable="swisschess" />
