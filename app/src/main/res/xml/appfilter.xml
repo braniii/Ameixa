@@ -1145,6 +1145,7 @@
 <item component="ComponentInfo{com.ugetdm.uget/com.ugetdm.uget.MainActivity}" drawable="uget" />
 <item component="ComponentInfo{com.haringeymobile.ukweather/com.haringeymobile.ukweather.MainActivity}" drawable="ukweather" />
 <item component="ComponentInfo{org.secfirst.umbrella/org.secfirst.umbrella.MainActivity}" drawable="umbrella" />
+<item component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}" drawable="usbmountr" />
 <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.FullPlaybackActivity}" drawable="vanillamusic" />
 <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanillamusic" />
 <item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vectorpinball" />
