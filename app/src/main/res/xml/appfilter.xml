@@ -1240,6 +1240,7 @@
 <item component="ComponentInfo{org.yaaic/org.yaaic.activity.MainActivity}" drawable="yaaic" />
 <item component="ComponentInfo{org.yaaic/org.yaaic.activity.ServersActivity}" drawable="yaaic" />
 <item component="ComponentInfo{com.tum.yahtzee/com.tum.yahtzee.YahtzeeActivity}" drawable="yahtzee" />
+<item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.UpdatableAppsActivity}" drawable="yalpstore" />
 <item component="ComponentInfo{org.yaxim.androidclient/org.yaxim.androidclient.MainWindow}" drawable="yaxim" />
 <item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.MainActivity}" drawable="yubico" />
 
