@@ -465,6 +465,7 @@
 <item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.Application}" drawable="hn" />
 <item component="ComponentInfo{com.omegavesko.holocounter/com.omegavesko.simplecounter.MainActivity}" drawable="holocounter" />
 <item component="ComponentInfo{com.holokenmod/com.holokenmod.MainActivity}" drawable="holokenmod" />
+<item component="ComponentInfo{com.tortuca.holoken/com.tortuca.holoken.MainActivity}" drawable="holokenmod" />
 <item component="ComponentInfo{com.jwetherell.heart_rate_monitor/com.jwetherell.heart_rate_monitor.HeartRateMonitor}" drawable="hrm" />
 <item component="ComponentInfo{de.nico.ha_manager/de.nico.ha_manager.activities.Main}" drawable="hwmanager" />
 <item component="ComponentInfo{net.i2p.android/net.i2p.android.I2PActivity}" drawable="i2p" />
