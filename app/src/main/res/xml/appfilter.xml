@@ -1030,6 +1030,7 @@
 <item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="smssecure" />
 <item component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}" drawable="snooperstopper" />
 <item component="ComponentInfo{de.srlabs.snoopsnitch/de.srlabs.snoopsnitch.StartupActivity}" drawable="snoopsnitch" />
+<item component="ComponentInfo{com.mobilepearls.sokoban/com.mobilepearls.sokoban.SokobanMenuActivity}" drawable="sokoban" />
 <item component="ComponentInfo{com.kmagic.solitaire/com.kmagic.solitaire.Solitaire}" drawable="solitaire" />
 <item component="ComponentInfo{net.sourceforge.solitaire_cg/net.sourceforge.solitaire_cg.SolitaireCG}" drawable="solitairecg" />
 <item component="ComponentInfo{com.danielkim.soundrecorder/com.danielkim.soundrecorder.activities.MainActivity}" drawable="soundrecorder" />
