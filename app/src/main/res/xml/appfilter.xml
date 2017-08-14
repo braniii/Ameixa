@@ -181,6 +181,7 @@
 <item component="ComponentInfo{se.tube42.kidsmem.android/se.tube42.kidsmem.android.MainActivity}" drawable="candymemory" />
 <item component="ComponentInfo{com.jadn.cc/com.jadn.cc.ui.CarCast}" drawable="carcast" />
 <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport" />
+<item component="ComponentInfo{com.agateau.catgenerator/com.agateau.catgenerator.MainActivity}" drawable="catgenerator" />
 <item component="ComponentInfo{net.simonvt.cathode/net.simonvt.cathode.ui.HomeActivity}" drawable="cathode" />
 <item component="ComponentInfo{com.nolanlawson.logcat/com.nolanlawson.logcat.LogcatActivity}" drawable="catlog" />
 <item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="cgeo" />
