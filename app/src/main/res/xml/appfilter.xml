@@ -1287,8 +1287,9 @@
 <item component="ComponentInfo{org.yaxim.androidclient/org.yaxim.androidclient.MainWindow}" drawable="yaxim" />
 <item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.MainActivity}" drawable="yubico" />
 <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" drawable="zapp"/>
-
-
+<item component="ComponentInfo{org.blokada.alarm/org.blokada.ui.app.android.MainActivity}" drawable="blokada" />
+<item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}" drawable="simplegallery" />
+<item component="ComponentInfo{felixwiemuth.lincal/felixwiemuth.lincal.ui.CalendarListActivity}" drawable="lincal" />
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
