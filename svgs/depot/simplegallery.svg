@@ -1845,7 +1845,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627418"
-     inkscape:cx="-2.862035"
+     inkscape:cx="-12.407976"
      inkscape:cy="11.814263"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
@@ -2319,7 +2319,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="hint"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.07038245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
