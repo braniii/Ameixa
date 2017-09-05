@@ -1296,6 +1296,10 @@
 <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot"/>
 <item component="ComponentInfo{io.github.lonamiwebs.stringlate/io.github.lonamiwebs.stringlate.activities.repositories.RepositoriesActivity}" drawable="stringlate"/>
 <item component="ComponentInfo{com.mkulesh.micromath.plus/com.mkulesh.micromath.plus.MainActivityPlus}" drawable="micromath"/>
+<item component="ComponentInfo{org.carbonrom.quarks/org.carbonrom.quarks.MainActivity}" drawable="crbrowser"/>
+<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wireapp"/>
+<item component="ComponentInfo{com.github.cythara/com.github.cythara.MainActivity}" drawable="cythara"/>
+<item component="ComponentInfo{ru.sash0k.bluetooth_terminal/ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity}" drawable="bluetoothterminal"/>
 
 
     <!-- Nova Launcher specific -->
