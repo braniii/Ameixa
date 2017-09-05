@@ -1287,7 +1287,15 @@
 <item component="ComponentInfo{org.yaxim.androidclient/org.yaxim.androidclient.MainWindow}" drawable="yaxim" />
 <item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.MainActivity}" drawable="yubico" />
 <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" drawable="zapp"/>
-
+<item component="ComponentInfo{org.blokada.alarm/org.blokada.ui.app.android.MainActivity}" drawable="blokada" />
+<item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}" drawable="simplegallery" />
+<item component="ComponentInfo{felixwiemuth.lincal/felixwiemuth.lincal.ui.CalendarListActivity}" drawable="lincal" />
+<item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerkeyboard"/>
+<item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg"/>
+<item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity}" drawable="privacybrowser"/>
+<item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot"/>
+<item component="ComponentInfo{io.github.lonamiwebs.stringlate/io.github.lonamiwebs.stringlate.activities.repositories.RepositoriesActivity}" drawable="stringlate"/>
+<item component="ComponentInfo{com.mkulesh.micromath.plus/com.mkulesh.micromath.plus.MainActivityPlus}" drawable="micromath"/>
 
 
     <!-- Nova Launcher specific -->
