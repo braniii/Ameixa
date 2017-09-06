@@ -1,3 +1,10 @@
+**v3.0.7**
+
+More icons and some fixes
+
+Simplifiying UI
+
+
 **v3.0.6**
 
 Fix icons: setup LOS14.1, filemanager, audiofx, gallery, soundrecorder, sms, browser

@@ -7,24 +7,8 @@
 - It is convenient to visit the [Google Material Design website](http://www.google.com/design/spec/style/icons.html). The templates include most of the items, so you will not have to worry about them, but this site provides  much interesting information you should follow when designing.
 
 
-#### The update don't aply the new icons
-- Probably a CM13 bug (?). You can solve it applying the stock icon pack and then applying again Ameixa.
-
-
 #### I had a themed icon, but a recent update of the app reverts it to the original one
 - Probably the upstream changes the activity name into androidmanifest.xml. You can compare the activityname using [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) with the code of [appfilter](). If the activityname have changed in fact, then you can try to do a MR with a [patch](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home#add-activities-to-appfilterxml), or request for a fix trough [Issue tracker](https://gitlab.com/xphnx/twelf_cm12_theme/issues)
-
-
-#### An app crashes when attempts to create a notification icon with the theme applied.
-- This must be fixed on the upstream adding a proper (smaller, all-white) notification icon [setSmallIcon](https://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder.html#setSmallIcon%28int%29). Is possible that for Android 4 (CM11) can be added another colored icon ([SetLargeIcon](https://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder.html#setLargeIcon%28android.graphics.Bitmap%29)) to be shown in the ticker and notification.
-
-
-- Please contact the upstream and report the bug. You can provide them  more information referring to these links, in which some apps have already fixed this problem. And If you can, report relevant information [here](https://gitlab.com/xphnx/twelf_cm12_theme/issues/66) for completing the documentation about this problem.:
-     - [SetLargeIcon applied by Mirakel](https://github.com/MirakelX/mirakel-android/blob/master/model/src/de/azapps/mirakel/services/NotificationService.java#L131)
-     - [Fix1 applied by Osmand](https://github.com/osmandapp/Osmand/commit/467da92d3e6f139bd113e4500f1b801567e8c89e)
-     - [Fix2 applied by Osmand](https://github.com/osmandapp/Osmand/commit/096f0c2bc1c29e8a0ec95e7d763aec6460cbec2d)
-     - [Fix applied by ownCloud-SMS](https://github.com/nerzhul/ownCloud-SMS-App/commit/1483b9d51607f1837ac27460cbf506b0b98c6562)
-     - [Fix applied by Syncthing](https://github.com/syncthing/syncthing-android/pull/332/files)
 
 
 #### I see the icon of an app in [its folders](https://gitlab.com/xphnx/twelf_cm12_theme/tree/master/theme/src/main/assets/icons/res) but it's not working in the theme
