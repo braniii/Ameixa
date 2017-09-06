@@ -473,7 +473,6 @@
 <item component="ComponentInfo{it.greenaddress.cordova/it.greenaddress.cordova.GreenAddressIt}" drawable="greenaddress" />
 <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
 <item component="ComponentInfo{de.srlabs.gsmmap/de.srlabs.gsmmap.MapActivity}" drawable="gsmmap" />
-<item component="ComponentInfo{com.googlecode.gtalksms/com.googlecode.gtalksms.panels.MainActivity}" drawable="gtalksms" />
 <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerkeyboard"/>
 <item component="ComponentInfo{byrne.utilities.hashpass/byrne.utilities.hashpass.HashPassActivity}" drawable="hashpass" />
 <item component="ComponentInfo{com.hayaisoftware.launcher/com.hayaisoftware.launcher.activities.SearchActivity}" drawable="hayai" />
