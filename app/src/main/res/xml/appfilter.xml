@@ -321,7 +321,6 @@
 <item component="ComponentInfo{com.workingagenda.democracydroid/com.workingagenda.democracydroid.MainActivity}" drawable="democracydroid"/>
 <item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66"/>
 <item component="ComponentInfo{net.screenfreeze.deskcon/net.screenfreeze.deskcon.MainActivity}" drawable="deskcon" />
-<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="devicemanager" />
 <item component="ComponentInfo{com.android.development/com.android.development.Development}" drawable="devtools" />
 <item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.MainActivity}" drawable="diasporadfa" />
 <item component="ComponentInfo{ar.com.tristeslostrestigres.diasporanativewebapp/ar.com.tristeslostrestigres.diasporanativewebapp.SplashActivity}" drawable="diasporanw" />
