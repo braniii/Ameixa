@@ -172,6 +172,7 @@
 <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="calendarcolor" />
 <item component="ComponentInfo{org.sufficientlysecure.ical/org.sufficientlysecure.ical.ui.MainActivity}" drawable="calendarie" />
 <item component="ComponentInfo{com.github.quarck.calnotify/com.github.quarck.calnotify.ui.ActivityMain}" drawable="calendarnotifications" />
+<item component="ComponentInfo{com.github.quarck.calnotify/com.github.quarck.calnotify.ui.MainActivity}" drawable="calendarnotifications" />
 <item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.WidgetConfigurationActivity}" drawable="calendarwidget" />
 <item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.MainActivity}" drawable="calendarwidget" />
 <item component="ComponentInfo{es.usc.citius.servando.calendula/es.usc.citius.servando.calendula.activities.StartActivity}" drawable="calendula" />
