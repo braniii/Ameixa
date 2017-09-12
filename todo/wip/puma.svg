@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 26.95 26.95"
+   id="svg155"
+   sodipodi:docname="puma.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata159">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview157"
+     showgrid="false"
+     inkscape:zoom="24.768415"
+     inkscape:cx="16.717706"
+     inkscape:cy="11.877617"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg155" />
+  <defs
+     id="defs5">
+    <filter
+       id="filter6206-7"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.658125"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(0 -1025.4)"
+     id="g123">
+    <path
+       transform="matrix(1.0107 0 0 .99762 -.087875 2.579)"
+       d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z"
+       id="path7"
+       filter="url(#filter6206-7)"
+       fill="#bf360c"
+       opacity=".2" />
+    <rect
+       x="2.8113"
+       y="1028.2"
+       width="21.327"
+       height="21.327"
+       rx="1.1225"
+       ry="1.1226"
+       id="rect9"
+       fill="#ffc107" />
+    <g
+       transform="translate(-20.925 990.46)"
+       id="g25">
+      <path
+         d="m0 0h48v48h-48z"
+         id="path11"
+         fill="none" />
+      <g
+         transform="matrix(.33601 0 0 .33601 1.434 68.477)"
+         id="g15">
+        <path
+           d="m0 0h48v48h-48z"
+           id="path13"
+           fill="none" />
+      </g>
+      <g
+         transform="matrix(.37187 0 0 .37187 36.377 59.287)"
+         id="g23">
+        <path
+           d="m0 0h48v48h-48z"
+           id="path17"
+           fill="none" />
+        <g
+           transform="matrix(2.6891 0 0 2.6891 -77.724 -45.422)"
+           id="g21">
+          <path
+             d="m0 0h48v48h-48z"
+             id="path19"
+             fill="none" />
+        </g>
+      </g>
+    </g>
+    <path
+       transform="translate(0 1025.4)"
+       d="m3.9336 2.8105c-0.62186 0-1.123 0.50115-1.123 1.123v0.3125c0-0.6219 0.50118-1.123 1.123-1.123h19.082c0.62186 0 1.123 0.50115 1.123 1.123v-0.3125c0-0.6219-0.50118-1.123-1.123-1.123h-19.082z"
+       id="path27"
+       fill="#fff"
+       opacity=".2" />
+    <rect
+       x="120"
+       y="512.36"
+       width="40"
+       height="40"
+       id="rect29"
+       fill="none" />
+    <rect
+       x="120"
+       y="592.36"
+       width="40"
+       height="40"
+       id="rect31"
+       fill="none" />
+    <rect
+       x="120"
+       y="632.36"
+       width="40"
+       height="40"
+       id="rect33"
+       fill="none" />
+    <rect
+       x="120"
+       y="552.36"
+       width="40"
+       height="40"
+       id="rect35"
+       fill="none" />
+    <rect
+       x="120"
+       y="672.36"
+       width="40"
+       height="40"
+       id="rect37"
+       fill="none" />
+    <rect
+       x="200"
+       y="512.36"
+       width="40"
+       height="40"
+       id="rect39"
+       fill="none" />
+    <rect
+       x="200"
+       y="592.36"
+       width="40"
+       height="40"
+       id="rect41"
+       fill="none" />
+    <rect
+       x="200"
+       y="632.36"
+       width="40"
+       height="40"
+       id="rect43"
+       fill="none" />
+    <rect
+       x="200"
+       y="552.36"
+       width="40"
+       height="40"
+       id="rect45"
+       fill="none" />
+    <rect
+       x="200"
+       y="672.36"
+       width="40"
+       height="40"
+       id="rect47"
+       fill="none" />
+    <rect
+       x="280"
+       y="512.36"
+       width="40"
+       height="40"
+       id="rect49"
+       fill="none" />
+    <rect
+       x="280"
+       y="592.36"
+       width="40"
+       height="40"
+       id="rect51"
+       fill="none" />
+    <rect
+       x="280"
+       y="632.36"
+       width="40"
+       height="40"
+       id="rect53"
+       fill="none" />
+    <rect
+       x="280"
+       y="552.36"
+       width="40"
+       height="40"
+       id="rect55"
+       fill="none" />
+    <rect
+       x="280"
+       y="672.36"
+       width="40"
+       height="40"
+       id="rect57"
+       fill="none" />
+    <rect
+       x="160"
+       y="512.36"
+       width="40"
+       height="40"
+       id="rect59"
+       fill="none" />
+    <rect
+       x="160"
+       y="592.36"
+       width="40"
+       height="40"
+       id="rect61"
+       fill="none" />
+    <rect
+       x="160"
+       y="632.36"
+       width="40"
+       height="40"
+       id="rect63"
+       fill="none" />
+    <rect
+       x="160"
+       y="552.36"
+       width="40"
+       height="40"
+       id="rect65"
+       fill="none" />
+    <rect
+       x="160"
+       y="672.36"
+       width="40"
+       height="40"
+       id="rect67"
+       fill="none" />
+    <rect
+       x="240"
+       y="512.36"
+       width="40"
+       height="40"
+       id="rect69"
+       fill="none" />
+    <rect
+       x="240"
+       y="592.36"
+       width="40"
+       height="40"
+       id="rect71"
+       fill="none" />
+    <rect
+       x="240"
+       y="632.36"
+       width="40"
+       height="40"
+       id="rect73"
+       fill="none" />
+    <rect
+       x="240"
+       y="552.36"
+       width="40"
+       height="40"
+       id="rect75"
+       fill="none" />
+    <rect
+       x="240"
+       y="672.36"
+       width="40"
+       height="40"
+       id="rect77"
+       fill="none" />
+    <rect
+       x="120"
+       y="712.36"
+       width="40"
+       height="40"
+       id="rect79"
+       fill="none" />
+    <rect
+       x="200"
+       y="712.36"
+       width="40"
+       height="40"
+       id="rect81"
+       fill="none" />
+    <rect
+       x="280"
+       y="712.36"
+       width="40"
+       height="40"
+       id="rect83"
+       fill="none" />
+    <rect
+       x="160"
+       y="712.36"
+       width="40"
+       height="40"
+       id="rect85"
+       fill="none" />
+    <rect
+       x="240"
+       y="712.36"
+       width="40"
+       height="40"
+       id="rect87"
+       fill="none" />
+    <rect
+       x="320"
+       y="552.36"
+       width="40"
+       height="40"
+       id="rect89"
+       fill="none" />
+    <rect
+       x="320"
+       y="592.36"
+       width="40"
+       height="40"
+       id="rect91"
+       fill="none" />
+    <rect
+       x="320"
+       y="672.36"
+       width="40"
+       height="40"
+       id="rect93"
+       fill="none" />
+    <rect
+       x="320"
+       y="512.36"
+       width="40"
+       height="40"
+       id="rect95"
+       fill="none" />
+    <rect
+       x="320"
+       y="632.36"
+       width="40"
+       height="40"
+       id="rect97"
+       fill="none" />
+    <rect
+       x="320"
+       y="712.36"
+       width="40"
+       height="40"
+       id="rect99"
+       fill="none" />
+    <rect
+       x="150"
+       y="542.36"
+       width="180"
+       height="180"
+       id="rect101"
+       fill="none" />
+    <g
+       transform="matrix(.37344 0 0 .37344 4.4375 1028.8)"
+       id="g105">
+      <path
+         d="m0 0h48v48h-48z"
+         id="path103"
+         fill="none" />
+    </g>
+    <g
+       transform="matrix(.36471 0 0 .36471 4.8146 1028.8)"
+       id="g109">
+      <path
+         d="m0 0h48v48h-48z"
+         id="path107"
+         fill="none" />
+    </g>
+    <g
+       transform="matrix(.41585 0 0 .41585 79.055 989.88)"
+       id="g119">
+      <g
+         transform="matrix(.062269 0 0 .062269 -26.473 173.71)"
+         id="g117">
+        <g
+           transform="matrix(38.618 0 0 38.618 13804 -12696)"
+           id="g115">
+          <g
+             transform="matrix(.71436 0 0 .71436 -375.49 176.57)"
+             id="g113">
+            <path
+               transform="matrix(1.3999 0 0 1.3999 525.63 -247.17)"
+               d="m490.56 95.75c-121.72 0.18504-342.34 0.090577-468.16 0.09375-1.5548 6.9739-2.4062 14.232-2.4062 21.688v76.344c139.06 0.49354 331.32 0.2554 472.97 0.25v-76.594c0-7.4875-0.8386-14.78-2.4062-21.781zm-307.19 197.94c-52.495-3e-3 -106.38 0.11982-163.38 0.375v92.844c191.76-0.26331 282.43-0.0926 472.97-0.21875v-92.25c-109.29-0.35498-208.43-0.74426-309.59-0.75z"
+               id="path111"
+               opacity="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z"
+       id="path121"
+       fill="#bf360c"
+       opacity=".2" />
+  </g>
+  <g
+     id="g145">
+    <flowRoot
+       font-size="3.75px"
+       letter-spacing="0px"
+       word-spacing="0px"
+       style="line-height:125%"
+       xml:space="preserve"
+       id="flowRoot131"
+       font-family="Roboto"
+       stroke-width="1px"
+       fill="#000000"><flowRegion
+         id="flowRegion127"><rect
+           x="10.664"
+           y="11.235"
+           width="4.49"
+           height="5.0512"
+           id="rect125" /></flowRegion><flowPara
+         id="flowPara129">your</flowPara></flowRoot>    <g
+       transform="matrix(3.4802 0 0 3.4802 -71.466 -3620.4)"
+       id="g143">
+      <g
+         transform="translate(0 .39525)"
+         id="g141">
+        <path
+           style="fill:#ffffff;stroke-width:3.48020005"
+           d="M 8.1308594 8.0390625 A 1.336362 1.336362 0 0 0 6.7929688 9.3769531 L 6.7929688 21.404297 L 9.4667969 18.730469 L 18.820312 18.730469 A 1.336362 1.336362 0 0 0 20.15625 17.394531 L 20.15625 9.3769531 C 20.15625 8.6349745 19.555331 8.0390625 18.820312 8.0390625 L 8.1308594 8.0390625 z M 13.474609 10.279297 C 15.222181 10.279297 16.638672 11.695788 16.638672 13.443359 C 16.638672 15.190931 15.222181 16.607422 13.474609 16.607422 C 11.727038 16.607422 10.310547 15.190931 10.310547 13.443359 C 10.310547 11.695788 11.727038 10.279297 13.474609 10.279297 z M 13.474609 10.886719 C 13.297544 10.886719 13.123995 10.905125 12.957031 10.939453 L 15.833984 13.427734 L 12.929688 15.939453 C 13.105543 15.97774 13.287341 16 13.474609 16 C 14.88588 16 16.03125 14.85463 16.03125 13.443359 C 16.03125 12.032088 14.88588 10.886719 13.474609 10.886719 z M 12.251953 11.210938 C 11.460583 11.645759 10.917969 12.477301 10.917969 13.443359 C 10.917969 14.409086 11.461029 15.238863 12.251953 15.673828 L 14.916016 13.441406 L 12.251953 11.210938 z "
+           transform="matrix(0.28733981,0,0,0.28733981,20.535027,1039.8898)"
+           id="path133" />
+        <g
+           transform="matrix(.12123 0 0 .12123 23.437 917.14)"
+           id="g139"
+           fill="#ffc107" />
+      </g>
+    </g>
+  </g>
+  <g
+     display="none"
+     fill="none"
+     id="g153">
+    <rect
+       transform="rotate(90)"
+       x="7.3342"
+       y="-19.616"
+       width="12.282"
+       height="12.282"
+       display="inline"
+       stroke="#000"
+       stroke-width=".065984"
+       id="rect147" />
+    <rect
+       x="6.7726"
+       y="8.112"
+       width="13.405"
+       height="10.726"
+       stroke="#5261ff"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width=".06524"
+       id="rect149" />
+    <rect
+       transform="rotate(90)"
+       x="6.7726"
+       y="-18.838"
+       width="13.405"
+       height="10.726"
+       display="inline"
+       stroke="#0f0"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width=".06524"
+       id="rect151" />
+  </g>
+</svg>
