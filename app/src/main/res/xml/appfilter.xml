@@ -34,6 +34,7 @@
 <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
 <item component="ComponentInfo{com.addi/com.addi.Addi}" drawable="addi" />
 <item component="ComponentInfo{me.danielbarnett.addresstogps/me.danielbarnett.AddressToGPS.MainActivity}" drawable="addresstogps" />
+<item component="ComponentInfo{ch.abertschi.adfree/ch.abertschi.adfree.view.MainActivity}" drawable="adfree" />
 <item component="ComponentInfo{org.afhdownloader/org.afhdownloader.MainActivity}" drawable="afhdownloader"/>
 <item component="ComponentInfo{com.madgag.agit/com.madgag.agit.DashboardActivity}" drawable="agit" />
 <item component="ComponentInfo{com.jparkie.aizoban/com.jparkie.aizoban.views.activities.SplashActivity}" drawable="aizoban" />
@@ -88,6 +89,7 @@
 <item component="ComponentInfo{com.example.tobiastrumm.freifunkautoconnect/com.example.tobiastrumm.freifunkautoconnect.MainActivity}" drawable="autoconnect" />
 <item component="ComponentInfo{com.elsdoerfer.android.autostarts/com.elsdoerfer.android.autostarts.ListActivity}" drawable="autostarts" />
 <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcodescanner" />
+<item component="ComponentInfo{org.jfet.batsHIIT/org.jfet.batsHIIT.HIITMain}" drawable="batshiit" />
 <item component="ComponentInfo{com.tobykurien.batteryfu/com.tobykurien.batteryfu.ModeSelect}" drawable="batteryfu" />
 <item component="ComponentInfo{ch.rrelmy.android.batterymanager/ch.rrelmy.android.batterymanager.Main}" drawable="batterylevel" />
 <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="baumann" />
@@ -319,6 +321,7 @@
 <item component="ComponentInfo{com.android.packageinstaller/com.android.packageinstaller.Development}" drawable="defaulticon" />
 <item component="ComponentInfo{com.android.prividers.userdictionary/com.android.prividers.userdictionary.UserDictionaryProvider}" drawable="defaulticon" />
 <item component="ComponentInfo{com.android.provision/com.android.provision.DefaultActivity}" drawable="defaulticon" />
+<item component="ComponentInfo{ir.hsn6.defendo/org.godotengine.godot.Godot}" drawable="defendo" />
 <item component="ComponentInfo{com.workingagenda.democracydroid/com.workingagenda.democracydroid.MainActivity}" drawable="democracydroid"/>
 <item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66"/>
 <item component="ComponentInfo{net.screenfreeze.deskcon/net.screenfreeze.deskcon.MainActivity}" drawable="deskcon" />
@@ -725,6 +728,7 @@
 <item component="ComponentInfo{com.valleytg.oasvn.android/com.valleytg.oasvn.android.ui.activity.MainMenu}" drawable="oasvn" />
 <item component="ComponentInfo{org.witness.sscphase1/org.witness.sscphase1.ObscuraApp}" drawable="obscuracam" />
 <item component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}" drawable="obsqr" />
+<item component="ComponentInfo{org.schabi.nxbookmarks.owncloud/org.schabi.ocbookmarks.MainActivity}" drawable="ocbookmarks" />
 <item component="ComponentInfo{email.schaal.ocreader/email.schaal.ocreader.ListActivity}" drawable="ocreader" />
 <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
 <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey"/>
@@ -747,6 +751,7 @@
 <item component="ComponentInfo{com.tasomaniac.openwith.floss/com.tasomaniac.openwith.settings.SettingsActivity}" drawable="openlinkwith" />
 <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa" />
 <item component="ComponentInfo{com.todobom.opennotescanner/com.todobom.opennotescanner.OpenNoteScannerActivity}" drawable="opennotescanner" />
+<item component="ComponentInfo{org.openobservatory.ooniprobe/org.openobservatory.ooniprobe.activity.MainActivity}" drawable="openobservatory"/>
 <item component="ComponentInfo{jp.redmine.redmineclient/jp.redmine.redmineclient.activity.SplashActivity}" drawable="openredmine" />
 <item component="ComponentInfo{de.skubware.opentraining/de.skubware.opentraining.activity.MainActivity}" drawable="opentraining" />
 <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn" />
@@ -1157,6 +1162,7 @@
 <item component="ComponentInfo{com.secuso.torchlight2/com.secuso.torchlight2.MainActivity}" drawable="torchlight" />
 <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrentclient"/>
 <item component="ComponentInfo{org.traccar.client/org.traccar.client.TraccarActivity}" drawable="traccar" />
+<item component="ComponentInfo{org.traccar.client/org.traccar.client.Launcher}" drawable="traccar"/>
 <item component="ComponentInfo{org.transdroid/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdroid" />
 <item component="ComponentInfo{org.transdroid/org.transdroid.gui.Torrents}" drawable="transdroid" />
 <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdroid" />
