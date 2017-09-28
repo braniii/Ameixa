@@ -1,2 +1,2 @@
-Icon pack compatible with Trebuchet, Kiss Launcher, OpenLauncher and many other launchers. The icons follow Material Design guidelines in order to provide a minimalist and consistent look to your device.
-Only apps hosted on F-droid are supported. You can request new icons through the Turtl application.
+Icon pack compatible with Kiss Launcher, OpenLauncher, ADW and many other launchers. The icons follow Material Design guidelines in order to provide a minimalist and consistent look to your device.
+Only apps hosted on F-droid are supported.
