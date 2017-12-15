@@ -585,6 +585,7 @@
 <item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.lockclock.preference.Preferences}" drawable="lockclock" />
 <item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.preference.Preferences}" drawable="lockclock" />
 <item component="ComponentInfo{net.zygotelabs.locker/net.zygotelabs.locker.MainActivity}" drawable="locker" />
+<item component="ComponentInfo{com.tananaev.logcat/com.tananaev.logcat.MainActivity}" drawable="logcat" />
 <item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logicaldefence" />
 <item component="ComponentInfo{com.alexkang.loopboard/com.alexkang.loopboard.MainActivity}" drawable="loopboard" />
 <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loophabits" />
