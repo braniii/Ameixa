@@ -686,6 +686,7 @@
 <item component="ComponentInfo{org.navitproject.navit/org.navitproject.navit.Navit}" drawable="navit" />
 <item component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}" drawable="netguard" />
 <item component="ComponentInfo{free.yhc.netmbuddy/free.yhc.netmbuddy.YTMPActivity}" drawable="netmbuddy" />
+<item component="ComponentInfo{org.secuso.privacyfriendlynetmonitor/org.secuso.privacyfriendlynetmonitor.Activities.SplashActivity}" drawable="netmonitor" />
 <item component="ComponentInfo{org.pixmob.freemobile.netstat/org.pixmob.freemobile.netstat.ui.Netstat}" drawable="netstat" />
 <item component="ComponentInfo{info.lamatricexiste.network/info.lamatricexiste.network.ActivityMain}" drawable="networkdiscovery" />
 <item component="ComponentInfo{com.googlecode.networklog/com.googlecode.networklog.NetworkLog}" drawable="networklog" />
