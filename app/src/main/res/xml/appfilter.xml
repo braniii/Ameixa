@@ -639,6 +639,7 @@
 <item component="ComponentInfo{com.dgmltn.morphclock.app/com.dgmltn.morphclock.app.MainActivity}" drawable="morphclock" />
 <item component="ComponentInfo{fr.xtof54.mousetodon/fr.xtof54.mousetodon.MouseApp}" drawable="mousetodon" />
 <item component="ComponentInfo{com.nutomic.zertman/com.nutomic.zertman.MainActivity}" drawable="movecerts" />
+<item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.MovieActivity}" drawable="moviedb" />
 <item component="ComponentInfo{com.movim.movim/com.movim.movim.MainActivity}" drawable="movim" />
 <item component="ComponentInfo{org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity}" drawable="mozstumbler" />
 <item component="ComponentInfo{com.namelessdev.mpdroid/com.namelessdev.mpdroid.MainMenuActivity}" drawable="mpdroid" />
