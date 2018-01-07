@@ -66,7 +66,8 @@ public class MainActivity extends AppCompatActivity {
         Button iconButton = new Button( this );
         iconButton.setLayoutParams( buttonParams );
         iconButton.setBackground( new BitmapDrawable( getResources(), IceImageUtils.bitmapLoad( getApplicationContext().getResources(), R.drawable.ic_icon_button, Math.round( 48 * scale ), Math.round( 48 * scale ) ) ) );
-        iconClickLayout.addView( iconButton );
+        iconButton.setClickable(false);
+	iconClickLayout.addView( iconButton );
 
         TextView iconText = new TextView( this );
         iconText.setText( "view icons" );
@@ -98,7 +99,8 @@ public class MainActivity extends AppCompatActivity {
         Button sourceButton = new Button( this );
         sourceButton.setLayoutParams( buttonParams );
         sourceButton.setBackground( new BitmapDrawable( getResources(), IceImageUtils.bitmapLoad( getApplicationContext().getResources(), R.drawable.ic_source_button, Math.round( 48 * scale ), Math.round( 48 * scale ) ) )  );
-        sourceClickLayout.addView( sourceButton );
+        sourceButton.setClickable(false);
+	sourceClickLayout.addView( sourceButton );
 
         TextView sourceText = new TextView( this );
         sourceText.setText( "source code" );
@@ -130,7 +132,8 @@ public class MainActivity extends AppCompatActivity {
         Button aboutButton = new Button( this );
         aboutButton.setLayoutParams( buttonParams );
         aboutButton.setBackground( new BitmapDrawable( getResources(), IceImageUtils.bitmapLoad( getApplicationContext().getResources(), R.drawable.ic_license_button, Math.round( 48 * scale ), Math.round( 48 * scale ) ) )  );
-        aboutClickLayout.addView( aboutButton );
+        aboutButton.setClickable(false);
+	aboutClickLayout.addView( aboutButton );
 
         TextView aboutText = new TextView( this );
         aboutText.setText( "license" );
