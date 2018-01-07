@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         LinearLayout baseLayout = new LinearLayout( this );
         baseLayout.setOrientation( LinearLayout.VERTICAL );
         baseLayout.setLayoutParams( new LinearLayout.LayoutParams( LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.MATCH_PARENT ) );
-        baseLayout.setGravity( Gravity.LEFT );
+        baseLayout.setGravity( Gravity.START );
         frameLayout.addView( baseLayout );
 
  
@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
         iconText.setPadding( 64, 64, 64, 64 );
         iconClickLayout.addView( iconText );
 
+
         // source code button
 
         LinearLayout sourceLayout = new LinearLayout( this );
@@ -103,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
 	sourceClickLayout.addView( sourceButton );
 
         TextView sourceText = new TextView( this );
-        sourceText.setText( "source code" );
+        sourceText.setText( R.string.sourcecodetext );
         sourceText.setTextSize( 24 );
         sourceText.setTextColor( ContextCompat.getColor( getApplicationContext(), R.color.colorPrimaryDark) );
         sourceText.setPadding(64, 64, 64, 64);
@@ -136,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
 	aboutClickLayout.addView( aboutButton );
 
         TextView aboutText = new TextView( this );
-        aboutText.setText( "license" );
+        aboutText.setText( R.string.licensetext );
         aboutText.setTextSize( 24 );
         aboutText.setTextColor( ContextCompat.getColor( getApplicationContext(), R.color.colorPrimaryDark) );
         aboutText.setPadding(64, 64, 64, 64);
@@ -146,16 +147,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void gitLink( View v ) {
 
-        Uri uri = Uri.parse( "https://gitlab.com/xphnx/ameixa" );
+        Uri uri = Uri.parse( getString(R.string.sourcecodelink) );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }
 
-    public void iconView( View v ) {
-
-        Intent intent = new Intent( this, IconActivity.class );
-        startActivity( intent );
-    }
 
     public void licenseShow( View v ) {
 

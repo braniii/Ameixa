@@ -1,0 +1,3 @@
+* Fix icons: setupLOS14.1, filemanagerLOS14.1, audiofxLOS14.1, galleryLOS14.1, soundrecorderLOS14.1, smsLOS14.1, browserLOS14.1
+* New icons: mupdfmini
+* Previous icons since version 2.9.9

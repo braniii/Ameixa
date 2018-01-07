@@ -1,15 +1,12 @@
 package org.xphnx.ameixa;
 
 import android.content.Intent;
-import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
+import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
-import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -39,7 +36,7 @@ public class LicenseActivity extends AppCompatActivity {
         LinearLayout baseLayout = new LinearLayout( this );
         baseLayout.setOrientation( LinearLayout.VERTICAL );
         baseLayout.setLayoutParams( new LinearLayout.LayoutParams( LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.MATCH_PARENT ) );
-        baseLayout.setGravity( Gravity.LEFT );
+        baseLayout.setGravity( Gravity.START );
         frameLayout.addView( baseLayout );
 
         // gpl button
@@ -63,7 +60,7 @@ public class LicenseActivity extends AppCompatActivity {
         });
 
         TextView sourceText = new TextView( this );
-        sourceText.setText( "This program's source code is avaiable under the GNU General Public License v3." );
+        sourceText.setText( R.string.codelicense);
         sourceText.setTextSize( 16 );
         sourceText.setTextColor( ContextCompat.getColor( getApplicationContext(), R.color.colorPrimaryDark) );
         sourceText.setPadding( padding, padding, padding, padding );
@@ -91,7 +88,7 @@ public class LicenseActivity extends AppCompatActivity {
         });
 
         TextView aboutText = new TextView( this );
-        aboutText.setText( "The images included in this program are avaiable under the Creative Commons Attribution Share NonComercial Alike 4.0 license, except for non-compatible derivates licenses (See credits)." );
+        aboutText.setText( R.string.imageslicense );
         aboutText.setTextSize( 16 );
         aboutText.setTextColor( 0xffffffff );
         aboutText.setPadding( padding, padding, padding, padding );
@@ -101,14 +98,14 @@ public class LicenseActivity extends AppCompatActivity {
 
     public void gplLink( View v ) {
 
-        Uri uri = Uri.parse( "http://choosealicense.com/licenses/gpl-3.0/" );
+        Uri uri = Uri.parse( getString(R.string.urlgplv3) );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }
 
     public void ccLink( View v ) {
 
-        Uri uri = Uri.parse( "https://creativecommons.org/licenses/by-nc-sa/4.0/" );
+        Uri uri = Uri.parse( getString(R.string.urlccbysa4) );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }

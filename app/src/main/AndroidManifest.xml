@@ -48,7 +48,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".LicenseActivity" />
-        <activity android:name=".IconActivity"></activity>
     </application>
 
 </manifest>

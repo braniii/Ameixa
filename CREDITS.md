@@ -1,6 +1,6 @@
-The code of this app is licensed under GPLv3, based on the code of Icecons Icon Pack - GPLv3 (https://github.com/1C3/ICEcons)
+The code of this app is licensed under GPLv3, based on Icecons code (https://github.com/1C3/ICEcons)
 
-The artwork is licensed under Creative Commons Attribution-NonComercial-ShareAlike 4.0 International except for the material released under another non-compatible licenses.
+The artwork is licensed under Creative Commons Attribution-ShareAlike 4.0 International except for the material released under another non-compatible licenses.
 
 
 Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning, yaaic, mybanq, schessclock, chesswatch, lcamera, xposed, vanillamusic, wallpaper, bluetooth, tags, cmupdater, callrecorder, acal, acaldav, caldavsync, networklog, autostarts, aard, jamendo, beamshare, cidrcalc, contactmerger, callerid, puma, applicationsinfo, disablemanager, oandbackup, slightbackup, batteryfu, minumanga, soundrecorder, wally, providersmedia, exchange, floatingstickies, overchan, materialplayer, movim, obscuracam, videoeditor, tacere, arij, birthday-adapter, myapplist, secdroid, antox, orfox, myposition, goblim, busybox, etarcalendar, jaws, mapsme, timber, icsdroid, omninotes, clipstack, notificationnotes, movecerts, sensorssandbox, ametro, andquote, androidvnc, apkextractor, ardroid, aurora, bipolalarm, bluemono, bvnc, calendarie, calendarnotifications, chromium, cmbrowser, coloring, counterme, crocodilenote, cupsprintservice, dimmer, driibo, dumbphoneassistant, dvfont, eddymalou, ensichat, enumbers, facebooknotifications, findmyphone, fortunes, freeshisen, gobandroid, hayai, heartobserve, imapnotes, impression, intentexplode, keepscore, libretasks, listmyapps, localcalendar, mahjonggbuilder, midisheetmusic, mifare, netguard, networkmapper, ocreader, offlinecalendar, opencvengine, openlinkwith, opennotescanner, owncloudnotes, packlist, paddletennis, passwdsafe, periodical, persiancalendar, pipepanic, prboom, qrstream, receipts, saveforoffline, scid, screennotifications, searchtool, , seriesguide, shadowsocks, sharetoclipboard, sieben, signal, simpleexplorer, slfms, smarterwifimanager, smartnavi, snooperstopper, snoopsnitch, steamgifts, superuser, terminightor, textfiction, textwarrior, togozip, trolly, tuxpaintconfig, weathernotification, whatsappbetaupdater, wifianalyzer, wifikeyshare, wifikeyview
@@ -164,3 +164,11 @@ Rami McMin (CC BY 3.0): bites
 Catalin Fertu: mytronome
 
 Pyload (GPL)/Unknow: pyload
+
+Toffeed (): toffeed
+
+Danial Behzadi (): xposeddownloader, nostrangersms
+
+Diaspora (): diasporadfa
+
+SmsScheduler (): smsscheduler
