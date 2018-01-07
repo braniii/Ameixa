@@ -1,3 +1,13 @@
+**v3.0.9**
+
+More icons and some fixes
+Fix #3
+
+**v3.0.8**
+
+More icons and some fixes
+
+
 **v3.0.7**
 
 More icons and some fixes
