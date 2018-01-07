@@ -1,0 +1,41 @@
+<!-- uNote -->
+<!-- CallRecorder -->
+<!-- simpledraw -->
+<!-- HashIt -->
+<!-- Library -->
+<!-- MALP -->
+<!-- nusic -->
+<!-- SecScanQR -->
+<!-- TermuxFloat -->
+<!-- ToneGenerator-->
+<!-- TrebleShot -->
+<!-- Klooni -->
+<!-- Easer -->
+<!-- Froody -->
+<!-- Home Launcher -->
+<!-- Locker -->
+<!-- Markor -->
+<!-- Noise-->
+<!-- Openinbrowser-->
+<!-- SkyTube -->
+<!-- Speed of Sound -->
+<!-- Editor -->
+<!-- SealNote -->
+<!-- Simple Calendar -->
+<!-- Net Monitor -->
+<!-- Trackbook -->
+<!-- OpenHub -->
+<!-- Omni Notes FOSS -->
+<!-- simpleGalería -->
+<!-- BrickGames -->
+<!-- ExaltedDicer -->
+<!-- ExprEval -->
+<!-- LibreNews -->
+<!-- Mastalab -->
+<!-- Power Ampache -->
+<!-- AutoAirplaneMode -->
+<!-- bitwarden -->
+<!-- Dir -->
+<!-- KeePassDX -->
+<!-- SlimSocial -->
+<!-- SuperTuxKart -->
