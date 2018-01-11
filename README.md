@@ -2,7 +2,7 @@
 
 Icon pack compatible with Trebuchet, Kiss Launcher , OpenLauncher, Adw and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons).
 
-You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) for requesting icons. Only [F-droid](https://f-droid.org/) hosted apps are supported.
+Only [F-droid](https://f-droid.org/) hosted apps are supported.
 
 ##### [Changelog](https://gitlab.com/xphnx/ameixa/blob/master/CHANGELOG.md)
 
@@ -10,6 +10,7 @@ You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsu
 ## Installation
 
 [![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.xphnx.ameixa)
+[![Get_the_apk.svg](https://gitlab.com/xphnx/ameixa/uploads/f59a24d100f7046d6a98c0855854436f/apk.png)](https://gitlab.com/xphnx/ameixa/-/jobs/46999568/artifacts/download)
 
 
 ## Contributions are welcome 
