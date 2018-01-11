@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
         Button sourceButton = new Button( this );
         sourceButton.setLayoutParams( buttonParams );
         sourceButton.setBackground( new BitmapDrawable( getResources(), IceImageUtils.bitmapLoad( getApplicationContext().getResources(), R.drawable.ic_source_button, Math.round( 48 * scale ), Math.round( 48 * scale ) ) )  );
+        sourceButton.setClickable(false);
         sourceClickLayout.addView( sourceButton );
 
         TextView sourceText = new TextView( this );
@@ -99,6 +100,7 @@ public class MainActivity extends AppCompatActivity {
         Button aboutButton = new Button( this );
         aboutButton.setLayoutParams( buttonParams );
         aboutButton.setBackground( new BitmapDrawable( getResources(), IceImageUtils.bitmapLoad( getApplicationContext().getResources(), R.drawable.ic_license_button, Math.round( 48 * scale ), Math.round( 48 * scale ) ) )  );
+        aboutButton.setClickable(false);
         aboutClickLayout.addView( aboutButton );
 
         TextView aboutText = new TextView( this );
