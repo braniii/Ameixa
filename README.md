@@ -16,7 +16,7 @@ Only [F-droid](https://f-droid.org/) hosted apps are supported.
 
 ## Contributions are welcome 
 
-Templates included into the svgs folder. You can add Activitienames or svgs too, just MR.
+Templates included into the svgs folder. For requesting icons or contributing, please use the [issue tracker](https://gitlab.com/xphnx/ameixa/issues)
 
 ## Screenshots
 
