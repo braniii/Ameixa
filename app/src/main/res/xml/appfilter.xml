@@ -92,6 +92,7 @@
 <item component="ComponentInfo{org.miamplayer.autoairplanemode/org.miamplayer.autoairplanemode.MainActivity}" drawable="autoairplanemode"/>
 <item component="ComponentInfo{com.example.tobiastrumm.freifunkautoconnect/com.example.tobiastrumm.freifunkautoconnect.MainActivity}" drawable="autoconnect" />
 <item component="ComponentInfo{com.elsdoerfer.android.autostarts/com.elsdoerfer.android.autostarts.ListActivity}" drawable="autostarts" />
+<item component="ComponentInfo{de.cryptobitch.muelli.barcodegen/de.cryptobitch.muelli.barcodegen.MainActivity}" drawable="barcodegen" />
 <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcodescanner" />
 <item component="ComponentInfo{org.jfet.batsHIIT/org.jfet.batsHIIT.HIITMain}" drawable="batshiit" />
 <item component="ComponentInfo{com.tobykurien.batteryfu/com.tobykurien.batteryfu.ModeSelect}" drawable="batteryfu" />
@@ -208,6 +209,7 @@
 <item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="cgeo" />
 <item component="ComponentInfo{com.chanapps.four.activity/com.chanapps.four.activity.StartupActivity}" drawable="chanu" />
 <item component="ComponentInfo{org.atai.TessUI/org.atai.TessUI.TessUIActivity}" drawable="characterrecognition" />
+<item component="ComponentInfo{com.kkinder.charmap/com.kkinder.charmap.Charmap}" drawable="charmap" />
 <item component="ComponentInfo{info.guardianproject.otr.app.im/info.guardianproject.otr.app.im.app.WelcomeActivity}" drawable="chatsecure" />
 <item component="ComponentInfo{jwtc.android.chess/jwtc.android.chess.start}" drawable="chess" />
 <item component="ComponentInfo{cz.hejl.chesswalk/cz.hejl.chesswalk.MainActivity}" drawable="chesswalk" />
@@ -617,6 +619,7 @@
 <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}" drawable="mapsme"/>
 <item component="ComponentInfo{org.kde.marble.maps/org.kde.marble.maps.TextToSpeechClient}" drawable="marblemaps"/>
 <item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers" />
+<item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor" />
 <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookActivity}" drawable="materialplayer" />
 <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookShelfActivity}" drawable="materialplayer" />
 <item component="ComponentInfo{net.cactii.mathdoku/net.cactii.mathdoku.MainActivity}" drawable="mathdoku" />
@@ -991,6 +994,7 @@
 <item component="ComponentInfo{com.repay.android/com.repay.android.MainActivity}" drawable="repay" />
 <item component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />
 <item component="ComponentInfo{br.usp.ime.retrobreaker/br.usp.ime.retrobreaker.MainActivity}" drawable="retrobreaker" />
+<item component="ComponentInfo{io.mram.irc/io.mram.irc.MainActivity}" drawable="revolution" />
 <item component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" drawable="ring" />
 <item component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}" drawable="ringdroid" />
 <item component="ComponentInfo{im.vector/im.vector.activity.LoginActivity}" drawable="riot" />
@@ -1239,6 +1243,7 @@
 <item component="ComponentInfo{com.ugetdm.uget/com.ugetdm.uget.MainActivity}" drawable="uget" />
 <item component="ComponentInfo{com.haringeymobile.ukweather/com.haringeymobile.ukweather.MainActivity}" drawable="ukweather" />
 <item component="ComponentInfo{org.secfirst.umbrella/org.secfirst.umbrella.MainActivity}" drawable="umbrella" />
+<item component="ComponentInfo{org.madore.android.unicodeMap/org.madore.android.unicodeMap.UnicodeMapActivity}" drawable="unicodemap" />
 <item component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}" drawable="unote"/>
 <item component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}" drawable="usbmountr" />
 <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.FullPlaybackActivity}" drawable="vanillamusic" />
@@ -1370,6 +1375,7 @@
 <item component="ComponentInfo{ryey.easer/ryey.easer.core.ui.MainActivity}" drawable="easer"/>
 <item component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}" drawable="klooni"/>
 <item component="ComponentInfo{com.genonbeta.TrebleShot/com.genonbeta.TrebleShot.activity.TrebleShotActivity}" drawable="trebleshot"/>
+<item component="ComponentInfo{com.genonbeta.TrebleShot/com.genonbeta.TrebleShot.activity.HomeActivity}" drawable="trebleshot"/>
 <item component="ComponentInfo{de.tobiasbielefeld.brickgames/de.tobiasbielefeld.brickgames.ui.Main}" drawable="brickgames"/>
 <item component="ComponentInfo{de.pinyto.exalteddicer/de.pinyto.exalteddicer.MainActivity}" drawable="exalteddicer"/>
 <item component="ComponentInfo{app.librenews.io.librenews/app.librenews.io.librenews.views.MainFlashActivity}" drawable="librenews"/>
