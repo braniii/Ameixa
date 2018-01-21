@@ -31,6 +31,7 @@
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCalTasks}" drawable="acal" />
 <item component="ComponentInfo{de.we.acaldav/de.we.acaldav.authenticator.AuthenticatorActivity}" drawable="acaldav" />
 <item component="ComponentInfo{me.dbarnett.acastus/me.dbarnett.acastus.MainActivity}" drawable="acastus" />
+<item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}" drawable="activitylauncher"/>
 <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
 <item component="ComponentInfo{com.addi/com.addi.Addi}" drawable="addi" />
 <item component="ComponentInfo{me.danielbarnett.addresstogps/me.danielbarnett.AddressToGPS.MainActivity}" drawable="addresstogps" />
@@ -63,6 +64,7 @@
 <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
 <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
 <item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="antox" />
+<item component="ComponentInfo{kiwi.root.an2linuxclient/kiwi.root.an2linuxclient.activities.MainSettingsActivity}" drawable="antwolinux"/>
 <item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.MainActivity}" drawable="anuto" />
 <item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.view.game.GameActivity}" drawable="anuto" />
 <item component="ComponentInfo{org.liberty.android.fantastischmemo/org.liberty.android.fantastischmemo.ui.AnyMemo}" drawable="anymemo" />
@@ -378,6 +380,7 @@
 <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easyxkcd" />
 <item component="ComponentInfo{com.f0x.eddymalou/com.f0x.eddymalou.MainActivity}" drawable="eddymalou" />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="editor920" />
+<item component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" drawable="editor920" />
 <item component="ComponentInfo{org.eff.actioncenter/CordovaApp}" drawable="effalerts" />
 <item component="ComponentInfo{org.eff.actioncenter/org.eff.actioncenter.CordovaApp}" drawable="effalerts" />
 <item component="ComponentInfo{org.electrum.electrum/org.kivy.android.PythonActivity}" drawable="electrum" />
@@ -492,6 +495,7 @@
 <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerkeyboard"/>
 <item component="ComponentInfo{com.ginkel.hashit/com.ginkel.hashit.TabbedMainActivity}" drawable="hashit"/>
 <item component="ComponentInfo{byrne.utilities.hashpass/byrne.utilities.hashpass.HashPassActivity}" drawable="hashpass" />
+<item component="ComponentInfo{de.kodejak.hashr/de.kodejak.hashr.MainActivity}" drawable="hashr"/>
 <item component="ComponentInfo{com.hayaisoftware.launcher/com.hayaisoftware.launcher.activities.SearchActivity}" drawable="hayai" />
 <item component="ComponentInfo{ca.ddaly.android.heart/ca.ddaly.android.heart.Heart}" drawable="heartobserve" />
 <item component="ComponentInfo{com.sec.android.devicehelp/com.sec.android.devicehelp.DeviceHelp}" drawable="help" />
@@ -618,6 +622,7 @@
 <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
 <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}" drawable="mapsme"/>
 <item component="ComponentInfo{org.kde.marble.maps/org.kde.marble.maps.TextToSpeechClient}" drawable="marblemaps"/>
+<item component="ComponentInfo{us.feras.mdv.demo/us.feras.mdv.demo.MainActivity}" drawable="markdownview"/>
 <item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers" />
 <item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor" />
 <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookActivity}" drawable="materialplayer" />
@@ -994,7 +999,7 @@
 <item component="ComponentInfo{com.repay.android/com.repay.android.MainActivity}" drawable="repay" />
 <item component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />
 <item component="ComponentInfo{br.usp.ime.retrobreaker/br.usp.ime.retrobreaker.MainActivity}" drawable="retrobreaker" />
-<item component="ComponentInfo{io.mram.irc/io.mram.irc.MainActivity}" drawable="revolution" />
+<item component="ComponentInfo{io.mrarm.irc/io.mrarm.irc.MainActivity}" drawable="revolution" />
 <item component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" drawable="ring" />
 <item component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}" drawable="ringdroid" />
 <item component="ComponentInfo{im.vector/im.vector.activity.LoginActivity}" drawable="riot" />
@@ -1182,6 +1187,7 @@
 <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
 <item component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}" drawable="termuxfloat"/>
 <item component="ComponentInfo{de.schildbach.wallet_test/de.schildbach.wallet_test.WalletActivity}" drawable="testnet3" />
+<item component="ComponentInfo{rino.org.tethercompanion/rino.org.tethercompanion.MainActivity}" drawable="tethercompanion"/>
 <item component="ComponentInfo{de.onyxbits.textfiction/de.onyxbits.textfiction.MainActivity}" drawable="textfiction" />
 <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.ConversationListActivity}" drawable="textsecure" />
 <item component="ComponentInfo{com.myopicmobile.textwarrior.android/com.myopicmobile.textwarrior.android.TextWarriorApplication}" drawable="textwarrior" />
@@ -1240,6 +1246,7 @@
 <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere" />
 <item component="ComponentInfo{de.vanita5.twittnuker/de.vanita5.twittnuker.activity.MainActivity}" drawable="twittnuker" />
 <item component="ComponentInfo{de.vanita5.twittnuker/de.vanita5.twittnuker.activity.TestActivity}" drawable="twittnuker" />
+<item component="ComponentInfo{com.twobuntu.twobuntu.com/com.twobuntu.twobuntu.ArticleListActivity}" drawable="twobuntu"/>
 <item component="ComponentInfo{com.ugetdm.uget/com.ugetdm.uget.MainActivity}" drawable="uget" />
 <item component="ComponentInfo{com.haringeymobile.ukweather/com.haringeymobile.ukweather.MainActivity}" drawable="ukweather" />
 <item component="ComponentInfo{org.secfirst.umbrella/org.secfirst.umbrella.MainActivity}" drawable="umbrella" />
@@ -1341,6 +1348,7 @@
 <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{com.xabber.androiddev/com.xabber.androiddev.ui.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactListActivity}" drawable="xabber"/>
+<item component="ComponentInfo{com.xabber.android.beta/com.xabber.android.ui.activity.ContactListActivity}" drawable="xabber"/>
 <item component="ComponentInfo{org.xbmc.android.remote/org.xbmc.android.remote.presentation.activity.HomeActivity}" drawable="xbmc" />
 <item component="ComponentInfo{com.iven.xdafeedreader/com.iven.xdafeedreader.mainact.SplashActivity}" drawable="xdafeedreader" />
 <item component="ComponentInfo{net.bytten.xkcdviewer/net.bytten.xkcdviewer.XkcdViewerActivity}" drawable="xkcdviewer" />
