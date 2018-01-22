@@ -31,6 +31,7 @@
     <item drawable="navit" />
     <item drawable="hackerkeyboard" />
     <item drawable="vimtouch" />
+    <item drawable="antwolinux" />
     <item drawable="opesudoku" />
     <item drawable="batshiit" />
     <item drawable="wificamera" />
@@ -136,6 +137,7 @@
     <item drawable="help" />
     <item drawable="fblite" />
     <item drawable="focal" />
+    <item drawable="markdownview" />
     <item drawable="gsmmap" />
     <item drawable="miros" />
     <item drawable="myownnotes" />
@@ -152,6 +154,7 @@
     <item drawable="androidvnc" />
     <item drawable="weathernotification" />
     <item drawable="bitconium" />
+    <item drawable="tethercompanion" />
     <item drawable="enumbers" />
     <item drawable="cmaccount" />
     <item drawable="shadowsocks" />
@@ -478,6 +481,7 @@
     <item drawable="deskcon" />
     <item drawable="podax" />
     <item drawable="worldclock" />
+    <item drawable="twobuntu" />
     <item drawable="music" />
     <item drawable="criticalmaps" />
     <item drawable="apvpdfreader" />
@@ -694,12 +698,14 @@
     <item drawable="twidere" />
     <item drawable="andquote" />
     <item drawable="apkextractor" />
+    <item drawable="activitylauncher" />
     <item drawable="nlpconfig" />
     <item drawable="screencast" />
     <item drawable="mozstumbler" />
     <item drawable="zapp" />
     <item drawable="andstatus" />
     <item drawable="turboeditor" />
+    <item drawable="hashr" />
     <item drawable="gloomydungeons" />
     <item drawable="swiftnotes" />
     <item drawable="simplefilemanager" />
