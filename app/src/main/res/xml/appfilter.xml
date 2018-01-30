@@ -1389,7 +1389,7 @@
 <item component="ComponentInfo{app.librenews.io.librenews/app.librenews.io.librenews.views.MainFlashActivity}" drawable="librenews"/>
 <item component="ComponentInfo{fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.SplashActivity}" drawable="mastalab"/>
 <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache"/>
-
+<item component="ComponentInfo{com.vlath.keyboard/com.vlath.keyboard.Main}" drawable="behekeyboard"/>
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
