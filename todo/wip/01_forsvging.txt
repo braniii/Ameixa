@@ -14,7 +14,6 @@
 <!-- Froody -->
 <!-- Home Launcher -->
 <!-- Locker -->
-<!-- Markor -->
 <!-- Noise-->
 <!-- Openinbrowser-->
 <!-- SkyTube -->
@@ -33,9 +32,3 @@
 <!-- LibreNews -->
 <!-- Mastalab -->
 <!-- Power Ampache -->
-<!-- AutoAirplaneMode -->
-<!-- bitwarden -->
-<!-- Dir -->
-<!-- KeePassDX -->
-<!-- SlimSocial -->
-<!-- SuperTuxKart -->
