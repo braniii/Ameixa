@@ -1,2 +1,2 @@
 Icon pack compatible with Kiss Launcher, OpenLauncher, ADW and many other launchers. The icons follow Material Design guidelines in order to provide a minimalist and consistent look to your device.
-Only FLOSS apps are supported.
+Only FLOSS apps are supported. For adding new icons see [Readme](https://gitlab.com/xphnx/ameixa/blob/master/README.md).
