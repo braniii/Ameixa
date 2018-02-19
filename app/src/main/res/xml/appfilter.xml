@@ -1390,6 +1390,8 @@
 <item component="ComponentInfo{fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.SplashActivity}" drawable="mastalab"/>
 <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache"/>
 <item component="ComponentInfo{com.vlath.keyboard/com.vlath.keyboard.Main}" drawable="behekeyboard"/>
+<item component="ComponentInfo{cx.ring/cx.ring.launch.LaunchActivity}" drawable="ring"/>
+
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />

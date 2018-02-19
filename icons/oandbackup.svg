@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,9 +75,9 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
+    <g transform="matrix(.89895 0 0 .89895 1.3662 1.3616)">
         <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <path d="m13.477 6.8357c-3.6668 0-6.6393 2.9725-6.6393 6.6393h-2.2131l2.9508 2.9508 2.9508-2.9508h-2.2131c0-2.8519 2.312-5.1639 5.1639-5.1639s5.1639 2.312 5.1639 5.1639c0 2.8519-2.312 5.1639-5.1639 5.1639-1.1065 0-2.1467-0.36885-2.9951-0.95901l-1.0623 1.0623c1.1361 0.85573 2.5377 1.3721 4.0573 1.3721 3.6668 0 6.6393-2.9725 6.6393-6.6393 0-3.6668-2.9725-6.6393-6.6393-6.6393" fill="#fff"/>
+        <path d="m13.477 6.8357c-3.6668 0-6.6393 2.9725-6.6393 6.6393h-2.2131l2.9508 2.9508 2.9508-2.9508h-2.2131c0-2.8519 2.312-5.1639 5.1639-5.1639s5.1639 2.312 5.1639 5.1639-2.312 5.1639-5.1639 5.1639c-1.1065 0-2.1467-0.36885-2.9951-0.95901l-1.0623 1.0623c1.1361 0.85573 2.5377 1.3721 4.0573 1.3721 3.6668 0 6.6393-2.9725 6.6393-6.6393s-2.9725-6.6393-6.6393-6.6393" fill="#fff"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

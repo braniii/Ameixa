@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,10 +75,9 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <path d="m9.3652 7.1953c-0.37588 0-0.67969 0.30185-0.67969 0.67773v7.1035 1.7168 4.8691l5.6816-1.7949 5.6934 1.7949v-4.8691-1.7168-7.1035c0-0.37588-0.30185-0.67773-0.67774-0.67773h-10.018zm5.0078 4.1914c1.8925 0 3.4375 1.547 3.4375 3.4395s-1.545 3.4375-3.4375 3.4375-3.4375-1.545-3.4375-3.4375c-1e-6 -1.8925 1.545-3.4395 3.4375-3.4395zm0 1.0742c-1.3125 0-2.3652 1.0528-2.3652 2.3652 1e-6 1.3125 1.0528 2.3633 2.3652 2.3633s2.3652-1.0508 2.3652-2.3633c1e-6 -1.3125-1.0528-2.3652-2.3652-2.3652z" fill="#fff" style="paint-order:markers fill stroke"/>
-    </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+    <path d="m9.3652 7.1953c-0.37588 0-0.67969 0.30185-0.67969 0.67773v13.689l5.6816-1.7949 5.6934 1.7949v-13.689c0-0.37588-0.30185-0.67773-0.67774-0.67773h-10.018zm5.0078 4.1914c1.8925 0 3.4375 1.547 3.4375 3.4395s-1.545 3.4375-3.4375 3.4375-3.4375-1.545-3.4375-3.4375c-1e-6 -1.8925 1.545-3.4395 3.4375-3.4395z" fill="#fff" style="paint-order:markers fill stroke"/>
+    <circle cx="14.374" cy="14.804" r="1.8949" fill="#fff" style="paint-order:markers fill stroke"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
