@@ -48,8 +48,8 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 
 # Installation
 
-[![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.xphnx.ameixa)
-[![Get_the_apk.svg](https://gitlab.com/xphnx/ameixa/uploads/6d80e2e22d2fcbfd8ed320e58f4705e1/apk.png)](https://gitlab.com/xphnx/ameixa/-/jobs/48917436/artifacts/browse/app/build/outputs/apk/)
+[![Get_it_on_F-Droid.svg](https://gitlab.com/xphnx/ameixa/raw/master/artwork/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.xphnx.ameixa)
+[![Get_the_apk.svg](https://gitlab.com/xphnx/ameixa/uploads/6d80e2e22d2fcbfd8ed320e58f4705e1/apk.png)](https://gitlab.com/xphnx/ameixa/-/jobs/53279637/artifacts/browse/app/build/outputs/apk/)
 
 
 # License
