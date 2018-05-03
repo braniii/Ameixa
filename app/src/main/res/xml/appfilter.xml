@@ -114,6 +114,7 @@
 <item component="ComponentInfo{se.leap.bitmaskclient/se.leap.bitmaskclient.StartActivity}" drawable="bitmask" />
 <item component="ComponentInfo{com.x8bit.bitwarden/md5fb78b69c5ddbc157f4db38fd738139a6.SplashActivity}" drawable="bitwarden"/>
 <item component="ComponentInfo{org.blokada.alarm/org.blokada.ui.app.android.MainActivity}" drawable="blokada" />
+<item component="ComponentInfo{org.blokada.alarm/core.MainActivity}" drawable="blokada"/>
 <item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger" />
 <item component="ComponentInfo{com.soyblue.bluesound/com.soyblue.bluesound.MainActivity}" drawable="bluemono" />
 <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}" drawable="bluetooth" />
@@ -1062,6 +1063,7 @@
 <item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
 <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
 <item component="ComponentInfo{org.billthefarmer.siggen/org.billthefarmer.siggen.Main}" drawable="signalgenerator" />
+<item component="ComponentInfo{lanchon.sigspoof.checker/lanchon.sigspoof.checker.MainActivity}" drawable="sigspoof"/>
 <item component="ComponentInfo{ru.neverdark.silentnight/ru.neverdark.silentnight.MainActivity}" drawable="silentnight" />
 <item component="ComponentInfo{com.better.alarm/com.better.alarm.presenter.AlarmsListActivity}" drawable="simplealarm" />
 <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}" drawable="simplecalendar" />
@@ -1357,6 +1359,7 @@
 <item component="ComponentInfo{org.xposeddownloader/org.xposeddownloader.MainActivity}" drawable="xposeddownloader" />
 <item component="ComponentInfo{biz.bokhorst.xprivacy/biz.bokhorst.xprivacy.ActivityMain}" drawable="xprivacy" />
 <item component="ComponentInfo{x.org.server/x.org.server.MainActivity}" drawable="xsdl" />
+<item component="ComponentInfo{de.xskat/de.xskat.XSkat}" drawable="xskat"/>
 <item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="yaab" />
 <item component="ComponentInfo{de.yaacc/de.yaacc.browser.TabBrowserActivity}" drawable="yaacc" />
 <item component="ComponentInfo{org.yaaic/org.yaaic.activity.MainActivity}" drawable="yaaic" />
