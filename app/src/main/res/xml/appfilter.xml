@@ -970,8 +970,6 @@
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Red}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Teal}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Pink}" drawable="qksmspink" />
-<item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}" drawable="qrscanner" />
-<item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.SplashActivity}" drawable="qrscanner"/>
 <item component="ComponentInfo{com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher}" drawable="qrstream" />
 <item component="ComponentInfo{com.iskrembilen.quasseldroid/com.iskrembilen.quasseldroid.gui.SplashActivity}" drawable="quasseldroid" />
 <item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
@@ -1036,6 +1034,20 @@
 <item component="ComponentInfo{com.shadcat.secdroid/com.shadcat.secdroid.MainActivity}" drawable="secdroid" />
 <item component="ComponentInfo{com.doplgangr.secrecy/com.doplgangr.secrecy.Views.DummyViews.LauncherActivity_}" drawable="secrecy" />
 <item component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.MainActivity}" drawable="secscanqr"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlydicer/org.secuso.privacyfriendlydicer.SplashActivity}" drawable="secusodice"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlyyahtzeedicer/org.secuso.privacyfriendlydicegame.SplashActivity}" drawable="secusodicegame"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlymemory/org.secuso.privacyfriendlymemory.ui.SplashActivity}" drawable="secusomemory"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlynotes/org.secuso.privacyfriendlynotes.SplashActivity}" drawable="secusonotes"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlypaindiary/org.secuso.privacyfriendlypaindiary.activities.SplashActivity}" drawable="secusopaindiary"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.SplashActivity}" drawable="secusopasswdgen"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlypin/org.secuso.privacyfriendlypinmnemonic.SplashActivity}" drawable="secusopin"/>
+<item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.SplashActivity}" drawable="secusoqr"/>
+<item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}" drawable="secusoqr" />
+<item component="ComponentInfo{org.secuso.privacyfriendlyruler/org.secuso.privacyfriendlyruler.activities.SplashActivity}" drawable="secusoruler"/>
+<item component="ComponentInfo{privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.main.SplashActivity}" drawable="secusoshoppinglist"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlysudoku/org.secuso.privacyfriendlysudoku.ui.SplashActivity}" drawable="secusosudoku"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlytodolist/org.secuso.privacyfriendlytodolist.view.SplashActivity}" drawable="secusotodo"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlycardgameone/org.secuso.privacyfriendlywerwolf.activity.SplashActivity}" drawable="secusowerwolf"/>
 <item component="ComponentInfo{mobi.omegacentauri.SendReduced/mobi.omegacentauri.SendReduced.Options}" drawable="sendreduced" />
 <item component="ComponentInfo{org.totschnig.sendwithftp/org.totschnig.sendwithftp.UriList}" drawable="sendwithftp" />
 <item component="ComponentInfo{com.mustafaali.sensorssandbox/com.mustafaali.sensorssandbox.MainActivity}" drawable="sensorssandbox" />
@@ -1150,7 +1162,6 @@
 <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete" />
 <item component="ComponentInfo{io.github.lonamiwebs.stringlate/io.github.lonamiwebs.stringlate.activities.repositories.RepositoriesActivity}" drawable="stringlate"/>
 <item component="ComponentInfo{net.sourceforge.subsonic.androidapp/net.sourceforge.subsonic.androidapp.activity.MainActivity}" drawable="subsonic" />
-<item component="ComponentInfo{org.secuso.privacyfriendlysudoku/org.secuso.privacyfriendlysudoku.ui.MainActivity}" drawable="sudoku" />
 <item component="ComponentInfo{com.app2go.sudokufree/com.app2go.sudokufree.MainActivity}" drawable="sudokufree" />
 <item component="ComponentInfo{de.sudoq/de.sudoq.controller.menus.SplashActivity}" drawable="sudoq" />
 <item component="ComponentInfo{org.sudowars/org.sudowars.Controller.Local.Activity.MainMenu}" drawable="sudowars" />
@@ -1216,6 +1227,7 @@
 <item component="ComponentInfo{net.cactii.flash2/net.cactii.flash2.MainActivity}" drawable="torch" />
 <item component="ComponentInfo{in.blogspot.anselmbros.torchie/in.blogspot.anselmbros.torchie.ui.activity.MainActivity}" drawable="torchie" />
 <item component="ComponentInfo{com.secuso.torchlight2/com.secuso.torchlight2.MainActivity}" drawable="torchlight" />
+<item component="ComponentInfo{com.secuso.torchlight2/com.secuso.torchlight2.ui.SplashActivity}" drawable="torchlight"/>
 <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrentclient"/>
 <item component="ComponentInfo{org.traccar.client/org.traccar.client.TraccarActivity}" drawable="traccar" />
 <item component="ComponentInfo{org.traccar.client/org.traccar.client.Launcher}" drawable="traccar"/>
