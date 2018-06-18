@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,14 +75,12 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.021939 0 0 .021939 6.7617 6.7617)" fill="#fff">
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.021939 0 0 .021939 6.7617 6.7617)" fill="#fff">
+        <g fill="#fff">
             <g fill="#fff">
                 <g fill="#fff">
-                    <g fill="#fff">
-                        <path d="m487.69 57.375c-16.371 0-32.341 3.251-47.277 9.543-29.854-41.424-79.732-66.918-134.41-66.918-54.678 0-104.56 25.494-134.41 66.918-14.937-6.292-30.906-9.543-47.277-9.543-68.543 0-124.31 55.769-124.31 124.31 0 58.656 40.889 107.85 95.625 120.83v252.11c0 31.689 25.685 57.374 57.375 57.374h306c31.69 0 57.375-25.685 57.375-57.375v-252.11c54.735-13.005 95.625-62.175 95.625-120.83 0-68.544-55.769-124.31-124.31-124.31zm-28.688 497.25h-306v-66.756h306z" fill="#fff"/>
-                    </g>
+                    <path d="m487.69 57.375c-16.371 0-32.341 3.251-47.277 9.543-29.854-41.424-79.732-66.918-134.41-66.918s-104.56 25.494-134.41 66.918c-14.937-6.292-30.906-9.543-47.277-9.543-68.543 0-124.31 55.769-124.31 124.31 0 58.656 40.889 107.85 95.625 120.83v252.11c0 31.689 25.685 57.374 57.375 57.374h306c31.69 0 57.375-25.685 57.375-57.375v-252.11c54.735-13.005 95.625-62.175 95.625-120.83 0-68.544-55.769-124.31-124.31-124.31zm-28.688 497.25h-306v-66.756h306z" fill="#fff"/>
                 </g>
             </g>
         </g>

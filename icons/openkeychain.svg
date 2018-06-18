@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,13 +75,11 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(5.0512 -1023.5)">
-            <g transform="matrix(.99017 0 0 .99017 -4.9188 9.6488)">
-                <g transform="translate(-19.227 -1.6991)">
-                    <path d="m37.995 1037.7 1.4867 1.4866-1.4867 1.4866-1.115-1.115-1.115 1.1151-1.115-1.1151-1.115 1.1151-1.68-1e-4c-0.14122 0.2677-0.32335 0.5166-0.55006 0.7434a3.1537 3.1537 0 0 1-4.46 0 3.1537 3.1537 0 0 1-1.1e-5 -4.4601 3.1537 3.1537 0 0 1 4.46 0c0.22672 0.2268 0.40883 0.4759 0.55007 0.7435h6.14m-10.407 0.7432a1.0512 1.0512 0 0 0 8e-6 1.4868 1.0512 1.0512 0 0 0 1.4867 0 1.0512 1.0512 0 0 0-9e-6 -1.4868 1.0512 1.0512 0 0 0-1.4867 0z" fill="#fff"/>
-                </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(5.0512 -1023.5)">
+        <g transform="matrix(.99017 0 0 .99017 -4.9188 9.6488)">
+            <g transform="translate(-19.227 -1.6991)">
+                <path d="m37.995 1037.7 1.4867 1.4866-1.4867 1.4866-1.115-1.115-1.115 1.1151-1.115-1.1151-1.115 1.1151-1.68-1e-4c-0.14122 0.2677-0.32335 0.5166-0.55006 0.7434a3.1537 3.1537 0 0 1-4.46 0 3.1537 3.1537 0 0 1-1.1e-5 -4.4601 3.1537 3.1537 0 0 1 4.46 0c0.22672 0.2268 0.40883 0.4759 0.55007 0.7435h6.14m-10.407 0.7432a1.0512 1.0512 0 0 0 8e-6 1.4868 1.0512 1.0512 0 0 0 1.4867 0 1.0512 1.0512 0 0 0-9e-6 -1.4868 1.0512 1.0512 0 0 0-1.4867 0z" fill="#fff"/>
             </g>
         </g>
     </g>

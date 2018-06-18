@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,11 +75,9 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot transform="matrix(.22354 0 0 .22354 -27.014 52.81)" fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(180.31 142.13)">
-            <path d="m-162.89-125.05c-0.17397-0.53536-0.67582-0.93004-1.2713-0.93004h-0.66913v-2.0074a0.66913 0.66913 0 0 0-0.66913-0.66916h-4.0148v-1.3382h1.3382a0.66913 0.66913 0 0 0 0.66913-0.66915v-1.3382h1.3383a1.3383 1.3383 0 0 0 1.3383-1.3384v-0.27437c1.9606 0.78976 3.3456 2.71 3.3456 4.9583 0 1.3918-0.5353 2.6564-1.4052 3.6066m-4.617 1.6997c-2.6431-0.32799-4.6839-2.5762-4.6839-5.3063 0-0.41494 0.0535-0.81622 0.14051-1.1977l3.2051 3.2051v0.66915a1.3383 1.3383 0 0 0 1.3383 1.3383m0.66913-10.706a6.6913 6.6913 0 0 0-6.6913 6.6913 6.6913 6.6913 0 0 0 6.6913 6.6913 6.6913 6.6913 0 0 0 6.6913-6.6913 6.6913 6.6913 0 0 0-6.6913-6.6913z" fill="#fff"/>
-        </g>
+    <flowRoot transform="matrix(.22354 0 0 .22354 -27.014 52.81)" fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(180.31 142.13)">
+        <path d="m-162.89-125.05c-0.17397-0.53536-0.67582-0.93004-1.2713-0.93004h-0.66913v-2.0074a0.66913 0.66913 0 0 0-0.66913-0.66916h-4.0148v-1.3382h1.3382a0.66913 0.66913 0 0 0 0.66913-0.66915v-1.3382h1.3383a1.3383 1.3383 0 0 0 1.3383-1.3384v-0.27437c1.9606 0.78976 3.3456 2.71 3.3456 4.9583 0 1.3918-0.5353 2.6564-1.4052 3.6066m-4.617 1.6997c-2.6431-0.32799-4.6839-2.5762-4.6839-5.3063 0-0.41494 0.0535-0.81622 0.14051-1.1977l3.2051 3.2051v0.66915a1.3383 1.3383 0 0 0 1.3383 1.3383m0.66913-10.706a6.6913 6.6913 0 0 0-6.6913 6.6913 6.6913 6.6913 0 0 0 6.6913 6.6913 6.6913 6.6913 0 0 0 6.6913-6.6913 6.6913 6.6913 0 0 0-6.6913-6.6913z" fill="#fff"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

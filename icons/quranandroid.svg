@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,85 +75,83 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.0006114 0 0 .0006114 27.907 -19.387)" fill-rule="evenodd">
-            <g transform="translate(-34201 42003)" fill="#fff">
-                <g transform="translate(62.924 -3272)" stroke-width="25">
-                    <path d="m533 5019h2e4"/>
-                    <path d="m20533 5019v2e4"/>
-                    <path d="m20533 25019h-2e4"/>
-                    <path d="m533 25019v-2e4"/>
-                    <path d="m3533 5019 8e3 8e3"/>
-                    <path d="m9533 17019 8e3 8e3"/>
-                    <path d="m8533 14019-8e3 8e3"/>
-                    <path d="m12533 16019 8e3 -8e3"/>
-                    <path d="m533 8019 1e3 -1e3"/>
-                    <path d="m2533 24019 1e3 1e3"/>
-                    <path d="m19533 23019 1e3 -1e3"/>
-                    <path d="m17533 5019 1e3 1e3"/>
-                    <path d="m9533 7019 1e3 1e3"/>
-                    <path d="m12533 6019 1e3 -1e3"/>
-                    <path d="m18533 14019-1e3 1e3"/>
-                    <path d="m19533 17019 1e3 1e3"/>
-                    <path d="m11533 23019-1e3 -1e3"/>
-                    <path d="m10533 22019-1e3 1e3"/>
-                    <path d="m533 18019 1e3 -1e3"/>
-                    <path d="m1533 13019-1e3 -1e3"/>
-                    <path d="m2533 16019v8e3"/>
-                    <path d="m11533 23019h8e3"/>
-                    <path d="m18533 24019v-8e3"/>
-                    <path d="m19533 7019h-8e3"/>
-                    <path d="m8533 16019v8e3"/>
-                    <path d="m12533 16019v8e3"/>
-                    <path d="m1533 13019h8e3"/>
-                    <path d="m1533 17019h8e3m2e3 0h8e3"/>
-                    <path d="m2533 6019 1e3 -1e3"/>
-                    <path d="m19533 7019 1e3 1e3"/>
-                    <path d="m17533 25019 1e3 -1e3"/>
-                    <path d="m533 22019 1e3 1e3"/>
-                    <path d="m3533 15019-1e3 -1e3"/>
-                    <path d="m2533 6019v8e3"/>
-                    <path d="m2533 16019 1e3 -1e3"/>
-                    <path d="m7533 5019 1e3 1e3"/>
-                    <path d="m9533 7019h-8e3"/>
-                    <path d="m10533 8019 1e3 -1e3"/>
-                    <path d="m8533 24019-1e3 1e3"/>
-                    <path d="m1533 23019h8e3"/>
-                    <path d="m13533 25019-1e3 -1e3"/>
-                    <path d="m17533 15019 1e3 1e3"/>
-                    <path d="m18533 14019v-8e3"/>
-                    <path d="m20533 12019-1e3 1e3"/>
-                    <path d="m11533 13019h8e3"/>
-                    <path d="m17533 5019-8e3 8e3"/>
-                    <path d="m8533 6019v8e3"/>
-                    <path d="m533 8019 8e3 8e3"/>
-                    <path d="m3533 25019 8e3 -8e3"/>
-                    <path d="m12533 6019v8e3"/>
-                    <path d="m12533 14019 8e3 8e3"/>
-                    <path d="m2533 10019-2e3 -2e3v4e3l1e3 1e3h1e3z"/>
-                    <path d="m8533 7019v-1e3l-1e3 -1e3h-4e3l2e3 2e3z"/>
-                    <path d="m5533 7019h-3e3v3e3l3e3 3e3h3e3v-3e3z"/>
-                    <path d="m17533 5019h-4e3l-1e3 1e3v1e3h3e3z"/>
-                    <path d="m20533 8019-2e3 2e3v3e3h1e3l1e3 -1e3z"/>
-                    <path d="m18533 7019h-3e3l-3e3 3e3v3e3h3e3l3e3 -3e3z"/>
-                    <path d="m12533 17019v3e3l3e3 3e3h3e3v-3e3l-3e3 -3e3z"/>
-                    <path d="m5533 17019-3e3 3e3v3e3h3e3l3e3 -3e3v-3e3z"/>
-                    <path d="m2533 17019h-1e3l-1e3 1e3v4e3l2e3 -2e3z"/>
-                    <path d="m8533 23019h-3e3l-2e3 2e3h4e3l1e3 -1e3z"/>
-                    <path d="m15533 23019h-3e3v1e3l1e3 1e3h4e3z"/>
-                    <path d="m20533 18019-1e3 -1e3h-1e3v3e3l2e3 2e3z"/>
-                    <path d="m12533 7019h-1e3l-1e3 1e3 -1e3 -1e3h-1e3v3e3l2e3 2e3 2e3 -2e3z"/>
-                    <path d="m533 5019v3e3l1e3 -1e3h1e3v-1e3l1e3 -1e3z"/>
-                    <path d="m17533 5019 1e3 1e3v1e3h1e3l1e3 1e3v-3e3z"/>
-                    <path d="m5533 13019h-3e3v1e3l1e3 1e3 -1e3 1e3v1e3h3e3l2e3 -2e3z"/>
-                    <path d="m18533 13019h-3e3l-2e3 2e3 2e3 2e3h3e3v-1e3l-1e3 -1e3 1e3 -1e3z"/>
-                    <path d="m8533 20019v3e3h1e3l1e3 -1e3 1e3 1e3h1e3v-3e3l-2e3 -2e3z"/>
-                    <path d="m1533 23019-1e3 -1e3v3e3h3e3l-1e3 -1e3v-1e3z"/>
-                    <path d="m19533 23019h-1e3v1e3l-1e3 1e3h3e3v-3e3z"/>
-                </g>
-                <polygon transform="translate(62.924 -3272)" points="9533 13019 8533 13019 8533 14019 7533 15019 8533 16019 8533 17019 9533 17019 10533 18019 11533 17019 12533 17019 12533 16019 13533 15019 12533 14019 12533 13019 11533 13019 10533 12019"/>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.0006114 0 0 .0006114 27.907 -19.387)" fill-rule="evenodd">
+        <g transform="translate(-34201 42003)" fill="#fff">
+            <g transform="translate(62.924 -3272)" stroke-width="25">
+                <path d="m533 5019h2e4"/>
+                <path d="m20533 5019v2e4"/>
+                <path d="m20533 25019h-2e4"/>
+                <path d="m533 25019v-2e4"/>
+                <path d="m3533 5019 8e3 8e3"/>
+                <path d="m9533 17019 8e3 8e3"/>
+                <path d="m8533 14019-8e3 8e3"/>
+                <path d="m12533 16019 8e3 -8e3"/>
+                <path d="m533 8019 1e3 -1e3"/>
+                <path d="m2533 24019 1e3 1e3"/>
+                <path d="m19533 23019 1e3 -1e3"/>
+                <path d="m17533 5019 1e3 1e3"/>
+                <path d="m9533 7019 1e3 1e3"/>
+                <path d="m12533 6019 1e3 -1e3"/>
+                <path d="m18533 14019-1e3 1e3"/>
+                <path d="m19533 17019 1e3 1e3"/>
+                <path d="m11533 23019-1e3 -1e3"/>
+                <path d="m10533 22019-1e3 1e3"/>
+                <path d="m533 18019 1e3 -1e3"/>
+                <path d="m1533 13019-1e3 -1e3"/>
+                <path d="m2533 16019v8e3"/>
+                <path d="m11533 23019h8e3"/>
+                <path d="m18533 24019v-8e3"/>
+                <path d="m19533 7019h-8e3"/>
+                <path d="m8533 16019v8e3"/>
+                <path d="m12533 16019v8e3"/>
+                <path d="m1533 13019h8e3"/>
+                <path d="m1533 17019h8e3m2e3 0h8e3"/>
+                <path d="m2533 6019 1e3 -1e3"/>
+                <path d="m19533 7019 1e3 1e3"/>
+                <path d="m17533 25019 1e3 -1e3"/>
+                <path d="m533 22019 1e3 1e3"/>
+                <path d="m3533 15019-1e3 -1e3"/>
+                <path d="m2533 6019v8e3"/>
+                <path d="m2533 16019 1e3 -1e3"/>
+                <path d="m7533 5019 1e3 1e3"/>
+                <path d="m9533 7019h-8e3"/>
+                <path d="m10533 8019 1e3 -1e3"/>
+                <path d="m8533 24019-1e3 1e3"/>
+                <path d="m1533 23019h8e3"/>
+                <path d="m13533 25019-1e3 -1e3"/>
+                <path d="m17533 15019 1e3 1e3"/>
+                <path d="m18533 14019v-8e3"/>
+                <path d="m20533 12019-1e3 1e3"/>
+                <path d="m11533 13019h8e3"/>
+                <path d="m17533 5019-8e3 8e3"/>
+                <path d="m8533 6019v8e3"/>
+                <path d="m533 8019 8e3 8e3"/>
+                <path d="m3533 25019 8e3 -8e3"/>
+                <path d="m12533 6019v8e3"/>
+                <path d="m12533 14019 8e3 8e3"/>
+                <path d="m2533 10019-2e3 -2e3v4e3l1e3 1e3h1e3z"/>
+                <path d="m8533 7019v-1e3l-1e3 -1e3h-4e3l2e3 2e3z"/>
+                <path d="m5533 7019h-3e3v3e3l3e3 3e3h3e3v-3e3z"/>
+                <path d="m17533 5019h-4e3l-1e3 1e3v1e3h3e3z"/>
+                <path d="m20533 8019-2e3 2e3v3e3h1e3l1e3 -1e3z"/>
+                <path d="m18533 7019h-3e3l-3e3 3e3v3e3h3e3l3e3 -3e3z"/>
+                <path d="m12533 17019v3e3l3e3 3e3h3e3v-3e3l-3e3 -3e3z"/>
+                <path d="m5533 17019-3e3 3e3v3e3h3e3l3e3 -3e3v-3e3z"/>
+                <path d="m2533 17019h-1e3l-1e3 1e3v4e3l2e3 -2e3z"/>
+                <path d="m8533 23019h-3e3l-2e3 2e3h4e3l1e3 -1e3z"/>
+                <path d="m15533 23019h-3e3v1e3l1e3 1e3h4e3z"/>
+                <path d="m20533 18019-1e3 -1e3h-1e3v3e3l2e3 2e3z"/>
+                <path d="m12533 7019h-1e3l-1e3 1e3 -1e3 -1e3h-1e3v3e3l2e3 2e3 2e3 -2e3z"/>
+                <path d="m533 5019v3e3l1e3 -1e3h1e3v-1e3l1e3 -1e3z"/>
+                <path d="m17533 5019 1e3 1e3v1e3h1e3l1e3 1e3v-3e3z"/>
+                <path d="m5533 13019h-3e3v1e3l1e3 1e3 -1e3 1e3v1e3h3e3l2e3 -2e3z"/>
+                <path d="m18533 13019h-3e3l-2e3 2e3 2e3 2e3h3e3v-1e3l-1e3 -1e3 1e3 -1e3z"/>
+                <path d="m8533 20019v3e3h1e3l1e3 -1e3 1e3 1e3h1e3v-3e3l-2e3 -2e3z"/>
+                <path d="m1533 23019-1e3 -1e3v3e3h3e3l-1e3 -1e3v-1e3z"/>
+                <path d="m19533 23019h-1e3v1e3l-1e3 1e3h3e3v-3e3z"/>
             </g>
+            <polygon transform="translate(62.924 -3272)" points="9533 13019 8533 13019 8533 14019 7533 15019 8533 16019 8533 17019 9533 17019 10533 18019 11533 17019 12533 17019 12533 16019 13533 15019 12533 14019 12533 13019 11533 13019 10533 12019"/>
         </g>
     </g>
     <g display="none" fill="none">

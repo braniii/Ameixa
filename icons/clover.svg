@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,28 +75,26 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#212121" opacity=".2"/>
     </g>
-    <g>
-        <g transform="matrix(.01621 0 0 .01621 8.6703 4.2898)" fill="#fff">
-            <g transform="translate(4.218 -244.98)">
-                <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
-                <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
-                <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
-            </g>
-            <g transform="matrix(1 0 0 -1 4.218 1378.2)">
-                <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
-                <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
-                <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
-            </g>
-            <g transform="matrix(0 1 -1 0 1108 274.45)">
-                <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
-                <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
-                <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
-            </g>
-            <g transform="matrix(0 1 1 0 -515.21 274.45)">
-                <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
-                <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
-                <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
-            </g>
+    <g transform="matrix(.01621 0 0 .01621 8.6703 4.2898)" fill="#fff">
+        <g transform="translate(4.218 -244.98)">
+            <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
+            <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
+            <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
+        </g>
+        <g transform="matrix(1 0 0 -1 4.218 1378.2)">
+            <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
+            <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
+            <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
+        </g>
+        <g transform="matrix(0 1 -1 0 1108 274.45)">
+            <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
+            <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
+            <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
+        </g>
+        <g transform="matrix(0 1 1 0 -515.21 274.45)">
+            <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="540.95" y="128.81" width="228.57" height="228.57"/>
+            <circle transform="translate(-81.952 151.13)" cx="294.29" cy="400.93" r="117.14"/>
+            <circle transform="translate(77.738 149.63)" cx="294.29" cy="400.93" r="117.14"/>
         </g>
     </g>
     <g display="none" fill="none">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,23 +75,21 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#212121" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(-2.6636e-8 -1025.4)">
-            <g transform="matrix(.27018 0 0 .27018 6.9907 1032.4)">
-                <path d="m23.988-0.78871c-13.696 0-24.776 11.093-24.776 24.789 0 13.696 11.081 24.789 24.776 24.789 13.696 0 24.801-11.093 24.801-24.789 0-13.696-11.105-24.789-24.801-24.789zm0.0124 44.62c-10.957 0-19.831-8.8744-19.831-19.831 0-10.957 8.8744-19.831 19.831-19.831 10.957 0 19.831 8.8744 19.831 19.831 0 10.957-8.8744 19.831-19.831 19.831z" fill="#fff"/>
-                <path d="m0 0h48v48h-48z" fill="none"/>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(-2.6636e-8 -1025.4)">
+        <g transform="matrix(.27018 0 0 .27018 6.9907 1032.4)">
+            <path d="m23.988-0.78871c-13.696 0-24.776 11.093-24.776 24.789s11.081 24.789 24.776 24.789c13.696 0 24.801-11.093 24.801-24.789s-11.105-24.789-24.801-24.789zm0.0124 44.62c-10.957 0-19.831-8.8744-19.831-19.831 0-10.957 8.8744-19.831 19.831-19.831 10.957 0 19.831 8.8744 19.831 19.831 0 10.957-8.8744 19.831-19.831 19.831z" fill="#fff"/>
+            <path d="m0 0h48v48h-48z" fill="none"/>
+        </g>
+        <g fill="#fff" stroke="#64dd17">
+            <path transform="matrix(.27018 0 0 .27018 6.9907 1032.4)" d="m34.53 13.375-11.798 7.8652 3.9326 3.9326 7.8652-11.798z" stroke-dasharray="0.12313059, 0.12313059" stroke-width=".015391"/>
+            <g stroke-dasharray="0.4, 0.4" stroke-width=".05">
+                <circle transform="matrix(.66667 0 0 .66667 18.147 1026.9)" cx="-7.0156" cy="23.863" r=".84188"/>
+                <circle transform="matrix(.66667 0 0 .66667 18.147 1019.1)" cx="-7.0156" cy="23.863" r=".84188"/>
+                <circle transform="matrix(.66667 0 0 .66667 14.218 1023)" cx="-7.0156" cy="23.863" r=".84188"/>
+                <circle transform="matrix(.66667 0 0 .66667 22.076 1023)" cx="-7.0156" cy="23.863" r=".84188"/>
             </g>
-            <g fill="#fff" stroke="#64dd17">
-                <path transform="matrix(.27018 0 0 .27018 6.9907 1032.4)" d="m34.53 13.375-11.798 7.8652 3.9326 3.9326 7.8652-11.798z" stroke-dasharray="0.12313059, 0.12313059" stroke-width=".015391"/>
-                <g stroke-dasharray="0.4, 0.4" stroke-width=".05">
-                    <circle transform="matrix(.66667 0 0 .66667 18.147 1026.9)" cx="-7.0156" cy="23.863" r=".84188"/>
-                    <circle transform="matrix(.66667 0 0 .66667 18.147 1019.1)" cx="-7.0156" cy="23.863" r=".84188"/>
-                    <circle transform="matrix(.66667 0 0 .66667 14.218 1023)" cx="-7.0156" cy="23.863" r=".84188"/>
-                    <circle transform="matrix(.66667 0 0 .66667 22.076 1023)" cx="-7.0156" cy="23.863" r=".84188"/>
-                </g>
-                <path d="m10.648 1041.7 3.1875-2.125-1.0625-1.0625-2.125 3.1875z" stroke-dasharray="0.03326711, 0.03326711" stroke-width=".0041584"/>
-            </g>
+            <path d="m10.648 1041.7 3.1875-2.125-1.0625-1.0625-2.125 3.1875z" stroke-dasharray="0.03326711, 0.03326711" stroke-width=".0041584"/>
         </g>
     </g>
     <g display="none" fill="none">

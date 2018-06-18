@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,13 +75,11 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.082798 0 0 .082798 33.555 42.73)">
-            <g fill="#fff">
-                <path d="m92.038 225.34c0 30.629-23.636 55.459-52.792 55.459s-52.792-24.83-52.792-55.459 23.636-55.458 52.792-55.458 52.792 24.829 52.792 55.458z"/>
-                <path d="m-286.93-385.48 14.988 32.317c7.5824 16.35 16.369 6.2595 20.14-6.0887l20.14-65.946c3.3306-10.904 19.445-11.647 14.52 9.3679-4.3962 18.757-34.376 92.507 2.3422 76.25l20.609-12.646c9.84-6.0385 24.537 3.1066 4.6837 15.456-24.768 15.407-46.048 30.133-57.422 54.331-6.6795 14.21-26.235 10.282-25.854-9.5554 0.81676-42.56-20.367-55.444-30.538-85.993-7.9993-24.025 9.9493-21.388 16.392-7.4934z"/>
-            </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.082798 0 0 .082798 33.555 42.73)">
+        <g fill="#fff">
+            <path d="m92.038 225.34c0 30.629-23.636 55.459-52.792 55.459s-52.792-24.83-52.792-55.459 23.636-55.458 52.792-55.458 52.792 24.829 52.792 55.458z"/>
+            <path d="m-286.93-385.48 14.988 32.317c7.5824 16.35 16.369 6.2595 20.14-6.0887l20.14-65.946c3.3306-10.904 19.445-11.647 14.52 9.3679-4.3962 18.757-34.376 92.507 2.3422 76.25l20.609-12.646c9.84-6.0385 24.537 3.1066 4.6837 15.456-24.768 15.407-46.048 30.133-57.422 54.331-6.6795 14.21-26.235 10.282-25.854-9.5554 0.81676-42.56-20.367-55.444-30.538-85.993-7.9993-24.025 9.9493-21.388 16.392-7.4934z"/>
         </g>
     </g>
     <g display="none" fill="none">

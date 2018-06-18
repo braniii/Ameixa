@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,18 +75,13 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <g transform="matrix(.99046 0 0 .99046 7.0613 -.3212)">
-            <flowRoot fill="#ffffff" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1.0096px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#fff" stroke-width="1.0096px"/></flowRegion><flowPara>your</flowPara></flowRoot>
-            <g transform="translate(-1.853e-8 .56125)" fill="#fff" stroke-width="1.0096">
-                <g transform="matrix(.037977 0 0 .037977 -287.87 -47.639)" fill-rule="evenodd">
-                    <g transform="translate(5000.3,277.13)"></g>
-                    <g transform="translate(5000.3,277.13)"></g>
-                </g>
-                <g transform="matrix(.056238 0 0 .056238 -9.4787 -13.971)">
-                    <path d="m299.82 384.46c-15.847 7.986-68.706 64.32-84.301 82.859-46.303 55.048-29.336 114.37 28.201 101.31 9.4482-2.145 19.379-13.356 26.634-22.41 5.231-6.5293 11.817-14.192 20.7-8.249 1.3803 1.1172 2.328 2.3851 2.328 3.7232 0 10.699-10.288 67.524-15.796 78.359 6.0115-1.5158 16.031-2.7735 22.234-2.7735 6.203 2e-5 16.223 1.2576 22.234 2.7735-5.5076-10.834-15.796-67.659-15.796-78.359 6e-3 -1.5227 1.3851-2.7231 2.3238-3.7232 8.8833-5.9428 15.473 1.7197 20.704 8.249 7.2544 9.0547 17.181 20.265 26.629 22.41 57.537 13.062 74.508-46.259 28.205-101.31-15.594-18.539-68.453-74.873-84.301-82.859z" fill="#fff" stroke-width="1.0096"/>
-                </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+    <g transform="matrix(.99046 0 0 .99046 7.0613 -.3212)">
+        <flowRoot fill="#ffffff" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1.0096px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#fff" stroke-width="1.0096px"/></flowRegion><flowPara>your</flowPara></flowRoot>
+        <g transform="translate(-1.853e-8 .56125)" fill="#fff" stroke-width="1.0096">
+            <g transform="matrix(.037977 0 0 .037977 -287.87 -47.639)" fill-rule="evenodd"></g>
+            <g transform="matrix(.056238 0 0 .056238 -9.4787 -13.971)">
+                <path d="m299.82 384.46c-15.847 7.986-68.706 64.32-84.301 82.859-46.303 55.048-29.336 114.37 28.201 101.31 9.4482-2.145 19.379-13.356 26.634-22.41 5.231-6.5293 11.817-14.192 20.7-8.249 1.3803 1.1172 2.328 2.3851 2.328 3.7232 0 10.699-10.288 67.524-15.796 78.359 6.0115-1.5158 16.031-2.7735 22.234-2.7735 6.203 2e-5 16.223 1.2576 22.234 2.7735-5.5076-10.834-15.796-67.659-15.796-78.359 6e-3 -1.5227 1.3851-2.7231 2.3238-3.7232 8.8833-5.9428 15.473 1.7197 20.704 8.249 7.2544 9.0547 17.181 20.265 26.629 22.41 57.537 13.062 74.508-46.259 28.205-101.31-15.594-18.539-68.453-74.873-84.301-82.859z" fill="#fff" stroke-width="1.0096"/>
             </g>
         </g>
     </g>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,13 +75,11 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(1.2394 0 0 -1.2394 -680.11 561.51)">
-            <g transform="matrix(.72446 0 0 -.7581 540.82 507.25)">
-                <path d="m20.513 92.361h10.902l-4.3607-13.082h-2.1803z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="5.8" stroke-width="1.1896"/>
-                <path d="m25.361 82.106 0.04122 5.3943-1.1317-0.02218 3e-3 0.55879 1.1329 0.58156 0.0044 6.82e-4 0.01493 1.8645 1.128 0.02342-0.01442-1.8688 1.1194-0.5336-0.0049-0.55818-1.1218-0.02331-0.04122-5.3944-1.1299-0.02275z" fill="#fff"/>
-            </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(1.2394 0 0 -1.2394 -680.11 561.51)">
+        <g transform="matrix(.72446 0 0 -.7581 540.82 507.25)">
+            <path d="m20.513 92.361h10.902l-4.3607-13.082h-2.1803z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="5.8" stroke-width="1.1896"/>
+            <path d="m25.361 82.106 0.04122 5.3943-1.1317-0.02218 3e-3 0.55879 1.1329 0.58156 0.0044 6.82e-4 0.01493 1.8645 1.128 0.02342-0.01442-1.8688 1.1194-0.5336-0.0049-0.55818-1.1218-0.02331-0.04122-5.3944-1.1299-0.02275z" fill="#fff"/>
         </g>
     </g>
     <g display="none" fill="none">

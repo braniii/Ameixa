@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,10 +75,8 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <path d="m6.74 11.061v0.7265 0.7265h0.77711 0.77712v1.9373 1.9373h0.77711 0.77711v-1.9373-1.9373h0.77712 0.77712v-0.7265-0.7265h-2.3313-2.3313zm9.8435 0v2.6638 2.6638h0.77712 0.77712v-1.2108-1.2108h0.25904 0.25904v-0.48434-0.48434h-0.25904-0.25904v-0.24217-0.24217h1.0362 1.0362v-0.7265-0.7265h-1.8133-1.8133zm-6.2169 1.9373v1.6952 1.6952h1.2952 1.2952v-1.6952-1.6952h-1.2952-1.2952zm3.1085 0v3.3903 3.3904h0.25904 0.25904v-2.4217-2.4217h0.77711 0.77712v-0.24217-0.24217h-0.77712-0.77711v-0.48434-0.48434h1.0362 1.0362v-0.24217-0.24217h-1.2952-1.2952zm-2.5904 0.48434h0.77712 0.77712v1.2108 1.2108h-0.77712-0.77712v-1.2108-1.2108z" fill="#fff" fill-rule="evenodd"/>
-    </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <path d="m6.74 11.061v1.453h1.5542v3.8746h1.5542v-3.8746h1.5542v-1.453h-4.6626zm9.8435 0v5.3276h1.5542v-2.4216h0.51808v-0.96868h-0.51808v-0.48434h2.0724v-1.453h-3.6266zm-6.2169 1.9373v3.3904h2.5904v-3.3904h-2.5904zm3.1085 0v6.7807h0.51808v-4.8434h1.5542v-0.48434h-1.5542v-0.96868h2.0724v-0.48434h-2.5904zm-2.5904 0.48434h1.5542v2.4216h-1.5542v-2.4216z" fill="#fff" fill-rule="evenodd"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

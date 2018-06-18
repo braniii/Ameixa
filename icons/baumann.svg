@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,11 +75,9 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(-133.64 49.497)">
-            <path d="m153.22-36.022c0-3.3024-0.023-6.0044-0.0512-6.0044-0.0281 0-1.3943 1.3434-3.0358 2.9853-1.6416 1.6419-3.0145 2.9852-3.051 2.9852-0.0365 0-1.3957-1.3281-3.0205-2.9513-1.6248-1.6232-2.9766-2.9513-3.004-2.9513-0.0622 0-0.0668 11.834-5e-3 11.896 0.0249 0.02486 2.7727 0.04523 6.1062 0.04523h6.061v-6.0044z" fill="#fff"/>
-        </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(-133.64 49.497)">
+        <path d="m153.22-36.022c0-3.3024-0.023-6.0044-0.0512-6.0044-0.0281 0-1.3943 1.3434-3.0358 2.9853-1.6416 1.6419-3.0145 2.9852-3.051 2.9852s-1.3957-1.3281-3.0205-2.9513-2.9766-2.9513-3.004-2.9513c-0.0622 0-0.0668 11.834-5e-3 11.896 0.0249 0.02486 2.7727 0.04523 6.1062 0.04523h6.061v-6.0044z" fill="#fff"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,10 +75,8 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <path d="m8.5918 8.6484c-0.73915 0-1.334 0.54308-1.334 1.2168l-0.085938 13.072 3.125-2.9297h9.9023c0.73915 0 1.334-0.54308 1.334-1.2168v-8.9258c0-0.67372-0.59483-1.2168-1.334-1.2168h-11.607zm4.5645 2.5195h0.71875l-0.25 1.4375h2.125l0.21875-1.4375h0.73438l-0.25 1.4375h1.4219l-0.10938 0.70312h-1.4219l-0.39062 2.125h1.4375l-0.125 0.73438h-1.4531l-0.21875 1.3906h-0.76562l0.25-1.3906h-2.0938l-0.28125 1.4219h-0.70312l0.26562-1.4219h-1.4375l0.14062-0.73438h1.4062l0.4375-2.125h-1.4844l0.125-0.70312h1.4414l0.26172-1.4375zm0.33594 2.1406-0.33594 2.125h2.0781l0.39844-2.125h-2.1406z" fill="#fff"/>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-    </g>
+    <path d="m8.5918 8.6484c-0.73915 0-1.334 0.54308-1.334 1.2168l-0.085938 13.072 3.125-2.9297h9.9023c0.73915 0 1.334-0.54308 1.334-1.2168v-8.9258c0-0.67372-0.59483-1.2168-1.334-1.2168h-11.607zm4.5645 2.5195h0.71875l-0.25 1.4375h2.125l0.21875-1.4375h0.73438l-0.25 1.4375h1.4219l-0.10938 0.70312h-1.4219l-0.39062 2.125h1.4375l-0.125 0.73438h-1.4531l-0.21875 1.3906h-0.76562l0.25-1.3906h-2.0938l-0.28125 1.4219h-0.70312l0.26562-1.4219h-1.4375l0.14062-0.73438h1.4062l0.4375-2.125h-1.4844l0.125-0.70312h1.4414l0.26172-1.4375zm0.33594 2.1406-0.33594 2.125h2.0781l0.39844-2.125h-2.1406z" fill="#fff"/>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>

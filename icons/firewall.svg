@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,14 +75,11 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.98689 0 0 .98689 .1766 -1010.5)">
-            <g transform="matrix(.047036 0 0 .047036 9.4087 1034.4)" fill="#33691e"></g>
-            <g transform="translate(11.374 -9.0992)">
-                <path d="m-5.1562 1039.4h14.514v14.514h-14.514z" fill="none"/>
-                <path d="m2.1009 1040-5.4428 2.419v3.6286c0 3.3594 2.3193 6.4921 5.4428 7.2571 3.1236-0.765 5.4428-3.8977 5.4428-7.2571v-3.6286l-5.4428-2.419zm-1.2095 9.6762-2.419-2.4191 0.85574-0.8557 1.5633 1.5633 3.9823-3.9824 0.85574 0.8558-4.8381 4.8381z" fill="#fff"/>
-            </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.98689 0 0 .98689 .1766 -1010.5)">
+        <g transform="translate(11.374 -9.0992)">
+            <path d="m-5.1562 1039.4h14.514v14.514h-14.514z" fill="none"/>
+            <path d="m2.1009 1040-5.4428 2.419v3.6286c0 3.3594 2.3193 6.4921 5.4428 7.2571 3.1236-0.765 5.4428-3.8977 5.4428-7.2571v-3.6286l-5.4428-2.419zm-1.2095 9.6762-2.419-2.4191 0.85574-0.8557 1.5633 1.5633 3.9823-3.9824 0.85574 0.8558-4.8381 4.8381z" fill="#fff"/>
         </g>
     </g>
     <g display="none" fill="none">

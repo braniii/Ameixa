@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,10 +75,8 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <path d="m14.324 19.597c1.0726-0.31182 2.1062-0.85838 2.2968-1.2146 0.3804-0.71078-0.07018-5.6853-0.81597-9.0093-0.51325-2.2875-1.3364-2.9067-1.3364-1.0053 0 1.3855-0.448 1.8833-2.6631 2.9596l-1.4846 0.72135-0.10368 3.3347c-0.15323 4.9282 0.24458 5.3364 4.107 4.2135zm-1.1725-11.284c0-1.1281-1.413-2.0499-1.8432-1.0475-0.59094 1.3768 0.22512 2.7301 1.2457 2.2074 0.33007-0.16904 0.59755-0.61644 0.59755-1.1599z" fill="#fff"/>
-    </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <path d="m14.324 19.597c1.0726-0.31182 2.1062-0.85838 2.2968-1.2146 0.3804-0.71078-0.07018-5.6853-0.81597-9.0093-0.51325-2.2875-1.3364-2.9067-1.3364-1.0053 0 1.3855-0.448 1.8833-2.6631 2.9596l-1.4846 0.72135-0.10368 3.3347c-0.15323 4.9282 0.24458 5.3364 4.107 4.2135zm-1.1725-11.284c0-1.1281-1.413-2.0499-1.8432-1.0475-0.59094 1.3768 0.22512 2.7301 1.2457 2.2074 0.33007-0.16904 0.59755-0.61644 0.59755-1.1599z" fill="#fff"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

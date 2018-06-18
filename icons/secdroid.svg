@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,10 +75,8 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <path d="m17.314 18.913v-6.3979h-7.6775v6.3979h7.6775m0-7.6775c0.70669 0 1.2796 0.57289 1.2796 1.2796v6.3979c0 0.70669-0.57288 1.2796-1.2796 1.2796h-7.6775c-0.71016 0-1.2796-0.57581-1.2796-1.2796v-6.3979c0-0.71016 0.56941-1.2796 1.2796-1.2796h0.63979v-1.2796c0-1.7667 1.4322-3.1989 3.1989-3.1989 1.7667 4e-7 3.1989 1.4322 3.1989 3.1989v1.2796h0.63979m-3.8387-3.1989c-1.06-6e-7 -1.9194 0.85933-1.9194 1.9194v1.2796h3.8387v-1.2796c0-1.06-0.85933-1.9194-1.9194-1.9194z" fill="#fff"/>
-    </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <path d="m17.314 18.913v-6.3979h-7.6775v6.3979h7.6775m0-7.6775c0.70669 0 1.2796 0.57289 1.2796 1.2796v6.3979c0 0.70669-0.57288 1.2796-1.2796 1.2796h-7.6775c-0.71016 0-1.2796-0.57581-1.2796-1.2796v-6.3979c0-0.71016 0.56941-1.2796 1.2796-1.2796h0.63979v-1.2796c0-1.7667 1.4322-3.1989 3.1989-3.1989 1.7667 4e-7 3.1989 1.4322 3.1989 3.1989v1.2796h0.63979m-3.8387-3.1989c-1.06-6e-7 -1.9194 0.85933-1.9194 1.9194v1.2796h3.8387v-1.2796c0-1.06-0.85933-1.9194-1.9194-1.9194z" fill="#fff"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

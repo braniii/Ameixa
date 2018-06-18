@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,22 +75,20 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.67835 0 0 .67835 4.3362 3.9154)">
-            <g transform="translate(0 -.46799)" fill="#fff">
-                <g transform="translate(0 -.39895)">
-                    <g transform="translate(0 6.2651)">
-                        <path d="m15.472 12.479h-0.66562v-0.66562h0.66562m-3.3281 0.66562h-0.66562v-0.66562h0.66562m3.6809-1.2248 0.87197-0.87197c0.12647-0.12647 0.12647-0.33947 0-0.47259-0.13312-0.12647-0.34612-0.12647-0.47259 0l-0.98512 0.98513c-0.5325-0.25959-1.1316-0.41269-1.7639-0.41269-0.639 0-1.2381 0.15309-1.7706 0.41935l-0.99178-0.99178c-0.12647-0.12647-0.33947-0.12647-0.46594 0-0.13312 0.13312-0.13312 0.34612 0 0.47259l0.87197 0.87197c-0.99178 0.73219-1.6374 1.8904-1.6374 3.2216h7.9875c0-1.3312-0.66562-2.4961-1.6441-3.2216"/>
-                        <rect transform="matrix(-.70711 -.70711 .70711 -.70711 0 0)" x="-24.776" y="2.1905" width="1.9625" height="6.6737" rx=".98125" ry="0"/>
-                        <rect transform="matrix(.70711 -.70711 .70711 .70711 0 0)" x="-5.7237" y="10.188" width="1.9625" height="6.6737" rx=".98125" ry="0"/>
-                    </g>
-                    <circle cx="13.472" cy="8.8076" r="1.6548"/>
-                    <circle cx="6.105" cy="12.119" r="1.6548"/>
-                    <circle cx="20.782" cy="12.119" r="1.6548"/>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.67835 0 0 .67835 4.3362 3.9154)">
+        <g transform="translate(0 -.46799)" fill="#fff">
+            <g transform="translate(0 -.39895)">
+                <g transform="translate(0 6.2651)">
+                    <path d="m15.472 12.479h-0.66562v-0.66562h0.66562m-3.3281 0.66562h-0.66562v-0.66562h0.66562m3.6809-1.2248 0.87197-0.87197c0.12647-0.12647 0.12647-0.33947 0-0.47259-0.13312-0.12647-0.34612-0.12647-0.47259 0l-0.98512 0.98513c-0.5325-0.25959-1.1316-0.41269-1.7639-0.41269-0.639 0-1.2381 0.15309-1.7706 0.41935l-0.99178-0.99178c-0.12647-0.12647-0.33947-0.12647-0.46594 0-0.13312 0.13312-0.13312 0.34612 0 0.47259l0.87197 0.87197c-0.99178 0.73219-1.6374 1.8904-1.6374 3.2216h7.9875c0-1.3312-0.66562-2.4961-1.6441-3.2216"/>
+                    <rect transform="matrix(-.70711 -.70711 .70711 -.70711 0 0)" x="-24.776" y="2.1905" width="1.9625" height="6.6737" rx=".98125" ry="0"/>
+                    <rect transform="matrix(.70711 -.70711 .70711 .70711 0 0)" x="-5.7237" y="10.188" width="1.9625" height="6.6737" rx=".98125" ry="0"/>
                 </g>
-                <rect x="9.5047" y="20.413" width="7.9351" height="1.9544" rx="0"/>
+                <circle cx="13.472" cy="8.8076" r="1.6548"/>
+                <circle cx="6.105" cy="12.119" r="1.6548"/>
+                <circle cx="20.782" cy="12.119" r="1.6548"/>
             </g>
+            <rect x="9.5047" y="20.413" width="7.9351" height="1.9544" rx="0"/>
         </g>
     </g>
     <g display="none" fill="none">

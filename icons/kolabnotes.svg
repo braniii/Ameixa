@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,17 +75,15 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#bf360c" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(-.0093746 -1025.4)" fill="#fff">
-            <rect transform="translate(-12.489 953.1)" x="22.03" y="77.934" width="1.1225" height="2.245"/>
-            <path transform="translate(0 1025.4)" d="m8.9688 6.75c-0.49023 0.019644-0.875 0.4872-0.875 1.0938v11.25c0 0.6191 0.40176 1.125 0.90625 1.125h8.9688c0.50449 0 0.90625-0.5059 0.90625-1.125v-11.25c0-0.6191-0.40176-1.0938-0.90625-1.0938v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875zm0 3.375h9v8.9688h-9z"/>
-            <rect x="12.909" y="1031" width="1.1225" height="2.245"/>
-            <rect x="16.276" y="1031" width="1.1225" height="2.245"/>
-            <rect transform="translate(0 1025.4)" x="10.664" y="12.358" width="5.6125" height="1.1225"/>
-            <rect x="10.664" y="1040" width="5.6125" height="1.1225"/>
-            <rect x="10.664" y="1042.3" width="5.6125" height="1.1225"/>
-        </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(-.0093746 -1025.4)" fill="#fff">
+        <rect transform="translate(-12.489 953.1)" x="22.03" y="77.934" width="1.1225" height="2.245"/>
+        <path transform="translate(0 1025.4)" d="m8.9688 6.75c-0.49023 0.019644-0.875 0.4872-0.875 1.0938v11.25c0 0.6191 0.40176 1.125 0.90625 1.125h8.9688c0.50449 0 0.90625-0.5059 0.90625-1.125v-11.25c0-0.6191-0.40176-1.0938-0.90625-1.0938v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875zm0 3.375h9v8.9688h-9z"/>
+        <rect x="12.909" y="1031" width="1.1225" height="2.245"/>
+        <rect x="16.276" y="1031" width="1.1225" height="2.245"/>
+        <rect transform="translate(0 1025.4)" x="10.664" y="12.358" width="5.6125" height="1.1225"/>
+        <rect x="10.664" y="1040" width="5.6125" height="1.1225"/>
+        <rect x="10.664" y="1042.3" width="5.6125" height="1.1225"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

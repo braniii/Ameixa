@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,19 +75,17 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <g transform="matrix(.43911 0 0 .43911 5.9637 8.6498)" fill="#fff">
-            <g fill="#fff">
-                <circle cx="21.732" cy="5.5" r="1.5"/>
-                <circle cx="17.732" cy="2.5" r="1.5"/>
-                <circle cx="13.732" cy="1.5" r="1.5"/>
-                <circle cx="9.732" cy="3.5" r="1.5"/>
-                <path d="m20.232 5.5v6.5c0 0.276-0.224 0.5-0.5 0.5s-0.5-0.224-0.5-0.5v-9.5h-3v8.5c0 0.276-0.224 0.5-0.5 0.5s-0.5-0.224-0.5-0.5v-9.5h-3v9.5c0 0.276-0.224 0.5-0.5 0.5s-0.5-0.224-0.5-0.5v-7.5h-3v12.5l-2.025-2.771c-0.6-0.925-1.771-1.235-2.629-0.705-0.855 0.542-1.067 1.724-0.475 2.646 0 0 3.266 4.943 4.658 7.059s3.647 3.771 7.864 3.771c6.982 0 7.607-5.392 7.607-7v-13.5z"/>
-            </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+    <g transform="matrix(.43911 0 0 .43911 5.9637 8.6498)" fill="#fff">
+        <g fill="#fff">
+            <circle cx="21.732" cy="5.5" r="1.5"/>
+            <circle cx="17.732" cy="2.5" r="1.5"/>
+            <circle cx="13.732" cy="1.5" r="1.5"/>
+            <circle cx="9.732" cy="3.5" r="1.5"/>
+            <path d="m20.232 5.5v6.5c0 0.276-0.224 0.5-0.5 0.5s-0.5-0.224-0.5-0.5v-9.5h-3v8.5c0 0.276-0.224 0.5-0.5 0.5s-0.5-0.224-0.5-0.5v-9.5h-3v9.5c0 0.276-0.224 0.5-0.5 0.5s-0.5-0.224-0.5-0.5v-7.5h-3v12.5l-2.025-2.771c-0.6-0.925-1.771-1.235-2.629-0.705-0.855 0.542-1.067 1.724-0.475 2.646 0 0 3.266 4.943 4.658 7.059s3.647 3.771 7.864 3.771c6.982 0 7.607-5.392 7.607-7v-13.5z"/>
         </g>
-        <path d="m19.777 18.772-0.8636-0.8636c0.8881-0.88198 1.4332-2.1131 1.4332-3.4667 0-1.3597-0.54511-2.5847-1.4332-3.4667l0.8636-0.8636c1.1086 1.1086 1.7946 2.6398 1.7946 4.3303s-0.68598 3.2217-1.7946 4.3303m-1.7333-1.7333-0.8636-0.8636c0.44099-0.44099 0.71661-1.0535 0.71661-1.7333 0-0.67986-0.27562-1.2923-0.71661-1.7333l0.8636-0.8636c0.66761 0.66761 1.078 1.5863 1.078 2.5969 0 1.0106-0.41036 1.9293-1.078 2.5969" fill="#fff" stroke-width=".61249"/>
     </g>
+    <path d="m19.777 18.772-0.8636-0.8636c0.8881-0.88198 1.4332-2.1131 1.4332-3.4667 0-1.3597-0.54511-2.5847-1.4332-3.4667l0.8636-0.8636c1.1086 1.1086 1.7946 2.6398 1.7946 4.3303s-0.68598 3.2217-1.7946 4.3303m-1.7333-1.7333-0.8636-0.8636c0.44099-0.44099 0.71661-1.0535 0.71661-1.7333 0-0.67986-0.27562-1.2923-0.71661-1.7333l0.8636-0.8636c0.66761 0.66761 1.078 1.5863 1.078 2.5969s-0.41036 1.9293-1.078 2.5969" fill="#fff" stroke-width=".61249"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,13 +75,11 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(5.0512 -1023.5)">
-            <g transform="matrix(.99017 0 0 .99017 -4.9188 9.6488)">
-                <g transform="translate(-19.227 -1.6991)">
-                    <path d="m36.841 1038.1c-0.38267-1.9358-2.0906-3.3962-4.139-3.3962-1.6263 0-3.036 0.9229-3.7423 2.2707-1.6911 0.1829-3.0107 1.6151-3.0107 3.3568 0 1.8655 1.511 3.3765 3.3765 3.3765h7.3157c1.5532 0 2.8137-1.2606 2.8137-2.8137 0-1.4857-1.1564-2.69-2.614-2.7941z" fill="#fff"/>
-                </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(5.0512 -1023.5)">
+        <g transform="matrix(.99017 0 0 .99017 -4.9188 9.6488)">
+            <g transform="translate(-19.227 -1.6991)">
+                <path d="m36.841 1038.1c-0.38267-1.9358-2.0906-3.3962-4.139-3.3962-1.6263 0-3.036 0.9229-3.7423 2.2707-1.6911 0.1829-3.0107 1.6151-3.0107 3.3568 0 1.8655 1.511 3.3765 3.3765 3.3765h7.3157c1.5532 0 2.8137-1.2606 2.8137-2.8137 0-1.4857-1.1564-2.69-2.614-2.7941z" fill="#fff"/>
             </g>
         </g>
     </g>

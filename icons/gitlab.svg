@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,22 +75,20 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.063625 0 0 .063625 6.7905 6.6671)" fill="#fff" fill-rule="evenodd">
-            <g transform="translate(0,10)" fill="#fff" stroke="#fff">
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.063625 0 0 .063625 6.7905 6.6671)" fill="#fff" fill-rule="evenodd">
+        <g transform="translate(0,10)" fill="#fff" stroke="#fff">
+            <g fill="#fff" stroke="#fff">
                 <g fill="#fff" stroke="#fff">
                     <g fill="#fff" stroke="#fff">
                         <g fill="#fff" stroke="#fff">
-                            <g fill="#fff" stroke="#fff">
-                                <path d="m105.06 193.66 38.64-118.92h-77.28l38.64 118.92z"/>
-                                <path d="m105.06 193.65-38.64-118.92h-54.153l92.793 118.92z"/>
-                                <path d="m12.268 74.734-11.742 36.139c-1.071 3.296 0.102 6.907 2.906 8.944l101.63 73.838-92.793-118.92z"/>
-                                <path d="m12.268 74.734h54.153l-23.273-71.625c-1.197-3.686-6.411-3.685-7.608 0l-23.272 71.625z"/>
-                                <path d="m105.06 193.65 38.64-118.92h54.153l-92.793 118.92z"/>
-                                <path d="m197.85 74.734 11.742 36.139c1.071 3.296-0.102 6.907-2.906 8.944l-101.63 73.838 92.793-118.92z"/>
-                                <path d="m197.85 74.734h-54.153l23.273-71.625c1.197-3.686 6.411-3.685 7.608 0l23.272 71.625z"/>
-                            </g>
+                            <path d="m105.06 193.66 38.64-118.92h-77.28l38.64 118.92z"/>
+                            <path d="m105.06 193.65-38.64-118.92h-54.153l92.793 118.92z"/>
+                            <path d="m12.268 74.734-11.742 36.139c-1.071 3.296 0.102 6.907 2.906 8.944l101.63 73.838-92.793-118.92z"/>
+                            <path d="m12.268 74.734h54.153l-23.273-71.625c-1.197-3.686-6.411-3.685-7.608 0l-23.272 71.625z"/>
+                            <path d="m105.06 193.65 38.64-118.92h54.153l-92.793 118.92z"/>
+                            <path d="m197.85 74.734 11.742 36.139c1.071 3.296-0.102 6.907-2.906 8.944l-101.63 73.838 92.793-118.92z"/>
+                            <path d="m197.85 74.734h-54.153l23.273-71.625c1.197-3.686 6.411-3.685 7.608 0l23.272 71.625z"/>
                         </g>
                     </g>
                 </g>

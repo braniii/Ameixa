@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -78,37 +78,33 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g>
-            <g transform="matrix(.96522 0 0 .96522 -26.832 .8099)">
-                <circle cx="41.759" cy="14.972" r="1.7057" fill="#fff"/>
-                <g transform="matrix(.017057 0 0 .017057 41.759 14.972)" fill="#006499" stroke="#006499">
-                    <g clip-path="url(#boundary)">
-                        <g id="arrow" stroke="none">
-                            <line y1="300" y2="180" fill="#fff"/>
-                            <path d="m-43 185 43-75 43 75z" fill="#fff"/>
-                        </g>
-                        <g id="three_arrows_lhs">
-                            <use transform="matrix(.70711 .70711 -.70711 .70711 0 0)" width="100%" height="100%" stroke="none" xlink:href="#arrow"/>
-                            <use transform="rotate(90)" width="100%" height="100%" fill="#ffffff" stroke="none" xlink:href="#arrow"/>
-                            <use transform="matrix(-.70711 .70711 -.70711 -.70711 0 0)" width="100%" height="100%" fill="#ffffff" stroke="none" xlink:href="#arrow"/>
-                        </g>
-                        <use transform="scale(-1,1)" width="100%" height="100%" fill="#ffffff" stroke="none" xlink:href="#three_arrows_lhs"/>
-                    </g>
-                    <path transform="matrix(.70711 -.70711 .70711 .70711 0 0)" d="m0-256a256 256 0 1 0 256 256c0-100-101-150-6-275" fill="none" stroke="#fff" stroke-width="84"/>
-                    <path d="m-23-515s-36 135-80 185 116-62 170-5-90-180-90-180z" fill="#fff" stroke="none"/>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.96522 0 0 .96522 -26.832 .8099)">
+        <circle cx="41.759" cy="14.972" r="1.7057" fill="#fff"/>
+        <g transform="matrix(.017057 0 0 .017057 41.759 14.972)" fill="#006499" stroke="#006499">
+            <g clip-path="url(#boundary)">
+                <g id="arrow" stroke="none">
+                    <line y1="300" y2="180" fill="#fff"/>
+                    <path d="m-43 185 43-75 43 75z" fill="#fff"/>
                 </g>
+                <g id="three_arrows_lhs">
+                    <use transform="matrix(.70711 .70711 -.70711 .70711 0 0)" width="100%" height="100%" stroke="none" xlink:href="#arrow"/>
+                    <use transform="rotate(90)" width="100%" height="100%" fill="#ffffff" stroke="none" xlink:href="#arrow"/>
+                    <use transform="matrix(-.70711 .70711 -.70711 -.70711 0 0)" width="100%" height="100%" fill="#ffffff" stroke="none" xlink:href="#arrow"/>
+                </g>
+                <use transform="scale(-1,1)" width="100%" height="100%" fill="#ffffff" stroke="none" xlink:href="#three_arrows_lhs"/>
             </g>
-            <rect x="13.213" y="18.393" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
-            <rect transform="rotate(90)" x="14.985" y="-10.375" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
-            <rect transform="rotate(90)" x="14.985" y="-17.656" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
-            <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="1.0219" y="23.462" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
-            <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="20.044" y="-2.7744" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
-            <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="20.06" y="4.3604" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
-            <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="1.0239" y="15.658" width=".45627" height="1.73" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".44873"/>
+            <path transform="matrix(.70711 -.70711 .70711 .70711 0 0)" d="m0-256a256 256 0 1 0 256 256c0-100-101-150-6-275" fill="none" stroke="#fff" stroke-width="84"/>
+            <path d="m-23-515s-36 135-80 185 116-62 170-5-90-180-90-180z" fill="#fff" stroke="none"/>
         </g>
     </g>
+    <rect x="13.213" y="18.393" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
+    <rect transform="rotate(90)" x="14.985" y="-10.375" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
+    <rect transform="rotate(90)" x="14.985" y="-17.656" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
+    <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="1.0219" y="23.462" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
+    <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="20.044" y="-2.7744" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
+    <rect transform="matrix(.70711 .70711 -.70711 .70711 0 0)" x="20.06" y="4.3604" width=".52479" height="1.0798" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".38021"/>
+    <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="1.0239" y="15.658" width=".45627" height="1.73" fill="#fff" stroke="#fff" stroke-miterlimit="3.2" stroke-width=".44873"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

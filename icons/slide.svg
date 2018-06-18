@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,13 +75,11 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <g fill="#fff">
-            <path d="m7.2057 8.6528h14.335v1.4335h-0.71676v7.8844h-12.902v-7.8844h-0.71676v-1.4335m2.1503 1.4335v6.4508h10.035v-6.4508z" stroke-width=".71676"/>
-            <rect x="13.828" y="17.728" width="1.0897" height="1.1973" rx="0" ry="0" style="paint-order:fill markers stroke"/>
-            <path d="m14.373 18.569c-0.66773 4.79e-4 -1.2087 0.54201-1.2086 1.2097-1.8e-4 0.66773 0.54082 1.2093 1.2086 1.2097 0.6682 1.8e-4 1.2099-0.54155 1.2097-1.2097 1.8e-4 -0.6682-0.54155-1.2099-1.2097-1.2097zm-0.0047 0.59867c0.40011-3.74e-4 0.59904 0.19856 0.59867 0.59867-2.86e-4 0.39964-0.19903 0.59904-0.59867 0.59867-0.39918-2.85e-4 -0.59838-0.19949-0.59867-0.59867-3.73e-4 -0.39964 0.19903-0.59838 0.59867-0.59867z" style="paint-order:fill markers stroke"/>
-        </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+    <g fill="#fff">
+        <path d="m7.2057 8.6528h14.335v1.4335h-0.71676v7.8844h-12.902v-7.8844h-0.71676v-1.4335m2.1503 1.4335v6.4508h10.035v-6.4508z" stroke-width=".71676"/>
+        <rect x="13.828" y="17.728" width="1.0897" height="1.1973" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+        <path d="m14.373 18.569c-0.66773 4.79e-4 -1.2087 0.54201-1.2086 1.2097-1.8e-4 0.66773 0.54082 1.2093 1.2086 1.2097 0.6682 1.8e-4 1.2099-0.54155 1.2097-1.2097 1.8e-4 -0.6682-0.54155-1.2099-1.2097-1.2097zm-0.0047 0.59867c0.40011-3.74e-4 0.59904 0.19856 0.59867 0.59867-2.86e-4 0.39964-0.19903 0.59904-0.59867 0.59867-0.39918-2.85e-4 -0.59838-0.19949-0.59867-0.59867-3.73e-4 -0.39964 0.19903-0.59838 0.59867-0.59867z" style="paint-order:fill markers stroke"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

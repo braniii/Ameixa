@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,14 +75,12 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(-.99014 0 0 -.99014 26.817 1042.1)">
-            <circle transform="matrix(1.0963 0 0 1.0963 -3.3859 1023.1)" cx="15.38" cy="14.399" r="5.6569" fill="none" stroke="#fff" stroke-width=".95153"/>
-            <rect x="12.914" y="1032.7" width="1.1225" height="6.735" fill="#fff" fill-rule="evenodd"/>
-            <rect transform="matrix(-.5 -.86603 .86603 -.5 0 0)" x="-906.93" y="-514.24" width="1.1225" height="6.1737" fill="#fff" fill-rule="evenodd"/>
-            <rect transform="matrix(-.5 .86603 .86603 .5 0 0)" x="892.34" y="531.39" width="1.1225" height="6.1737" fill="#fff" fill-rule="evenodd"/>
-        </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(-.99014 0 0 -.99014 26.817 1042.1)">
+        <circle transform="matrix(1.0963 0 0 1.0963 -3.3859 1023.1)" cx="15.38" cy="14.399" r="5.6569" fill="none" stroke="#fff" stroke-width=".95153"/>
+        <rect x="12.914" y="1032.7" width="1.1225" height="6.735" fill="#fff" fill-rule="evenodd"/>
+        <rect transform="matrix(-.5 -.86603 .86603 -.5 0 0)" x="-906.93" y="-514.24" width="1.1225" height="6.1737" fill="#fff" fill-rule="evenodd"/>
+        <rect transform="matrix(-.5 .86603 .86603 .5 0 0)" x="892.34" y="531.39" width="1.1225" height="6.1737" fill="#fff" fill-rule="evenodd"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

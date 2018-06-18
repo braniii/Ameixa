@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,11 +75,9 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.96427 0 0 .96427 .67242 -988.42)">
-            <path d="m11.192 1047.3a0.69515 0.69515 0 0 1-0.69515-0.6952v-2.0855h-2.7806a1.3903 1.3903 0 0 1-1.3903-1.3903v-8.3417c0-0.7717 0.62564-1.3904 1.3903-1.3904h11.122a1.3903 1.3903 0 0 1 1.3903 1.3904v8.3417a1.3903 1.3903 0 0 1-1.3903 1.3903h-4.2404l-2.5721 2.5791c-0.13903 0.1324-0.31282 0.2016-0.48661 0.2016h-0.34758m0.69515-4.171v2.1411l2.1411-2.1411h4.8104v-8.3417h-11.122v8.3417h4.1709m4.8661-3.4757h-1.3903v-1.3904h1.3903v1.3904m-2.7806 0h-1.3903v-1.3904h1.3903v1.3904m-2.7806 0h-1.3903v-1.3904h1.3903v1.3904z" fill="#fff"/>
-        </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.96427 0 0 .96427 .67242 -988.42)">
+        <path d="m11.192 1047.3a0.69515 0.69515 0 0 1-0.69515-0.6952v-2.0855h-2.7806a1.3903 1.3903 0 0 1-1.3903-1.3903v-8.3417c0-0.7717 0.62564-1.3904 1.3903-1.3904h11.122a1.3903 1.3903 0 0 1 1.3903 1.3904v8.3417a1.3903 1.3903 0 0 1-1.3903 1.3903h-4.2404l-2.5721 2.5791c-0.13903 0.1324-0.31282 0.2016-0.48661 0.2016h-0.34758m0.69515-4.171v2.1411l2.1411-2.1411h4.8104v-8.3417h-11.122v8.3417h4.1709m4.8661-3.4757h-1.3903v-1.3904h1.3903v1.3904m-2.7806 0h-1.3903v-1.3904h1.3903v1.3904m-2.7806 0h-1.3903v-1.3904h1.3903v1.3904z" fill="#fff"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

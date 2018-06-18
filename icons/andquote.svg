@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,11 +75,9 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <path d="m11.186 6.8047a0.99375 0.99375 0 0 0-0.99414 0.99414v2.9082h6.9629c0.6324 0 1.1504 0.51224 1.1504 1.1504v2.8984h0.83008a0.99375 0.99375 0 0 0 0.99414-0.99414v-5.9629c0-0.55153-0.44758-0.99414-0.99414-0.99414h-7.9492z" fill="#fff"/>
-        <path d="m16.2 11.768h-8.35a1.0438 1.0438 0 0 0-1.0438 1.0438v9.3938l2.0875-2.0875h7.3063a1.0438 1.0438 0 0 0 1.0438-1.0438v-6.2625c0-0.57928-0.46969-1.0438-1.0438-1.0438z" fill="#fff"/>
-    </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <path d="m11.186 6.8047a0.99375 0.99375 0 0 0-0.99414 0.99414v2.9082h6.9629c0.6324 0 1.1504 0.51224 1.1504 1.1504v2.8984h0.83008a0.99375 0.99375 0 0 0 0.99414-0.99414v-5.9629c0-0.55153-0.44758-0.99414-0.99414-0.99414h-7.9492z" fill="#fff"/>
+    <path d="m16.2 11.768h-8.35a1.0438 1.0438 0 0 0-1.0438 1.0438v9.3938l2.0875-2.0875h7.3063a1.0438 1.0438 0 0 0 1.0438-1.0438v-6.2625c0-0.57928-0.46969-1.0438-1.0438-1.0438z" fill="#fff"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,12 +75,10 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.68421 0 0 .68421 5.2645 4.764)">
-            <path d="m18.92 6.01c-0.2-0.59-0.76-1.01-1.42-1.01h-11c-0.66 0-1.21 0.42-1.42 1.01l-2.08 5.99v8c0 0.55 0.45 1 1 1h1c0.55 0 1-0.45 1-1v-1h12v1c0 0.55 0.45 1 1 1h1c0.55 0 1-0.45 1-1v-8l-2.08-5.99zm-12.42 9.99c-0.83 0-1.5-0.67-1.5-1.5s0.67-1.5 1.5-1.5 1.5 0.67 1.5 1.5-0.67 1.5-1.5 1.5zm11 0c-0.83 0-1.5-0.67-1.5-1.5s0.67-1.5 1.5-1.5 1.5 0.67 1.5 1.5-0.67 1.5-1.5 1.5zm-12.5-5 1.5-4.5h11l1.5 4.5h-14z" fill="#fff"/>
-            <path d="m0 0h24v24h-24z" fill="none"/>
-        </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.68421 0 0 .68421 5.2645 4.764)">
+        <path d="m18.92 6.01c-0.2-0.59-0.76-1.01-1.42-1.01h-11c-0.66 0-1.21 0.42-1.42 1.01l-2.08 5.99v8c0 0.55 0.45 1 1 1h1c0.55 0 1-0.45 1-1v-1h12v1c0 0.55 0.45 1 1 1h1c0.55 0 1-0.45 1-1v-8l-2.08-5.99zm-12.42 9.99c-0.83 0-1.5-0.67-1.5-1.5s0.67-1.5 1.5-1.5 1.5 0.67 1.5 1.5-0.67 1.5-1.5 1.5zm11 0c-0.83 0-1.5-0.67-1.5-1.5s0.67-1.5 1.5-1.5 1.5 0.67 1.5 1.5-0.67 1.5-1.5 1.5zm-12.5-5 1.5-4.5h11l1.5 4.5h-14z" fill="#fff"/>
+        <path d="m0 0h24v24h-24z" fill="none"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

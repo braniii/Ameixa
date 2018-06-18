@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,14 +75,12 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="matrix(.60505 0 0 .60505 5.322 -615.1)" fill="#fff">
-            <g transform="matrix(.55053 0 0 .55053 16.959 1039.6)">
-                <path d="m0 0h48v48h-48z" fill="none"/>
-                <g transform="matrix(1.0604 0 0 1.0347 173.67 -50.628)" fill="#fff">
-                    <path d="m-180.12 45.315c2.7786 5.5961 7.2456 10.174 12.716 13.021l4.2451-4.3602c0.53064-0.5438 1.2928-0.70199 1.9586-0.48447 2.1612 0.73165 4.4863 1.1271 6.8886 1.1271 1.0709 0 1.9296 0.87996 1.9296 1.9774v6.921c0 1.0975-0.85866 1.9774-1.9296 1.9774-18.119 0-32.803-15.048-32.803-33.616 0-1.0975 0.86831-1.9774 1.9296-1.9774h6.7536c1.0709 0 1.9296 0.87996 1.9296 1.9774 0 2.4619 0.38592 4.8447 1.0999 7.0594 0.21225 0.68221 0.0579 1.4633-0.47275 2.0071l-4.2451 4.3701z" fill="#fff"/>
-                </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="matrix(.60505 0 0 .60505 5.322 -615.1)" fill="#fff">
+        <g transform="matrix(.55053 0 0 .55053 16.959 1039.6)">
+            <path d="m0 0h48v48h-48z" fill="none"/>
+            <g transform="matrix(1.0604 0 0 1.0347 173.67 -50.628)" fill="#fff">
+                <path d="m-180.12 45.315c2.7786 5.5961 7.2456 10.174 12.716 13.021l4.2451-4.3602c0.53064-0.5438 1.2928-0.70199 1.9586-0.48447 2.1612 0.73165 4.4863 1.1271 6.8886 1.1271 1.0709 0 1.9296 0.87996 1.9296 1.9774v6.921c0 1.0975-0.85866 1.9774-1.9296 1.9774-18.119 0-32.803-15.048-32.803-33.616 0-1.0975 0.86831-1.9774 1.9296-1.9774h6.7536c1.0709 0 1.9296 0.87996 1.9296 1.9774 0 2.4619 0.38592 4.8447 1.0999 7.0594 0.21225 0.68221 0.0579 1.4633-0.47275 2.0071l-4.2451 4.3701z" fill="#fff"/>
             </g>
         </g>
     </g>

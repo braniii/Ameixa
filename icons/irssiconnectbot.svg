@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,14 +75,12 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(2.8062 -1.6838)">
-            <g transform="matrix(.42238 0 0 .42238 -.031554 4.1861)" fill="#fff">
-                <path d="m32.583 10.044-14.499-0.0145c-1.6021 0-2.8998 1.2977-2.8998 2.8998v26.098c0 1.6021 1.2977 2.8998 2.8998 2.8998h14.499c1.6021 0 2.8998-1.2977 2.8998-2.8998v-26.098c0-1.6021-1.2977-2.8853-2.8998-2.8853zm0 26.084h-14.499v-20.299h14.499z"/>
-                <path d="m20.329 18.217v1.51l3.5612 1.1681-3.5612 0.94016v1.2251l5.6125-1.4815v-1.5385l-5.6125-1.8234z"/>
-                <rect x="27.064" y="21.835" width="3.3675" height="1.1225"/>
-            </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(2.8062 -1.6838)">
+        <g transform="matrix(.42238 0 0 .42238 -.031554 4.1861)" fill="#fff">
+            <path d="m32.583 10.044-14.499-0.0145c-1.6021 0-2.8998 1.2977-2.8998 2.8998v26.098c0 1.6021 1.2977 2.8998 2.8998 2.8998h14.499c1.6021 0 2.8998-1.2977 2.8998-2.8998v-26.098c0-1.6021-1.2977-2.8853-2.8998-2.8853zm0 26.084h-14.499v-20.299h14.499z"/>
+            <path d="m20.329 18.217v1.51l3.5612 1.1681-3.5612 0.94016v1.2251l5.6125-1.4815v-1.5385l-5.6125-1.8234z"/>
+            <rect x="27.064" y="21.835" width="3.3675" height="1.1225"/>
         </g>
     </g>
     <g display="none" fill="none">

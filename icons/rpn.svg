@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,21 +75,19 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#bf360c" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <path d="m9.2473 12.096h-0.95702v-3.8281h-0.95702v-0.95702h1.914" fill="#fff"/>
-        <g transform="translate(-22.978 .71621)">
-            <path d="m0 0h24v24h-24v-24z" fill="none"/>
-            <path d="m40.016 8.0641 0.40114 0.40114-1.0142 1.0113h2.5905v-2.8249h0.56499v3.3899h-3.1555l1.0142 1.0113-0.40114 0.40114-1.695-1.695 1.695-1.695z" fill="#fff"/>
-        </g>
-        <path d="m10.116 16.785c0 0.51152-0.41475 0.92166-0.92166 0.92166h-0.92166v0.92166h1.8433v0.92166h-2.765v-1.8433c0-0.51152 0.41475-0.92166 0.92166-0.92166h0.92166v-0.92166h-1.8433v-0.92166h1.8433c0.50902 0 0.92166 0.41264 0.92166 0.92166" fill="#fff"/>
-        <g transform="translate(-21.345 9.5131)">
-            <path d="m0 0h24v24h-24z" fill="none"/>
-            <path d="m39.036 7.2383v-1.8787h-0.93934v1.8787h-1.8787v0.93934h1.8787v1.8787h0.93934v-1.8787h1.8787v-0.93934z" fill="#fff"/>
-        </g>
-        <path d="m13.47 6.745v13.47" fill="none" stroke="#fff" stroke-width="1px"/>
-        <path d="m6.735 13.48h13.47" fill="none" stroke="#fff" stroke-width="1px"/>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <path d="m9.2473 12.096h-0.95702v-3.8281h-0.95702v-0.95702h1.914" fill="#fff"/>
+    <g transform="translate(-22.978 .71621)">
+        <path d="m0 0h24v24h-24v-24z" fill="none"/>
+        <path d="m40.016 8.0641 0.40114 0.40114-1.0142 1.0113h2.5905v-2.8249h0.56499v3.3899h-3.1555l1.0142 1.0113-0.40114 0.40114-1.695-1.695 1.695-1.695z" fill="#fff"/>
     </g>
+    <path d="m10.116 16.785c0 0.51152-0.41475 0.92166-0.92166 0.92166h-0.92166v0.92166h1.8433v0.92166h-2.765v-1.8433c0-0.51152 0.41475-0.92166 0.92166-0.92166h0.92166v-0.92166h-1.8433v-0.92166h1.8433c0.50902 0 0.92166 0.41264 0.92166 0.92166" fill="#fff"/>
+    <g transform="translate(-21.345 9.5131)">
+        <path d="m0 0h24v24h-24z" fill="none"/>
+        <path d="m39.036 7.2383v-1.8787h-0.93934v1.8787h-1.8787v0.93934h1.8787v1.8787h0.93934v-1.8787h1.8787v-0.93934z" fill="#fff"/>
+    </g>
+    <path d="m13.47 6.745v13.47" fill="none" stroke="#fff" stroke-width="1px"/>
+    <path d="m6.735 13.48h13.47" fill="none" stroke="#fff" stroke-width="1px"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

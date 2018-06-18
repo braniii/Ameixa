@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,13 +75,11 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="translate(-8.9619e-5)" fill="#fff">
-            <g fill="#fff">
-                <path d="m11.562 9.8251v-1.1875h-1.1777v7.7186h8.2436v-7.7186h-1.1777v1.1875h-5.8883m1.1777-2.375a1.7665 1.7812 0 0 1 1.7665-1.7812 1.7665 1.7812 0 0 1 1.7665 1.7812h2.3553a1.1777 1.1875 0 0 1 1.1777 1.1875v7.7186a1.1777 1.1875 0 0 1-1.1777 1.1875h-8.2436a1.1777 1.1875 0 0 1-1.1777-1.1875v-7.7186a1.1777 1.1875 0 0 1 1.1777-1.1875h2.3553m1.7665-0.59374a0.58883 0.59374 0 0 0-0.58883 0.59374 0.58883 0.59374 0 0 0 0.58883 0.59374 0.58883 0.59374 0 0 0 0.58883-0.59374 0.58883 0.59374 0 0 0-0.58883-0.59374z"/>
-                <path d="m7.145 12.701v5.4141c0 0.80778 0.6512 1.459 1.459 1.459h9.4316c0.80778 0 1.457-0.6512 1.457-1.459v0.22513h-1.127v0.02635h-10.094v-5.6519h-1.0625c-0.02295 0-0.04184-0.0124-0.064453-0.01367z"/>
-            </g>
+    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(-8.9619e-5)" fill="#fff">
+        <g fill="#fff">
+            <path d="m11.562 9.8251v-1.1875h-1.1777v7.7186h8.2436v-7.7186h-1.1777v1.1875h-5.8883m1.1777-2.375a1.7665 1.7812 0 0 1 1.7665-1.7812 1.7665 1.7812 0 0 1 1.7665 1.7812h2.3553a1.1777 1.1875 0 0 1 1.1777 1.1875v7.7186a1.1777 1.1875 0 0 1-1.1777 1.1875h-8.2436a1.1777 1.1875 0 0 1-1.1777-1.1875v-7.7186a1.1777 1.1875 0 0 1 1.1777-1.1875h2.3553m1.7665-0.59374a0.58883 0.59374 0 0 0-0.58883 0.59374 0.58883 0.59374 0 0 0 0.58883 0.59374 0.58883 0.59374 0 0 0 0.58883-0.59374 0.58883 0.59374 0 0 0-0.58883-0.59374z"/>
+            <path d="m7.145 12.701v5.4141c0 0.80778 0.6512 1.459 1.459 1.459h9.4316c0.80778 0 1.457-0.6512 1.457-1.459v0.22513h-1.127v0.02635h-10.094v-5.6519h-1.0625c-0.02295 0-0.04184-0.0124-0.064453-0.01367z"/>
         </g>
     </g>
     <g display="none" fill="none">
