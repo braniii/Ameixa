@@ -87,6 +87,7 @@
 <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
 <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="audiofx"/>
 <item component="ComponentInfo{com.rascarlo.aurdroid/com.rascarlo.aurdroid.MainActivity}" drawable="aurdroid"/>
+<item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="aurora" />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.gecko.BrowserApp}" drawable="aurora" />
 <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}" drawable="aurora" />
@@ -203,6 +204,7 @@
 <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera2" />
 <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera2" />
 <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera2" />
+<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera2" />
 <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
 <item component="ComponentInfo{se.tube42.kidsmem.android/se.tube42.kidsmem.android.MainActivity}" drawable="candymemory" />
 <item component="ComponentInfo{com.jadn.cc/com.jadn.cc.ui.CarCast}" drawable="carcast" />
@@ -695,6 +697,7 @@
 <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.list.activity.MpMainTabActivity}" drawable="music" />
 <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}" drawable="music" />
 <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicBrowserTabActivity}" drawable="music" />
+<item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music" />
 <item component="ComponentInfo{org.mustard.android/org.mustard.android.activity.Mustard}" drawable="mustard" />
 <item component="ComponentInfo{org.mumod.android/org.mumod.android.activity.Mustard}" drawable="mustardmod" />
 <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
