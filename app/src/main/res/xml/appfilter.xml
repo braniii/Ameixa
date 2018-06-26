@@ -773,6 +773,8 @@
 <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey"/>
 <item component="ComponentInfo{org.gateshipone.malp/org.gateshipone.malp.application.activities.SplashActivity}" drawable="malp"/>
 <item component="ComponentInfo{org.openintents.shopping/org.openintents.shopping.ShoppingActivity}" drawable="oishoppinglist" />
+<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
+<item component="ComponentInfo{free.rm.skytube.extra/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
 <item component="ComponentInfo{it.feio.android.omninotes/it.feio.android.omninotes.MainActivity}" drawable="omninotes" />
 <item component="ComponentInfo{org.omnirom.omniswitch/org.omnirom.omniswitch.SettingsActivity}" drawable="omniswitch"/>
 <item component="ComponentInfo{com.onest8.onetimepad/com.onest8.onetimepad.MainActivity}" drawable="onetimepad"/>
