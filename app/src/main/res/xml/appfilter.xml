@@ -1420,6 +1420,8 @@
 <item component="ComponentInfo{cx.ring/cx.ring.launch.LaunchActivity}" drawable="ring"/>
 <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.MainActivity}" drawable="musicplayergo"/>
 <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}" drawable="duckduckgo"/>
+<item component="ComponentInfo{menion.android.whereyougo/menion.android.whereyougo.gui.activity.MainActivity}" drawable="whereyougo"/>
+<item component="ComponentInfo{de.ph1b.audiobook/.features.coldStart.SplashActivity}" drawable="voice"/>
 
 
 
