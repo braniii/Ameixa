@@ -1422,6 +1422,9 @@
 <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}" drawable="duckduckgo"/>
 <item component="ComponentInfo{menion.android.whereyougo/menion.android.whereyougo.gui.activity.MainActivity}" drawable="whereyougo"/>
 <item component="ComponentInfo{de.ph1b.audiobook/.features.coldStart.SplashActivity}" drawable="voice"/>
+<item component="ComponentInfo{com.simplemobiletools.camera/.activities.SplashActivity}" drawable="simplecamera"/>
+<item component="ComponentInfo{io.gitlab.allenb1.todolist/.TaskActivity}" drawable="taskeeper"/>
+<item component="ComponentInfo{com.cityzen.cityzen/com.cityzen.cityzen.Activities.SplashScreenActivity}" drawable="cityzen"/>
 
 
 
