@@ -1425,6 +1425,7 @@
 <item component="ComponentInfo{com.simplemobiletools.camera/.activities.SplashActivity}" drawable="simplecamera"/>
 <item component="ComponentInfo{io.gitlab.allenb1.todolist/.TaskActivity}" drawable="taskeeper"/>
 <item component="ComponentInfo{com.cityzen.cityzen/com.cityzen.cityzen.Activities.SplashScreenActivity}" drawable="cityzen"/>
+<item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.LauncherActivity}" drawable="hn" />
 
 
 
