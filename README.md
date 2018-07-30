@@ -1,6 +1,6 @@
 ![CI bagde](https://gitlab.com/xphnx/ameixa/badges/master/build.svg)
 
-Icon pack compatible with Trebuchet, Kiss Launcher , OpenLauncher, Adw and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons). Only [F-droid](https://f-droid.org/) hosted apps are supported.
+Icon pack compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons). Only [F-Droid](https://f-droid.org/) hosted apps are supported.
 
 
 # Contributions are welcome 
@@ -10,15 +10,15 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 #### What happens?
   
 * [ ] The activityname line is in [appfilter](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml)
-* [ ] The activityname has changed or is not in [appfilter](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml) --> Use [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit/) to find out the Activityname line to be include in appfilter.xml
+* [ ] The activityname has changed or is not in [appfilter](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml) --> Use [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit/) to find out the Activityname line to be included in appfilter.xml
 
 </br>
-* [ ] The icon is in [icons folder](https://gitlab.com/xphnx/ameixa/tree/master/icons)
-* [ ] The icon is in [todo/wip folder](https://gitlab.com/xphnx/ameixa/tree/master/todo/wip)
-* [ ] There is not the proper icon in todo/wip or icons --> Grab a [template](https://gitlab.com/xphnx/ameixa/tree/master/templates) and draw a new icon. (More [info](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home))
+* [ ] The icon is in the [icons folder](https://gitlab.com/xphnx/ameixa/tree/master/icons)
+* [ ] The icon is in the [todo/wip folder](https://gitlab.com/xphnx/ameixa/tree/master/todo/wip)
+* [ ] There is no proper icon in todo/wip or icons --> Grab a [template](https://gitlab.com/xphnx/ameixa/tree/master/templates) and draw a new icon. (More [info](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home))
 
 </br>
-* [ ] The icon file name and the drawable string into activityname line doesn't match --> Fix activityname
+* [ ] The icon file name and the drawable string in the activityname line doesn't match --> Fix activityname
 
 
 #### What to do?  (You have 4 options:)
@@ -49,11 +49,11 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 # Installation
 
 [![Get_it_on_F-Droid.svg](https://gitlab.com/xphnx/ameixa/raw/master/artwork/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.xphnx.ameixa)
-[![Get_the_apk.svg](https://gitlab.com/xphnx/ameixa/uploads/6d80e2e22d2fcbfd8ed320e58f4705e1/apk.png)](https://gitlab.com/xphnx/ameixa/-/jobs/53279637/artifacts/browse/app/build/outputs/apk/)
+[![Get_the_apk.svg](https://gitlab.com/xphnx/ameixa/uploads/6d80e2e22d2fcbfd8ed320e58f4705e1/apk.png)](https://gitlab.com/xphnx/ameixa/-/jobs/85252526/artifacts/browse/app/build/outputs/apk/)
 
 
 # License
 
 <img src="https://gnu.org/graphics/gplv3-127x51.png" />
 
-[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/ameixa/blob/master/CREDITS.md) for more details)
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/ameixa/blob/master/CREDITS.md) for more details)
