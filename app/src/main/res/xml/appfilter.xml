@@ -41,6 +41,7 @@
 <item component="ComponentInfo{com.jparkie.aizoban/com.jparkie.aizoban.views.activities.SplashActivity}" drawable="aizoban" />
 <item component="ComponentInfo{org.jtb.alogcat/org.jtb.alogcat.LogActivity}" drawable="alogcat" />
 <item component="ComponentInfo{rs.pedjaapps.alogcatroot.app/rs.pedjaapps.alogcatroot.app.LogActivity}" drawable="alogcatroot" />
+<item component="ComponentInfo{eu.uwot.fabio.altcoinprices/eu.uwot.fabio.altcoinprices.LoadingActivity}" drawable="altcoin"/>
 <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze" />
 <item component="ComponentInfo{org.ametro/org.ametro.ui.activities.Map}" drawable="ametro" />
 <item component="ComponentInfo{org.ametro/org.ametro.ui.MapViewActivity}" drawable="ametro" />
@@ -71,6 +72,8 @@
 <item component="ComponentInfo{org.thialfihar.android.apg/org.thialfihar.android.apg.ui.KeyListActivity}" drawable="apg" />
 <item component="ComponentInfo{axp.tool.apkextractor/axp.tool.apkextractor.MainActivity}" drawable="apkextractor" />
 <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.ApkTrack.MainActivity}" drawable="apktrack" />
+<item component="ComponentInfo{com.jvillalba.apod.classic/com.jvillalba.apod.classic.activities.MainActivity}" drawable="apod"/>
+<item component="ComponentInfo{com.jvillalba.apod.md/com.jvillalba.apod.md.activities.MainActivity}" drawable="apod"/>
 <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="applicationsinfo" />
 <item component="ComponentInfo{com.android.settings/com.android.settings.ApplicationSettings}" drawable="apps" />
 <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
@@ -410,6 +413,7 @@
 <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
 <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid" />
 <item component="ComponentInfo{free.yhc.feeder/free.yhc.feeder.FeederActivity}" drawable="feedhive" />
+<item component="ComponentInfo{com.enjoyingfoss.feeel/com.enjoyingfoss.feeel.view.CoverActivity}" drawable="feel"/>
 <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="fennec" />
 <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="fennec" />
 <item component="ComponentInfo{com.btmura.android.reddit/com.btmura.android.reddit.MainActivity}" drawable="ffreddit" />
@@ -1044,8 +1048,10 @@
 <item component="ComponentInfo{com.shadcat.secdroid/com.shadcat.secdroid.MainActivity}" drawable="secdroid" />
 <item component="ComponentInfo{com.doplgangr.secrecy/com.doplgangr.secrecy.Views.DummyViews.LauncherActivity_}" drawable="secrecy" />
 <item component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.MainActivity}" drawable="secscanqr"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlydame/org.secuso.privacyfriendlydame.ui.SplashActivity}" drawable="secusodame"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlydicer/org.secuso.privacyfriendlydicer.SplashActivity}" drawable="secusodice"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlyyahtzeedicer/org.secuso.privacyfriendlydicegame.SplashActivity}" drawable="secusodicegame"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlyludo/org.secuso.privacyfriendlyludo.activities.SplashActivity}" drawable="secusoludo"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlymemory/org.secuso.privacyfriendlymemory.ui.SplashActivity}" drawable="secusomemory"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlynotes/org.secuso.privacyfriendlynotes.SplashActivity}" drawable="secusonotes"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlypaindiary/org.secuso.privacyfriendlypaindiary.activities.SplashActivity}" drawable="secusopaindiary"/>
@@ -1053,9 +1059,11 @@
 <item component="ComponentInfo{org.secuso.privacyfriendlypin/org.secuso.privacyfriendlypinmnemonic.SplashActivity}" drawable="secusopin"/>
 <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.SplashActivity}" drawable="secusoqr"/>
 <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}" drawable="secusoqr" />
+<item component="ComponentInfo{org.secuso.privacyfriendlyrecknoningskills/org.secuso.privacyfriendlyreckoningskills.activities.SplashActivity}" drawable="secusorecknoning"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlyruler/org.secuso.privacyfriendlyruler.activities.SplashActivity}" drawable="secusoruler"/>
 <item component="ComponentInfo{privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.main.SplashActivity}" drawable="secusoshoppinglist"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlysudoku/org.secuso.privacyfriendlysudoku.ui.SplashActivity}" drawable="secusosudoku"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlyintervaltimer/org.secuso.privacyfriendlyintervaltimer.activities.SplashActivity}" drawable="secusotimer"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlytodolist/org.secuso.privacyfriendlytodolist.view.SplashActivity}" drawable="secusotodo"/>
 <item component="ComponentInfo{org.secuso.privacyfriendlycardgameone/org.secuso.privacyfriendlywerwolf.activity.SplashActivity}" drawable="secusowerwolf"/>
 <item component="ComponentInfo{mobi.omegacentauri.SendReduced/mobi.omegacentauri.SendReduced.Options}" drawable="sendreduced" />
@@ -1287,6 +1295,7 @@
 <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.FullPlaybackActivity}" drawable="vanillamusic" />
 <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanillamusic" />
 <item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vectorpinball" />
+<item component="ComponentInfo{pro.rudloff.openvegemap/pro.rudloff.openvegemap.MainActivity}" drawable="vegemap"/>
 <item component="ComponentInfo{de.blau.android/de.blau.android.Main}" drawable="vespucci" />
 <item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci"/>
 <item component="ComponentInfo{com.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="videoeditor" />
