@@ -25,7 +25,7 @@ before_script:
 stages:
   - test
   - build
-  -release
+  - release
 
 unitTests:
   stage: test
