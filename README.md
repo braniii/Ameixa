@@ -1,7 +1,6 @@
 ![CI bagde](https://gitlab.com/xphnx/ameixa/badges/master/build.svg)
 
-Icon pack compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons). Only [F-Droid](https://f-droid.org/) hosted apps are supported.
-
+Icon pack compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw, and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons). Only [F-Droid](https://f-droid.org/) hosted apps are supported.
 
 # Contributions are welcome 
 
@@ -47,10 +46,14 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 -->
 
 # Installation
-
-[![Get_it_on_F-Droid.svg](https://fdroid.gitlab.io/artwork/badge/get-it-on.png)](https://f-droid.org/app/org.xphnx.ameixa)
-[![Get_the_apk.svg](https://gitlab.com/xphnx/ameixa/uploads/6d80e2e22d2fcbfd8ed320e58f4705e1/apk.png)](https://gitlab.com/xphnx/ameixa/-/jobs/85391706/artifacts/browse/app/build/outputs/apk/)
-
+<a href="https://f-droid.org/app/org.xphnx.ameixa">
+    <img src="https://f-droid.org/badge/get-it-on.png"
+    alt="Get it on F-Droid" height="80">
+</a>
+<a href="https://gitlab.com/xphnx/ameixa/-/jobs/86232495/artifacts/file/app/build/outputs/apk/debug/app-debug.apk">
+    <img src="https://gitlab.com/xphnx/ameixa/uploads/6d80e2e22d2fcbfd8ed320e58f4705e1/apk.png"
+    alt="Download debug apk" height="80">
+</a>
 
 # License
 

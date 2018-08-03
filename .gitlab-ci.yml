@@ -34,6 +34,7 @@ unitTests:
 build:
   stage: build
   script:
+    - ./gradlew assembleRelease
     - ./gradlew assembleDebug
   artifacts:
     paths:

@@ -6,6 +6,6 @@ class IceScreenUtils {
 
     static float densityScale(Context context) {
 
-        return ( context.getResources().getDisplayMetrics().density );
+        return (context.getResources().getDisplayMetrics().density);
     }
 }
