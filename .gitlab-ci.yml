@@ -25,6 +25,7 @@ before_script:
 stages:
   - test
   - build
+  - release
 
 unitTests:
   stage: test
@@ -34,8 +35,17 @@ unitTests:
 build:
   stage: build
   script:
-    - ./gradlew assembleRelease
     - ./gradlew assembleDebug
   artifacts:
     paths:
     - app/build/outputs/
+    - build/logs/
+
+release:
+  stage: release
+  script:
+    - ./gradlew assembleRelease
+  artifacts:
+    paths:
+    - app/build/outputs/
+    - build/logs/
