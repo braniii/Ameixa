@@ -3,7 +3,7 @@ image: openjdk:8-jdk
 
 variables:
   ANDROID_COMPILE_SDK: "28"
-  ANDROID_BUILD_TOOLS: "28.0.1"
+  ANDROID_BUILD_TOOLS: "28.0.2"
   ANDROID_SDK_TOOLS: "4333796"
 
 before_script:
@@ -25,7 +25,6 @@ before_script:
 stages:
   - test
   - build
-  - release
 
 unitTests:
   stage: test
@@ -36,14 +35,6 @@ build:
   stage: build
   script:
     - ./gradlew assembleDebug
-  artifacts:
-    paths:
-    - app/build/outputs/
-    - build/logs/
-
-release:
-  stage: release
-  script:
     - ./gradlew assembleRelease
   artifacts:
     paths:
