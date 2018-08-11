@@ -1,4 +1,4 @@
-![CI bagde](https://gitlab.com/xphnx/ameixa/badges/master/build.svg)
+![CI badge](https://gitlab.com/xphnx/ameixa/badges/master/build.svg)
 
 Icon pack compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw, and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons). Only [F-Droid](https://f-droid.org/) hosted apps are supported.
 
