@@ -14,7 +14,6 @@ public class LicenseActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
         createLayout();
     }
@@ -22,7 +21,6 @@ public class LicenseActivity extends AppCompatActivity {
     private void createLayout() {
 
         // main centered layout
-
         LinearLayout.LayoutParams smallLayoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
         float scale = IceScreenUtils.densityScale(getApplicationContext());
         int padding = Math.round(64 * scale);
@@ -40,7 +38,6 @@ public class LicenseActivity extends AppCompatActivity {
         frameLayout.addView(baseLayout);
 
         // gpl button
-
         LinearLayout sourceLayout = new LinearLayout(this);
         sourceLayout.setOrientation(LinearLayout.HORIZONTAL);
         sourceLayout.setLayoutParams(smallLayoutParams);
@@ -52,7 +49,7 @@ public class LicenseActivity extends AppCompatActivity {
         sourceClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         sourceClickLayout.setGravity(Gravity.CENTER);
         sourceLayout.addView(sourceClickLayout);
-        sourceClickLayout.setOnClickListener((View v) -> gplLink(v));
+        sourceClickLayout.setOnClickListener(this::gplLink);
 
         TextView sourceText = new TextView(this);
         sourceText.setText(R.string.codelicense);
@@ -62,7 +59,6 @@ public class LicenseActivity extends AppCompatActivity {
         sourceClickLayout.addView(sourceText);
 
         // cc button
-
         LinearLayout imgLayout = new LinearLayout(this);
         imgLayout.setOrientation(LinearLayout.HORIZONTAL);
         imgLayout.setLayoutParams(smallLayoutParams);
@@ -75,7 +71,7 @@ public class LicenseActivity extends AppCompatActivity {
         imgClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         imgClickLayout.setGravity(Gravity.CENTER);
         imgLayout.addView(imgClickLayout);
-        imgClickLayout.setOnClickListener((View v) -> ccLink(v));
+        imgClickLayout.setOnClickListener(this::ccLink);
 
         TextView aboutText = new TextView(this);
         aboutText.setText(R.string.imageslicense);
@@ -86,14 +82,12 @@ public class LicenseActivity extends AppCompatActivity {
     }
 
     public void gplLink(View v) {
-
         Uri uri = Uri.parse(getString(R.string.urlgplv3));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
 
     public void ccLink(View v) {
-
         Uri uri = Uri.parse(getString(R.string.urlccbysa4));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);

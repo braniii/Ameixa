@@ -4,8 +4,7 @@ import android.content.Context;
 
 class IceScreenUtils {
 
-    static float densityScale(Context context) {
-
-        return (context.getResources().getDisplayMetrics().density);
+    static float densityScale(Context c) {
+        return (c.getResources().getDisplayMetrics().density);
     }
 }

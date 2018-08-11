@@ -107,9 +107,9 @@ class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
     Resources res;
     int resId, width, height;
 
-    public BitmapWorkerTask(ImageView imageView) {
+    BitmapWorkerTask(ImageView imageView) {
 
-        imageViewReference = new WeakReference<ImageView>(imageView);
+        imageViewReference = new WeakReference<>(imageView);
     }
 
     // Decode image in background
@@ -125,7 +125,7 @@ class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
     @Override
     protected void onPostExecute(Bitmap bitmap) {
 
-        if (imageViewReference != null && bitmap != null) {
+        if (bitmap != null) {
 
             final ImageView imageView = imageViewReference.get();
 

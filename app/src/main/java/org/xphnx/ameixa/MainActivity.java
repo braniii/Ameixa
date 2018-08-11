@@ -3,9 +3,9 @@ package org.xphnx.ameixa;
 import android.content.Intent;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
+import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
         createLayout();
     }
@@ -55,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         sourceClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         sourceClickLayout.setGravity(Gravity.CENTER);
         sourceLayout.addView(sourceClickLayout);
-        sourceClickLayout.setOnClickListener((View v) -> gitLink(v));
+        sourceClickLayout.setOnClickListener(this::gitLink);
 
         Button sourceButton = new Button(this);
         sourceButton.setLayoutParams(buttonParams);
@@ -83,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         aboutClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         aboutClickLayout.setGravity(Gravity.CENTER);
         aboutLayout.addView(aboutClickLayout);
-        aboutClickLayout.setOnClickListener((View v) -> licenseShow(v));
+        aboutClickLayout.setOnClickListener(this::licenseShow);
 
         Button aboutButton = new Button(this);
         aboutButton.setLayoutParams(buttonParams);
@@ -100,7 +99,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void gitLink(View v) {
-
         Uri uri = Uri.parse(getString(R.string.sourcecodelink));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);

@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Ameixa</string>
-    <string name="sourcecodetext">Código fuente</string>
-    <string name="licensetext">licencia</string>
+    <string name="sourcecodetext">Código Fuente</string>
+    <string name="licensetext">Licencia</string>
     <string name="sourcecodelink">https://gitlab.com/xphnx/ameixa</string>
     <string name="codelicense">El código fuente de este programa está disponible bajo la GNU General Public License v3.</string>
-    <string name="imageslicense">Las imágenes incluidas en este programa están disponibles bajo la licencia Creative Commons Attribution Share Alike 4.0, excepto para aquellos trabajos derivados que no sean compatibles con la misma. (Ver Créditos).</string>
-    <string name="urlgplv3">http://choosealicense.com/licenses/gpl-3.0/</string>
-    <string name="urlccbysa4">https://creativecommons.org/licenses/by-sa/4.0/</string>
+    <string name="imageslicense">Las imágenes incluidas en este programa están disponibles bajo la licencia Creative Commons Attribution Share Alike 4.0, excepto para aquellos trabajos derivados que no sean compatibles con la misma. (ver créditos).</string>
+    <string name="urlgplv3">https://choosealicense.com/licenses/gpl-3.0</string>
+    <string name="urlccbysa4">https://creativecommons.org/licenses/by-sa/4.0</string>
     <!-- <bool name="config_iconpack">true</bool>-->
 </resources>
 
