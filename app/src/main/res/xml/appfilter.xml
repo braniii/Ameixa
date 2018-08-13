@@ -212,6 +212,7 @@
 <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
 <item component="ComponentInfo{us.lindanrandy.cidrcalculator/us.lindanrandy.cidrcalculator.CIDRCalculator}" drawable="cidrcalc" />
 <item component="ComponentInfo{de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog}" drawable="clementineremote" />
+<item component="ComponentInfo{de.qspool.clementineremote/.ui.ConnectActivity}" drawable="clementineremote" />
 <item component="ComponentInfo{de.ub0r.android.clipboardbeam/de.ub0r.android.clipboardbeam.MainActivity}" drawable="clipboardbeam" />
 <item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/com.catchingnow.tinyclipboardmanager.ActivityMain}" drawable="clipstack" />
 <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="clock" />
@@ -764,6 +765,7 @@
 <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
 <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey"/>
 <item component="ComponentInfo{org.gateshipone.malp/org.gateshipone.malp.application.activities.SplashActivity}" drawable="malp"/>
+<item component="ComponentInfo{org.gateshipone.malp/.application.activities.SplashActivity}" drawable="malp"/>
 <item component="ComponentInfo{org.openintents.shopping/org.openintents.shopping.ShoppingActivity}" drawable="oishoppinglist" />
 <item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
 <item component="ComponentInfo{free.rm.skytube.extra/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
@@ -1276,6 +1278,7 @@
 <item component="ComponentInfo{org.secfirst.umbrella/org.secfirst.umbrella.MainActivity}" drawable="umbrella" />
 <item component="ComponentInfo{org.madore.android.unicodeMap/org.madore.android.unicodeMap.UnicodeMapActivity}" drawable="unicodemap" />
 <item component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}" drawable="unote"/>
+<item component="ComponentInfo{app.varlorg.unote/.NoteMain}" drawable="unote"/>
 <item component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}" drawable="usbmountr" />
 <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.FullPlaybackActivity}" drawable="vanillamusic" />
 <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanillamusic" />
@@ -1284,6 +1287,7 @@
 <item component="ComponentInfo{de.blau.android/de.blau.android.Main}" drawable="vespucci" />
 <item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci"/>
 <item component="ComponentInfo{com.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="videoeditor" />
+<item component="ComponentInfo{protect.videotranscoder/.activity.MainActivity}" drawable="videotranscoder" />
 <item component="ComponentInfo{net.momodalo.app.vimtouch/net.momodalo.app.vimtouch.VimTouch}" drawable="vimtouch" />
 <item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="visualbitcoin" />
 <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
@@ -1425,6 +1429,9 @@
 <item component="ComponentInfo{io.gitlab.allenb1.todolist/.TaskActivity}" drawable="taskeeper"/>
 <item component="ComponentInfo{com.cityzen.cityzen/com.cityzen.cityzen.Activities.SplashScreenActivity}" drawable="cityzen"/>
 <item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.LauncherActivity}" drawable="hn" />
+
+<item component="ComponentInfo{com.orpheusdroid.screenrecorder/.MainActivity}" drawable="screencam" />
+<item component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" drawable="wlanscanner" />
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
