@@ -1429,9 +1429,11 @@
 <item component="ComponentInfo{io.gitlab.allenb1.todolist/.TaskActivity}" drawable="taskeeper"/>
 <item component="ComponentInfo{com.cityzen.cityzen/com.cityzen.cityzen.Activities.SplashScreenActivity}" drawable="cityzen"/>
 <item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.LauncherActivity}" drawable="hn" />
-
 <item component="ComponentInfo{com.orpheusdroid.screenrecorder/.MainActivity}" drawable="screencam" />
 <item component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" drawable="wlanscanner" />
+<item component="ComponentInfo{atm.nasaimages/.main.MainActivity}" drawable="nasaimages" />
+<item component="ComponentInfo{de.schildbach.oeffi/.stations.StationsActivity}" drawable="oeffi" />
+<item component="ComponentInfo{com.gitlab.kreikenbaum.suntime/.SunTimeActivity}" drawable="suntime" />
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
