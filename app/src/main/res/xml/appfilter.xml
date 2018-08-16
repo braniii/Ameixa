@@ -1432,8 +1432,10 @@
 <item component="ComponentInfo{com.orpheusdroid.screenrecorder/.MainActivity}" drawable="screencam" />
 <item component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" drawable="wlanscanner" />
 <item component="ComponentInfo{atm.nasaimages/.main.MainActivity}" drawable="nasaimages" />
-<item component="ComponentInfo{de.schildbach.oeffi/.stations.StationsActivity}" drawable="oeffi" />
 <item component="ComponentInfo{com.gitlab.kreikenbaum.suntime/.SunTimeActivity}" drawable="suntime" />
+<item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.directions.DirectionsActivity}" drawable="oeffidirections"/>
+<item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity}" drawable="oeffiplans"/>
+<item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations"/>
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
