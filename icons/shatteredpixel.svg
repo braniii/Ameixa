@@ -76,8 +76,14 @@
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
     <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-    <path d="m7.8427 8.1252c-0.6244 0-1.1296 0.5052-1.1296 1.1296v8.4405c0 0.6244 0.50519 1.1296 1.1296 1.1296h11.265c0.6244 0 1.1296-0.5052 1.1296-1.1296v-8.4405c0-0.6244-0.50519-1.1296-1.1296-1.1296h-11.265zm0 1.1296h4.5184v2.8239h-1.6944v1.6944h-2.824v-4.5183zm6.7462 0h4.5184v4.5183h-2.824v-1.6944h-1.6944v-2.8239zm-2.2278 4.5183h2.2278v1.6944h-2.2278v-1.6944zm-4.5184 1.6944h2.824v1.663h5.6166v-1.663h2.824v2.2278h-11.265v-2.2278z" fill="#fff"/>
     <g display="none" fill="none">
+        <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
+        <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+        <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+    </g>
+    <flowRoot transform="translate(-57.463 -1.975)" fill="#008000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion fill="#008000"><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#008000"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <path d="m7.843 6.9811c-0.6244 0-1.1309 0.50451-1.1309 1.1289v10.73c0 0.6244 0.50646 1.1289 1.1309 1.1289h11.264c0.62441 0 1.1309-0.50451 1.1309-1.1289v-10.73c0-0.6244-0.50645-1.1289-1.1309-1.1289zm0 1.1289h4.8809v3.7305h-1.5v1.502h-3.3809v-0.71484zm6.3828 0h4.8809v5.2324h-3.3809v-1.502h-1.5zm-1.502 5.2324h1.502v1.5h-1.502zm-4.8809 1.5h3.3809v1.5h1.5v2.498h-4.8809zm7.8828 0h3.3809v3.998h-4.8809v-2.498h1.5v-0.55859z" fill="#fff"/>
+    <g transform="translate(-35.151 -5.7802)" display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
         <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

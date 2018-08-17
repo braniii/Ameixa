@@ -1436,6 +1436,7 @@
 <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.directions.DirectionsActivity}" drawable="oeffidirections"/>
 <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity}" drawable="oeffiplans"/>
 <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations"/>
+<item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />

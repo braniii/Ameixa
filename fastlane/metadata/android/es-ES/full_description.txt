@@ -1,2 +1,2 @@
-Pack de iconos compatible con Kiss Launcher, OpenLauncher, ADW y muchos otros launchers. Los iconos siguen las directrices de Material Design con el fin de proporcionar un aspecto minimalista y unificado a tu dispositivo.
-Solo se da soporte a apps con licencia FLOSS. Para añadir nuevos iconos visita [Readme](https://gitlab.com/xphnx/ameixa/blob/master/README.md)
+Pack de iconos compatible con KISS Launcher, OpenLauncher, Lawnchair Launcher, ADW, y muchos otros lanzadores. Los iconos siguen las directrices de Material Design, con el fin de proporcionar un aspecto minimalista y unificado a tu dispositivo.
+Solo se admiten aplicaciones FLOSS. Para añadir nuevos iconos, visita <a href="https://gitlab.com/xphnx/ameixa/blob/master/README.md">README</a>.
