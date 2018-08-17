@@ -351,6 +351,7 @@
     <item drawable="lumicall" />
     <item drawable="mahjonggbuilder" />
     <item drawable="mail" />
+    <item drawable="malp" />
     <item drawable="manman" />
     <item drawable="mapsme" />
     <item drawable="marblemaps" />
@@ -409,6 +410,7 @@
     <item drawable="mythmote" />
     <item drawable="mytronome" />
     <item drawable="narau" />
+    <item drawable="nasaimages" />
     <item drawable="navit" />
     <item drawable="netguard" />
     <item drawable="netmbuddy" />
@@ -440,6 +442,9 @@
     <item drawable="ocreader" />
     <item drawable="octodroid" />
     <item drawable="odyssey" />
+    <item drawable="oeffidirections" />
+    <item drawable="oeffiplans" />
+    <item drawable="oeffistations" />
     <item drawable="oishoppinglist" />
     <item drawable="omninotes" />
     <item drawable="omniswitch" />
@@ -562,6 +567,7 @@
     <item drawable="schessclock" />
     <item drawable="scid" />
     <item drawable="scrabble" />
+    <item drawable="screencam" />
     <item drawable="screencast" />
     <item drawable="screennotifications" />
     <item drawable="scummvm" />
@@ -653,6 +659,7 @@
     <item drawable="sudokufree" />
     <item drawable="sudoq" />
     <item drawable="sudowars" />
+    <item drawable="suntime" />
     <item drawable="supertuxkart" />
     <item drawable="superuser" />
     <item drawable="survivalmanual" />
@@ -732,12 +739,14 @@
     <item drawable="ukweather" />
     <item drawable="umbrella" />
     <item drawable="unicodemap" />
+    <item drawable="unote" />
     <item drawable="usbmountr" />
     <item drawable="vanillamusic" />
     <item drawable="vectorpinball" />
     <item drawable="vegemap" />
     <item drawable="vespucci" />
     <item drawable="videoeditor" />
+    <item drawable="videotranscoder" />
     <item drawable="vimtouch" />
     <item drawable="visualbitcoin" />
     <item drawable="vlc" />
@@ -778,6 +787,7 @@
     <item drawable="wiktionary" />
     <item drawable="wireapp" />
     <item drawable="wisperpush" />
+    <item drawable="wlanscanner" />
     <item drawable="wordpress" />
     <item drawable="worktime" />
     <item drawable="worldclock" />

@@ -351,6 +351,7 @@
         <item>lumicall</item>
         <item>mahjonggbuilder</item>
         <item>mail</item>
+        <item>malp</item>
         <item>manman</item>
         <item>mapsme</item>
         <item>marblemaps</item>
@@ -409,6 +410,7 @@
         <item>mythmote</item>
         <item>mytronome</item>
         <item>narau</item>
+        <item>nasaimages</item>
         <item>navit</item>
         <item>netguard</item>
         <item>netmbuddy</item>
@@ -440,6 +442,9 @@
         <item>ocreader</item>
         <item>octodroid</item>
         <item>odyssey</item>
+        <item>oeffidirections</item>
+        <item>oeffiplans</item>
+        <item>oeffistations</item>
         <item>oishoppinglist</item>
         <item>omninotes</item>
         <item>omniswitch</item>
@@ -562,6 +567,7 @@
         <item>schessclock</item>
         <item>scid</item>
         <item>scrabble</item>
+        <item>screencam</item>
         <item>screencast</item>
         <item>screennotifications</item>
         <item>scummvm</item>
@@ -653,6 +659,7 @@
         <item>sudokufree</item>
         <item>sudoq</item>
         <item>sudowars</item>
+        <item>suntime</item>
         <item>supertuxkart</item>
         <item>superuser</item>
         <item>survivalmanual</item>
@@ -732,12 +739,14 @@
         <item>ukweather</item>
         <item>umbrella</item>
         <item>unicodemap</item>
+        <item>unote</item>
         <item>usbmountr</item>
         <item>vanillamusic</item>
         <item>vectorpinball</item>
         <item>vegemap</item>
         <item>vespucci</item>
         <item>videoeditor</item>
+        <item>videotranscoder</item>
         <item>vimtouch</item>
         <item>visualbitcoin</item>
         <item>vlc</item>
@@ -778,6 +787,7 @@
         <item>wiktionary</item>
         <item>wireapp</item>
         <item>wisperpush</item>
+        <item>wlanscanner</item>
         <item>wordpress</item>
         <item>worktime</item>
         <item>worldclock</item>
