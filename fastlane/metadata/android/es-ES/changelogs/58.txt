@@ -1,1 +1,3 @@
-* Notas: Un TON de actualizaciones de compatibilidad, y un tamaño de APK muy reducido al eliminar nodpi (gracias TacoTheDank y dkanada).
+* Un montón de actualizaciones de compatibilidad, optimizaciones y mantenimiento (gracias a TacoTheDank).
+* Cambios en el estilo, reintroducción de la pantalla de iconos, reducción del tamaño del APK y algunas correcciones de iconos (gracias a dkanada - Frost Icon Pack).
+* Se añaden más iconos.
