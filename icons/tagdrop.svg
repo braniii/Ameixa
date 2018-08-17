@@ -85,9 +85,4 @@
         <path d="m16.625 7.9221v4.3288h4.3288v-4.3288zm1.4429 1.4429h1.4429v1.4429h-1.4429z" stroke-width="1.0494"/>
         <path d="m16.625 16.58v4.3288h4.3288v-4.3288zm1.4429 1.4429h1.4429v1.4429h-1.4429z" stroke-width="1.0494"/>
     </g>
-    <g fill="none">
-        <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" stroke="#000" stroke-width=".070382"/>
-        <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
-        <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
-    </g>
 </svg>

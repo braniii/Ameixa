@@ -1,0 +1,1 @@
+* Notes: A TON of compatibility updates, and greatly reduced APK size by removing nodpi (thank you TacoTheDank and dkanada).

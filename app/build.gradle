@@ -7,19 +7,14 @@ android {
         applicationId "org.xphnx.ameixa"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 57
-        versionName "3.1.7"
+        versionCode 58
+        versionName "3.1.8"
     }
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-
-/*    lintOptions {
-        checkReleaseBuilds false
-        abortOnError false
-    } */
 
     buildTypes {
         release {
@@ -33,7 +28,6 @@ android {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
     testImplementation 'junit:junit:4.12'
     implementation 'com.android.support:appcompat-v7:28.0.0-rc01'
 }

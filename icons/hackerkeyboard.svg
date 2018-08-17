@@ -75,7 +75,7 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g letter-spacing="0px" word-spacing="0px">
+    <g transform="translate(-1.8813 .63808)" letter-spacing="0px" word-spacing="0px">
         <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" stroke-width="1.0667px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
         <text transform="scale(.92502 1.0811)" x="7.0878429" y="16.655981" fill="#ffffff" font-family="sans-serif" font-size="11.054px" stroke-width=".11584" style="line-height:1.25" xml:space="preserve"><tspan x="7.0878429" y="16.655981" fill="#ffffff" font-family="'Ubuntu Mono'" font-weight="bold" stroke-width=".11584">Esc</tspan></text>
     </g>
