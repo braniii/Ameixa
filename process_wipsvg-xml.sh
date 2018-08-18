@@ -14,9 +14,7 @@ N=$(basename $SVG .svg)
 		app/src/main/res/drawable-xxhdpi/$N.png
 	inkscape -f $SVG -w 192 -h 192 -e \
 		app/src/main/res/drawable-xxxhdpi/$N.png
-	inkscape -f $SVG -w 384 -h 384 -e \
-		app/src/main/res/drawable-nodpi/nodpi_$N.png
-  cp ${SVG} ${SVG}.tmp
+cp ${SVG} ${SVG}.tmp
   scour --remove-descriptive-elements --enable-id-stripping --enable-viewboxing --enable-comment-stripping --nindent=4 -i ${SVG}.tmp -o ${SVG}
   rm ${SVG}.tmp
 	mv $SVG icons
