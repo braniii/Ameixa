@@ -1438,6 +1438,13 @@
 <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations"/>
 <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
 
+<item component="ComponentInfo{org.openhab.habdroid/org.openhab.habdroid.ui.OpenHABMainActivity}" drawable="openhab" />
+<item component="ComponentInfo{org.thosp.yourlocalweather/.MainActivity}" drawable="localweather" />
+<item component="ComponentInfo{ryey.easer/.core.ui.MainActivity}" drawable="easer" />
+
+<!-- <item component="ComponentInfo{}" drawable="" />   -->
+
+
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
