@@ -1442,7 +1442,13 @@
 <item component="ComponentInfo{org.thosp.yourlocalweather/.MainActivity}" drawable="localweather" />
 <item component="ComponentInfo{ryey.easer/.core.ui.MainActivity}" drawable="easer" />
 
-<!-- <item component="ComponentInfo{}" drawable="" />   -->
+<item component="ComponentInfo{com.dragons.aurora/.activities.AuroraActivity}" drawable="aurorastore" />
+<item component="ComponentInfo{com.tmendes.birthdaydroid/.MainActivity}" drawable="birthdaydroid" />
+<item component="ComponentInfo{de.baumann.browser.Ninja/de.baumann.browser.Activity.BrowserActivity}" drawable="fossbrowser" />
+<!-- Must be added <item component="ComponentInfo{com.github.axet.maps/}" drawable="maps" /> -->
+<item component="ComponentInfo{com.cgogolin.penandpdf/PenAndPDFActivity}" drawable="penandpdf" />
+<item component="ComponentInfo{de.grobox.transportr/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
+<!-- Must be fixed <item component="ComponentInfo{com.x8bit.bitwarden/}" drawable="bitwarden" /> -->
 
 
     <!-- Nova Launcher specific -->
