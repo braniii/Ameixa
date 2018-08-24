@@ -39,4 +39,3 @@ build:
   artifacts:
     paths:
     - app/build/outputs/
-    - build/logs/
