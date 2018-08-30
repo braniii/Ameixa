@@ -56,7 +56,7 @@ public class LicenseActivity extends BaseActivity {
 
         TextView sourceText = new TextView(this);
         sourceText.setText(R.string.codelicense);
-        sourceText.setTextSize(24);
+        sourceText.setTextSize(18);
         sourceText.setTextColor(getResources().getColor(R.color.textLight));
         sourceText.setPadding(padding, padding, padding, padding);
         sourceClickLayout.addView(sourceText);
@@ -78,7 +78,7 @@ public class LicenseActivity extends BaseActivity {
 
         TextView imgText = new TextView(this);
         imgText.setText(R.string.imageslicense);
-        imgText.setTextSize(24);
+        imgText.setTextSize(18);
         imgText.setTextColor(getResources().getColor(R.color.textDark));
         imgText.setPadding(padding, padding, padding, padding);
         imgClickLayout.addView(imgText);
