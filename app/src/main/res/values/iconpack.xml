@@ -35,6 +35,7 @@
         <item>anymemo</item>
         <item>apg</item>
         <item>apkextractor</item>
+        <item>apkmirror</item>
         <item>apktrack</item>
         <item>apod</item>
         <item>applicationsinfo</item>
@@ -49,6 +50,7 @@
         <item>atomic</item>
         <item>audiofx</item>
         <item>aurdroid</item>
+        <item>aurorastore</item>
         <item>aurora</item>
         <item>authenticator</item>
         <item>autoairplanemode</item>
@@ -64,6 +66,7 @@
         <item>behekeyboard</item>
         <item>bipolalarm</item>
         <item>birthdayadapter</item>
+        <item>birthdaydroid</item>
         <item>bitcoin</item>
         <item>bitconium</item>
         <item>bites</item>
@@ -198,6 +201,7 @@
         <item>duckduckgo</item>
         <item>dumbphoneassistant</item>
         <item>dvfont</item>
+        <item>easer</item>
         <item>easydice</item>
         <item>easytoken</item>
         <item>easyxkcd</item>
@@ -242,6 +246,7 @@
         <item>forkhub</item>
         <item>forrunners</item>
         <item>fortunes</item>
+        <item>fossbrowser</item>
         <item>freeminer</item>
         <item>freeshisen</item>
         <item>friendica</item>
@@ -341,6 +346,7 @@
         <item>listmyapps</item>
         <item>lkeyboard</item>
         <item>localcalendar</item>
+        <item>localweather</item>
         <item>locationprivacy</item>
         <item>lockclock</item>
         <item>logcat</item>
@@ -354,6 +360,7 @@
         <item>malp</item>
         <item>manman</item>
         <item>mapsme</item>
+        <item>maps</item>
         <item>marblemaps</item>
         <item>markdownview</item>
         <item>markers</item>
@@ -455,6 +462,7 @@
         <item>opendocumentreader</item>
         <item>openexplorer</item>
         <item>openflood</item>
+        <item>openhab</item>
         <item>openimgur</item>
         <item>openkeychain</item>
         <item>openlauncher</item>
@@ -499,6 +507,7 @@
         <item>pdfreader</item>
         <item>pedometer2</item>
         <item>pedometer</item>
+        <item>penandpdf</item>
         <item>performancecontrol</item>
         <item>periodical</item>
         <item>persiancalendar</item>

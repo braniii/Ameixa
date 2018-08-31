@@ -35,6 +35,7 @@
     <item drawable="anymemo" />
     <item drawable="apg" />
     <item drawable="apkextractor" />
+    <item drawable="apkmirror" />
     <item drawable="apktrack" />
     <item drawable="apod" />
     <item drawable="applicationsinfo" />
@@ -49,6 +50,7 @@
     <item drawable="atomic" />
     <item drawable="audiofx" />
     <item drawable="aurdroid" />
+    <item drawable="aurorastore" />
     <item drawable="aurora" />
     <item drawable="authenticator" />
     <item drawable="autoairplanemode" />
@@ -64,6 +66,7 @@
     <item drawable="behekeyboard" />
     <item drawable="bipolalarm" />
     <item drawable="birthdayadapter" />
+    <item drawable="birthdaydroid" />
     <item drawable="bitcoin" />
     <item drawable="bitconium" />
     <item drawable="bites" />
@@ -198,6 +201,7 @@
     <item drawable="duckduckgo" />
     <item drawable="dumbphoneassistant" />
     <item drawable="dvfont" />
+    <item drawable="easer" />
     <item drawable="easydice" />
     <item drawable="easytoken" />
     <item drawable="easyxkcd" />
@@ -242,6 +246,7 @@
     <item drawable="forkhub" />
     <item drawable="forrunners" />
     <item drawable="fortunes" />
+    <item drawable="fossbrowser" />
     <item drawable="freeminer" />
     <item drawable="freeshisen" />
     <item drawable="friendica" />
@@ -341,6 +346,7 @@
     <item drawable="listmyapps" />
     <item drawable="lkeyboard" />
     <item drawable="localcalendar" />
+    <item drawable="localweather" />
     <item drawable="locationprivacy" />
     <item drawable="lockclock" />
     <item drawable="logcat" />
@@ -354,6 +360,7 @@
     <item drawable="malp" />
     <item drawable="manman" />
     <item drawable="mapsme" />
+    <item drawable="maps" />
     <item drawable="marblemaps" />
     <item drawable="markdownview" />
     <item drawable="markers" />
@@ -455,6 +462,7 @@
     <item drawable="opendocumentreader" />
     <item drawable="openexplorer" />
     <item drawable="openflood" />
+    <item drawable="openhab" />
     <item drawable="openimgur" />
     <item drawable="openkeychain" />
     <item drawable="openlauncher" />
@@ -499,6 +507,7 @@
     <item drawable="pdfreader" />
     <item drawable="pedometer2" />
     <item drawable="pedometer" />
+    <item drawable="penandpdf" />
     <item drawable="performancecontrol" />
     <item drawable="periodical" />
     <item drawable="persiancalendar" />
