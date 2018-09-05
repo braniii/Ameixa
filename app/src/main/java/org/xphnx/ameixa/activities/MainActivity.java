@@ -122,7 +122,7 @@ public class MainActivity extends BaseActivity {
         Button aboutButton = new Button(this);
         aboutButton.setLayoutParams(buttonParams);
         aboutButton.setBackground(ImageUtils.tint(new BitmapDrawable(getResources(),
-                ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_source_button,
+                ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_license_button,
                         Math.round(48 * scale), Math.round(48 * scale))), getResources().getColor(R.color.colorDark)));
         aboutButton.setClickable(false);
         aboutClickLayout.addView(aboutButton);
