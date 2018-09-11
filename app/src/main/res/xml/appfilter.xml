@@ -1439,6 +1439,7 @@
 <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
 
 <item component="ComponentInfo{org.openhab.habdroid/org.openhab.habdroid.ui.OpenHABMainActivity}" drawable="openhab" />
+<item component="ComponentInfo{org.openhab.habdroid.beta/.ui.OpenHABMainActivity}" drawable="openhab" />
 <item component="ComponentInfo{org.thosp.yourlocalweather/.MainActivity}" drawable="localweather" />
 <item component="ComponentInfo{ryey.easer/.core.ui.MainActivity}" drawable="easer" />
 
