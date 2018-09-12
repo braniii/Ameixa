@@ -1442,7 +1442,6 @@
 <item component="ComponentInfo{org.openhab.habdroid.beta/.ui.OpenHABMainActivity}" drawable="openhab" />
 <item component="ComponentInfo{org.thosp.yourlocalweather/.MainActivity}" drawable="localweather" />
 <item component="ComponentInfo{ryey.easer/.core.ui.MainActivity}" drawable="easer" />
-
 <item component="ComponentInfo{com.dragons.aurora/.activities.AuroraActivity}" drawable="aurorastore" />
 <item component="ComponentInfo{com.tmendes.birthdaydroid/.MainActivity}" drawable="birthdaydroid" />
 <item component="ComponentInfo{de.baumann.browser.Ninja/de.baumann.browser.Activity.BrowserActivity}" drawable="fossbrowser" />
@@ -1451,6 +1450,10 @@
 <item component="ComponentInfo{de.grobox.transportr/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
 <item component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" drawable="bitwarden" />
 <item component="ComponentInfo{taco.apkmirror/.activities.MainActivity}" drawable="apkmirror" />
+
+<item component="ComponentInfo{project.budgetwatch/project.budgetwatch.MainActivity}" drawable="budgetwatch" />
+<item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MaimActivity}" drawable="talalarmo" />
+<item component="ComponentInfo{apps.jizzu.simpletodo/apps.jizzu.simpletodo.activity.MainActivity}" drawable="simpletodo" />
 
 
     <!-- Nova Launcher specific -->
