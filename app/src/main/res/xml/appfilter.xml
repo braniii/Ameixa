@@ -783,6 +783,7 @@
 <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity}" drawable="openkeychain" />
 <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="openkeychain" />
 <item component="ComponentInfo{com.benny.openlauncher/com.benny.openlauncher.activity.InitActivity}" drawable="openlauncher" />
+<item component="ComponentInfo{com.benny.openlauncher/com.benny.openlauncher.activity.OnBoardActivity}" drawable="openlauncher" />
 <item component="ComponentInfo{de.jdsoft.law/de.jdsoft.law.LawListActivity}" drawable="openlaw" />
 <item component="ComponentInfo{com.tasomaniac.openwith.floss/com.tasomaniac.openwith.settings.SettingsActivity}" drawable="openlinkwith" />
 <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa" />
