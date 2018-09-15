@@ -1453,7 +1453,7 @@
 <item component="ComponentInfo{taco.apkmirror/.activities.MainActivity}" drawable="apkmirror" />
 
 <item component="ComponentInfo{project.budgetwatch/project.budgetwatch.MainActivity}" drawable="budgetwatch" />
-<item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MaimActivity}" drawable="talalarmo" />
+<item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MainActivity}" drawable="talalarmo" />
 <item component="ComponentInfo{apps.jizzu.simpletodo/apps.jizzu.simpletodo.activity.MainActivity}" drawable="simpletodo" />
 
 
