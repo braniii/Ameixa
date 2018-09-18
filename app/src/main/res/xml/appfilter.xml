@@ -1438,7 +1438,6 @@
 <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity}" drawable="oeffiplans"/>
 <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations"/>
 <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
-
 <item component="ComponentInfo{org.openhab.habdroid/org.openhab.habdroid.ui.OpenHABMainActivity}" drawable="openhab" />
 <item component="ComponentInfo{org.openhab.habdroid.beta/.ui.OpenHABMainActivity}" drawable="openhab" />
 <item component="ComponentInfo{org.thosp.yourlocalweather/.MainActivity}" drawable="localweather" />
@@ -1447,11 +1446,11 @@
 <item component="ComponentInfo{com.tmendes.birthdaydroid/.MainActivity}" drawable="birthdaydroid" />
 <item component="ComponentInfo{de.baumann.browser.Ninja/de.baumann.browser.Activity.BrowserActivity}" drawable="fossbrowser" />
 <item component="ComponentInfo{com.github.axet.maps/com.mapswithme.maps.SplashActivity}" drawable="maps" />
+<item component="ComponentInfo{com.github.axet.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="maps" />
 <item component="ComponentInfo{com.cgogolin.penandpdf/PenAndPDFActivity}" drawable="penandpdf" />
 <item component="ComponentInfo{de.grobox.transportr/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
 <item component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" drawable="bitwarden" />
 <item component="ComponentInfo{taco.apkmirror/.activities.MainActivity}" drawable="apkmirror" />
-
 <item component="ComponentInfo{project.budgetwatch/project.budgetwatch.MainActivity}" drawable="budgetwatch" />
 <item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MainActivity}" drawable="talalarmo" />
 <item component="ComponentInfo{apps.jizzu.simpletodo/apps.jizzu.simpletodo.activity.MainActivity}" drawable="simpletodo" />
