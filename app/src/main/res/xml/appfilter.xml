@@ -145,6 +145,9 @@
 <item component="ComponentInfo{org.cyanogenmod.bugreport/org.cyanogenmod.bugreport.MainActivity}" drawable="bugreport" />
 <item component="ComponentInfo{ru.meefik.busybox/ru.meefik.busybox.MainActivity}" drawable="busybox" />
 <item component="ComponentInfo{com.iiordanov.freebVNC/com.iiordanov.freebVNC.bVNC}" drawable="bvnc" />
+<item component="ComponentInfo{com.iiordanov.freebVNC/com.iiordanov.bVNC.bVNC}" drawable="bvnc"/>
+<item component="ComponentInfo{com.iiordanov.freebVNC/com.iiordanov.bVNC.RemoteCanvasActivity}" drawable="bvnc"/>
+<item component="ComponentInfo{com.iiordanov.freebVNC/com.freedp.freedpcore.presentation.SessionActivity}" drawable="bvnc"/>
 <item component="ComponentInfo{com.afollestad.cabinet/com.afollestad.cabinet.ui.MainActivity}" drawable="cabinet" />
 <item component="ComponentInfo{com.frozendevs.cache.cleaner/com.frozendevs.cache.cleaner.activity.CleanerActivity}" drawable="cachecleaner" />
 <item component="ComponentInfo{at.bitfire.cadroid/at.bitfire.cadroid.MainActivity}" drawable="cadroid" />
