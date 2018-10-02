@@ -1,0 +1,8 @@
+<!-- xml/appfilter.xml -->
+<item
+    component="ComponentInfo{me.dbarnett.acastus/me.dbarnett.acastus.MainActivity}"
+    drawable="acastus" />
+
+    <!-- xml/drawable.xml --><item drawable="acastus" />
+
+    <!-- values/iconpack.xml --><item>acastus</item>

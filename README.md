@@ -1,6 +1,7 @@
 ![CI badge](https://gitlab.com/xphnx/ameixa/badges/master/build.svg)
 
-Icon pack compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw, and many more launchers. A Material Design inspired theme aiming to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons). Only [F-Droid](https://f-droid.org/) hosted apps are supported.
+Icon pack compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw, and many more launchers (basically any launcher that supports icon packs).
+It's a material design inspired theme that aims to provide a consistent and minimalistic look to your device. Code forked from [Icecons icon pack](https://github.com/1C3/ICEcons). Only [F-Droid](https://f-droid.org/) hosted apps are supported.
 
 # Contributions are welcome 
 
@@ -8,8 +9,8 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 
 #### What happens?
   
-* [ ] The activityname line is in [appfilter](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml)
-* [ ] The activityname has changed or is not in [appfilter](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml) --> Use [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit/) to find out the Activityname line to be included in appfilter.xml
+* [ ] The activityname line is in [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml)
+* [ ] The activityname has changed or is not in [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml) --> Use [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit) to find out the activityname line to be included in appfilter.xml
 
 </br>
 * [ ] The icon is in the [icons folder](https://gitlab.com/xphnx/ameixa/tree/master/icons)
@@ -25,7 +26,7 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 1. Write a new activityname in [Issue Tracker](https://gitlab.com/xphnx/ameixa/issues)
 2. Attach the new icon (.svg) in [Issue Tracker](https://gitlab.com/xphnx/ameixa/issues)
 3. [MR](https://gitlab.com/xphnx/ameixa/merge_requests) activityname lines into appfilter.xml and/or icon files (.svg) into todo/wip
-4. [MR](https://gitlab.com/xphnx/ameixa/merge_requests) activityname and/or icon data (.pngs and xml) after running the script [process_wipsvg.sh](https://gitlab.com/xphnx/ameixa/blob/master/process_wipsvg.sh)
+4. [MR](https://gitlab.com/xphnx/ameixa/merge_requests) activityname and/or icon data (.pngs and xml) after running the script [process_wipsvg-xml.sh](https://gitlab.com/xphnx/ameixa/blob/master/process_wipsvg-xml.sh)
 
 # Screenshots
 
@@ -46,17 +47,17 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 -->
 
 # Installation
-<a href="https://f-droid.org/app/org.xphnx.ameixa">
+<a href="https://f-droid.org/packages/org.xphnx.ameixa">
     <img src="https://f-droid.org/badge/get-it-on.png"
     alt="Get it on F-Droid" height="80">
 </a>
-<a href="https://gitlab.com/xphnx/ameixa/-/jobs/86232495/artifacts/file/app/build/outputs/apk/debug/app-debug.apk">
-    <img src="https://gitlab.com/xphnx/ameixa/uploads/6d80e2e22d2fcbfd8ed320e58f4705e1/apk.png"
-    alt="Download debug apk" height="80">
+<a href="https://gitlab.com/xphnx/ameixa/-/jobs/artifacts/master/download?job=build">
+    <img src="https://gitlab.com/xphnx/ameixa/artwork/apk.png"
+    alt="Download the latest build" height="80">
 </a>
 
 # License
 
 <img src="https://gnu.org/graphics/gplv3-127x51.png" />
 
-[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/ameixa/blob/master/CREDITS.md) for more details)
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) and other libre / open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/ameixa/blob/master/CREDITS.md) for more details)

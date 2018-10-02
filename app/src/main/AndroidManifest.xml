@@ -33,5 +33,4 @@
         <activity android:name=".activities.LicenseActivity" />
         <activity android:name=".activities.IconActivity" />
     </application>
-
 </manifest>
