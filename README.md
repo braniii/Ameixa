@@ -52,7 +52,7 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
     alt="Get it on F-Droid" height="80">
 </a>
 <a href="https://gitlab.com/xphnx/ameixa/-/jobs/artifacts/master/download?job=build">
-    <img src="https://gitlab.com/xphnx/ameixa/artwork/apk.png"
+    <img src="https://gitlab.com/xphnx/ameixa/blob/master/artwork/apk.png"
     alt="Download the latest build" height="80">
 </a>
 

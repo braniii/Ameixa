@@ -1,0 +1,7 @@
+<!-- appfilter.xml -->
+<item
+        component="ComponentInfo{me.dbarnett.acastus/me.dbarnett.acastus.MainActivity}"
+        drawable="acastus" />
+
+<!-- drawable.xml -->
+<item drawable="acastus" />
