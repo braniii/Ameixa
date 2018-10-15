@@ -4199,7 +4199,168 @@
     <item
         component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}"
         drawable="zapp" />
-
+    <item
+        component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity}"
+        drawable="simpleapplauncher" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Orange}"
+        drawable="simpleapplauncher" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity}"
+        drawable="simplecalculator" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Orange}"
+        drawable="simplecalculator" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}"
+        drawable="simplecalendar" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Orange}"
+        drawable="simplecalendar" />
+    <item
+        component="ComponentInfo{com.nathanosman.chronosnap/com.nathanosman.chronosnap.ui.MainActivity}"
+        drawable="chronosnap" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity}"
+        drawable="simpleclock" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange}"
+        drawable="simpleclock" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity}"
+        drawable="simplecontacts" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Orange}"
+        drawable="simplecontacts" />
+    <item
+        component="ComponentInfo{org.asnelt.derandom/org.asnelt.derandom.MainActivity}"
+        drawable="derandom" />
+    <item
+        component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}"
+        drawable="edslite" />
+    <item
+        component="ComponentInfo{ru.henridellal.dialer/ru.henridellal.dialer.DialerActivity}"
+        drawable="emeralddialer" />
+    <item
+        component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.activities.StartActivity}"
+        drawable="etchdroid" />
+    <item
+        component="ComponentInfo{cl.coders.faketraveler/cl.coders.faketraveler.MainActivity}"
+        drawable="faketraveler" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity}"
+        drawable="simpleflashlight" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity.Orange}"
+        drawable="simpleflashlight" />
+    <item
+        component="ComponentInfo{nf.frex.android/nf.frex.android.FrexActivity}"
+        drawable="frex" />
+    <item
+        component="ComponentInfo{ru.playsoftware.j2meloader/ru.playsoftware.j2meloader.MainActivity}"
+        drawable="j2meloader" />
+    <item
+        component="ComponentInfo{me.impa.knockonports/me.impa.knockonports.MainActivity}"
+        drawable="knockonports" />
+    <item
+        component="ComponentInfo{com.limbo.emu.main/com.limbo.emu.main.LimboEmuActivity}"
+        drawable="limbo" />
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/a.c}"
+        drawable="magiskmanager" />
+    <item
+        component="ComponentInfo{se.manyver/se.manyver.MainActivity}"
+        drawable="manyverse" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity}"
+        drawable="simplemusicplayer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange}"
+        drawable="simplemusicplayer" />
+    <item
+        component="ComponentInfo{com.afollestad.nocknock/com.afollestad.nocknock.ui.MainActivity}"
+        drawable="nocknock" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity}"
+        drawable="simplenotes" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Orange}"
+        drawable="simplenotes" />
+    <item
+        component="ComponentInfo{com.libopenmw.openmw/ui.activity.MainActivity}"
+        drawable="openmw" />
+    <item
+        component="ComponentInfo{com.packetsender.android/com.packetsender.android.MainActivity}"
+        drawable="packetsender" />
+    <item
+        component="ComponentInfo{com.rj.pixelesque/com.rj.pixelesque.PixelArtEditor}"
+        drawable="pixelesque" />
+    <item
+        component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}"
+        drawable="retroarch" />
+    <item
+        component="ComponentInfo{com.fastebro.androidrgbtool/com.fastebro.androidrgbtool.ui.MainActivity}"
+        drawable="rgbtool" />
+    <item
+        component="ComponentInfo{mohammad.adib.roundr/mohammad.adib.roundr.MainActivity}"
+        drawable="roundr" />
+    <item
+        component="ComponentInfo{net.yolosec.routerkeygen2/org.exobel.routerkeygen.ui.NetworksListActivity}"
+        drawable="routerkeygen" />
+    <item
+        component="ComponentInfo{com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity}"
+        drawable="scrambledeggsif" />
+    <item
+        component="ComponentInfo{info.dvkr.screenstream/info.dvkr.screenstream.ui.StartActivity}"
+        drawable="screenstream" />
+    <item
+        component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity}"
+        drawable="secscanqr" />
+    <item
+        component="ComponentInfo{com.mrbimc.selinux/com.mrbimc.selinux.MainActivity}"
+        drawable="selinuxmodechanger" />
+    <item
+        component="ComponentInfo{ru.gelin.android.sendtosd/ru.gelin.android.sendtosd.PreferencesActivity}"
+        drawable="sendtosd" />
+    <item
+        component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}"
+        drawable="shelter" />
+    <item
+        component="ComponentInfo{fr.xgouchet.packageexplorer/fr.xgouchet.packageexplorer.applist.AppListActivity}"
+        drawable="stanley" />
+    <item
+        component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}"
+        drawable="substratum" />
+    <item
+        component="ComponentInfo{com.gmail.jiwopene.temperature/com.gmail.jiwopene.temperature.TemperaturesActivity}"
+        drawable="tempmonitor" />
+    <item
+        component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}"
+        drawable="termuxfloat" />
+    <item
+        component="ComponentInfo{com.termux.boot/com.termux.boot.BootActivity}"
+        drawable="termuxboot" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity}"
+        drawable="simplethankyou" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange}"
+        drawable="simplethankyou" />
+    <item
+        component="ComponentInfo{org.pacien.tincapp/org.pacien.tincapp.activities.start.StartActivity}"
+        drawable="tinc" />
+    <item
+        component="ComponentInfo{com.zoffcc.applications.trifa/com.zoffcc.applications.trifa.StartMainActivityWrapper}"
+        drawable="trifa" />
+    <item
+        component="ComponentInfo{de.jurihock.voicesmith/de.jurihock.voicesmith.activities.HomeActivity}"
+        drawable="voicesmith" />
+    <item
+        component="ComponentInfo{com.wireguard.android/com.wireguard.android.activity.MainActivity}"
+        drawable="wireguard" />
+    <item
+        component="ComponentInfo{com.averi.worldscribe/com.averi.worldscribe.activities.PermissionActivity}"
+        drawable="worldscribe" />
 
     <!-- 3.1.0 -->
     <item
