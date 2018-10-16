@@ -8,8 +8,8 @@ android {
         applicationId "org.xphnx.ameixa"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 404
-        versionName "4.0.4"
+        versionCode 405
+        versionName "4.0.5"
     }
 
     compileOptions {
@@ -21,11 +21,9 @@ android {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            resValue "string", "app_name", "Ameixa"
         }
         debug {
             zipAlignEnabled true
-            resValue "string", "app_name", "Ameixa Debug"
         }
     }
 }

@@ -1,0 +1,1 @@
+* 45 new icons and some fixes to outdated activities (thanks to [@ClockGen](https://gitlab.com/ClockGen).

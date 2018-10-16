@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name" translatable="false">Ameixa</string>
     <string name="icons">Icons</string>
     <string name="sourcecodetext">Source Code</string>
     <string name="licensetext">License</string>

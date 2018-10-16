@@ -1,3 +1,0 @@
-* A TON of compatibility updates, optimizations and maintenance (thank you TacoTheDank).
-* Styling, available icons screen, greatly reduced APK size and some icon fixes (thank you dkanada - Frost Icon Pack).
-* More icons.
