@@ -1,3 +1,1 @@
-* Un montón de actualizaciones de compatibilidad, optimizaciones y mantenimiento (gracias a TacoTheDank).
-* Cambios en el estilo, reintroducción de la pantalla de iconos, reducción del tamaño del APK y algunas correcciones de iconos (gracias a dkanada - Frost Icon Pack).
-* Se añaden más iconos.
+* 45 iconos nuevos y correcciones de vinculaciones obsoletas (gracias a [@ClockGen](https://gitlab.com/ClockGen).
