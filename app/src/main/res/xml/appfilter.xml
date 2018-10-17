@@ -1407,7 +1407,13 @@
         component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}"
         drawable="gitlab" />
     <item
-        component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.GloomyDungeons.opensource.game.MenuActivity}"
+        component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.game.MenuActivity}"
+        drawable="gloomydungeons" />
+    <item
+        component="ComponentInfo{org.zamedev.gloomydungeons1hardcore.opensource/zame.game.MenuActivity}"
+        drawable="gloomydungeons" />
+    <item
+        component="ComponentInfo{org.zamedev.gloomydungeons2.opensource/zame.game.MainActivity}"
         drawable="gloomydungeons" />
     <item
         component="ComponentInfo{com.glTron/com.glTron.glTron}"
@@ -1905,7 +1911,7 @@
         component="ComponentInfo{com.lewisjuggins.miband/com.lewisjuggins.miband.MiOverviewActivity}"
         drawable="mibandnotifier" />
     <item
-        component="ComponentInfo{com.easytarget.micopi/com.easytarget.micopi.ui.WelcomeActivity}"
+        component="ComponentInfo{com.easytarget.micopi/org.eztarget.micopi.ui.WelcomeActivity}"
         drawable="micopi" />
     <item
         component="ComponentInfo{org.eztarget.micopifull/org.eztarget.micopifull.ui.WelcomeActivity}"
@@ -4297,6 +4303,9 @@
         drawable="pixelesque" />
     <item
         component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}"
+        drawable="retroarch" />
+    <item
+        component="ComponentInfo{com.retroarch.aarch64/com.retroarch.browser.mainmenu.MainMenuActivity}"
         drawable="retroarch" />
     <item
         component="ComponentInfo{com.fastebro.androidrgbtool/com.fastebro.androidrgbtool.ui.MainActivity}"
