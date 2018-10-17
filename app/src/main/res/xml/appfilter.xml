@@ -4377,6 +4377,9 @@
         component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}"
         drawable="anexplorer" />
     <item
+        component="ComponentInfo{dev.dworks.apps.anexplorer/dev.dworks.apps.anexplorer.DocumentsActivity}"
+        drawable="anexplorer" />
+    <item
         component="ComponentInfo{com.spisoft.quicknote/com.spisoft.quicknote.MainActivity}"
         drawable="carnet" />
     <item
