@@ -3,8 +3,8 @@
 <string-array name="icon_pack" translatable="false">
 <item>aard</item>
 <item>aat</item>
+<item>acaldav</item>
 <item>acal</item>
-    <item>acaldav</item>
 <item>activitylauncher</item>
 <item>adaway</item>
 <item>addi</item>
@@ -13,8 +13,8 @@
 <item>agit</item>
 <item>aizoban</item>
 <item>alarm</item>
-    <item>alogcat</item>
 <item>alogcatroot</item>
+<item>alogcat</item>
 <item>altcoin</item>
 <item>amaze</item>
 <item>ametro</item>
@@ -26,6 +26,7 @@
 <item>androidvnc</item>
 <item>androsens</item>
 <item>andstatus</item>
+<item>anexplorer</item>
 <item>ankidroid</item>
 <item>antennapod</item>
 <item>antox</item>
@@ -49,8 +50,8 @@
 <item>atomic</item>
 <item>audiofx</item>
 <item>aurdroid</item>
-    <item>aurora</item>
 <item>aurorastore</item>
+<item>aurora</item>
 <item>authenticator</item>
 <item>autoairplanemode</item>
 <item>autostarts</item>
@@ -87,8 +88,8 @@
 <item>bronylivewallpaper</item>
 <item>brouter</item>
 <item>browser</item>
+<item>bubblecomics</item>
 <item>bubble</item>
-    <item>bubblecomics</item>
 <item>budget</item>
 <item>budgetwatch</item>
 <item>bugreport</item>
@@ -96,12 +97,12 @@
 <item>bvnc</item>
 <item>cachecleaner</item>
 <item>cadroid</item>
+<item>calculator2</item>
 <item>calculator</item>
-    <item>calculator2</item>
 <item>caldavsync</item>
-    <item>calendar</item>
 <item>calendarie</item>
 <item>calendarnotifications</item>
+<item>calendar</item>
 <item>calendarwidget</item>
 <item>calendula</item>
 <item>callerid</item>
@@ -112,6 +113,7 @@
 <item>cameraroll</item>
 <item>candymemory</item>
 <item>carcast</item>
+<item>carnet</item>
 <item>carreport</item>
 <item>catandice</item>
 <item>catgenerator</item>
@@ -150,15 +152,16 @@
 <item>coolreader</item>
 <item>copay</item>
 <item>counterme</item>
+<item>cpuinfo</item>
 <item>crbrowser</item>
 <item>criticalmaps</item>
 <item>crocodilenote</item>
 <item>crosswords</item>
 <item>csipsimple</item>
-    <item>csploit</item>
 <item>csploit2</item>
-    <item>cupsprint</item>
+<item>csploit</item>
 <item>cupsprintservice</item>
+<item>cupsprint</item>
 <item>currencyconverter</item>
 <item>cythara</item>
 <item>dashclock</item>
@@ -168,6 +171,7 @@
 <item>debiankit</item>
 <item>defaulticon</item>
 <item>defendo</item>
+<item>deltachat</item>
 <item>democracydroid</item>
 <item>derandom</item>
 <item>deskcon</item>
@@ -199,8 +203,8 @@
 <item>drumon</item>
 <item>dspmanager</item>
 <item>dsub</item>
+<item>duckduckgo2</item>
 <item>duckduckgo</item>
-    <item>duckduckgo2</item>
 <item>dumbphoneassistant</item>
 <item>dvfont</item>
 <item>easer</item>
@@ -237,12 +241,12 @@
 <item>ffreddit</item>
 <item>ffupdater</item>
 <item>fileexplorer</item>
-    <item>filemanager</item>
 <item>filemanagerpro</item>
 <item>filemanagersc</item>
+<item>filemanager</item>
 <item>findmyphone</item>
-    <item>firefox</item>
 <item>firefoxfocus</item>
+<item>firefox</item>
 <item>firewall</item>
 <item>floatingstickies</item>
 <item>flym</item>
@@ -270,8 +274,8 @@
 <item>getbackgps</item>
 <item>ghostcommander</item>
 <item>gigaget</item>
-    <item>github</item>
 <item>github2</item>
+<item>github</item>
 <item>gitlab</item>
 <item>gloomydungeons</item>
 <item>gltron</item>
@@ -298,6 +302,7 @@
 <item>holocounter</item>
 <item>holokenmod</item>
 <item>hwmanager</item>
+<item>hyperrogue</item>
 <item>i2p</item>
 <item>icecat</item>
 <item>icsdroid</item>
@@ -332,6 +337,7 @@
 <item>keypadmapper</item>
 <item>kisslauncher</item>
 <item>kiwix</item>
+<item>klooni</item>
 <item>knockonports</item>
 <item>kodi</item>
 <item>kolabnotes</item>
@@ -371,8 +377,8 @@
 <item>malp</item>
 <item>manman</item>
 <item>manyverse</item>
+<item>mapsme</item>
 <item>maps</item>
-    <item>mapsme</item>
 <item>marblemaps</item>
 <item>markdownview</item>
 <item>markers</item>
@@ -414,10 +420,10 @@
 <item>mtgfamiliar</item>
 <item>multirommgr</item>
 <item>mupdf</item>
-    <item>music</item>
 <item>musicplayergo</item>
+<item>music</item>
+<item>mustardmod</item>
 <item>mustard</item>
-    <item>mustardmod</item>
 <item>muzei</item>
 <item>myapplist</item>
 <item>mybanq</item>
@@ -440,13 +446,14 @@
 <item>networkmapper</item>
 <item>newpipe</item>
 <item>newsblur</item>
+<item>nextclouddev</item>
 <item>nextcloud</item>
-    <item>nextclouddev</item>
 <item>nhbooks</item>
 <item>nicecompass</item>
 <item>nlpbackend</item>
 <item>nlpconfig</item>
 <item>nocknock</item>
+<item>nomad</item>
 <item>nonsensenotepad</item>
 <item>nostrangersms</item>
 <item>notecipher</item>
@@ -487,8 +494,8 @@
 <item>openobservatory</item>
 <item>openredmine</item>
 <item>opentraining</item>
+<item>openvpnsettings</item>
 <item>openvpn</item>
-    <item>openvpnsettings</item>
 <item>openwlanmap</item>
 <item>opesudoku</item>
 <item>orbot</item>
@@ -503,14 +510,14 @@
 <item>osmtracker</item>
 <item>osmuploader</item>
 <item>otaupdate</item>
+<item>otpauth</item>
 <item>otp</item>
-    <item>otpauth</item>
 <item>overchan</item>
-    <item>owncloud</item>
 <item>owncloudbeta</item>
 <item>owncloudnews</item>
 <item>owncloudnotes</item>
 <item>owncloudsms</item>
+<item>owncloud</item>
 <item>packetsender</item>
 <item>packlist</item>
 <item>paddletennis</item>
@@ -520,8 +527,8 @@
 <item>passwdsafe</item>
 <item>pdfcreator</item>
 <item>pdfreader</item>
+<item>pedometer2</item>
 <item>pedometer</item>
-    <item>pedometer2</item>
 <item>penandpdf</item>
 <item>performancecontrol</item>
 <item>periodical</item>
@@ -551,10 +558,13 @@
 <item>pwdhash</item>
 <item>pwdstore</item>
 <item>pyload</item>
+<item>qksmspink</item>
 <item>qksms</item>
-    <item>qksmspink</item>
 <item>qrscanner</item>
 <item>qrstream</item>
+<item>quake1</item>
+<item>quake2</item>
+<item>quake3</item>
 <item>quasseldroid</item>
 <item>quickdic</item>
 <item>quickdroid</item>
@@ -578,8 +588,8 @@
 <item>retrobreaker</item>
 <item>revolution</item>
 <item>rgbtool</item>
+<item>ringdroid</item>
 <item>ring</item>
-    <item>ringdroid</item>
 <item>riot</item>
 <item>ripple</item>
 <item>rmaps</item>
@@ -609,8 +619,8 @@
 <item>secrecy</item>
 <item>secscanqr</item>
 <item>secusodame</item>
+<item>secusodicegame</item>
 <item>secusodice</item>
-    <item>secusodicegame</item>
 <item>secusoludo</item>
 <item>secusomemory</item>
 <item>secusonotes</item>
@@ -632,8 +642,8 @@
 <item>sensorssandbox</item>
 <item>seriesguide</item>
 <item>servestream</item>
-    <item>settings</item>
 <item>settings2</item>
+<item>settings</item>
 <item>sfen</item>
 <item>sgit</item>
 <item>shadereditor</item>
@@ -645,8 +655,8 @@
 <item>shoppinglist</item>
 <item>sicmuplayer</item>
 <item>sieben</item>
-    <item>signal</item>
 <item>signalgenerator</item>
+<item>signal</item>
 <item>sigspoof</item>
 <item>silentnight</item>
 <item>simplealarm</item>
@@ -678,16 +688,16 @@
 <item>slimfacebook</item>
 <item>smarterwifimanager</item>
 <item>smartnavi</item>
-    <item>sms</item>
 <item>sms2</item>
 <item>smsbackup</item>
 <item>smsscheduler</item>
 <item>smssecure</item>
+<item>sms</item>
 <item>snooperstopper</item>
 <item>snoopsnitch</item>
 <item>sokoban</item>
-    <item>solitaire</item>
 <item>solitairecg</item>
+<item>solitaire</item>
 <item>soundrecorder</item>
 <item>soundwaves</item>
 <item>sparserss</item>
@@ -729,19 +739,19 @@
 <item>tanksoffreedom</item>
 <item>tapandturn</item>
 <item>taskkeeper</item>
-    <item>tasks</item>
 <item>tasks2</item>
+<item>tasks</item>
 <item>taskwarrior</item>
 <item>td</item>
 <item>teatimer</item>
 <item>telegram</item>
 <item>tempmonitor</item>
+<item>terminalemulator</item>
 <item>terminal</item>
-    <item>terminalemulator</item>
 <item>terminightor</item>
-    <item>termux</item>
 <item>termuxboot</item>
 <item>termuxfloat</item>
+<item>termux</item>
 <item>testnet3</item>
 <item>tethercompanion</item>
 <item>textfiction</item>
@@ -759,12 +769,12 @@
 <item>toffeed</item>
 <item>togozip</item>
 <item>tomdroid</item>
+<item>torchlight</item>
 <item>torch</item>
-    <item>torchlight</item>
 <item>torrentclient</item>
 <item>traccar</item>
+<item>transdroidsearch</item>
 <item>transdroid</item>
-    <item>transdroidsearch</item>
 <item>transdrone</item>
 <item>transistor</item>
 <item>transportr</item>
@@ -782,8 +792,8 @@
 <item>tusky</item>
 <item>tutanota</item>
 <item>tuxemon</item>
+<item>tuxpaintconfig</item>
 <item>tuxpaint</item>
-    <item>tuxpaintconfig</item>
 <item>tuxrider</item>
 <item>tvkill</item>
 <item>twidere</item>
@@ -793,6 +803,7 @@
 <item>ukweather</item>
 <item>umbrella</item>
 <item>unicodemap</item>
+<item>unipatcher</item>
 <item>unote</item>
 <item>usbmountr</item>
 <item>vanillamusic</item>
@@ -804,14 +815,15 @@
 <item>vimtouch</item>
 <item>visualbitcoin</item>
 <item>vlc</item>
-    <item>voice</item>
 <item>voicedialer</item>
 <item>voicerecorder</item>
 <item>voicesmith</item>
+<item>voice</item>
 <item>vudroid</item>
 <item>vxconnectbot</item>
 <item>wakeonlan</item>
 <item>wallabag</item>
+<item>walleth</item>
 <item>wallpaper</item>
 <item>wally</item>
 <item>weathernotification</item>
@@ -855,8 +867,8 @@
 <item>xbmc</item>
 <item>xdafeedreader</item>
 <item>xkcdviewer</item>
+<item>xposeddownloader</item>
 <item>xposed</item>
-    <item>xposeddownloader</item>
 <item>xprivacy</item>
 <item>xsdl</item>
 <item>xskat</item>
@@ -866,6 +878,7 @@
 <item>yahtzee</item>
 <item>yalpstore</item>
 <item>yaxim</item>
+<item>yoke</item>
 <item>yubico</item>
 <item>zapp</item>
 </string-array>

@@ -4370,6 +4370,46 @@
     <item
         component="ComponentInfo{com.averi.worldscribe/com.averi.worldscribe.activities.PermissionActivity}"
         drawable="worldscribe" />
+    <item
+        component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}"
+        drawable="klooni" />
+    <item
+        component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}"
+        drawable="anexplorer" />
+    <item
+        component="ComponentInfo{com.spisoft.quicknote/com.spisoft.quicknote.MainActivity}"
+        drawable="carnet" />
+    <item
+        component="ComponentInfo{com.kgurgul.cpuinfo/com.kgurgul.cpuinfo.features.HostActivity}"
+        drawable="cpuinfo" />
+    <item
+        component="ComponentInfo{com.b44t.messenger/com.b44t.messenger.LaunchActivity}"
+        drawable="deltachat" />
+    <item
+        component="ComponentInfo{com.roguetemple.hyperroid/com.roguetemple.hyperroid.HyperRogue}"
+        drawable="hyperrogue" />
+    <item
+        component="ComponentInfo{org.kwaak3/org.kwaak3.Launcher}"
+        drawable="quake3" />
+    <item
+        component="ComponentInfo{com.dfa.hubzilla_android/com.dfa.hubzilla_android.activity.MainActivity}"
+        drawable="nomad" />
+    <item
+        component="ComponentInfo{com.android.quake/com.android.quake.QuakeActivity}"
+        drawable="quake1" />
+    <item
+        component="ComponentInfo{com.jeyries.quake2/com.jeyries.quake2.Quake2}"
+        drawable="quake2" />
+    <item
+        component="ComponentInfo{org.emunix.unipatcher/org.emunix.unipatcher.ui.activity.MainActivity}"
+        drawable="unipatcher" />
+    <item
+        component="ComponentInfo{org.walleth/org.walleth.activities.MainActivity}"
+        drawable="walleth" />
+    <item
+        component="ComponentInfo{com.simonramstedt.yoke/com.simonramstedt.yoke.YokeActivity}"
+        drawable="yoke" />
+
 
     <!-- 3.1.0 -->
     <item
