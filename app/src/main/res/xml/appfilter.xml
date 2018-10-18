@@ -1110,6 +1110,9 @@
         component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}"
         drawable="editor920" />
     <item
+        component="ComponentInfo{com.jecelyin.editor.v2/com.jecelyin.editor.v2.ui.MainActivity}"
+        drawable="editor920" />
+    <item
         component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}"
         drawable="editor920" />
     <item
@@ -3561,10 +3564,16 @@
         component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}"
         drawable="syncthing" />
     <item
+        component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}"
+        drawable="syncthing" />
+    <item
         component="ComponentInfo{org.opensilk.syncthing.debug/syncthing.android.ui.LauncherActivity}"
         drawable="syncthing" />
     <item
         component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
+        drawable="syncthing" />
+    <item
+        component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
         drawable="syncthing" />
     <item
         component="ComponentInfo{org.synergy/org.synergy.Synergy}"
