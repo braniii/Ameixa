@@ -371,6 +371,7 @@
 <item drawable="loophabits" />
 <item drawable="loyaltycard" />
 <item drawable="lumicall" />
+<item drawable="lunary" />
 <item drawable="magiskmanager" />
 <item drawable="mahjonggbuilder" />
 <item drawable="mail" />
@@ -404,6 +405,7 @@
 <item drawable="minilens" />
 <item drawable="miniopenwlanmap" />
 <item drawable="ministro" />
+<item drawable="minivector" />
 <item drawable="minumanga" />
 <item drawable="mirakel" />
 <item drawable="miros" />
@@ -448,6 +450,7 @@
 <item drawable="newsblur" />
 <item drawable="nextclouddev" />
 <item drawable="nextcloud" />
+<item drawable="nextcloudtalk" />
 <item drawable="nhbooks" />
 <item drawable="nicecompass" />
 <item drawable="nlpbackend" />
@@ -593,6 +596,7 @@
 <item drawable="riot" />
 <item drawable="ripple" />
 <item drawable="rmaps" />
+<item drawable="rocketchat" />
 <item drawable="rootverifier" />
 <item drawable="rotationmanager" />
 <item drawable="roundr" />
@@ -813,6 +817,7 @@
 <item drawable="videoeditor" />
 <item drawable="videotranscoder" />
 <item drawable="vimtouch" />
+<item drawable="vinyl" />
 <item drawable="visualbitcoin" />
 <item drawable="vlc" />
 <item drawable="voicedialer" />
@@ -860,9 +865,11 @@
 <item drawable="worktime" />
 <item drawable="worldclock" />
 <item drawable="worldscribe" />
+<item drawable="wownerujo" />
 <item drawable="wpgen" />
 <item drawable="wppolice" />
 <item drawable="writeily" />
+<item drawable="x11basic" />
 <item drawable="xabber" />
 <item drawable="xbmc" />
 <item drawable="xdafeedreader" />

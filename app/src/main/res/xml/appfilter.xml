@@ -4421,6 +4421,27 @@
     <item
         component="ComponentInfo{com.simonramstedt.yoke/com.simonramstedt.yoke.YokeActivity}"
         drawable="yoke" />
+    <item
+        component="ComponentInfo{com.rehanced.lunary/rehanced.com.simpleetherwallet.activities.MainActivity}"
+        drawable="lunary" />
+    <item
+        component="ComponentInfo{com.lavadip.miniVector/im.vector.activity.LoginActivity}"
+        drawable="minivector" />
+    <item
+        component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}"
+        drawable="nextcloudtalk" />
+    <item
+        component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}"
+        drawable="rocketchat" />
+    <item
+        component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}"
+        drawable="vinyl" />
+    <item
+        component="ComponentInfo{com.wownero.wownerujo/com.wownero.wownerujo.LoginActivity}"
+        drawable="wownerujo" />
+    <item
+        component="ComponentInfo{net.sourceforge.x11basic/net.sourceforge.x11basic.X11BasicActivity}"
+        drawable="x11basic" />
 
 
     <!-- 3.1.0 -->

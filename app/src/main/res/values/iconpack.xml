@@ -371,6 +371,7 @@
 <item>loophabits</item>
 <item>loyaltycard</item>
 <item>lumicall</item>
+<item>lunary</item>
 <item>magiskmanager</item>
 <item>mahjonggbuilder</item>
 <item>mail</item>
@@ -404,6 +405,7 @@
 <item>minilens</item>
 <item>miniopenwlanmap</item>
 <item>ministro</item>
+<item>minivector</item>
 <item>minumanga</item>
 <item>mirakel</item>
 <item>miros</item>
@@ -448,6 +450,7 @@
 <item>newsblur</item>
 <item>nextclouddev</item>
 <item>nextcloud</item>
+<item>nextcloudtalk</item>
 <item>nhbooks</item>
 <item>nicecompass</item>
 <item>nlpbackend</item>
@@ -593,6 +596,7 @@
 <item>riot</item>
 <item>ripple</item>
 <item>rmaps</item>
+<item>rocketchat</item>
 <item>rootverifier</item>
 <item>rotationmanager</item>
 <item>roundr</item>
@@ -813,6 +817,7 @@
 <item>videoeditor</item>
 <item>videotranscoder</item>
 <item>vimtouch</item>
+<item>vinyl</item>
 <item>visualbitcoin</item>
 <item>vlc</item>
 <item>voicedialer</item>
@@ -860,9 +865,11 @@
 <item>worktime</item>
 <item>worldclock</item>
 <item>worldscribe</item>
+<item>wownerujo</item>
 <item>wpgen</item>
 <item>wppolice</item>
 <item>writeily</item>
+<item>x11basic</item>
 <item>xabber</item>
 <item>xbmc</item>
 <item>xdafeedreader</item>
