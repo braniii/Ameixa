@@ -1110,6 +1110,9 @@
         component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}"
         drawable="editor920" />
     <item
+        component="ComponentInfo{com.jecelyin.editor.v2/com.jecelyin.editor.v2.ui.MainActivity}"
+        drawable="editor920" />
+    <item
         component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}"
         drawable="editor920" />
     <item
@@ -1407,7 +1410,13 @@
         component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}"
         drawable="gitlab" />
     <item
-        component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.GloomyDungeons.opensource.game.MenuActivity}"
+        component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.game.MenuActivity}"
+        drawable="gloomydungeons" />
+    <item
+        component="ComponentInfo{org.zamedev.gloomydungeons1hardcore.opensource/zame.game.MenuActivity}"
+        drawable="gloomydungeons" />
+    <item
+        component="ComponentInfo{org.zamedev.gloomydungeons2.opensource/zame.game.MainActivity}"
         drawable="gloomydungeons" />
     <item
         component="ComponentInfo{com.glTron/com.glTron.glTron}"
@@ -1905,7 +1914,7 @@
         component="ComponentInfo{com.lewisjuggins.miband/com.lewisjuggins.miband.MiOverviewActivity}"
         drawable="mibandnotifier" />
     <item
-        component="ComponentInfo{com.easytarget.micopi/com.easytarget.micopi.ui.WelcomeActivity}"
+        component="ComponentInfo{com.easytarget.micopi/org.eztarget.micopi.ui.WelcomeActivity}"
         drawable="micopi" />
     <item
         component="ComponentInfo{org.eztarget.micopifull/org.eztarget.micopifull.ui.WelcomeActivity}"
@@ -3555,10 +3564,16 @@
         component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}"
         drawable="syncthing" />
     <item
+        component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}"
+        drawable="syncthing" />
+    <item
         component="ComponentInfo{org.opensilk.syncthing.debug/syncthing.android.ui.LauncherActivity}"
         drawable="syncthing" />
     <item
         component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
+        drawable="syncthing" />
+    <item
+        component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
         drawable="syncthing" />
     <item
         component="ComponentInfo{org.synergy/org.synergy.Synergy}"
@@ -4299,6 +4314,9 @@
         component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}"
         drawable="retroarch" />
     <item
+        component="ComponentInfo{com.retroarch.aarch64/com.retroarch.browser.mainmenu.MainMenuActivity}"
+        drawable="retroarch" />
+    <item
         component="ComponentInfo{com.fastebro.androidrgbtool/com.fastebro.androidrgbtool.ui.MainActivity}"
         drawable="rgbtool" />
     <item
@@ -4361,6 +4379,70 @@
     <item
         component="ComponentInfo{com.averi.worldscribe/com.averi.worldscribe.activities.PermissionActivity}"
         drawable="worldscribe" />
+    <item
+        component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}"
+        drawable="klooni" />
+    <item
+        component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}"
+        drawable="anexplorer" />
+    <item
+        component="ComponentInfo{dev.dworks.apps.anexplorer/dev.dworks.apps.anexplorer.DocumentsActivity}"
+        drawable="anexplorer" />
+    <item
+        component="ComponentInfo{com.spisoft.quicknote/com.spisoft.quicknote.MainActivity}"
+        drawable="carnet" />
+    <item
+        component="ComponentInfo{com.kgurgul.cpuinfo/com.kgurgul.cpuinfo.features.HostActivity}"
+        drawable="cpuinfo" />
+    <item
+        component="ComponentInfo{com.b44t.messenger/com.b44t.messenger.LaunchActivity}"
+        drawable="deltachat" />
+    <item
+        component="ComponentInfo{com.roguetemple.hyperroid/com.roguetemple.hyperroid.HyperRogue}"
+        drawable="hyperrogue" />
+    <item
+        component="ComponentInfo{org.kwaak3/org.kwaak3.Launcher}"
+        drawable="quake3" />
+    <item
+        component="ComponentInfo{com.dfa.hubzilla_android/com.dfa.hubzilla_android.activity.MainActivity}"
+        drawable="nomad" />
+    <item
+        component="ComponentInfo{com.android.quake/com.android.quake.QuakeActivity}"
+        drawable="quake1" />
+    <item
+        component="ComponentInfo{com.jeyries.quake2/com.jeyries.quake2.Quake2}"
+        drawable="quake2" />
+    <item
+        component="ComponentInfo{org.emunix.unipatcher/org.emunix.unipatcher.ui.activity.MainActivity}"
+        drawable="unipatcher" />
+    <item
+        component="ComponentInfo{org.walleth/org.walleth.activities.MainActivity}"
+        drawable="walleth" />
+    <item
+        component="ComponentInfo{com.simonramstedt.yoke/com.simonramstedt.yoke.YokeActivity}"
+        drawable="yoke" />
+    <item
+        component="ComponentInfo{com.rehanced.lunary/rehanced.com.simpleetherwallet.activities.MainActivity}"
+        drawable="lunary" />
+    <item
+        component="ComponentInfo{com.lavadip.miniVector/im.vector.activity.LoginActivity}"
+        drawable="minivector" />
+    <item
+        component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}"
+        drawable="nextcloudtalk" />
+    <item
+        component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}"
+        drawable="rocketchat" />
+    <item
+        component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}"
+        drawable="vinyl" />
+    <item
+        component="ComponentInfo{com.wownero.wownerujo/com.wownero.wownerujo.LoginActivity}"
+        drawable="wownerujo" />
+    <item
+        component="ComponentInfo{net.sourceforge.x11basic/net.sourceforge.x11basic.X11BasicActivity}"
+        drawable="x11basic" />
+
 
     <!-- 3.1.0 -->
     <item
