@@ -4442,6 +4442,72 @@
     <item
         component="ComponentInfo{net.sourceforge.x11basic/net.sourceforge.x11basic.X11BasicActivity}"
         drawable="x11basic" />
+    <item
+        component="ComponentInfo{com.greenaddress.abcore/com.greenaddress.abcore.MainActivity}"
+        drawable="abcore" />
+    <item
+        component="ComponentInfo{jp.ksksue.app.terminal/jp.ksksue.app.terminal.AndroidUSBSerialMonitorLite}"
+        drawable="androidusbterminal" />
+    <item
+        component="ComponentInfo{com.gianlu.aria2android/com.gianlu.aria2android.MainActivity}"
+        drawable="aria2android" />
+    <item
+        component="ComponentInfo{com.slash.batterychargelimit/com.slash.batterychargelimit.activities.MainActivity}"
+        drawable="batterychargelimit" />
+    <item
+        component="ComponentInfo{de.k3b.android.contentproviderhelper/com.jensdriller.contentproviderhelper.ui.activity.MainActivity}"
+        drawable="contentproviderhelper" />
+    <item
+        component="ComponentInfo{org.pipoypipagames.cowsrevenge/org.godotengine.godot.Godot}"
+        drawable="cowsrevenge" />
+    <item
+        component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}"
+        drawable="editor" />
+    <item
+        component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}"
+        drawable="exodusprivacy" />
+    <item
+        component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}"
+        drawable="fairemail" />
+    <item
+        component="ComponentInfo{com.android.gpstest.osmdroid/com.android.gpstest.GpsTestActivity}"
+        drawable="gpstest" />
+    <item
+        component="ComponentInfo{de.k3b.android.intentintercept/uk.co.ashtonbrsc.intentexplode.StartupActivity}"
+        drawable="intentintercept" />
+    <item
+        component="ComponentInfo{com.kunzisoft.keyboard.switcher/com.kunzisoft.keyboard.switcher.settings.PreferenceActivity}"
+        drawable="keyboardswitcher" />
+    <item
+        component="ComponentInfo{com.EthanHeming.NeuralNetworkSimulator/com.EthanHeming.NeuralNetworkSimulator.MainActivity}"
+        drawable="neuralnetworks" />
+    <item
+        component="ComponentInfo{de.devmil.paperlaunch/de.devmil.paperlaunch.MainActivity}"
+        drawable="paperlaunch" />
+    <item
+        component="ComponentInfo{org.retroshare.android.qml_app/org.retroshare.android.qml_app.RetroShareQmlActivity}"
+        drawable="retroshare" />
+    <item
+        component="ComponentInfo{org.servDroid.web/org.servDroid.ui.activity.StartActivity}"
+        drawable="servdroid" />
+    <item
+        component="ComponentInfo{org.ea.sqrl/org.ea.sqrl.activites.SimplifiedActivity}"
+        drawable="sqrl" />
+    <item
+        component="ComponentInfo{com.farmerbb.taskbar/com.farmerbb.taskbar.MainActivity}"
+        drawable="taskbar" />
+    <item
+        component="ComponentInfo{org.segin.ttleditor/org.segin.ttleditor.TTLEditor}"
+        drawable="ttleditor" />
+    <item
+        component="ComponentInfo{com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity}"
+        drawable="waveup" />
+    <item
+        component="ComponentInfo{de.antonarnold.android.xoverrideheadphonejackdetection/de.antonarnold.android.xoverrideheadphonejackdetection.MainActivity}"
+        drawable="xjackoverride" />
+    <item
+        component="ComponentInfo{eu.faircode.xlua/eu.faircode.xlua.ActivityMain}"
+        drawable="xprivacylua" />
 
 
     <!-- 3.1.0 -->
