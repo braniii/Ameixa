@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# rastear desde todo/wip
+# get from todo/wip
 for SVG in todo/wip/*.svg
 do
 N=$(basename ${SVG} .svg)
@@ -20,7 +20,7 @@ cp ${SVG} ${SVG}.tmp
 	mv ${SVG} icons
 done
 
-# "xml" crea los correspondientes values/iconpack.xml y xml/drawable.xml
+# "xml" create corresponding "values/iconpack.xml" and "xml/drawable.xml"
 SVGDIR="icons/"
 EXPORT="app/src/main/res"
 ICPACK_PRE='<item>'
