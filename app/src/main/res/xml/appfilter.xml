@@ -1414,13 +1414,7 @@
         component="ComponentInfo{be.ppareit.swiftp_free/be.ppareit.swiftp.gui.FsPreferenceActivity}"
         drawable="ftpserver" />
     <item
-        component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}"
-        drawable="gadgetbridge" />
-    <item
-        component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.ControlCenter}"
-        drawable="gadgetbridge" />
-    <item
-        component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.SettingsActivity}"
+        component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/.activities.ControlCenterv2}"
         drawable="gadgetbridge" />
     <item
         component="ComponentInfo{com.murrayc.galaxyzoo.app/com.murrayc.galaxyzoo.app.ClassifyActivity}"
@@ -1495,13 +1489,7 @@
         component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}"
         drawable="github" />
     <item
-        component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activities.GitlabActivity}"
-        drawable="gitlab" />
-    <item
-        component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.GitlabActivity}"
-        drawable="gitlab" />
-    <item
-        component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}"
+        component="ComponentInfo{com.commit451.gitlab/.activity.LaunchActivity}"
         drawable="gitlab" />
     <item
         component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.game.MenuActivity}"
