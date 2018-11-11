@@ -45,6 +45,9 @@
         component="ComponentInfo{ch.abertschi.adfree/ch.abertschi.adfree.view.MainActivity}"
         drawable="adfree" />
     <item
+        component="ComponentInfo{hu.vsza.adsdroid/hu.vsza.adsdroid.SearchPanel}"
+        drawable="adsdroid" />
+    <item
         component="ComponentInfo{org.afhdownloader/org.afhdownloader.MainActivity}"
         drawable="afhdownloader" />
     <item
