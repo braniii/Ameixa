@@ -1396,6 +1396,9 @@
         component="ComponentInfo{de.cwde.freeshisen/de.cwde.freeshisen.ShisenShoActivity}"
         drawable="freeshisen" />
     <item
+        component="ComponentInfo{de.freifunk_karte.freifunk_karte/de.freifunk_karte.freifunk_karte.main}"
+        drawable="freifunkkarte" />
+    <item
         component="ComponentInfo{nf.frex.android/nf.frex.android.FrexActivity}"
         drawable="frex" />
     <item
