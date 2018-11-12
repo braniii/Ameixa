@@ -10,6 +10,7 @@
 <item drawable="adaway" />
 <item drawable="addi" />
 <item drawable="adfree" />
+<item drawable="adsdroid" />
 <item drawable="afhdownloader" />
 <item drawable="agit" />
 <item drawable="aizoban" />
@@ -268,6 +269,7 @@
 <item drawable="fossbrowser" />
 <item drawable="freeminer" />
 <item drawable="freeshisen" />
+<item drawable="freifunkkarte" />
 <item drawable="frex" />
 <item drawable="friendica" />
 <item drawable="frost" />

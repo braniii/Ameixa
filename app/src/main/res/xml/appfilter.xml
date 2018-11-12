@@ -45,6 +45,9 @@
         component="ComponentInfo{ch.abertschi.adfree/ch.abertschi.adfree.view.MainActivity}"
         drawable="adfree" />
     <item
+        component="ComponentInfo{hu.vsza.adsdroid/hu.vsza.adsdroid.SearchPanel}"
+        drawable="adsdroid" />
+    <item
         component="ComponentInfo{org.afhdownloader/org.afhdownloader.MainActivity}"
         drawable="afhdownloader" />
     <item
@@ -1392,6 +1395,9 @@
     <item
         component="ComponentInfo{de.cwde.freeshisen/de.cwde.freeshisen.ShisenShoActivity}"
         drawable="freeshisen" />
+    <item
+        component="ComponentInfo{de.freifunk_karte.freifunk_karte/de.freifunk_karte.freifunk_karte.main}"
+        drawable="freifunkkarte" />
     <item
         component="ComponentInfo{nf.frex.android/nf.frex.android.FrexActivity}"
         drawable="frex" />
