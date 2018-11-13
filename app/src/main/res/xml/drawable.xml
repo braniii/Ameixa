@@ -59,6 +59,7 @@
 <item drawable="authenticator" />
 <item drawable="autoairplanemode" />
 <item drawable="autostarts" />
+<item drawable="babysleepsounds" />
 <item drawable="barcodegen" />
 <item drawable="barcodescanner" />
 <item drawable="batshiit" />
@@ -399,6 +400,7 @@
 <item drawable="markers" />
 <item drawable="markor" />
 <item drawable="materialicons" />
+<item drawable="materialnotes" />
 <item drawable="materialplayer" />
 <item drawable="mathdoku" />
 <item drawable="mathtools" />
@@ -473,6 +475,7 @@
 <item drawable="nocknock" />
 <item drawable="nomad" />
 <item drawable="nonsensenotepad" />
+<item drawable="nori" />
 <item drawable="nostrangersms" />
 <item drawable="notecipher" />
 <item drawable="notepad" />
@@ -630,6 +633,7 @@
 <item drawable="screencam" />
 <item drawable="screencast" />
 <item drawable="screennotifications" />
+<item drawable="screenshotsharer" />
 <item drawable="screenstream" />
 <item drawable="scummvm" />
 <item drawable="sdscanner" />
@@ -704,6 +708,7 @@
 <item drawable="sismicsreader" />
 <item drawable="skytube" />
 <item drawable="slfms" />
+<item drawable="slidersynth" />
 <item drawable="slide" />
 <item drawable="slightbackup" />
 <item drawable="slimfacebook" />
@@ -714,6 +719,7 @@
 <item drawable="smsbackup" />
 <item drawable="smsscheduler" />
 <item drawable="smssecure" />
+<item drawable="snes9xex" />
 <item drawable="snooperstopper" />
 <item drawable="snoopsnitch" />
 <item drawable="sokoban" />
