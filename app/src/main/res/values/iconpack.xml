@@ -19,11 +19,14 @@
 <item>alogcatroot</item>
 <item>altcoin</item>
 <item>amaze</item>
+<item>ameixamonochrome</item>
+<item>ameixa</item>
 <item>ametro</item>
 <item>andbible</item>
 <item>andotp</item>
 <item>andquote</item>
 <item>androbd</item>
+<item>androidpermissions</item>
 <item>androidrun</item>
 <item>androidusbterminal</item>
 <item>androidvnc</item>
@@ -268,6 +271,7 @@
 <item>forrunners</item>
 <item>fortunes</item>
 <item>fossbrowser</item>
+<item>freedombox</item>
 <item>freeminer</item>
 <item>freeshisen</item>
 <item>freifunkkarte</item>
@@ -578,6 +582,7 @@
 <item>providersmedia</item>
 <item>puff</item>
 <item>puma</item>
+<item>punchlinebingo</item>
 <item>pwdhash</item>
 <item>pwdstore</item>
 <item>pyload</item>
@@ -608,6 +613,7 @@
 <item>remotekeyboard</item>
 <item>repay</item>
 <item>retroarch</item>
+<item>retroboy</item>
 <item>retrobreaker</item>
 <item>retroshare</item>
 <item>revolution</item>
