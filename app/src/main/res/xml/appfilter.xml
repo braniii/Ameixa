@@ -1387,7 +1387,7 @@
         component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.FotoGalleryActivity}"
         drawable="fotofinder" />
     <item
-        component="ComponentInfo{de.k3b.android.androFotoFinder/de_k3b_android.androFotoFinder.locationmap.MapGeoPickerActivity}"
+        component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.locationmap.MapGeoPickerActivity}"
         drawable="fotofinder2" />
     <item
         component="ComponentInfo{org.freeminer.freeminer/org.freeminer.freeminer.MtNativeActivity}"
@@ -1495,7 +1495,7 @@
         component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}"
         drawable="github" />
     <item
-        component="ComponentInfo{com.commit451.gitlab/.activity.LaunchActivity}"
+        component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}"
         drawable="gitlab" />
     <item
         component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.game.MenuActivity}"
@@ -1927,7 +1927,7 @@
         component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}"
         drawable="localcalendar" />
     <item
-        component="ComponentInfo{org.thosp.yourlocalweather/.MainActivity}"
+        component="ComponentInfo{org.thosp.yourlocalweather/org.thosp.yourlocalweather.MainActivity}"
         drawable="localweather" />
     <item
         component="ComponentInfo{info.guardianproject.locationprivacy/info.guardianproject.locationprivacy.MainActivity}"
@@ -2143,7 +2143,7 @@
         component="ComponentInfo{com.nutomic.zertman/com.nutomic.zertman.MainActivity}"
         drawable="movecerts" />
     <item
-        component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.MovieActivity}"
+        component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}"
         drawable="moviedb" />
     <item
         component="ComponentInfo{com.movim.movim/com.movim.movim.MainActivity}"
@@ -2452,7 +2452,7 @@
         component="ComponentInfo{com.valleytg.oasvn.android/com.valleytg.oasvn.android.ui.activity.MainMenu}"
         drawable="oasvn" />
     <item
-        component="ComponentInfo{org.witness.sscphase1/org.witness.sscphase1.ObscuraApp}"
+        component="ComponentInfo{org.witness.sscphase1/org.witness.obscuracam.MainActivity}"
         drawable="obscuracam" />
     <item
         component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}"
@@ -3187,7 +3187,7 @@
         component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity}"
         drawable="redmoon" />
     <item
-        component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.ui.MainActivity}"
+        component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.MainActivity}"
         drawable="redmoon" />
     <item
         component="ComponentInfo{com.github.redpanal.android/com.github.redpanal.android.SplashActivity}"
@@ -3735,7 +3735,7 @@
         component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
         drawable="sms2" />
     <item
-        component="ComponentInfo{com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.FreeMain}"
+        component="ComponentInfo{com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity}"
         drawable="smsbackup" />
     <item
         component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity}"
