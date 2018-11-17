@@ -4146,6 +4146,9 @@
         component="ComponentInfo{org.fox.ttrss/org.fox.ttrss.LaunchActivity}"
         drawable="ttrss" />
     <item
+        component="ComponentInfo{org.fox.tttrss/org.fox.ttrss.LaunchActivity}"
+        drawable="ttrss" />
+    <item
         component="ComponentInfo{org.ttrssreader/org.ttrssreader.gui.CategoryActivity}"
         drawable="ttrss" />
     <item
