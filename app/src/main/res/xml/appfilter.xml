@@ -2522,7 +2522,10 @@
         drawable="openflood" />
     <item
         component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.SplashActivity}"
-        drawable="openfood" />
+        drawable="openfoodfacts" />
+    <item
+        component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}"
+        drawable="openfoodfacts" />
     <item
         component="ComponentInfo{org.openhab.habdroid/org.openhab.habdroid.ui.OpenHABMainActivity}"
         drawable="openhab" />
@@ -4159,6 +4162,9 @@
         drawable="ttleditor" />
     <item
         component="ComponentInfo{org.fox.ttrss/org.fox.ttrss.LaunchActivity}"
+        drawable="ttrss" />
+    <item
+        component="ComponentInfo{org.fox.tttrss/org.fox.ttrss.LaunchActivity}"
         drawable="ttrss" />
     <item
         component="ComponentInfo{org.ttrssreader/org.ttrssreader.gui.CategoryActivity}"
