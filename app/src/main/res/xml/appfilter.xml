@@ -253,6 +253,9 @@
         component="ComponentInfo{com.elsdoerfer.android.autostarts/com.elsdoerfer.android.autostarts.ListActivity}"
         drawable="autostarts" />
     <item
+        component="ComponentInfo{protect.babysleepsounds/protect.babysleepsounds.MainActivity}"
+        drawable="babysleepsounds" />
+    <item
         component="ComponentInfo{de.cryptobitch.muelli.barcodegen/de.cryptobitch.muelli.barcodegen.MainActivity}"
         drawable="barcodegen" />
     <item
@@ -2023,6 +2026,9 @@
         component="ComponentInfo{org.materialos.icons/com.afollestad.polar.ui.SplashScreen}"
         drawable="materialicons" />
     <item
+        component="ComponentInfo{com.bijoysingh.quicknote/com.bijoysingh.quicknote.activities.MainActivity}"
+        drawable="materialnotes" />
+    <item
         component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookActivity}"
         drawable="materialplayer" />
     <item
@@ -2418,6 +2424,9 @@
     <item
         component="ComponentInfo{com.nononsenseapps.notepad/com.nononsenseapps.notepad.ActivityMain_}"
         drawable="nonsensenotepad" />
+    <item
+        component="ComponentInfo{io.github.tjg1.nori/io.github.tjg1.nori.SearchActivity}"
+        drawable="nori" />
     <item
         component="ComponentInfo{ru.glesik.nostrangersms/ru.glesik.nostrangersms.JunkSMSList}"
         drawable="nostrangersms" />
@@ -3315,6 +3324,9 @@
         component="ComponentInfo{com.lukekorth.screennotifications/com.lukekorth.screennotifications.ScreenNotificationsActivity}"
         drawable="screennotifications" />
     <item
+        component="ComponentInfo{com.tomer.screenshotsharer/com.tomer.screenshotsharer.MainActivity}"
+        drawable="screenshotsharer" />
+    <item
         component="ComponentInfo{info.dvkr.screenstream/info.dvkr.screenstream.ui.StartActivity}"
         drawable="screenstream" />
     <item
@@ -3687,6 +3699,9 @@
         component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}"
         drawable="slide" />
     <item
+        component="ComponentInfo{eu.flatworld.android.slider/eu.flatworld.android.slider.MenuActivity}"
+        drawable="slidersynth" />
+    <item
         component="ComponentInfo{de.shandschuh.slightbackup/de.shandschuh.slightbackup.BackupActivity}"
         drawable="slightbackup" />
     <item
@@ -3752,6 +3767,9 @@
     <item
         component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}"
         drawable="smssecure" />
+    <item
+        component="ComponentInfo{com.explusalpha.Snes9xPlus/com.imagine.BaseActivity}"
+        drawable="snes9xex" />
     <item
         component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}"
         drawable="snooperstopper" />

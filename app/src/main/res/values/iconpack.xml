@@ -59,6 +59,7 @@
 <item>authenticator</item>
 <item>autoairplanemode</item>
 <item>autostarts</item>
+<item>babysleepsounds</item>
 <item>barcodegen</item>
 <item>barcodescanner</item>
 <item>batshiit</item>
@@ -399,6 +400,7 @@
 <item>markers</item>
 <item>markor</item>
 <item>materialicons</item>
+<item>materialnotes</item>
 <item>materialplayer</item>
 <item>mathdoku</item>
 <item>mathtools</item>
@@ -473,6 +475,7 @@
 <item>nocknock</item>
 <item>nomad</item>
 <item>nonsensenotepad</item>
+<item>nori</item>
 <item>nostrangersms</item>
 <item>notecipher</item>
 <item>notepad</item>
@@ -630,6 +633,7 @@
 <item>screencam</item>
 <item>screencast</item>
 <item>screennotifications</item>
+<item>screenshotsharer</item>
 <item>screenstream</item>
 <item>scummvm</item>
 <item>sdscanner</item>
@@ -704,6 +708,7 @@
 <item>sismicsreader</item>
 <item>skytube</item>
 <item>slfms</item>
+<item>slidersynth</item>
 <item>slide</item>
 <item>slightbackup</item>
 <item>slimfacebook</item>
@@ -714,6 +719,7 @@
 <item>smsbackup</item>
 <item>smsscheduler</item>
 <item>smssecure</item>
+<item>snes9xex</item>
 <item>snooperstopper</item>
 <item>snoopsnitch</item>
 <item>sokoban</item>
