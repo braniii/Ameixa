@@ -19,11 +19,14 @@
 <item drawable="alogcatroot" />
 <item drawable="altcoin" />
 <item drawable="amaze" />
+<item drawable="ameixamonochrome" />
+<item drawable="ameixa" />
 <item drawable="ametro" />
 <item drawable="andbible" />
 <item drawable="andotp" />
 <item drawable="andquote" />
 <item drawable="androbd" />
+<item drawable="androidpermissions" />
 <item drawable="androidrun" />
 <item drawable="androidusbterminal" />
 <item drawable="androidvnc" />
@@ -268,6 +271,7 @@
 <item drawable="forrunners" />
 <item drawable="fortunes" />
 <item drawable="fossbrowser" />
+<item drawable="freedombox" />
 <item drawable="freeminer" />
 <item drawable="freeshisen" />
 <item drawable="freifunkkarte" />
@@ -578,6 +582,7 @@
 <item drawable="providersmedia" />
 <item drawable="puff" />
 <item drawable="puma" />
+<item drawable="punchlinebingo" />
 <item drawable="pwdhash" />
 <item drawable="pwdstore" />
 <item drawable="pyload" />
@@ -608,6 +613,7 @@
 <item drawable="remotekeyboard" />
 <item drawable="repay" />
 <item drawable="retroarch" />
+<item drawable="retroboy" />
 <item drawable="retrobreaker" />
 <item drawable="retroshare" />
 <item drawable="revolution" />

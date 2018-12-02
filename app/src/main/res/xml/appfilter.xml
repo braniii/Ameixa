@@ -69,6 +69,12 @@
         component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}"
         drawable="amaze" />
     <item
+        component="ComponentInfo{org.xphnx.ameixa/org.xphnx.ameixa.activities.MainActivity}"
+        drawable="ameixa" />
+    <item
+        component="ComponentInfo{org.xphnx.ameixamonochrome/org.xphnx.ameixamonochrome.activities.MainActivity}"
+        drawable="ameixamonochrome" />
+    <item
         component="ComponentInfo{org.ametro/org.ametro.ui.activities.Map}"
         drawable="ametro" />
     <item
@@ -89,6 +95,9 @@
     <item
         component="ComponentInfo{com.fr3ts0n.ecu.gui.androbd/com.fr3ts0n.ecu.gui.androbd.MainActivity}"
         drawable="androbd" />
+    <item
+        component="ComponentInfo{in.arjsna.permissionchecker/in.arjsna.permissionchecker.MainActivity}"
+        drawable="androidpermissions" />
     <item
         component="ComponentInfo{fr.asterope/fr.asterope.MainActivity}"
         drawable="androidrun" />
@@ -1392,6 +1401,9 @@
     <item
         component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.locationmap.MapGeoPickerActivity}"
         drawable="fotofinder2" />
+    <item
+        component="ComponentInfo{org.freedombox.freedombox/org.freedombox.freedombox.views.activities.MainActivity}"
+        drawable="freedombox" />
     <item
         component="ComponentInfo{org.freeminer.freeminer/org.freeminer.freeminer.MtNativeActivity}"
         drawable="freeminer" />
@@ -3097,6 +3109,9 @@
         component="ComponentInfo{org.macno.puma/org.macno.puma.activity.MainActivity}"
         drawable="puma" />
     <item
+        component="ComponentInfo{com.pierreduchemin.punchlinebingo/com.pierreduchemin.punchlinebingo.activities.MainActivity}"
+        drawable="punchlinebingo" />
+    <item
         component="ComponentInfo{com.uploadedlobster.PwdHash/com.uploadedlobster.PwdHash.activities.PwdHashApp}"
         drawable="pwdhash" />
     <item
@@ -3225,6 +3240,9 @@
     <item
         component="ComponentInfo{com.retroarch.aarch64/com.retroarch.browser.mainmenu.MainMenuActivity}"
         drawable="retroarch" />
+    <item
+        component="ComponentInfo{se.embargo.retroboy/se.embargo.retroboy.MainActivity}"
+        drawable="retroboy" />
     <item
         component="ComponentInfo{br.usp.ime.retrobreaker/br.usp.ime.retrobreaker.MainActivity}"
         drawable="retrobreaker" />
