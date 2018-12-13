@@ -4645,6 +4645,13 @@
         drawable="zapp" />
 
     <!-- 4.0.7 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    
+    <item 
+        component="ComponentInfo{ml.adamsprogs.bimba/ml.adamsprogs.bimba.activities.SplashActivity}" 
+        drawable="bimba"/>
+    <item 
+        component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" 
+        drawable="bookreader"/>
 
 
     <!-- Nova Launcher specific -->
