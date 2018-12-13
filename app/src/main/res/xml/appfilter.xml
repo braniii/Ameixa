@@ -4673,7 +4673,7 @@
         drawable="updaterforspotify"/>
     <item 
         component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" 
-        drawable="frost"/>
+        drawable="fbfrost"/>
 
     <!-- Nova Launcher specific -->
     <item
