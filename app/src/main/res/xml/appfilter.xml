@@ -4652,6 +4652,19 @@
     <item 
         component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" 
         drawable="bookreader"/>
+    <item 
+        component="ComponentInfo{com.suyashsrijan.forcedoze/.MainActivity}" 
+        drawable="forcedoze"/>
+    <item 
+        component="ComponentInfo{ca.fwe.caweather/.MainActivity}" 
+        drawable="caweather"/>
+    <item 
+        component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" 
+        drawable="imgurviewer"/>
+    <item 
+        component="ComponentInfo{}" 
+        drawable=""/>
+        
 
 
     <!-- Nova Launcher specific -->
