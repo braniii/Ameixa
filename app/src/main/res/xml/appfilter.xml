@@ -4706,8 +4706,5 @@
     <item
         component=":SMS"
         drawable="messages" />
-    <item
-        component=":LAUNCHER_ACTION_APP_DRAWER"
-        drawable="drawer" />
 
 </resources>
