@@ -246,9 +246,9 @@
     <item
         component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}"
         drawable="aurora" />
-    <item
-        component="ComponentInfo{com.dragons.aurora/.activities.AuroraActivity}"
-        drawable="aurorastore" />
+    <item 
+        component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" 
+        drawable="aurorastore"/>
     <item
         component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
         drawable="authenticator" />
@@ -1395,6 +1395,9 @@
     <item
         component="ComponentInfo{de.baumann.browser.Ninja/de.baumann.browser.Activity.BrowserActivity}"
         drawable="fossbrowser" />
+    <item 
+        component="ComponentInfo{de.baumann.browser/de.baumann.browser.Activity.BrowserActivity}" 
+        drawable="fossbrowser"/>
     <item
         component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.FotoGalleryActivity}"
         drawable="fotofinder" />
@@ -2749,7 +2752,7 @@
         component="ComponentInfo{org.secuso.privacyfriendlyactivitytracker/org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity}"
         drawable="pedometer" />
     <item
-        component="ComponentInfo{com.cgogolin.penandpdf/PenAndPDFActivity}"
+        component="ComponentInfo{com.cgogolin.penandpdf/com.cgogolin.penandpdf/com.cgogolin.penandpdf.PenAndPDFActivity}"
         drawable="penandpdf" />
     <item
         component="ComponentInfo{com.brewcrewfoo.performance/com.brewcrewfoo.performance.activities.MainActivity}"
@@ -4665,10 +4668,8 @@
         component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" 
         drawable="imgurviewer"/>
     <item 
-        component="ComponentInfo{}" 
-        drawable=""/>
-        
-
+        component="ComponentInfo{ru.ra66it.updaterforspotify/ru.ra66it.updaterforspotify.presentation.ui.activity.MainActivity}" 
+        drawable="updaterforspotify"/>
 
     <!-- Nova Launcher specific -->
     <item
