@@ -2544,6 +2544,9 @@
     <item
         component="ComponentInfo{org.openhab.habdroid.beta/.ui.OpenHABMainActivity}"
         drawable="openhab" />
+    <item 
+        component="ComponentInfo{org.openhab.habdroid/org.openhab.habdroid.ui.MainActivity}"
+        drawable="openhab" />
     <item
         component="ComponentInfo{com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity}"
         drawable="openhub" />
