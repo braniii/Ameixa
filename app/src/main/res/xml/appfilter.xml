@@ -312,6 +312,9 @@
     <item
         component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.BirthdroidActivity}"
         drawable="birthdroid" />
+            <item
+        component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.MainActivity}"
+        drawable="birthdroid" />
     <item
         component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}"
         drawable="bitcoin" />
