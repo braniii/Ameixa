@@ -1443,6 +1443,9 @@
     <item
         component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/.activities.ControlCenterv2}"
         drawable="gadgetbridge" />
+    <item 
+        component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}"
+        drawable="gadgetbridge"/>
     <item
         component="ComponentInfo{com.murrayc.galaxyzoo.app/com.murrayc.galaxyzoo.app.ClassifyActivity}"
         drawable="galaxyzoo" />
@@ -4651,7 +4654,7 @@
         component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}"
         drawable="zapp" />
 
-    <!-- 4.0.7 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.0.7 < [] -->
     
     <item 
         component="ComponentInfo{ml.adamsprogs.bimba/ml.adamsprogs.bimba.activities.SplashActivity}" 
@@ -4674,6 +4677,18 @@
     <item 
         component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" 
         drawable="fbfrost"/>
+        
+    <!-- 4.1.2 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->        
+
+    <item 
+        component="ComponentInfo{org.droidtr.deletegapps/org.droidtr.deletegapps.MainActivity}" 
+        drawable="dgapps"/>
+    <item 
+        component="ComponentInfo{org.decsync.cc/org.decsync.cc.MainActivity}" 
+        drawable="decsynccc"/>
+    <item 
+        component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}" 
+        drawable="g-droid"/>
 
     <!-- Nova Launcher specific -->
     <item
