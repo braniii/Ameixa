@@ -312,7 +312,7 @@
     <item
         component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.BirthdroidActivity}"
         drawable="birthdaydroid" />
-            <item
+    <item
         component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.MainActivity}"
         drawable="birthdaydroid" />
     <item
