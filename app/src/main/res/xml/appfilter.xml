@@ -311,10 +311,10 @@
         drawable="birthdaydroid" />
     <item
         component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.BirthdroidActivity}"
-        drawable="birthdroid" />
+        drawable="birthdaydroid" />
             <item
         component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.MainActivity}"
-        drawable="birthdroid" />
+        drawable="birthdaydroid" />
     <item
         component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}"
         drawable="bitcoin" />
@@ -4670,6 +4670,9 @@
         drawable="bookreader"/>
     <item 
         component="ComponentInfo{com.suyashsrijan.forcedoze/.MainActivity}" 
+        drawable="forcedoze"/>
+    <item 
+        component="ComponentInfo{com.suyashsrijan.forcedoze/com.suyashsrijan.forcedoze.MainActivity}" 
         drawable="forcedoze"/>
     <item 
         component="ComponentInfo{ca.fwe.caweather/.MainActivity}" 
