@@ -7,7 +7,7 @@
     </defs>
     <g transform="translate(0 -1093.8)">
         <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#263238" filter="url(#filter6206-7)" opacity=".2"/>
-        <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#03a9f4"/>
+        <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#00bcd4"/>
         <g transform="translate(-22.32 1056.5)">
             <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
             <g transform="matrix(.33601 0 0 .33601 1.5296 73.043)">
@@ -77,15 +77,7 @@
     </g>
     <g>
         <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <g transform="matrix(1.0565 0 0 1.0565 .12745 -1083.1)" fill="#fff">
-            <rect transform="translate(-12.489,953.1)" x="22.03" y="77.934" width="1.1225" height="2.245"/>
-            <path transform="translate(0,1025.4)" d="m8.9688 6.75c-0.49023 0.019644-0.875 0.4872-0.875 1.0938v11.25c0 0.6191 0.40176 1.125 0.90625 1.125h8.9688c0.50449 0 0.90625-0.5059 0.90625-1.125v-11.25c0-0.6191-0.40176-1.0938-0.90625-1.0938v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875zm0 3.375h9v8.9688h-9z"/>
-            <rect x="12.909" y="1031" width="1.1225" height="2.245"/>
-            <rect x="16.276" y="1031" width="1.1225" height="2.245"/>
-            <rect transform="translate(0,1025.4)" x="10.664" y="12.358" width="5.6125" height="1.1225"/>
-            <rect x="10.664" y="1040" width="5.6125" height="1.1225"/>
-            <rect x="10.664" y="1042.3" width="5.6125" height="1.1225"/>
-        </g>
+        <path d="m8.6953 8.4668c-0.78719 6.474e-4 -1.4251 0.63859-1.4258 1.4258v12.844l2.8535-2.8535h9.9883c0.78886 5.31e-4 1.4283-0.64083 1.4277-1.4297v-8.5605c0-0.79205-0.6429-1.4258-1.4277-1.4258h-11.416zm4.5879 2.2734h2.1797v1.998l-1.0898 1.0898-1.0898-1.0898v-1.998zm-2.543 2.543h1.998l1.0898 1.0898-1.0898 1.0898h-1.998v-2.1797zm5.2676 0h2v2.1797h-2l-1.0898-1.0898 1.0898-1.0898zm-1.6348 1.6348 1.0898 1.0898v2h-2.1797v-2l1.0898-1.0898z" fill="#fff" stroke-width="1.0673"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

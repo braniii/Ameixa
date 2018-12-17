@@ -96,6 +96,7 @@
 <item drawable="botbrew" />
 <item drawable="briar" />
 <item drawable="broadcast" />
+<item drawable="bromite" />
 <item drawable="bronylivewallpaper" />
 <item drawable="brouter" />
 <item drawable="browser" />
@@ -111,6 +112,7 @@
 <item drawable="calculator2" />
 <item drawable="calculator" />
 <item drawable="caldavsync" />
+<item drawable="calendarcolor" />
 <item drawable="calendarie" />
 <item drawable="calendarnotifications" />
 <item drawable="calendar" />
@@ -183,6 +185,7 @@
 <item drawable="davdroid" />
 <item drawable="debiandroid" />
 <item drawable="debiankit" />
+<item drawable="decsynccc" />
 <item drawable="defaulticon" />
 <item drawable="defendo" />
 <item drawable="deltachat" />
@@ -190,6 +193,7 @@
 <item drawable="derandom" />
 <item drawable="deskcon" />
 <item drawable="devtools" />
+<item drawable="dgapps" />
 <item drawable="diasporadfa" />
 <item drawable="diasporanw" />
 <item drawable="diasporawebclient" />
@@ -199,6 +203,7 @@
 <item drawable="dimmer" />
 <item drawable="dir" />
 <item drawable="disablemanager" />
+<item drawable="discord" />
 <item drawable="diskusage" />
 <item drawable="dns66" />
 <item drawable="dnsman" />
@@ -206,6 +211,7 @@
 <item drawable="documentviewer" />
 <item drawable="doomytorch" />
 <item drawable="downloads" />
+<item drawable="drawer" />
 <item drawable="driibo" />
 <item drawable="drinks" />
 <item drawable="droidfish" />
@@ -290,6 +296,7 @@
 <item drawable="game2048" />
 <item drawable="gameboid" />
 <item drawable="gappsbrowser" />
+<item drawable="g-droid" />
 <item drawable="gearshift" />
 <item drawable="getbackgps" />
 <item drawable="ghostcommander" />
@@ -585,6 +592,7 @@
 <item drawable="prefmanager" />
 <item drawable="prevo" />
 <item drawable="privacybrowser" />
+<item drawable="protonmail" />
 <item drawable="providersmedia" />
 <item drawable="puff" />
 <item drawable="puma" />
