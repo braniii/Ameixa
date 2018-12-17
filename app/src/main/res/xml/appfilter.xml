@@ -4697,7 +4697,7 @@
         drawable="decsynccc"/>
     <item 
         component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}" 
-        drawable="g-droid"/>
+        drawable="gdroid"/>
     <item 
         component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" 
         drawable="bromite"/>
