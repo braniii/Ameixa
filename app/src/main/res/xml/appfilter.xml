@@ -1191,6 +1191,9 @@
     <item
         component="ComponentInfo{org.billthefarmer.editor/Editor}"
         drawable="editor" />
+    <item 
+        component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" 
+        drawable="editor"/>
     <item
         component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}"
         drawable="editor920" />
@@ -4689,6 +4692,12 @@
     <item 
         component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}" 
         drawable="g-droid"/>
+    <item 
+        component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" 
+        drawable="bromite"/>
+    <item 
+        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" 
+        drawable="discord"/>
 
     <!-- Nova Launcher specific -->
     <item
