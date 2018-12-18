@@ -3574,6 +3574,9 @@
         component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Orange}"
         drawable="simplecalendar" />
     <item
+        component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}"
+        drawable="simplecalendar" />
+    <item
         component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity}"
         drawable="simplecamera" />
     <item
@@ -3592,6 +3595,9 @@
         component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Orange}"
         drawable="simplecontacts" />
     <item
+        component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange}"
+        drawable="simplecontacts" />
+    <item
         component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}"
         drawable="simpledraw" />
     <item
@@ -3605,6 +3611,9 @@
         drawable="simplefilemanager" />
     <item
         component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Orange}"
+        drawable="simplefilemanager" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange}"
         drawable="simplefilemanager" />
     <item
         component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}"
@@ -3622,6 +3631,9 @@
         component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}"
         drawable="simplegallery" />
     <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}"
+        drawable="simplegallery" />
+    <item
         component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity}"
         drawable="simplemusicplayer" />
     <item
@@ -3632,6 +3644,9 @@
         drawable="simplenotes" />
     <item
         component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Orange}"
+        drawable="simplenotes" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Orange}"
         drawable="simplenotes" />
     <item
         component="ComponentInfo{simple.reboot.com/simple.reboot.com.MainActivity}"
