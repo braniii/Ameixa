@@ -281,6 +281,7 @@
 <item drawable="forrunners" />
 <item drawable="fortunes" />
 <item drawable="fossbrowser" />
+<item drawable="fotofinder" />
 <item drawable="freedombox" />
 <item drawable="freeminer" />
 <item drawable="freeshisen" />
@@ -590,6 +591,7 @@
 <item drawable="practicehub" />
 <item drawable="prboom" />
 <item drawable="prefmanager" />
+<item drawable="pretendyourexyzzy" />
 <item drawable="prevo" />
 <item drawable="privacybrowser" />
 <item drawable="protonmail" />
@@ -649,6 +651,7 @@
 <item drawable="sand" />
 <item drawable="satstat" />
 <item drawable="saveforoffline" />
+<item drawable="scarletfdroid" />
 <item drawable="schessclock" />
 <item drawable="scid" />
 <item drawable="scrabble" />
@@ -732,6 +735,7 @@
 <item drawable="skytube" />
 <item drawable="slfms" />
 <item drawable="slidersynth" />
+<item drawable="slideshow" />
 <item drawable="slide" />
 <item drawable="slightbackup" />
 <item drawable="slimfacebook" />
@@ -930,6 +934,7 @@
 <item drawable="xposed" />
 <item drawable="xprivacylua" />
 <item drawable="xprivacy" />
+<item drawable="xscreensaver" />
 <item drawable="xsdl" />
 <item drawable="xskat" />
 <item drawable="yaab" />
