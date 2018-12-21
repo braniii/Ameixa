@@ -246,8 +246,8 @@
     <item
         component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}"
         drawable="aurora" />
-    <item 
-        component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" 
+    <item
+        component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}"
         drawable="aurorastore"/>
     <item
         component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
@@ -333,8 +333,8 @@
     <item
         component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}"
         drawable="bitwarden" />
-    <item 
-        component="ComponentInfo{com.x8bit.bitwarden/md5fb78b69c5ddbc157f4db38fd738139a6.SplashActivity}" 
+    <item
+        component="ComponentInfo{com.x8bit.bitwarden/md5fb78b69c5ddbc157f4db38fd738139a6.SplashActivity}"
         drawable="bitwarden"/>
     <item
         component="ComponentInfo{org.blokada.alarm/org.blokada.ui.app.android.MainActivity}"
@@ -1194,8 +1194,8 @@
     <item
         component="ComponentInfo{org.billthefarmer.editor/Editor}"
         drawable="editor" />
-    <item 
-        component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" 
+    <item
+        component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}"
         drawable="editor"/>
     <item
         component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}"
@@ -1404,8 +1404,8 @@
     <item
         component="ComponentInfo{de.baumann.browser.Ninja/de.baumann.browser.Activity.BrowserActivity}"
         drawable="fossbrowser" />
-    <item 
-        component="ComponentInfo{de.baumann.browser/de.baumann.browser.Activity.BrowserActivity}" 
+    <item
+        component="ComponentInfo{de.baumann.browser/de.baumann.browser.Activity.BrowserActivity}"
         drawable="fossbrowser"/>
     <item
         component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.FotoGalleryActivity}"
@@ -1449,7 +1449,7 @@
     <item
         component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/.activities.ControlCenterv2}"
         drawable="gadgetbridge" />
-    <item 
+    <item
         component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}"
         drawable="gadgetbridge"/>
     <item
@@ -1527,9 +1527,6 @@
     <item
         component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}"
         drawable="labcoat" />
-    <item 
-        component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" 
-        drawable="labcoat"/>
     <item
         component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.game.MenuActivity}"
         drawable="gloomydungeons" />
@@ -2562,7 +2559,7 @@
     <item
         component="ComponentInfo{org.openhab.habdroid.beta/.ui.OpenHABMainActivity}"
         drawable="openhab" />
-    <item 
+    <item
         component="ComponentInfo{org.openhab.habdroid/org.openhab.habdroid.ui.MainActivity}"
         drawable="openhab" />
     <item
@@ -3109,6 +3106,9 @@
         component="ComponentInfo{fr.simon.marquis.preferencesmanager/fr.simon.marquis.preferencesmanager.ui.AppListActivity}"
         drawable="prefmanager" />
     <item
+        component="ComponentInfo{com.gianlu.pretendyourexyzzy/com.gianlu.pretendyourexyzzy.LoadingActivity}"
+        drawable="pretendyourexyzzy" />
+    <item
         component="ComponentInfo{uk.co.busydoingnothing.prevo/uk.co.busydoingnothing.prevo.LanguagesActivity}"
         drawable="prevo" />
     <item
@@ -3276,8 +3276,8 @@
     <item
         component="ComponentInfo{com.fastebro.androidrgbtool/com.fastebro.androidrgbtool.ui.MainActivity}"
         drawable="rgbtool" />
-    <item 
-        component="ComponentInfo{cx.ring/cx.ring.launch.LaunchActivity}" 
+    <item
+        component="ComponentInfo{cx.ring/cx.ring.launch.LaunchActivity}"
         drawable="ring"/>
     <item
         component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}"
@@ -3333,6 +3333,9 @@
     <item
         component="ComponentInfo{jonas.tool.saveForOffline/jonas.tool.saveForOffline.MainActivity}"
         drawable="saveforoffline" />
+    <item
+        component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}"
+        drawable="scarletfdroid" />
     <item
         component="ComponentInfo{com.chessclock.android/com.chessclock.android.ChessClock}"
         drawable="schessclock" />
@@ -3753,6 +3756,9 @@
     <item
         component="ComponentInfo{eu.flatworld.android.slider/eu.flatworld.android.slider.MenuActivity}"
         drawable="slidersynth" />
+    <item
+        component="ComponentInfo{link.standen.michael.slideshow/link.standen.michael.slideshow.MainActivity}"
+        drawable="slideshow" />
     <item
         component="ComponentInfo{de.shandschuh.slightbackup/de.shandschuh.slightbackup.BackupActivity}"
         drawable="slightbackup" />
@@ -4633,6 +4639,9 @@
         component="ComponentInfo{x.org.server/x.org.server.MainActivity}"
         drawable="xsdl" />
     <item
+        component="ComponentInfo{org.jwz.xscreensaver/org.jwz.xscreensaver.Activity}"
+        drawable="xscreensaver" />
+    <item
         component="ComponentInfo{de.xskat/de.xskat.XSkat}"
         drawable="xskat" />
     <item
@@ -4676,48 +4685,48 @@
         drawable="zapp" />
 
     <!-- 4.0.7 < [] -->
-    
-    <item 
-        component="ComponentInfo{ml.adamsprogs.bimba/ml.adamsprogs.bimba.activities.SplashActivity}" 
-        drawable="bimba"/>
-    <item 
-        component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" 
-        drawable="bookreader"/>
-    <item 
-        component="ComponentInfo{com.suyashsrijan.forcedoze/.MainActivity}" 
-        drawable="forcedoze"/>
-    <item 
-        component="ComponentInfo{com.suyashsrijan.forcedoze/com.suyashsrijan.forcedoze.MainActivity}" 
-        drawable="forcedoze"/>
-    <item 
-        component="ComponentInfo{ca.fwe.caweather/.MainActivity}" 
-        drawable="caweather"/>
-    <item 
-        component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" 
-        drawable="imgurviewer"/>
-    <item 
-        component="ComponentInfo{ru.ra66it.updaterforspotify/ru.ra66it.updaterforspotify.presentation.ui.activity.MainActivity}" 
-        drawable="updaterforspotify"/>
-    <item 
-        component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" 
-        drawable="fbfrost"/>
-        
-    <!-- 4.1.2 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->        
 
-    <item 
-        component="ComponentInfo{org.droidtr.deletegapps/org.droidtr.deletegapps.MainActivity}" 
+    <item
+        component="ComponentInfo{ml.adamsprogs.bimba/ml.adamsprogs.bimba.activities.SplashActivity}"
+        drawable="bimba"/>
+    <item
+        component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}"
+        drawable="bookreader"/>
+    <item
+        component="ComponentInfo{com.suyashsrijan.forcedoze/.MainActivity}"
+        drawable="forcedoze"/>
+    <item
+        component="ComponentInfo{com.suyashsrijan.forcedoze/com.suyashsrijan.forcedoze.MainActivity}"
+        drawable="forcedoze"/>
+    <item
+        component="ComponentInfo{ca.fwe.caweather/.MainActivity}"
+        drawable="caweather"/>
+    <item
+        component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}"
+        drawable="imgurviewer"/>
+    <item
+        component="ComponentInfo{ru.ra66it.updaterforspotify/ru.ra66it.updaterforspotify.presentation.ui.activity.MainActivity}"
+        drawable="updaterforspotify"/>
+    <item
+        component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}"
+        drawable="fbfrost"/>
+
+    <!-- 4.1.2 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+
+    <item
+        component="ComponentInfo{org.droidtr.deletegapps/org.droidtr.deletegapps.MainActivity}"
         drawable="dgapps"/>
-    <item 
-        component="ComponentInfo{org.decsync.cc/org.decsync.cc.MainActivity}" 
+    <item
+        component="ComponentInfo{org.decsync.cc/org.decsync.cc.MainActivity}"
         drawable="decsynccc"/>
-    <item 
-        component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}" 
+    <item
+        component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}"
         drawable="gdroid"/>
-    <item 
-        component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" 
+    <item
+        component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}"
         drawable="bromite"/>
-    <item 
-        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" 
+    <item
+        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
         drawable="discord"/>
 
     <!-- Nova Launcher specific -->
