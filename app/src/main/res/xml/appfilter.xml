@@ -751,6 +751,9 @@
         component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}"
         drawable="clover" />
     <item
+        component="ComponentInfo{org.floens.chan.dev/org.floens.chan.ui.activity.BoardActivity}"
+        drawable="clover" />
+    <item
         component="ComponentInfo{com.cyanogenmod.account/com.cyanogenmod.account.ui.CMAccountActivity}"
         drawable="cmaccount" />
     <item
