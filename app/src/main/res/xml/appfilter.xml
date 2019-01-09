@@ -3124,9 +3124,6 @@
         component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity}"
         drawable="privacybrowser" />
     <item
-        component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}"
-        drawable="protonmail" />
-    <item
         component="ComponentInfo{com.android.providers.media/com.android.providers.media.RingtonePickerActivity}"
         drawable="providersmedia" />
     <item
@@ -4731,9 +4728,6 @@
     <item
         component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}"
         drawable="bromite"/>
-    <item
-        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
-        drawable="discord"/>
 
     <!-- Nova Launcher specific -->
     <item
