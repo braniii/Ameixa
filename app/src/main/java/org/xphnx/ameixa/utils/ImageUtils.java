@@ -3,12 +3,14 @@ package org.xphnx.ameixa.utils;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.BitmapFactory.Options;
 import android.graphics.drawable.Drawable;
-import android.support.v4.graphics.drawable.DrawableCompat;
 import android.view.View;
 import android.widget.ImageView;
 
 import org.xphnx.ameixa.async.BitmapLoadTask;
+
+import androidx.core.graphics.drawable.DrawableCompat;
 
 public class ImageUtils {
 
@@ -27,7 +29,7 @@ public class ImageUtils {
     }
 
     public static Bitmap bitmapLoad(Resources resources, int resId, int width, int height) {
-        BitmapFactory.Options resOptions = new BitmapFactory.Options();
+        Options resOptions = new Options();
         resOptions.inJustDecodeBounds = true;
 
         // load appropriately sampled bitmap from given resource

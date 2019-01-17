@@ -4,17 +4,19 @@ import android.content.Intent;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Bundle;
-import android.support.v4.content.ContextCompat;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.LinearLayout.LayoutParams;
 import android.widget.TextView;
 
 import org.xphnx.ameixa.R;
 import org.xphnx.ameixa.utils.ImageUtils;
 import org.xphnx.ameixa.utils.ScreenUtils;
+
+import androidx.core.content.ContextCompat;
 
 public class MainActivity extends BaseActivity {
 
@@ -25,22 +27,22 @@ public class MainActivity extends BaseActivity {
     }
 
     private void createLayout() {
-        LinearLayout.LayoutParams smallLayoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
+        LayoutParams smallLayoutParams = new LayoutParams(LayoutParams.MATCH_PARENT,
+                LayoutParams.WRAP_CONTENT, 1f);
         float scale = ScreenUtils.densityScale(getApplicationContext());
         ViewGroup.LayoutParams buttonParams = new ViewGroup.LayoutParams(Math.round(48 * scale), Math.round(48 * scale));
 
         LinearLayout frameLayout = new LinearLayout(this);
-        frameLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.MATCH_PARENT));
+        frameLayout.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT,
+                LayoutParams.MATCH_PARENT));
         frameLayout.setBackgroundColor(getResources().getColor(R.color.colorLight));
         frameLayout.setGravity(Gravity.CENTER);
         setContentView(frameLayout);
 
         LinearLayout baseLayout = new LinearLayout(this);
         baseLayout.setOrientation(LinearLayout.VERTICAL);
-        baseLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
-                LinearLayout.LayoutParams.MATCH_PARENT));
+        baseLayout.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,
+                LayoutParams.MATCH_PARENT));
         baseLayout.setGravity(Gravity.START);
         frameLayout.addView(baseLayout);
 
@@ -53,8 +55,8 @@ public class MainActivity extends BaseActivity {
 
         LinearLayout iconClickLayout = new LinearLayout(this);
         iconClickLayout.setOrientation(LinearLayout.HORIZONTAL);
-        iconClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT));
+        iconClickLayout.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,
+                LayoutParams.WRAP_CONTENT));
         iconClickLayout.setGravity(Gravity.CENTER);
         iconLayout.addView(iconClickLayout);
         iconClickLayout.setOnClickListener(this::iconActivity);
@@ -83,8 +85,8 @@ public class MainActivity extends BaseActivity {
 
         LinearLayout sourceClickLayout = new LinearLayout(this);
         sourceClickLayout.setOrientation(LinearLayout.HORIZONTAL);
-        sourceClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT));
+        sourceClickLayout.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,
+                LayoutParams.WRAP_CONTENT));
         sourceClickLayout.setGravity(Gravity.CENTER);
         sourceLayout.addView(sourceClickLayout);
         sourceClickLayout.setOnClickListener(this::gitLink);
@@ -113,8 +115,8 @@ public class MainActivity extends BaseActivity {
 
         LinearLayout aboutClickLayout = new LinearLayout(this);
         aboutClickLayout.setOrientation(LinearLayout.HORIZONTAL);
-        aboutClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT));
+        aboutClickLayout.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,
+                LayoutParams.WRAP_CONTENT));
         aboutClickLayout.setGravity(Gravity.CENTER);
         aboutLayout.addView(aboutClickLayout);
         aboutClickLayout.setOnClickListener(this::licenseActivity);

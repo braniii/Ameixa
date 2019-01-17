@@ -2,10 +2,11 @@ package org.xphnx.ameixa.activities;
 
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.WindowManager;
 
 import org.xphnx.ameixa.R;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public abstract class BaseActivity extends AppCompatActivity {
 

@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.LinearLayout;
+import android.widget.LinearLayout.LayoutParams;
 import android.widget.TextView;
 
 import org.xphnx.ameixa.R;
@@ -20,22 +21,22 @@ public class LicenseActivity extends BaseActivity {
     }
 
     private void createLayout() {
-        LinearLayout.LayoutParams smallLayoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
+        LayoutParams smallLayoutParams = new LayoutParams(LayoutParams.MATCH_PARENT,
+                LayoutParams.WRAP_CONTENT, 1f);
         float scale = ScreenUtils.densityScale(getApplicationContext());
         int padding = Math.round(64 * scale);
 
         LinearLayout frameLayout = new LinearLayout(this);
-        frameLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.MATCH_PARENT));
+        frameLayout.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT,
+                LayoutParams.MATCH_PARENT));
         frameLayout.setBackgroundColor(0xffffffff);
         frameLayout.setGravity(Gravity.CENTER);
         setContentView(frameLayout);
 
         LinearLayout baseLayout = new LinearLayout(this);
         baseLayout.setOrientation(LinearLayout.VERTICAL);
-        baseLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
-                LinearLayout.LayoutParams.MATCH_PARENT));
+        baseLayout.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,
+                LayoutParams.MATCH_PARENT));
         baseLayout.setGravity(Gravity.START);
         frameLayout.addView(baseLayout);
 
@@ -48,8 +49,8 @@ public class LicenseActivity extends BaseActivity {
 
         LinearLayout sourceClickLayout = new LinearLayout(this);
         sourceClickLayout.setOrientation(LinearLayout.HORIZONTAL);
-        sourceClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT));
+        sourceClickLayout.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,
+                LayoutParams.WRAP_CONTENT));
         sourceClickLayout.setGravity(Gravity.CENTER);
         sourceLayout.addView(sourceClickLayout);
         sourceClickLayout.setOnClickListener(this::gplLink);
@@ -71,7 +72,7 @@ public class LicenseActivity extends BaseActivity {
 
         LinearLayout imgClickLayout = new LinearLayout(this);
         imgClickLayout.setOrientation(LinearLayout.HORIZONTAL);
-        imgClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
+        imgClickLayout.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT));
         imgClickLayout.setGravity(Gravity.CENTER);
         imgLayout.addView(imgClickLayout);
         imgClickLayout.setOnClickListener(this::ccLink);
