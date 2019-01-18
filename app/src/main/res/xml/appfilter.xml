@@ -2091,9 +2091,9 @@
     <item
         component="ComponentInfo{it.skarafaz.mercury/it.skarafaz.mercury.activity.MainActivity}"
         drawable="mercury" />
-	<item 
-		component="ComponentInfo{com.arnaud.metronome/.Metronome}" 
-		drawable="metronome" />
+    <item 
+        component="ComponentInfo{com.arnaud.metronome/com.arnaud.metronome.Metronome}" 
+        drawable="metronome" />
     <item
         component="ComponentInfo{com.manichord.mgit/com.manichord.mgit.repolist.RepoListActivity}"
         drawable="mgit" />
