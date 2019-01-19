@@ -203,6 +203,7 @@
 <item drawable="dimmer" />
 <item drawable="dir" />
 <item drawable="disablemanager" />
+<item drawable="discord" />
 <item drawable="diskusage" />
 <item drawable="dns66" />
 <item drawable="dnsman" />
@@ -427,6 +428,7 @@
 <item drawable="meditationassistant" />
 <item drawable="memetastic" />
 <item drawable="mercury" />
+<item drawable="metronome" />
 <item drawable="mgit" />
 <item drawable="mibandnotifier" />
 <item drawable="micopi" />
@@ -562,6 +564,7 @@
 <item drawable="paddletennis" />
 <item drawable="pageturner" />
 <item drawable="palemoon" />
+<item drawable="papercraft" />
 <item drawable="paperlaunch" />
 <item drawable="passandroid" />
 <item drawable="passwdsafe" />
@@ -569,6 +572,7 @@
 <item drawable="pdfreader" />
 <item drawable="pedometer2" />
 <item drawable="pedometer" />
+<item drawable="peertube" />
 <item drawable="penandpdf" />
 <item drawable="performancecontrol" />
 <item drawable="periodical" />
@@ -593,6 +597,7 @@
 <item drawable="pretendyourexyzzy" />
 <item drawable="prevo" />
 <item drawable="privacybrowser" />
+<item drawable="protonmail" />
 <item drawable="providersmedia" />
 <item drawable="puff" />
 <item drawable="puma" />

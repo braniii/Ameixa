@@ -2743,6 +2743,9 @@
         component="ComponentInfo{org.palemoon.mobile/org.palemoon.mobile.App}"
         drawable="palemoon" />
     <item
+        component="ComponentInfo{pro.rudloff.papercraft/cordproject.lol.papercraft.MainActivity}"
+        drawable="papercraft" />
+    <item
         component="ComponentInfo{de.devmil.paperlaunch/de.devmil.paperlaunch.MainActivity}"
         drawable="paperlaunch" />
     <item
@@ -2772,6 +2775,9 @@
     <item
         component="ComponentInfo{org.secuso.privacyfriendlyactivitytracker/org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity}"
         drawable="pedometer" />
+    <item
+        component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}"
+        drawable="peertube" />
     <item
         component="ComponentInfo{com.cgogolin.penandpdf/com.cgogolin.penandpdf/com.cgogolin.penandpdf.PenAndPDFActivity}"
         drawable="penandpdf" />
