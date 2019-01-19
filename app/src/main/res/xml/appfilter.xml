@@ -4155,6 +4155,9 @@
     <item
         component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}"
         drawable="torrentclient" />
+    <item 
+        component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot}"
+        drawable="towerjumper"/>
     <item
         component="ComponentInfo{org.traccar.client/org.traccar.client.TraccarActivity}"
         drawable="traccar" />
