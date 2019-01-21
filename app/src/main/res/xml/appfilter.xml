@@ -4717,7 +4717,7 @@
         component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}"
         drawable="fbfrost"/>
 
-    <!-- 4.1.2 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.1.2 < [] -->
 
     <item
         component="ComponentInfo{org.droidtr.deletegapps/org.droidtr.deletegapps.MainActivity}"
@@ -4731,6 +4731,38 @@
     <item
         component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}"
         drawable="bromite"/>
+        
+    <!-- 4.1.3 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    
+    <item 
+        component="ComponentInfo{com.oF2pks.classyshark3xodus/com.google.classysharkandroid.activities.MainActivity}"
+        drawable="classyshark3xodus"/>
+    <item 
+        component="ComponentInfo{com.github.chenxiaolong.dualbootpatcher.snapshot/com.github.chenxiaolong.dualbootpatcher.MainActivity}" 
+        drawable="dualbootpatcher"/>
+    <item 
+        component="ComponentInfo{org.dystopia.email/org.dystopia.email.ActivityMain}" 
+        drawable="simpleemail"/>
+    <item 
+        component="ComponentInfo{org.mozc.android.inputmethod.japanese/org.mozc.android.inputmethod.japanese.LauncherActivity}" 
+        drawable="mozcforandroid"/>
+    <item 
+        component="ComponentInfo{com.firstrowria.pushnotificationtester/com.firstrowria.pushnotificationtester.activities.MainActivity}" 
+        drawable="pushnotificationtester"/>
+    <item 
+        component="ComponentInfo{org.omnirom.omnichange/org.omnirom.omnichange.OmniMain}" 
+        drawable="changelog"/>
+    <item 
+        component="ComponentInfo{org.omnirom.logcat/com.pluscubed.logcat.ui.LogcatActivity}" 
+        drawable="matlog"/>
+    <item 
+        component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" 
+        drawable="openscale"/>
+    <item 
+        component="ComponentInfo{org.sorz.lab.tinykeepass/org.sorz.lab.tinykeepass.MainActivity}" 
+        drawable="tinykeepass"/>
+
+
 
     <!-- Nova Launcher specific -->
     <item
