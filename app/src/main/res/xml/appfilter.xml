@@ -4761,7 +4761,15 @@
     <item 
         component="ComponentInfo{org.sorz.lab.tinykeepass/org.sorz.lab.tinykeepass.MainActivity}" 
         drawable="tinykeepass"/>
-
+	<item
+	    component="ComponentInfo{pro.rudloff.papercraft/cordproject.lol.papercraft.MainActivity}"
+	    drawable="papercraft"/>
+	<item
+	    component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}"
+	    drawable="peertube"/>
+	<item
+    	component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot}"
+    	drawable="towerjumper"/>
 
 
     <!-- Nova Launcher specific -->
