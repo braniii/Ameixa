@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 26.95 26.95" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter6206-7" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.658125"/>
+        </filter>
+    </defs>
+    <g transform="translate(0 -1025.4)">
+        <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
+        <rect x="2.8113" y="1028.2" width="21.327" height="21.327" rx="1.1225" ry="1.1226" fill="#424242"/>
+        <g transform="translate(-20.925 990.46)">
+            <path d="m0 0h48v48h-48z" fill="none"/>
+            <g transform="matrix(.33601 0 0 .33601 1.434 68.477)">
+                <path d="m0 0h48v48h-48z" fill="none"/>
+            </g>
+            <g transform="matrix(.37187 0 0 .37187 36.377 59.287)">
+                <path d="m0 0h48v48h-48z" fill="none"/>
+                <g transform="matrix(2.6891 0 0 2.6891 -77.724 -45.422)">
+                    <path d="m0 0h48v48h-48z" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <path transform="translate(0 1025.4)" d="m3.9336 2.8105c-0.62186 0-1.123 0.50115-1.123 1.123v0.3125c0-0.6219 0.50118-1.123 1.123-1.123h19.082c0.62186 0 1.123 0.50115 1.123 1.123v-0.3125c0-0.6219-0.50118-1.123-1.123-1.123h-19.082z" fill="#fff" opacity=".2"/>
+        <rect x="120" y="512.36" width="40" height="40" fill="none"/>
+        <rect x="120" y="592.36" width="40" height="40" fill="none"/>
+        <rect x="120" y="632.36" width="40" height="40" fill="none"/>
+        <rect x="120" y="552.36" width="40" height="40" fill="none"/>
+        <rect x="120" y="672.36" width="40" height="40" fill="none"/>
+        <rect x="200" y="512.36" width="40" height="40" fill="none"/>
+        <rect x="200" y="592.36" width="40" height="40" fill="none"/>
+        <rect x="200" y="632.36" width="40" height="40" fill="none"/>
+        <rect x="200" y="552.36" width="40" height="40" fill="none"/>
+        <rect x="200" y="672.36" width="40" height="40" fill="none"/>
+        <rect x="280" y="512.36" width="40" height="40" fill="none"/>
+        <rect x="280" y="592.36" width="40" height="40" fill="none"/>
+        <rect x="280" y="632.36" width="40" height="40" fill="none"/>
+        <rect x="280" y="552.36" width="40" height="40" fill="none"/>
+        <rect x="280" y="672.36" width="40" height="40" fill="none"/>
+        <rect x="160" y="512.36" width="40" height="40" fill="none"/>
+        <rect x="160" y="592.36" width="40" height="40" fill="none"/>
+        <rect x="160" y="632.36" width="40" height="40" fill="none"/>
+        <rect x="160" y="552.36" width="40" height="40" fill="none"/>
+        <rect x="160" y="672.36" width="40" height="40" fill="none"/>
+        <rect x="240" y="512.36" width="40" height="40" fill="none"/>
+        <rect x="240" y="592.36" width="40" height="40" fill="none"/>
+        <rect x="240" y="632.36" width="40" height="40" fill="none"/>
+        <rect x="240" y="552.36" width="40" height="40" fill="none"/>
+        <rect x="240" y="672.36" width="40" height="40" fill="none"/>
+        <rect x="120" y="712.36" width="40" height="40" fill="none"/>
+        <rect x="200" y="712.36" width="40" height="40" fill="none"/>
+        <rect x="280" y="712.36" width="40" height="40" fill="none"/>
+        <rect x="160" y="712.36" width="40" height="40" fill="none"/>
+        <rect x="240" y="712.36" width="40" height="40" fill="none"/>
+        <rect x="320" y="552.36" width="40" height="40" fill="none"/>
+        <rect x="320" y="592.36" width="40" height="40" fill="none"/>
+        <rect x="320" y="672.36" width="40" height="40" fill="none"/>
+        <rect x="320" y="512.36" width="40" height="40" fill="none"/>
+        <rect x="320" y="632.36" width="40" height="40" fill="none"/>
+        <rect x="320" y="712.36" width="40" height="40" fill="none"/>
+        <rect x="150" y="542.36" width="180" height="180" fill="none"/>
+        <g transform="matrix(.37344 0 0 .37344 4.4375 1028.8)">
+            <path d="m0 0h48v48h-48z" fill="none"/>
+        </g>
+        <g transform="matrix(.36471 0 0 .36471 4.8146 1028.8)">
+            <path d="m0 0h48v48h-48z" fill="none"/>
+        </g>
+        <g transform="matrix(.41585 0 0 .41585 79.055 989.88)">
+            <g transform="matrix(.062269 0 0 .062269 -26.473 173.71)">
+                <g transform="matrix(38.618 0 0 38.618 13804 -12696)">
+                    <g transform="matrix(.71436 0 0 .71436 -375.49 176.57)">
+                        <path transform="matrix(1.3999 0 0 1.3999 525.63 -247.17)" d="m490.56 95.75c-121.72 0.18504-342.34 0.090577-468.16 0.09375-1.5548 6.9739-2.4062 14.232-2.4062 21.688v76.344c139.06 0.49354 331.32 0.2554 472.97 0.25v-76.594c0-7.4875-0.8386-14.78-2.4062-21.781zm-307.19 197.94c-52.495-3e-3 -106.38 0.11982-163.38 0.375v92.844c191.76-0.26331 282.43-0.0926 472.97-0.21875v-92.25c-109.29-0.35498-208.43-0.74426-309.59-0.75z" opacity="0"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
+    </g>
+    <flowRoot transform="translate(165 -127)" fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+    <g transform="translate(261.63 162.99)">
+        <path d="m-253.4-145.12c-0.74473-0.0535-1.4082-0.10161-1.4744-0.10693-0.0936-7e-3 -0.1222-0.0231-0.12864-0.0699-5e-3 -0.0331 0.31025-1.2164 0.69959-2.6295s0.70789-2.579 0.70789-2.5909c0-0.0118-0.1227-0.21419-0.27266-0.44959s-0.28006-0.44728-0.2891-0.47085c-0.0142-0.037 0.80147-0.0418 5.9823-0.0353l5.9987 7e-3 9e-3 0.47315c9e-3 0.47095 8e-3 0.47323-0.0602 0.48767-0.0376 8e-3 -1.2059 0.0373-2.596 0.065-1.749 0.035-2.5384 0.0609-2.5627 0.0841-0.0193 0.0184-0.13003 0.55103-0.24598 1.1836-0.11594 0.63257-0.21941 1.164-0.2299 1.181-0.0127 0.0206-0.5967 0.0309-1.7451 0.0309h-1.726l-0.0475 0.20917c-0.0763 0.33544-0.58915 2.6782-0.58915 2.6912 0 0.0363-0.19446 0.028-1.4293-0.0607zm5.0628-3.4491c0.0389-0.0486 0.34542-1.7321 0.32227-1.7695-0.0204-0.0331-0.38005-0.0363-0.92905-9e-3l-0.38851 0.0198-0.35151 0.23225-0.35152 0.23225-0.0198 0.2338c-0.0109 0.12859-0.0198 0.33927-0.0198 0.4682 0 0.13953-0.0136 0.24278-0.0335 0.25508-0.0189 0.0116-0.11233-0.0582-0.21526-0.16112l-0.18182-0.18182 0.0272-0.49967c0.015-0.27481 0.0227-0.51294 0.0171-0.52916-6e-3 -0.0163-0.0837-0.0295-0.17366-0.0295-0.14125 0-0.16749 0.01-0.1919 0.0677-0.034 0.0813-0.3616 1.5817-0.3616 1.6558 0 0.0484 0.0956 0.0519 1.4106 0.0519 1.0924 0 1.4173-9e-3 1.4406-0.0376zm-5.9998-3.4079c-0.01-0.025 0.0666-0.24497 0.16926-0.48897 0.10267-0.24398 0.2883-0.68427 0.41251-0.97842l0.22583-0.5348 1.0321 0.018 8e-3 0.82126 8e-3 0.82127 0.43533-0.018 8e-3 -0.82117 8e-3 -0.82116 0.49552 0.018 0.015 0.81244 0.015 0.81242h0.42126l0.0151-0.81242 0.015-0.81244h0.48143l8e-3 0.82127 8e-3 0.82126 0.43534-0.018 0.016-1.6399h3.9532c3.577 0 3.9549 5e-3 3.9714 0.0476 0.01 0.0262 0.0183 0.47834 0.0183 1.0048 0 0.84509-6e-3 0.95934-0.0476 0.97548-0.0262 0.01-2.7618 0.0183-6.0792 0.0183-5.3459 0-6.0335-5e-3 -6.049-0.0453zm12.49-0.35314c-9e-3 -0.0218-0.0115-0.28983-7e-3 -0.59546l9e-3 -0.5557h0.54163v1.1735l-0.26378 9e-3c-0.19721 7e-3 -0.26764-2e-3 -0.27905-0.0311z" fill="#fff"/>
+    </g>
+    <g display="none" fill="none">
+        <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
+        <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+        <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+    </g>
+</svg>

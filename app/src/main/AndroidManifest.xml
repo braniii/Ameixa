@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.xphnx.ameixa"
-    android:installLocation="auto">
+    package="org.xphnx.ameixa">
 
     <application
         android:allowBackup="true"

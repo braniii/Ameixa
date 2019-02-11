@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter id="filter6206-7" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.658125"/>
+        </filter>
+    </defs>
+    <g transform="translate(0 -1093.8)">
+        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
+        <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#424242"/>
+        <g transform="translate(-22.32 1056.5)">
+            <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+            <g transform="matrix(.33601 0 0 .33601 1.5296 73.043)">
+                <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+            </g>
+            <g transform="matrix(.37187 0 0 .37187 38.802 63.239)">
+                <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+                <g transform="matrix(2.6891 0 0 2.6891 -82.906 -48.45)">
+                    <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+                </g>
+            </g>
+        </g>
+        <path d="m4.1958 1096.8c-0.66332 0-1.1979 0.5346-1.1979 1.1979v0.3334c0-0.6634 0.53459-1.1979 1.1979-1.1979h20.354c0.66332 0 1.1979 0.5345 1.1979 1.1979v-0.3334c0-0.6633-0.5346-1.1979-1.1979-1.1979z" fill="#fff" opacity=".2"/>
+        <rect x="128" y="546.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="128" y="631.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="128" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="128" y="589.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="128" y="717.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="213.33" y="546.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="213.33" y="631.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="213.33" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="213.33" y="589.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="213.33" y="717.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="298.67" y="546.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="298.67" y="631.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="298.67" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="298.67" y="589.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="298.67" y="717.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="170.67" y="546.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="170.67" y="631.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="170.67" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="170.67" y="589.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="170.67" y="717.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="256" y="546.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="256" y="631.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="256" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="256" y="589.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="256" y="717.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="128" y="759.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="213.33" y="759.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="298.67" y="759.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="170.67" y="759.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="256" y="759.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="341.33" y="589.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="341.33" y="631.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="341.33" y="717.19" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="341.33" y="546.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="341.33" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="341.33" y="759.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
+        <rect x="160" y="578.52" width="192" height="192" fill="none" stroke-width="1.0667"/>
+        <g transform="matrix(.37344 0 0 .37344 4.7333 1097.4)">
+            <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+        </g>
+        <g transform="matrix(.36471 0 0 .36471 5.1356 1097.4)">
+            <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+        </g>
+        <g transform="matrix(.41585 0 0 .41585 84.325 1055.9)">
+            <g transform="matrix(.062269 0 0 .062269 -28.238 185.29)">
+                <g transform="matrix(38.618 0 0 38.618 14724 -13542)">
+                    <g transform="matrix(.71436 0 0 .71436 -400.52 188.34)">
+                        <path d="m1293.2-120.67c-181.75 0.2763-511.18 0.13525-699.05 0.13998-2.3216 10.413-3.593 21.251-3.593 32.384v114c207.65 0.73695 494.72 0.38136 706.23 0.3733v-114.37c0-11.18-1.2522-22.07-3.593-32.523zm-458.69 295.56c-78.385-4e-3 -158.85 0.17892-243.95 0.55995v138.63c286.34-0.39317 421.73-0.13827 706.23-0.32664v-137.75c-163.2-0.53005-311.22-1.1113-462.28-1.1199z" opacity="0" stroke-width="1.4932"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
+    </g>
+    <g>
+        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+        <g transform="translate(-309.72 205.96)" fill="#ff0">
+            <g transform="translate(424.17 -200.77)">
+                <flowRoot fill="#ffff00" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion fill="#ffff00"><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#ff0"/></flowRegion><flowPara>your</flowPara></flowRoot>
+                <g transform="translate(-2.0383 -.61336)">
+                    <g transform="translate(-155.4 .21866)">
+                        <g transform="translate(56.227 -9.5793)">
+                            <flowRoot fill="#ffffff" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" fill="#fff" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+                            <g transform="translate(-459.34 216.58)" fill="#fff">
+                                <g transform="translate(403.06 -271.71)">
+                                    <flowRoot fill="#ffffff" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion fill="#ffffff"><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#fff"/></flowRegion><flowPara>your</flowPara></flowRoot>
+                                    <g transform="translate(-.0093746 -1024.9)" fill="#fff">
+                                        <path transform="translate(101.63 1075.6)" d="m-44.787 16.346v2.2344h1.1211v-2.2344zm3.3672 0v2.2344h1.1211v-2.2344zm-6.7383 0.03516v2.2324h1.123v-2.2324zm-0.57227 1.1094c-0.49034 0.02-0.875 0.48449-0.875 1.0879v11.189c0 0.6158 0.40165 1.1191 0.90625 1.1191h8.9707c0.50461 0 0.90625-0.50334 0.90625-1.1191v-11.189c0-0.6158-0.40164-1.0879-0.90625-1.0879v1.6777h-2.25v-1.6777h-1.125v1.6777h-2.252v-1.6777h-1.125v1.6777h-2.25zm6.4453 4.0996c0.27315 0 0.51638 0.05836 0.73047 0.17383 0.21409 0.11547 0.37993 0.28026 0.49805 0.49414 0.1196 0.21257 0.18016 0.45687 0.18164 0.73242v0.13086c0 0.27948-0.05914 0.527-0.17578 0.74219-0.11664 0.21519-0.28248 0.38127-0.49805 0.49805-0.21409 0.11547-0.4578 0.17383-0.73242 0.17383s-0.51786-0.05644-0.73047-0.16797c-0.21261-0.11284-0.37845-0.27379-0.49805-0.48242-0.11812-0.20863-0.18159-0.44845-0.1875-0.71875v-0.16016c0-0.2808 0.05866-0.52831 0.17383-0.74219 0.11664-0.21519 0.28248-0.38127 0.49805-0.49805 0.21704-0.11678 0.46413-0.17578 0.74024-0.17578zm-5.2676 0.05859h2.6953v0.5332h-0.9668v2.334h-0.77734v-2.334h-0.95117zm5.2676 0.48242c-0.38979 0-0.59699 0.25969-0.61914 0.7793l-2e-3 0.21094c0 0.2808 0.05337 0.49754 0.1582 0.64844 0.10483 0.1509 0.26009 0.22656 0.4668 0.22656 0.19637 0 0.34682-0.07439 0.45312-0.22266 0.10631-0.14827 0.16063-0.36245 0.16211-0.64063v-0.13086c0-0.28473-0.05433-0.50148-0.16211-0.64844-0.10631-0.14827-0.25771-0.22266-0.45703-0.22266zm-0.06445 3.6016c0.27315 0 0.51638 0.05836 0.73047 0.17383 0.21409 0.11547 0.37993 0.27831 0.49805 0.49219 0.1196 0.21256 0.18016 0.45687 0.18164 0.73242v0.13281c0 0.27948-0.05719 0.527-0.17383 0.74219-0.11664 0.21519-0.28248 0.38127-0.49805 0.49805-0.21409 0.11547-0.45975 0.17188-0.73438 0.17188s-0.51786-0.05448-0.73047-0.16602c-0.21261-0.11284-0.37845-0.27379-0.49805-0.48242-0.11812-0.20863-0.17964-0.44845-0.18555-0.71875v-0.16211c0-0.2808 0.05671-0.52831 0.17188-0.74219 0.11664-0.21519 0.28248-0.37931 0.49805-0.49609 0.21704-0.11678 0.46413-0.17578 0.74024-0.17578zm-5.1387 0.03906h1.0391c0.28496 0 0.5402 0.05836 0.76758 0.17383 0.22738 0.11416 0.40427 0.27639 0.53125 0.48633 0.12845 0.20863 0.19384 0.44137 0.19531 0.70117v0.13281c0 0.26243-0.062 0.4984-0.1875 0.70703-0.12402 0.20732-0.29997 0.37019-0.52734 0.48828-0.2259 0.11678-0.47876 0.17447-0.75781 0.17578h-1.0605zm5.1387 0.50195c-0.38979 0-0.59504 0.25969-0.61719 0.7793l-2e-3 0.21094c0 0.2808 0.05142 0.49559 0.15625 0.64648 0.10483 0.1509 0.26009 0.22656 0.4668 0.22656 0.19637 0 0.34877-0.07438 0.45508-0.22266 0.10631-0.14827 0.16063-0.3605 0.16211-0.63867v-0.13281c0-0.28473-0.05433-0.49952-0.16211-0.64648-0.10631-0.14827-0.25966-0.22266-0.45898-0.22266zm-4.3613 0.03125v1.8008h0.26953c0.22295 0 0.39408-0.07054 0.51367-0.21094 0.1196-0.14171 0.17969-0.35073 0.17969-0.62891v-0.125c0-0.27686-0.06009-0.4846-0.17969-0.625-0.1196-0.1404-0.29263-0.21094-0.52148-0.21094z" fill="#fff"/>
+                                    </g>
+                                </g>
+                                <g display="none">
+                                    <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
+                                    <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+                                    <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g display="none" fill="none">
+                            <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
+                            <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
+                            <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
+                        </g>
+                    </g>
+                    <g transform="translate(-53.775 14.288)" fill="#f0f"></g>
+                    <g transform="translate(-58.651 13.538)" fill="#f0f"></g>
+                </g>
+            </g>
+            <g display="none">
+                <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
+                <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+                <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+            </g>
+        </g>
+    </g>
+    <g display="none" fill="none">
+        <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
+        <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
+        <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
+    </g>
+</svg>
