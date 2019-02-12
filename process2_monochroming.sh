@@ -8,7 +8,7 @@ fi
 mkdir icons/monochromatic
 
 # I want to see it painted, painted black
-cp -r icons/chromatic icons/monochromatic
+cp -r icons/chromatic/* icons/monochromatic
 
 cd icons/monochromatic
 
@@ -30,7 +30,7 @@ do
 done
 
 # I want to see it painted, painted, painted, painted black
-for i in *.svg
+for i in *svg
 do
     echo Monochroming ${i}...
     for col in ${COLORS_TO_CONVERT_TO_DARK}

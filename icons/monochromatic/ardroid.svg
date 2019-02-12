@@ -11,7 +11,7 @@
     </defs>
     <g transform="translate(0 -1025.4)">
         <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
-        <rect x="2.8113" y="1028.2" width="21.327" height="21.327" rx="1.1225" ry="1.1226" fill="#424242"/>
+        <rect x="2.8113" y="1028.2" width="21.327" height="21.327" rx="1.1225" ry="1.1226" fill="#232323"/>
         <g transform="translate(-20.925 990.46)">
             <path d="m0 0h48v48h-48z" fill="none"/>
             <g transform="matrix(.33601 0 0 .33601 1.434 68.477)">
