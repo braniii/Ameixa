@@ -33,6 +33,7 @@ android {
         monochromatic {
             dimension "variant"
 
+            //noinspection GradlePath
             applicationIdSuffix "monochrome"
             resValue "string", "app_name", "Ameixa Monochrome"
         }
