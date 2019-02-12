@@ -34,10 +34,10 @@ stages:
 build:
   stage: build
   script:
-    - ./gradlew assembleDefaultDebug
-    - ./gradlew assembleDefaultRelease
-    - ./gradlew assembleMonochromeDebug
-    - ./gradlew assembleMonochromeRelease
+    - ./gradlew assembleChromaticDebug
+    - ./gradlew assembleChromaticRelease
+    - ./gradlew assembleMonochromaticDebug
+    - ./gradlew assembleMonochromaticRelease
 
   artifacts:
     paths:
