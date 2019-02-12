@@ -9,7 +9,7 @@
     <iconupon img1="iconupon" />
 
     <item
-        component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}"
+        component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}"
         drawable="aard" />
     <item
         component="ComponentInfo{ch.bailu.aat/ch.bailu.aat.activities.MainActivity}"
@@ -17,18 +17,11 @@
     <item
         component="ComponentInfo{com.greenaddress.abcore/com.greenaddress.abcore.MainActivity}"
         drawable="abcore" />
-    <item
-        component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCal}"
-        drawable="acal" />
-    <item
-        component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCalNotes}"
-        drawable="acal" />
-    <item
-        component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCalTasks}"
-        drawable="acal" />
+    <!-- Delete this one? -->
     <item
         component="ComponentInfo{de.we.acaldav/de.we.acaldav.authenticator.AuthenticatorActivity}"
         drawable="acaldav" />
+    <!---->
     <item
         component="ComponentInfo{name.gdr.acastus_photon/name.gdr.acastus_photon.MainActivity}"
         drawable="acastus" />
@@ -36,14 +29,8 @@
         component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}"
         drawable="activitylauncher" />
     <item
-        component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}"
+        component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}"
         drawable="adaway" />
-    <item
-        component="ComponentInfo{com.addi/com.addi.Addi}"
-        drawable="addi" />
-    <item
-        component="ComponentInfo{me.danielbarnett.addresstogps/me.danielbarnett.AddressToGPS.MainActivity}"
-        drawable="addresstogps" />
     <item
         component="ComponentInfo{ch.abertschi.adfree/ch.abertschi.adfree.view.MainActivity}"
         drawable="adfree" />
@@ -53,20 +40,18 @@
     <item
         component="ComponentInfo{org.afhdownloader/org.afhdownloader.MainActivity}"
         drawable="afhdownloader" />
-    <item
-        component="ComponentInfo{com.madgag.agit/com.madgag.agit.DashboardActivity}"
-        drawable="agit" />
+    <!-- Delete this one? -->
     <item
         component="ComponentInfo{com.jparkie.aizoban/com.jparkie.aizoban.views.activities.SplashActivity}"
         drawable="aizoban" />
-    <item
-        component="ComponentInfo{org.jtb.alogcat/org.jtb.alogcat.LogActivity}"
-        drawable="alogcat" />
+    <!---->
+    <!-- Delete this one? -->
     <item
         component="ComponentInfo{rs.pedjaapps.alogcatroot.app/rs.pedjaapps.alogcatroot.app.LogActivity}"
         drawable="alogcatroot" />
+    <!---->
     <item
-        component="ComponentInfo{eu.uwot.fabio.altcoinprices/eu.uwot.fabio.altcoinprices.LoadingActivity}"
+        component="ComponentInfo{eu.uwot.fabio.altcoinprices/eu.uwot.fabio.altcoinprices.activities.LoadingActivity}"
         drawable="altcoin" />
     <item
         component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}"
@@ -75,20 +60,11 @@
         component="ComponentInfo{org.ametro/org.ametro.ui.activities.Map}"
         drawable="ametro" />
     <item
-        component="ComponentInfo{org.ametro/org.ametro.ui.MapViewActivity}"
-        drawable="ametro" />
-    <item
         component="ComponentInfo{net.bible.android.activity/net.bible.android.activity.StartupActivity}"
         drawable="andbible" />
     <item
-        component="ComponentInfo{org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.MainActivity}"
-        drawable="andotp" />
-    <item
         component="ComponentInfo{org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity}"
         drawable="andotp" />
-    <item
-        component="ComponentInfo{net.progval.android.andquote/net.progval.android.andquote.MainActivity}"
-        drawable="andquote" />
     <item
         component="ComponentInfo{com.fr3ts0n.ecu.gui.androbd/com.fr3ts0n.ecu.gui.androbd.MainActivity}"
         drawable="androbd" />
@@ -98,20 +74,16 @@
     <item
         component="ComponentInfo{fr.asterope/fr.asterope.MainActivity}"
         drawable="androidrun" />
+    <!-- Delete this one? -->
     <item
         component="ComponentInfo{jp.ksksue.app.terminal/jp.ksksue.app.terminal.AndroidUSBSerialMonitorLite}"
         drawable="androidusbterminal" />
-    <item
-        component="ComponentInfo{android.androidVNC/android.androidVNC.androidVNC}"
-        drawable="androidvnc" />
+    <!---->
     <item
         component="ComponentInfo{com.tritop.androsense2/com.tritop.androsense2.MainActivity}"
         drawable="androsens" />
     <item
-        component="ComponentInfo{org.andstatus.app/org.andstatus.app.msg.TimelineActivity}"
-        drawable="andstatus" />
-    <item
-        component="ComponentInfo{org.andstatus.app/org.andstatus.app.TimelineActivity}"
+        component="ComponentInfo{org.andstatus.app/org.andstatus.app.timeline.TimelineActivity}"
         drawable="andstatus" />
     <item
         component="ComponentInfo{org.andstatus.app/org.andstatus.app.FirstActivity}"
@@ -132,9 +104,6 @@
         component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}"
         drawable="ankidroid" />
     <item
-        component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.StudyOptions}"
-        drawable="ankidroid" />
-    <item
         component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}"
         drawable="antennapod" />
     <item
@@ -144,17 +113,8 @@
         component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}"
         drawable="antox" />
     <item
-        component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}"
-        drawable="antox" />
-    <item
-        component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}"
-        drawable="antox" />
-    <item
         component="ComponentInfo{kiwi.root.an2linuxclient/kiwi.root.an2linuxclient.activities.MainSettingsActivity}"
         drawable="antwolinux" />
-    <item
-        component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.MainActivity}"
-        drawable="anuto" />
     <item
         component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.view.game.GameActivity}"
         drawable="anuto" />
@@ -162,8 +122,11 @@
         component="ComponentInfo{org.liberty.android.fantastischmemo/org.liberty.android.fantastischmemo.ui.AnyMemo}"
         drawable="anymemo" />
     <item
-        component="ComponentInfo{org.thialfihar.android.apg/org.thialfihar.android.apg.ui.KeyListActivity}"
-        drawable="apg" />
+        component="ComponentInfo{org.liberty.android.fantastischmemopro/org.liberty.android.fantastischmemo.ui.AnyMemo}"
+        drawable="anymemo" />
+    <item
+        component="ComponentInfo{org.liberty.android.fantastischmemodev/org.liberty.android.fantastischmemo.ui.AnyMemo}"
+        drawable="anymemo" />
     <item
         component="ComponentInfo{axp.tool.apkextractor/axp.tool.apkextractor.MainActivity}"
         drawable="apkextractor" />
@@ -171,7 +134,7 @@
         component="ComponentInfo{taco.apkmirror/taco.apkmirror.activities.MainActivity}"
         drawable="apkmirror" />
     <item
-        component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.ApkTrack.MainActivity}"
+        component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}"
         drawable="apktrack" />
     <item
         component="ComponentInfo{com.jvillalba.apod.classic/com.jvillalba.apod.classic.activities.MainActivity}"
@@ -183,26 +146,17 @@
         component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}"
         drawable="applicationsinfo" />
     <item
+        component="ComponentInfo{com.oF2pks.applicationsinfo/com.oF2pks.applicationsinfo.MainActivity}"
+        drawable="applicationsinfo" />
+    <item
         component="ComponentInfo{com.android.settings/com.android.settings.ApplicationSettings}"
         drawable="apps" />
     <item
-        component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}"
-        drawable="apps2org" />
-    <item
-        component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}"
-        drawable="apvpdfreader" />
-    <item
-        component="ComponentInfo{org.ardour/org.ardour.ArdroidMain}"
-        drawable="ardroid" />
-    <item
-        component="ComponentInfo{com.github.marmalade.aRevelation/com.github.marmalade.aRevelation.MainActivity}"
-        drawable="arevelations" />
+        component="ComponentInfo{de.igloffstein.maik.aRevelation/com.github.marmaladesky.ARevelation}"
+        drawable="arevelation" />
     <item
         component="ComponentInfo{com.gianlu.aria2android/com.gianlu.aria2android.MainActivity}"
         drawable="aria2android" />
-    <item
-        component="ComponentInfo{com.tadamski.arij/com.tadamski.arij.account.activity.AccountSelectorActivity_}"
-        drawable="arij" />
     <item
         component="ComponentInfo{com.commonsware.android.arXiv/com.commonsware.android.arXiv.arXiv}"
         drawable="arxiv" />
@@ -216,6 +170,9 @@
         component="ComponentInfo{net.somethingdreadful.MAL/net.somethingdreadful.MAL.Home}"
         drawable="atarashii" />
     <item
+        component="ComponentInfo{net.somethingdreadful.MAL.beta/net.somethingdreadful.MAL.Home}"
+        drawable="atarashii" />
+    <item
         component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}"
         drawable="atomic" />
     <item
@@ -227,7 +184,6 @@
     <item
         component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}"
         drawable="audiofx" />
-
     <item
         component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}"
         drawable="audiofx" />
