@@ -251,6 +251,9 @@
         component="ComponentInfo{com.vlath.keyboard/com.vlath.keyboard.Main}"
         drawable="behekeyboard" />
     <item
+        component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}"
+        drawable="binaryeye" />        
+    <item
         component="ComponentInfo{net.iexos.musicalarm/net.iexos.musicalarm.AlarmViewActivity}"
         drawable="bipolalarm" />
     <item
@@ -570,6 +573,9 @@
         drawable="camera2" />
     <item
         component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="camera2" />
+    <item
+        component="ComponentInfo{com.google.android.GoogleCameraNext/com.android.camera.CameraLauncher}"
         drawable="camera2" />
     <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
@@ -1518,6 +1524,9 @@
         drawable="gpstest" />
     <item
         component="ComponentInfo{org.omnirom.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}"
+        drawable="gramophone" />
+    <item
+        component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}"
         drawable="gramophone" />
     <item
         component="ComponentInfo{com.Bisha.TI89EmuDonation/com.graph89.emulationcore.EmulatorActivity}"
@@ -3248,6 +3257,9 @@
         component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}"
         drawable="riot" />
     <item
+        component="ComponentInfo{im.vector.alpha/im.vector.activity.LauncherActivity}"
+        drawable="riot" />
+    <item
         component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}"
         drawable="ripple" />
     <item
@@ -4265,6 +4277,9 @@
         component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}"
         drawable="vanillamusic" />
     <item
+        component="ComponentInfo{ch.blinkenlights.android.vanillaplug/ch.blinkenlights.android.vanillaplug.VPlug}"
+        drawable="vanillamusicheadphone" />
+    <item
         component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}"
         drawable="vectorpinball" />
     <item
@@ -4425,6 +4440,9 @@
         drawable="weechat" />
     <item
         component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}"
+        drawable="wetter" />
+    <item
+        component="ComponentInfo{de.baumann.weather/de.baumann.weather.MainActivity}"
         drawable="wetter" />
     <item
         component="ComponentInfo{com.javiersantos.whatsappbetaupdater/com.javiersantos.whatsappbetaupdater.activity.MainActivity}"
