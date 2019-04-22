@@ -2033,6 +2033,9 @@
         component="ComponentInfo{net.cactii.mathdoku/net.cactii.mathdoku.ui.PuzzleFragmentActivity}"
         drawable="mathdoku" />
     <item
+        component="ComponentInfo{org.icasdri.mather/org.icasdri.mather.MainActivity}"
+        drawable="calculator" />
+    <item
         component="ComponentInfo{org.aminb.mathtools.app/org.aminb.mathtools.app.activity.MainActivity}"
         drawable="mathtools" />
     <item
@@ -2217,6 +2220,9 @@
         drawable="music" />
     <item
         component="ComponentInfo{com.google.android.music/com_android_music_activitymanagement_toplevelactivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}"
         drawable="music" />
     <item
         component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.list.activity.MpMainTabActivity}"
@@ -4034,6 +4040,9 @@
         component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}"
         drawable="termux" />
     <item
+        component="ComponentInfo{com.termux/com.termux.app.TermuxFailsafeActivity}"
+        drawable="termux" />
+    <item
         component="ComponentInfo{com.termux.boot/com.termux.boot.BootActivity}"
         drawable="termuxboot" />
     <item
@@ -4437,6 +4446,9 @@
         drawable="weechat" />
     <item
         component="ComponentInfo{com.ubergeek42.WeechatAndroid.dev/com.ubergeek42.WeechatAndroid.WeechatActivity}"
+        drawable="weechat" />
+    <item
+        component="ComponentInfo{com.ubergeek42.WeechatAndroid.dev/com.ubergeek42.WeechatAndroid.WeechatActivityWeechat}"
         drawable="weechat" />
     <item
         component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}"
