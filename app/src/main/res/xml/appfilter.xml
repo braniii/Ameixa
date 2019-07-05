@@ -203,6 +203,9 @@
         component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}"
         drawable="aurorastore" />
     <item
+		component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}"
+		drawable="aurorastore" />
+    <item
         component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
         drawable="authenticator" />
     <item
@@ -577,6 +580,9 @@
     <item
         component="ComponentInfo{com.google.android.GoogleCameraNext/com.android.camera.CameraLauncher}"
         drawable="camera2" />
+	<item
+		component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+		drawable="camera2" />
     <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="camera2" />
@@ -1012,6 +1018,9 @@
     <item
         component="ComponentInfo{com.b44t.messenger/com.b44t.messenger.LaunchActivity}"
         drawable="deltachat" />
+	<item
+		component="ComponentInfo{com.b44t.messenger/org.thoughtcrime.securesms.RoutingActivity}"
+		drawable="deltachat" />
     <item
         component="ComponentInfo{com.workingagenda.democracydroid/com.workingagenda.democracydroid.MainActivity}"
         drawable="democracydroid" />
@@ -1225,6 +1234,9 @@
     <item
         component="ComponentInfo{org.surrel.facebooknotifications/org.surrel.facebooknotifications.MainActivity}"
         drawable="facebooknotifications" />
+	<item
+		component="ComponentInfo{com.redblaster.hsl.main/com.redblaster.hsl.main.MainPage}"
+		drawable="fahrplnehelsinki"/>
     <item
         component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}"
         drawable="fairemail" />
@@ -1318,6 +1330,9 @@
     <item
         component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}"
         drawable="firefox" />
+	<item
+		component="ComponentInfo{org.mozilla.rocket/org.mozilla.rocket.activity.MainActivity}"
+		drawable="firefox" />
     <item
         component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}"
         drawable="firefoxfocus" />
@@ -2134,6 +2149,9 @@
     <item
         component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}"
         drawable="moneybalance" />
+	<item
+		component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}"
+		drawable="moneymanagerex" />
     <item
         component="ComponentInfo{com.dgmltn.morphclock.app/com.dgmltn.morphclock.app.MainActivity}"
         drawable="morphclock" />
@@ -3895,6 +3913,9 @@
     <item
         component="ComponentInfo{com.gitlab.kreikenbaum.suntime/com.gitlab.kreikenbaum.suntime.SunTimeActivity}"
         drawable="suntime" />
+	<item
+		component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}"
+		drawable="suntime" />
     <item
         component="ComponentInfo{org.supertuxkart.stk/android.app.NativeActivity}"
         drawable="supertuxkart" />
@@ -4303,6 +4324,9 @@
     <item
         component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}"
         drawable="vinyl" />
+	<item
+		component="ComponentInfo{com.github.xfalcon.vhosts/com.github.xfalcon.vhosts.VhostsActivity}"
+		drawable="virtualhosts" />
     <item
         component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}"
         drawable="visualbitcoin" />
