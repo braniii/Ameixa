@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,12 +75,9 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <g transform="matrix(.67173 0 0 .67173 23.932 10.212)" fill="#fff">
-            <path d="m-23.181 7.1947h-2.05v-2h2.05c0.45-4.17 3.78-7.5 7.95-7.95v-2.05h2v2.05c4.17 0.45 7.5 3.78 7.95 7.95h2.05v2h-2.05c-0.45 4.17-3.78 7.5-7.95 7.95v2.05h-2v-2.05c-4.17-0.45-7.5-3.78-7.95-7.95m8.95-8c-3.866 0-7 3.134-7 7 0 3.866 3.134 7 7 7s7-3.134 7-7c0-3.866-3.134-7-7-7z"/>
-            <path d="m-14.231 4.6142 2.3762-2.3874 1.5916 1.5916-2.3874 2.3762 2.3874 2.3762-1.5916 1.5916-2.3762-2.3874-2.3762 2.3874-1.5916-1.5916 2.3874-2.3762-2.3874-2.3762 1.5916-1.5916z" stroke-width="1.1209"/>
-        </g>
+    <g transform="matrix(.67173 0 0 .67173 23.932 10.212)" fill="#fff">
+        <path d="m-23.181 7.1947h-2.05v-2h2.05c0.45-4.17 3.78-7.5 7.95-7.95v-2.05h2v2.05c4.17 0.45 7.5 3.78 7.95 7.95h2.05v2h-2.05c-0.45 4.17-3.78 7.5-7.95 7.95v2.05h-2v-2.05c-4.17-0.45-7.5-3.78-7.95-7.95m8.95-8c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7z"/>
+        <path d="m-14.231 4.6142 2.3762-2.3874 1.5916 1.5916-2.3874 2.3762 2.3874 2.3762-1.5916 1.5916-2.3762-2.3874-2.3762 2.3874-1.5916-1.5916 2.3874-2.3762-2.3874-2.3762 1.5916-1.5916z" stroke-width="1.1209"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,10 +75,7 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <path d="m10.02 7.1152c-0.80563 0-1.4531 0.64555-1.4531 1.4512v11.613c0 0.79837 0.6475 1.4512 1.4531 1.4512h8.709c0.80168 0 1.4512-0.64949 1.4512-1.4512v-8.709l-4.3555-4.3555h-5.8047zm5.0801 1.0898 3.9922 3.9902h-3.9922v-3.9902zm2.8164 5.7422c0.082723 0 0.16518 0.031105 0.22461 0.09375l0.75195 0.75195c0.12529 0.11886 0.12529 0.32784 0 0.45312l-0.5918 0.58789-1.2051-1.2051 0.5918-0.58789c0.062645-0.062645 0.14579-0.09375 0.22852-0.09375zm-1.1602 1.0234 1.2051 1.2031-3.5547 3.5566h-1.2031v-1.2051l3.5527-3.5547z" fill="#fff" stroke-width=".72579"/>
-    </g>
+    <path d="m10.02 7.1152c-0.80563 0-1.4531 0.64555-1.4531 1.4512v11.613c0 0.79837 0.6475 1.4512 1.4531 1.4512h8.709c0.80168 0 1.4512-0.64949 1.4512-1.4512v-8.709l-4.3555-4.3555h-5.8047zm5.0801 1.0898 3.9922 3.9902h-3.9922v-3.9902zm2.8164 5.7422c0.082723 0 0.16518 0.031105 0.22461 0.09375l0.75195 0.75195c0.12529 0.11886 0.12529 0.32784 0 0.45312l-0.5918 0.58789-1.2051-1.2051 0.5918-0.58789c0.062645-0.062645 0.14579-0.09375 0.22852-0.09375zm-1.1602 1.0234 1.2051 1.2031-3.5547 3.5566h-1.2031v-1.2051l3.5527-3.5547z" fill="#fff" stroke-width=".72579"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>

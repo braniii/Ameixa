@@ -75,7 +75,6 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
     <g transform="matrix(.29602 0 0 .29602 6.7952 6.7952)">
         <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
         <path transform="matrix(3.3781 0 0 3.3781 -22.955 -22.955)" d="m14.373 7.2539a7.1185 7.1185 0 0 0-7.1191 7.1191 7.1185 7.1185 0 0 0 7.1191 7.1191 7.1185 7.1185 0 0 0 7.1191-7.1191 7.1185 7.1185 0 0 0-0.33008-2.1172 4.6365 4.6365 0 0 1-0.048828 0.001953 4.6365 4.6365 0 0 1-4.6367-4.6367 4.6365 4.6365 0 0 1 0.001954-0.048828 7.1185 7.1185 0 0 0-2.1055-0.31836z" fill="#fff" style="paint-order:markers fill stroke"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,25 +75,22 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <path d="m7.2163 11.258v2.129c0.68256 0.03624 1.2391 0.59975 1.2391 1.2904 1.4e-6 0.69062-0.55653 1.2541-1.2391 1.2904v2.1317h14.304v-6.8414z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-        <path id="rect22270-3" d="m8.0098 9.1895v2.0781h0.9707v-2.0781z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-        <use transform="translate(1.9393)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(3.8785)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(5.8178)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(7.757)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(9.6963)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(11.636)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <path d="m8.0098 18.092v2.0762h0.9707v-2.0762z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-        <use transform="translate(1.9393 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(3.8785 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(5.8178 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(7.757 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(9.6963 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(11.636 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-        <use transform="translate(1.9393 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
-    </g>
+    <path d="m7.2163 11.258v2.129c0.68256 0.03624 1.2391 0.59975 1.2391 1.2904 1.4e-6 0.69062-0.55653 1.2541-1.2391 1.2904v2.1317h14.304v-6.8414z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path id="rect22270-3" d="m8.0098 9.1895v2.0781h0.9707v-2.0781z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <use transform="translate(1.9393)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(3.8785)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(5.8178)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(7.757)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(9.6963)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(11.636)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <path d="m8.0098 18.092v2.0762h0.9707v-2.0762z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <use transform="translate(1.9393 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(3.8785 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(5.8178 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(7.757 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(9.6963 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(11.636 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
+    <use transform="translate(1.9393 8.9007)" width="100%" height="100%" xlink:href="#rect22270-3"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>

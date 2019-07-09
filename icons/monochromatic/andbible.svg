@@ -6,7 +6,7 @@
         </filter>
     </defs>
     <g transform="translate(0 -1025.4)">
-        <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#bf360c" filter="url(#filter6206-7)" opacity=".2"/>
+        <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
         <rect x="2.8113" y="1028.2" width="21.327" height="21.327" rx="1.1225" ry="1.1226" fill="#232323"/>
         <g transform="translate(-20.925 990.46)">
             <path d="m0 0h48v48h-48z" fill="none"/>
@@ -73,9 +73,8 @@
                 </g>
             </g>
         </g>
-        <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#bf360c" opacity=".2"/>
+        <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#232323" opacity=".2"/>
     </g>
-    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
     <path d="m12.911 11.671c-1.9169 0-3.7003 0.637-5.1374 1.7648 1.4405 1.137 3.2118 1.8432 5.1374 1.8432 1.8039 0 3.4388-0.6334 4.8236-1.6471v-0.3922c-1.3825-0.9973-3.0291-1.5687-4.8236-1.5687zm6.7219 3.5171c-0.48253-0.6469-1.0436-1.2236-1.6675-1.7132 0.61735-0.4874 1.1744-1.0581 1.6548-1.6971" fill="none" stroke="#fff" stroke-width="1.118"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

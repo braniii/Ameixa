@@ -75,7 +75,6 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#3e2723" opacity=".2"/>
     </g>
-    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
     <g transform="matrix(.017323 0 0 .016174 7.0299 4.9646)">
         <flowRoot transform="translate(120,120)" fill="#ffffff" font-family="Sans" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="220" y="236.65" width="174.29" height="191.43" fill="#fff"/></flowRegion><flowPara fill="#ffffff" text-align="center" text-anchor="middle"/></flowRoot>
         <path d="m371.45 114.29-156.62 420.31h106.38l23.188-62.281h55.25l23.344 62.281h105.97l-157.5-420.31zm-175.28 470.31-131.72 353.47 144.91-0.3125 50.594-135.72 50.781 135.5 123.25-0.25 49.969-134.06 50.156 133.84 145.53-0.3125-131.97-352.16h-125.47l-22.5 60.375h-55.25l-22.625-60.375h-125.66z" fill="#fff"/>

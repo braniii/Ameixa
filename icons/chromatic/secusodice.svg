@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,20 +75,16 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <g transform="translate(-426.65 204.14)">
-            <g transform="translate(427.55 -203.27)">
-                <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-                <g transform="matrix(.60505 0 0 .60505 5.322 -615.1)" fill="#fff">
-                    <path d="m5.1595 1028.7c-1.045 0-1.911 0.8661-1.911 1.911v16.683c0 1.045 0.86605 1.8593 1.911 1.8593h16.683c1.045 0 1.8594-0.8143 1.8594-1.8593v-16.683c0-1.0449-0.8144-1.911-1.8594-1.911zm2.7374 2.8407c1.0246 0 1.8594 0.8348 1.8594 1.8594s-0.83475 1.8594-1.8594 1.8594-1.8594-0.8348-1.8594-1.8594 0.83475-1.8594 1.8594-1.8594zm11.156 0c1.0246 0 1.8594 0.8348 1.8594 1.8594s-0.83475 1.8594-1.8594 1.8594-1.8594-0.8348-1.8594-1.8594 0.83475-1.8594 1.8594-1.8594zm-5.5781 5.5265c1.0246 0 1.8594 0.8347 1.8594 1.8593 0 1.0247-0.83475 1.8594-1.8594 1.8594-1.0246 0-1.8594-0.8347-1.8594-1.8594 0-1.0246 0.83475-1.8593 1.8594-1.8593zm-5.5781 5.5781c1.0246 0 1.8594 0.8347 1.8594 1.8593 0 1.0247-0.83475 1.8594-1.8594 1.8594s-1.8594-0.8347-1.8594-1.8594c0-1.0246 0.83475-1.8593 1.8594-1.8593zm11.156 0c1.0246 0 1.8594 0.8347 1.8594 1.8593 0 1.0247-0.83475 1.8594-1.8594 1.8594s-1.8594-0.8347-1.8594-1.8594c0-1.0246 0.83475-1.8593 1.8594-1.8593z" fill="#fff"/>
-                </g>
+    <g transform="translate(-426.65 204.14)">
+        <g transform="translate(427.55 -203.27)">
+            <g transform="matrix(.60505 0 0 .60505 5.322 -615.1)" fill="#fff">
+                <path d="m5.1595 1028.7c-1.045 0-1.911 0.8661-1.911 1.911v16.683c0 1.045 0.86605 1.8593 1.911 1.8593h16.683c1.045 0 1.8594-0.8143 1.8594-1.8593v-16.683c0-1.0449-0.8144-1.911-1.8594-1.911zm2.7374 2.8407c1.0246 0 1.8594 0.8348 1.8594 1.8594s-0.83475 1.8594-1.8594 1.8594-1.8594-0.8348-1.8594-1.8594 0.83475-1.8594 1.8594-1.8594zm11.156 0c1.0246 0 1.8594 0.8348 1.8594 1.8594s-0.83475 1.8594-1.8594 1.8594-1.8594-0.8348-1.8594-1.8594 0.83475-1.8594 1.8594-1.8594zm-5.5781 5.5265c1.0246 0 1.8594 0.8347 1.8594 1.8593 0 1.0247-0.83475 1.8594-1.8594 1.8594-1.0246 0-1.8594-0.8347-1.8594-1.8594 0-1.0246 0.83475-1.8593 1.8594-1.8593zm-5.5781 5.5781c1.0246 0 1.8594 0.8347 1.8594 1.8593 0 1.0247-0.83475 1.8594-1.8594 1.8594s-1.8594-0.8347-1.8594-1.8594c0-1.0246 0.83475-1.8593 1.8594-1.8593zm11.156 0c1.0246 0 1.8594 0.8347 1.8594 1.8593 0 1.0247-0.83475 1.8594-1.8594 1.8594s-1.8594-0.8347-1.8594-1.8594c0-1.0246 0.83475-1.8593 1.8594-1.8593z" fill="#fff"/>
             </g>
-            <g display="none" fill="none">
-                <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
-                <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
-                <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
-            </g>
+        </g>
+        <g display="none" fill="none">
+            <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
+            <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+            <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
         </g>
     </g>
     <g display="none" fill="none">

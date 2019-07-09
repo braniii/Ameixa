@@ -63,6 +63,7 @@
         <item>beem</item>
         <item>behekeyboard</item>
         <item>bimba</item>
+        <item>binaryeye</item>
         <item>bipolalarm</item>
         <item>birthdayadapter</item>
         <item>birthdaydroid</item>
@@ -240,6 +241,7 @@
         <item>exchange</item>
         <item>exodusprivacy</item>
         <item>facebooknotifications</item>
+        <item>fahrplnehelsinki</item>
         <item>fairemail</item>
         <item>faketraveler</item>
         <item>fastergps</item>
@@ -272,6 +274,7 @@
         <item>fortunes</item>
         <item>fossbrowser</item>
         <item>fotofinder</item>
+        <item>fotofindermap</item>
         <item>freedombox</item>
         <item>freeminer</item>
         <item>freeshisen</item>
@@ -285,6 +288,7 @@
         <item>galaxyzoo</item>
         <item>gallery</item>
         <item>game2048</item>
+        <item>game2050</item>
         <item>gameboid</item>
         <item>gappsbrowser</item>
         <item>gdroid</item>
@@ -439,6 +443,7 @@
         <item>mlmanager</item>
         <item>mobilewebcam</item>
         <item>moneybalance</item>
+        <item>moneymanagerex</item>
         <item>mousetodon</item>
         <item>movecerts</item>
         <item>moviedb</item>
@@ -563,6 +568,7 @@
         <item>passwdsafe</item>
         <item>pdfcreator</item>
         <item>pdfreader</item>
+        <item>pdfviewer</item>
         <item>pedometer</item>
         <item>pedometer2</item>
         <item>peertube</item>
@@ -573,6 +579,7 @@
         <item>pftpd</item>
         <item>phone</item>
         <item>piano</item>
+        <item>piholedroid</item>
         <item>pipepanic</item>
         <item>pixeldungeon</item>
         <item>pixelesque</item>
@@ -828,6 +835,7 @@
         <item>torrentclient</item>
         <item>towerjumper</item>
         <item>traccar</item>
+        <item>trackbook</item>
         <item>transdroid</item>
         <item>transdroidsearch</item>
         <item>transdrone</item>
@@ -864,6 +872,7 @@
         <item>updaterforspotify</item>
         <item>usbmountr</item>
         <item>vanillamusic</item>
+        <item>vanillamusicheadphone</item>
         <item>vectorpinball</item>
         <item>vegemap</item>
         <item>vespucci</item>
@@ -871,6 +880,7 @@
         <item>videotranscoder</item>
         <item>vimtouch</item>
         <item>vinyl</item>
+        <item>virtualhosts</item>
         <item>visualbitcoin</item>
         <item>vlc</item>
         <item>voice</item>
