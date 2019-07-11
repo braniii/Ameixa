@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,29 +75,26 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <g transform="translate(-309.72 205.96)" fill="#ff0">
-            <g transform="translate(424.17 -200.77)">
-                <flowRoot fill="#ffff00" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion fill="#ffff00"><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#ff0"/></flowRegion><flowPara>your</flowPara></flowRoot>
-                <g transform="translate(-.093745 .09375)">
-                    <rect x="-98.156" y="2.569" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
-                    <rect x="-103.03" y="2.569" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
-                    <rect transform="rotate(90)" x="10.924" y="93.459" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
-                    <rect transform="rotate(90)" x="6.0518" y="93.459" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
-                    <text transform="scale(1.0608 .9427)" x="-100.18182" y="5.9996195" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-100.18182" y="5.9996195" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">S</tspan></text>
-                    <text transform="scale(1.0608 .9427)" x="-95.673126" y="5.9787416" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-95.673126" y="5.9787416" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">U</tspan></text>
-                    <text transform="scale(1.0608 .9427)" x="-95.680435" y="11.16818" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-95.680435" y="11.16818" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">D</tspan></text>
-                    <text transform="scale(1.0608 .9427)" x="-91.137283" y="11.168179" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-91.137283" y="11.168179" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">O</tspan></text>
-                    <text transform="scale(1.0608 .9427)" x="-95.673126" y="16.315861" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-95.673126" y="16.315861" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">U</tspan></text>
-                    <text transform="scale(1.0608 .9427)" x="-100.35406" y="16.336739" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-100.35406" y="16.336739" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">K</tspan></text>
-                </g>
+    <g transform="translate(-309.72 205.96)" fill="#ff0">
+        <g transform="translate(424.17 -200.77)">
+            <flowRoot fill="#ffff00" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion fill="#ffff00"><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#ff0"/></flowRegion><flowPara>your</flowPara></flowRoot>
+            <g transform="translate(-.093745 .09375)">
+                <rect x="-98.156" y="2.569" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
+                <rect x="-103.03" y="2.569" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
+                <rect transform="rotate(90)" x="10.924" y="93.459" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
+                <rect transform="rotate(90)" x="6.0518" y="93.459" width="1.2148" height="13.053" rx=".122" ry=".123" fill="#fff" style="paint-order:normal"/>
+                <text transform="scale(1.0608 .9427)" x="-100.18182" y="5.9996195" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-100.18182" y="5.9996195" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">S</tspan></text>
+                <text transform="scale(1.0608 .9427)" x="-95.673126" y="5.9787416" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-95.673126" y="5.9787416" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">U</tspan></text>
+                <text transform="scale(1.0608 .9427)" x="-95.680435" y="11.16818" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-95.680435" y="11.16818" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">D</tspan></text>
+                <text transform="scale(1.0608 .9427)" x="-91.137283" y="11.168179" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-91.137283" y="11.168179" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">O</tspan></text>
+                <text transform="scale(1.0608 .9427)" x="-95.673126" y="16.315861" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-95.673126" y="16.315861" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">U</tspan></text>
+                <text transform="scale(1.0608 .9427)" x="-100.35406" y="16.336739" fill="#fffffa" font-family="'Fira Sans'" font-size="4.2759px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-100.35406" y="16.336739" fill="#fffffa" font-family="Roboto" font-size="4.2759px" font-weight="900">K</tspan></text>
             </g>
-            <g display="none">
-                <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
-                <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
-                <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
-            </g>
+        </g>
+        <g display="none">
+            <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
+            <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
+            <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
         </g>
     </g>
     <g display="none" fill="none">

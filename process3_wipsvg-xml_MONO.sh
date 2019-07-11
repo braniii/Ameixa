@@ -27,19 +27,21 @@ fi
 # get from icons/monochromatic
 for SVG in icons/monochromatic/*.svg
 do
-  N=$(basename ${SVG} .svg)
-	inkscape/inkscape.exe -f ${SVG} -w 48 -h 48 -e \
-		app/src/monochromatic/res/drawable-mdpi/${N}.png
-	inkscape/inkscape.exe -f ${SVG} -w 72 -h 72 -e \
-		app/src/monochromatic/res/drawable-hdpi/${N}.png
-	inkscape/inkscape.exe -f ${SVG} -w 96 -h 96 -e \
-		app/src/monochromatic/res/drawable-xhdpi/${N}.png
-	inkscape/inkscape.exe -f ${SVG} -w 144 -h 144 -e \
-		app/src/monochromatic/res/drawable-xxhdpi/${N}.png
-	inkscape/inkscape.exe -f ${SVG} -w 192 -h 192 -e \
-		app/src/monochromatic/res/drawable-xxxhdpi/${N}.png
-  cp ${SVG} ${SVG}.tmp
-  scour --remove-descriptive-elements --enable-id-stripping --enable-viewboxing --enable-comment-stripping --nindent=4 -i ${SVG}.tmp -o ${SVG}
-  rm ${SVG}.tmp
-  mv ${SVG} icons/monochromatic
+  if [ -f "${SVG}" ]; then
+    N=$(basename ${SVG} .svg)
+  	inkscape -f ${SVG} -w 48 -h 48 -e \
+  		app/src/monochromatic/res/drawable-mdpi/${N}.png
+  	inkscape -f ${SVG} -w 72 -h 72 -e \
+  		app/src/monochromatic/res/drawable-hdpi/${N}.png
+  	inkscape -f ${SVG} -w 96 -h 96 -e \
+  		app/src/monochromatic/res/drawable-xhdpi/${N}.png
+  	inkscape -f ${SVG} -w 144 -h 144 -e \
+  		app/src/monochromatic/res/drawable-xxhdpi/${N}.png
+  	inkscape -f ${SVG} -w 192 -h 192 -e \
+  		app/src/monochromatic/res/drawable-xxxhdpi/${N}.png
+
+    cp ${SVG} ${SVG}.tmp
+    scour --remove-descriptive-elements --enable-id-stripping --enable-viewboxing --enable-comment-stripping --nindent=4 -i ${SVG}.tmp -o ${SVG}
+    rm ${SVG}.tmp
+  fi
 done

@@ -87,20 +87,20 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
     <g transform="matrix(.29602 0 0 .29602 6.7952 6.7952)" stroke-width="1.0667">
         <path d="m0 0h51.2v51.2h-51.2z" fill="none"/>
         <path d="m25.587 1.3672c-13.298 0-24.044 10.772-24.044 24.057s10.745 24.057 24.044 24.057 24.07-10.772 24.07-24.057-10.772-24.057-24.07-24.057z" fill="#fff"/>
     </g>
-    <g transform="matrix(1.2285 0 0 1.2285 -3.285 -3.285)" fill="#fbffff" stroke="#232323">
-        <path transform="matrix(.36511 0 0 .36511 -62.3 -57.321)" d="m205 192.36h-5v8h10v-8h5v-8h-10v8z" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path transform="matrix(.36511 0 0 .36511 -62.3 -57.321)" d="m205 197.36v-5" filter="url(#filter4275)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path transform="matrix(.36511 0 0 .36511 -62.3 -57.321)" d="m210 192.36v-5" filter="url(#filter4271)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path transform="matrix(.36511 0 0 .36511 -60.474 -54.4)" d="m205 192.36h-5v8h10v-8h5v-8h-10z" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path transform="matrix(.36511 0 0 .36511 -60.474 -54.4)" d="m205 197.36v-5" filter="url(#filter4275-9)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path transform="matrix(.36511 0 0 .36511 -60.474 -54.4)" d="m210 192.36v-5" filter="url(#filter4271-6)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path d="m14.373 12.883v-1.1973" stroke-linecap="round" stroke-width=".665"/>
-        <path d="m16.202 16.009v-1.1973" stroke-linecap="round" stroke-width=".665"/>
-        <path d="m14.373 15.877v1.1973" stroke-linecap="round" stroke-width=".665"/>
+    <g fill="#fbffff" stroke="#232323">
+        <path d="m12.13 12.577h-2.2427v3.5883h4.4854v-3.5883h2.2427v-3.5883h-4.4854z" stroke-linejoin="round" stroke-width=".81697"/>
+        <path transform="matrix(.44854 0 0 .44854 -79.821 -73.704)" d="m205 197.36v-5" filter="url(#filter4275)" stroke-linejoin="round" stroke-width="1.8214"/>
+        <path transform="matrix(.44854 0 0 .44854 -79.821 -73.704)" d="m210 192.36v-5" filter="url(#filter4271)" stroke-linejoin="round" stroke-width="1.8214"/>
+        <path d="m14.373 16.165h-2.2427v3.5883h4.4854v-3.5883h2.2427v-3.5883h-4.4854z" stroke-linejoin="round" stroke-width=".81697"/>
+        <path transform="matrix(.44854 0 0 .44854 -77.577 -70.115)" d="m205 197.36v-5" filter="url(#filter4275-9)" stroke-linejoin="round" stroke-width="1.8214"/>
+        <path transform="matrix(.44854 0 0 .44854 -77.577 -70.115)" d="m210 192.36v-5" filter="url(#filter4271-6)" stroke-linejoin="round" stroke-width="1.8214"/>
+        <path d="m14.372 12.542v-1.4709" stroke-linecap="round" stroke-width=".81695"/>
+        <path d="m16.619 16.382v-1.4709" stroke-linecap="round" stroke-width=".81695"/>
+        <path d="m14.372 16.22v1.4709" stroke-linecap="round" stroke-width=".81695"/>
+        <path d="m12.126 13.908v-1.4709" stroke-linecap="round" stroke-width=".81695"/>
     </g>
 </svg>

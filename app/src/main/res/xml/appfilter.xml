@@ -255,7 +255,7 @@
         drawable="behekeyboard" />
     <item
         component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}"
-        drawable="binaryeye" />        
+        drawable="binaryeye" />
     <item
         component="ComponentInfo{net.iexos.musicalarm/net.iexos.musicalarm.AlarmViewActivity}"
         drawable="bipolalarm" />
@@ -1389,7 +1389,7 @@
         drawable="fotofinder" />
     <item
         component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.locationmap.MapGeoPickerActivity}"
-        drawable="fotofinder2" />
+        drawable="fotofindermap" />
     <item
         component="ComponentInfo{org.freedombox.freedombox/org.freedombox.freedombox.views.activities.MainActivity}"
         drawable="freedombox" />
@@ -1456,6 +1456,9 @@
     <item
         component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}"
         drawable="game2048" />
+    <item
+        component="ComponentInfo{org.mattvchandler.a2050/org.mattvchandler.a2050.MainActivity}"
+        drawable="game2050" />
     <item
         component="ComponentInfo{com.androidemu.gba/com.androidemu.EmulatorActivity}"
         drawable="gameboid" />
@@ -2294,7 +2297,7 @@
         component="ComponentInfo{net.mypapit.mobile.myposition/net.mypapit.mobile.myposition.MyLocationActivity}"
         drawable="myposition" />
     <item
-        component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.view.activity.MainActivity}"
+        component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}"
         drawable="mysplash" />
     <item
         component="ComponentInfo{org.mythdroid/org.mythdroid.activities.Main}"
@@ -2729,6 +2732,9 @@
         component="ComponentInfo{org.palemoon.mobile/org.palemoon.mobile.App}"
         drawable="palemoon" />
     <item
+        component="ComponentInfo{pro.rudloff.papercraft/cordproject.lol.papercraft.MainActivity}"
+        drawable="papercraft" />
+    <item
         component="ComponentInfo{de.devmil.paperlaunch/de.devmil.paperlaunch.MainActivity}"
         drawable="paperlaunch" />
     <item
@@ -2750,6 +2756,9 @@
         component="ComponentInfo{io.github.droidapps.pdfreader/io.github.droidapps.pdfreader.ChooseFileActivity}"
         drawable="pdfreader" />
     <item
+        component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.MainActivity_}"
+        drawable="pdfviewer" />
+    <item
         component="ComponentInfo{name.bagi.levente.pedometer/name.bagi.levente.pedometer.Pedometer}"
         drawable="pedometer" />
     <item
@@ -2758,6 +2767,9 @@
     <item
         component="ComponentInfo{org.secuso.privacyfriendlyactivitytracker/org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity}"
         drawable="pedometer" />
+    <item
+        component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}"
+        drawable="peertube" />
     <item
         component="ComponentInfo{com.cgogolin.penandpdf/com.cgogolin.penandpdf/com.cgogolin.penandpdf.PenAndPDFActivity}"
         drawable="penandpdf" />
@@ -3046,6 +3058,9 @@
     <item
         component="ComponentInfo{org.esteban.piano/org.esteban.piano.MainActivity}"
         drawable="piano" />
+    <item
+        component="ComponentInfo{friimaind.piholedroid/friimaind.piholedroid.MainActivity}"
+        drawable="piholedroid" />
     <item
         component="ComponentInfo{org.olgsoft.apipepanic/org.olgsoft.apipepanic.MainActivity}"
         drawable="pipepanic" />
@@ -4144,6 +4159,9 @@
     <item
         component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}"
         drawable="torrentclient" />
+    <item
+        component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot}"
+        drawable="towerjumper"/>
     <item
         component="ComponentInfo{org.traccar.client/org.traccar.client.TraccarActivity}"
         drawable="traccar" />

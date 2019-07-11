@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -76,7 +76,6 @@
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#3e2723" opacity=".2"/>
     </g>
     <g transform="matrix(.84893 .84893 -.84893 .84893 15.157 -10.914)">
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
         <path d="m14.367 7.4434c-1.0376 0-1.8047 1.0008-1.8047 2.1465 0 0.00861 0.0019 0.016793 2e-3 0.025391l-2.9864 9.5527h3.5918a1.1973 1.1973 0 0 0 1.1973 1.1973 1.1973 1.1973 0 0 0 1.1973-1.1973h3.5938l-2.9844-9.5488c1.16e-4 -0.00991 2e-3 -0.019365 2e-3 -0.029297 0-1.1457-0.77101-2.1465-1.8086-2.1465zm0 0.69922c0.57045 0 1.1074 0.60824 1.1074 1.4473h-2.2109c0-0.83903 0.53307-1.4473 1.1035-1.4473z" fill="#fff"/>
         <circle cx="14.368" cy="19.168" r=".59867" fill="none" style="paint-order:markers stroke fill"/>
     </g>

@@ -63,6 +63,7 @@
     <item drawable="beem" />
     <item drawable="behekeyboard" />
     <item drawable="bimba" />
+    <item drawable="binaryeye" />
     <item drawable="bipolalarm" />
     <item drawable="birthdayadapter" />
     <item drawable="birthdaydroid" />
@@ -240,6 +241,7 @@
     <item drawable="exchange" />
     <item drawable="exodusprivacy" />
     <item drawable="facebooknotifications" />
+    <item drawable="fahrplnehelsinki" />
     <item drawable="fairemail" />
     <item drawable="faketraveler" />
     <item drawable="fastergps" />
@@ -272,6 +274,7 @@
     <item drawable="fortunes" />
     <item drawable="fossbrowser" />
     <item drawable="fotofinder" />
+    <item drawable="fotofindermap" />
     <item drawable="freedombox" />
     <item drawable="freeminer" />
     <item drawable="freeshisen" />
@@ -285,6 +288,7 @@
     <item drawable="galaxyzoo" />
     <item drawable="gallery" />
     <item drawable="game2048" />
+    <item drawable="game2050" />
     <item drawable="gameboid" />
     <item drawable="gappsbrowser" />
     <item drawable="gdroid" />
@@ -439,6 +443,7 @@
     <item drawable="mlmanager" />
     <item drawable="mobilewebcam" />
     <item drawable="moneybalance" />
+    <item drawable="moneymanagerex" />
     <item drawable="mousetodon" />
     <item drawable="movecerts" />
     <item drawable="moviedb" />
@@ -563,6 +568,7 @@
     <item drawable="passwdsafe" />
     <item drawable="pdfcreator" />
     <item drawable="pdfreader" />
+    <item drawable="pdfviewer" />
     <item drawable="pedometer" />
     <item drawable="pedometer2" />
     <item drawable="peertube" />
@@ -573,6 +579,7 @@
     <item drawable="pftpd" />
     <item drawable="phone" />
     <item drawable="piano" />
+    <item drawable="piholedroid" />
     <item drawable="pipepanic" />
     <item drawable="pixeldungeon" />
     <item drawable="pixelesque" />
@@ -828,6 +835,7 @@
     <item drawable="torrentclient" />
     <item drawable="towerjumper" />
     <item drawable="traccar" />
+    <item drawable="trackbook" />
     <item drawable="transdroid" />
     <item drawable="transdroidsearch" />
     <item drawable="transdrone" />
@@ -864,6 +872,7 @@
     <item drawable="updaterforspotify" />
     <item drawable="usbmountr" />
     <item drawable="vanillamusic" />
+    <item drawable="vanillamusicheadphone" />
     <item drawable="vectorpinball" />
     <item drawable="vegemap" />
     <item drawable="vespucci" />
@@ -871,6 +880,7 @@
     <item drawable="videotranscoder" />
     <item drawable="vimtouch" />
     <item drawable="vinyl" />
+    <item drawable="virtualhosts" />
     <item drawable="visualbitcoin" />
     <item drawable="vlc" />
     <item drawable="voice" />

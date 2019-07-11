@@ -79,11 +79,7 @@
     <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke="#fd0000" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512" stroke="#fd0000"/></flowRegion><flowPara>your</flowPara></flowRoot>
     <g transform="matrix(.24529 0 0 .24529 -14.082 -19.829)" enable-background="new" stroke="#673ab7" stroke-width="4.0768">
         <g transform="matrix(1.0006 0 0 1 -85.059 205.04)" enable-background="new" fill="#74a9f2" stroke="#673ab7" stroke-width="4.0756">
-            <g fill="#74a9f2" stroke="#673ab7" stroke-width="4.0756">
-                <g transform="matrix(.99247 0 0 1 -94.668 -244.82)" enable-background="new" fill="#74a9f2" stroke="#673ab7" stroke-width="4.0911">
-                    <g transform="matrix(4.2507,0,0,4.264,219.25,32.579)" fill="#74a9f2" stroke="#673ab7" stroke-width=".96094"></g>
-                </g>
-            </g>
+            <g fill="#74a9f2" stroke="#673ab7" stroke-width="4.0756"></g>
         </g>
     </g>
     <g display="none" fill="none">

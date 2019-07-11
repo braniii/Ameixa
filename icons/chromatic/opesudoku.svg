@@ -75,12 +75,7 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#212121" opacity=".2"/>
     </g>
-    <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
     <g transform="translate(-1.853e-8 .56125)" fill-rule="evenodd">
-        <g transform="matrix(.037977 0 0 .037977 -287.87 -47.639)" fill="#757575">
-            <g transform="translate(5000.3 277.13)"></g>
-            <g transform="translate(5000.3 277.13)"></g>
-        </g>
         <g transform="translate(.0050059 -1026)" fill="#fff">
             <rect transform="translate(203.92 885.44)" x="-194.94" y="147.27" width="1.1225" height="12.348"/>
             <rect transform="translate(203.92 885.44)" x="-187.08" y="147.27" width="1.1225" height="12.348"/>
