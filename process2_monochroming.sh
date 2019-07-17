@@ -1,7 +1,7 @@
 #!/bin/bash
 # Thanks to Pander
 
-if [ -e icons/monochromatic ]; then
+if [[ -e icons/monochromatic ]]; then
     rm -rf icons/monochromatic
 fi
 
@@ -39,7 +39,7 @@ do
         do
             for attr in ${SVG_ATTR_TO_SEARCH}
             do
-                if [ `grep -hc '<'${tag}'.*" '${attr}'="#'${col} ${i}`'"/>' != 0 ]
+                if [[ `grep -hc '<'${tag}'.*" '${attr}'="#'${col} ${i}`'"/>' != 0 ]]
                 then
                     sed -i -e 's/\('${tag}' .*" '${attr}'="#\)'${col}'"/\1'${dark}'"/g' ${i}
                 fi

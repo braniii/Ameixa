@@ -8,26 +8,26 @@ rm -rf app/src/monochromatic/res/drawable-xxhdpi
 rm -rf app/src/monochromatic/res/drawable-xxxhdpi
 
 # recreate the now empty folders
-if [ ! -e app/src/monochromatic/res/drawable-mdpi ]; then
+if [[ ! -e app/src/monochromatic/res/drawable-mdpi ]]; then
     mkdir -p app/src/monochromatic/res/drawable-mdpi
 fi
-if [ ! -e app/src/monochromatic/res/drawable-hdpi ]; then
+if [[ ! -e app/src/monochromatic/res/drawable-hdpi ]]; then
     mkdir -p app/src/monochromatic/res/drawable-hdpi
 fi
-if [ ! -e app/src/monochromatic/res/drawable-xhdpi ]; then
+if [[ ! -e app/src/monochromatic/res/drawable-xhdpi ]]; then
     mkdir -p app/src/monochromatic/res/drawable-xhdpi
 fi
-if [ ! -e app/src/monochromatic/res/drawable-xxhdpi ]; then
+if [[ ! -e app/src/monochromatic/res/drawable-xxhdpi ]]; then
     mkdir -p app/src/monochromatic/res/drawable-xxhdpi
 fi
-if [ ! -e app/src/monochromatic/res/drawable-xxxhdpi ]; then
+if [[ ! -e app/src/monochromatic/res/drawable-xxxhdpi ]]; then
     mkdir -p app/src/monochromatic/res/drawable-xxxhdpi
 fi
 
 # get from icons/monochromatic
 for SVG in icons/monochromatic/*.svg
 do
-  if [ -f "${SVG}" ]; then
+  if [[ -f "${SVG}" ]]; then
     N=$(basename ${SVG} .svg)
   	inkscape -f ${SVG} -w 48 -h 48 -e \
   		app/src/monochromatic/res/drawable-mdpi/${N}.png

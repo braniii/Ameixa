@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 28
-    buildToolsVersion "28.0.3"
+    buildToolsVersion "29.0.1"
 
     defaultConfig {
         applicationId "org.xphnx.ameixa"
@@ -26,13 +26,10 @@ android {
     productFlavors {
         chromatic {
             dimension "variant"
-
             resValue "string", "app_name", "Ameixa"
         }
-
         monochromatic {
             dimension "variant"
-
             //noinspection GradlePath
             applicationIdSuffix "monochrome"
             resValue "string", "app_name", "Ameixa Monochrome"
@@ -47,6 +44,6 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.1.0-alpha02'
-    implementation 'androidx.core:core:1.1.0-alpha04'
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.core:core:1.0.2'
 }

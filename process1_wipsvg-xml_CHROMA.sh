@@ -3,7 +3,7 @@
 # get from todo
 for SVG in todo/*.svg
 do
-  if [ -f "${SVG}" ]; then
+  if [[ -f "${SVG}" ]]; then
     N=$(basename ${SVG} .svg)
     inkscape -f ${SVG} -w 48 -h 48 -e \
     	app/src/chromatic/res/drawable-mdpi/${N}.png
