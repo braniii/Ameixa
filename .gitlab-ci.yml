@@ -27,15 +27,10 @@ stages:
   - test
   - build
 
-lintDebug:
+tests:
   stage: test
   script:
-    - ./gradlew -Pci --console=plain :app:lintDebug -PbuildDir=lint
-
-debugTests:
-  stage: test
-  script:
-    - ./gradlew -Pci --console=plain :app:testDebug
+    - ./gradlew test
 
 assemble:
   stage: build
