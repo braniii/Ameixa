@@ -1,0 +1,1 @@
+* Added a few icons, fixed others, and cleaned up the repository a little
