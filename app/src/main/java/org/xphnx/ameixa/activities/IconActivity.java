@@ -76,7 +76,8 @@ public class IconActivity extends BaseActivity {
             imageList.get(i).setAdjustViewBounds(true);
 
             final int resId = getResources().getIdentifier(images[i], "drawable", getPackageName());
-            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId, (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+            int width1 = (windowWidth / width) - (margin * width + margin) / width;
+            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId, width1, width1);
 
             layoutList.get(i / width).addView(imageList.get(i));
         }

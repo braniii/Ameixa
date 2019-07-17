@@ -16,8 +16,6 @@ import org.xphnx.ameixa.R;
 import org.xphnx.ameixa.utils.ImageUtils;
 import org.xphnx.ameixa.utils.ScreenUtils;
 
-import androidx.core.content.ContextCompat;
-
 public class MainActivity extends BaseActivity {
 
     @Override
@@ -70,9 +68,9 @@ public class MainActivity extends BaseActivity {
         iconClickLayout.addView(iconButton);
 
         TextView iconText = new TextView(this);
-        iconText.setText(R.string.icons);
+        iconText.setText(getResources().getString(R.string.icons));
         iconText.setTextSize(24);
-        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorDark));
+        iconText.setTextColor(getResources().getColor(R.color.colorDark));
         iconText.setPadding(64, 64, 64, 64);
         iconClickLayout.addView(iconText);
 
@@ -100,9 +98,9 @@ public class MainActivity extends BaseActivity {
         sourceClickLayout.addView(sourceButton);
 
         TextView sourceText = new TextView(this);
-        sourceText.setText(R.string.sourcecodetext);
+        sourceText.setText(getResources().getString(R.string.sourcecodetext));
         sourceText.setTextSize(24);
-        sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorDark));
+        sourceText.setTextColor(getResources().getColor(R.color.colorDark));
         sourceText.setPadding(64, 64, 64, 64);
         sourceClickLayout.addView(sourceText);
 
@@ -130,15 +128,15 @@ public class MainActivity extends BaseActivity {
         aboutClickLayout.addView(aboutButton);
 
         TextView aboutText = new TextView(this);
-        aboutText.setText(R.string.licensetext);
+        aboutText.setText(getResources().getString(R.string.licensetext));
         aboutText.setTextSize(24);
-        aboutText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorDark));
+        aboutText.setTextColor(getResources().getColor(R.color.colorDark));
         aboutText.setPadding(64, 64, 64, 64);
         aboutClickLayout.addView(aboutText);
     }
 
     public void gitLink(View v) {
-        Uri uri = Uri.parse(getString(R.string.sourcecodelink));
+        Uri uri = Uri.parse(getResources().getString(R.string.sourcecodelink));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }

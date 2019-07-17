@@ -8,9 +8,9 @@ import android.graphics.drawable.Drawable;
 import android.view.View;
 import android.widget.ImageView;
 
-import org.xphnx.ameixa.async.BitmapLoadTask;
-
 import androidx.core.graphics.drawable.DrawableCompat;
+
+import org.xphnx.ameixa.async.BitmapLoadTask;
 
 public class ImageUtils {
 
@@ -25,6 +25,7 @@ public class ImageUtils {
                     .setDuration(1000)
                     .setListener(null);
         });
+
         task.execute();
     }
 

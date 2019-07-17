@@ -29,7 +29,7 @@ public class LicenseActivity extends BaseActivity {
         LinearLayout frameLayout = new LinearLayout(this);
         frameLayout.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT,
                 LayoutParams.MATCH_PARENT));
-        frameLayout.setBackgroundColor(0xffffffff);
+        frameLayout.setBackgroundColor(getResources().getColor(R.color.colorLight));
         frameLayout.setGravity(Gravity.CENTER);
         setContentView(frameLayout);
 
@@ -56,8 +56,8 @@ public class LicenseActivity extends BaseActivity {
         sourceClickLayout.setOnClickListener(this::gplLink);
 
         TextView sourceText = new TextView(this);
-        sourceText.setText(R.string.codelicense);
-        sourceText.setTextSize(18);
+        sourceText.setText(getResources().getString(R.string.codelicense));
+        sourceText.setTextSize(24);
         sourceText.setTextColor(getResources().getColor(R.color.textLight));
         sourceText.setPadding(padding, padding, padding, padding);
         sourceClickLayout.addView(sourceText);
@@ -78,21 +78,21 @@ public class LicenseActivity extends BaseActivity {
         imgClickLayout.setOnClickListener(this::ccLink);
 
         TextView imgText = new TextView(this);
-        imgText.setText(R.string.imageslicense);
-        imgText.setTextSize(18);
+        imgText.setText(getResources().getString(R.string.imageslicense));
+        imgText.setTextSize(24);
         imgText.setTextColor(getResources().getColor(R.color.textDark));
         imgText.setPadding(padding, padding, padding, padding);
         imgClickLayout.addView(imgText);
     }
 
     public void gplLink(View v) {
-        Uri uri = Uri.parse(getString(R.string.urlgplv3));
+        Uri uri = Uri.parse(getResources().getString(R.string.urlgplv3));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
 
     public void ccLink(View v) {
-        Uri uri = Uri.parse(getString(R.string.urlccbysa4));
+        Uri uri = Uri.parse(getResources().getString(R.string.urlccbysa4));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }

@@ -4,9 +4,9 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.WindowManager;
 
-import org.xphnx.ameixa.R;
-
 import androidx.appcompat.app.AppCompatActivity;
+
+import org.xphnx.ameixa.R;
 
 public abstract class BaseActivity extends AppCompatActivity {
 
