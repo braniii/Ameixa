@@ -93,7 +93,10 @@
         drawable="anexplorer" />
     <item
         component="ComponentInfo{dev.dworks.apps.anexplorer/dev.dworks.apps.anexplorer.DocumentsActivity}"
-        drawable="anexplorer" />
+		drawable="anexplorer" />
+    <item
+        component="ComponentInfo{pl.animagia/pl.animagia.MainActivity}"
+        drawable="animagia" />
     <item
         component="ComponentInfo{gq.nulldev.animeopenings.app/gq.nulldev.animeopenings.app.ActivityNewVideo}"
         drawable="animeopenings" />
@@ -159,7 +162,10 @@
         drawable="aria2android" />
     <item
         component="ComponentInfo{com.commonsware.android.arXiv/com.commonsware.android.arXiv.arXiv}"
-        drawable="arxiv" />
+		drawable="arxiv" />
+    <item
+        component="ComponentInfo{com.gbeatty.arxivexplorer/com.gbeatty.arxivexplorer.main.MainActivity}"
+        drawable="arxivexplorer" />
     <item
         component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}"
         drawable="asciicam" />
@@ -1337,8 +1343,8 @@
         component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}"
         drawable="firefoxfocus" />
     <item
-        component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}"
-        drawable="firefoxfocus" />
+        component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
+		drawable="fenix" />
     <item
         component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}"
         drawable="firewall" />
@@ -2364,7 +2370,10 @@
         drawable="nextcloudtalk" />
     <item
         component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}"
-        drawable="nextclouddev" />
+		drawable="nextclouddev" />
+    <item
+        component="ComponentInfo{com.example.hochi.nextcompanion/com.example.hochi.nextcompanion.MainActivity}"
+        drawable="nextcompanion" />
     <item
         component="ComponentInfo{moe.feng.nhentai/moe.feng.nhentai.ui.HomeActivity}"
         drawable="nhbooks" />
@@ -3213,7 +3222,10 @@
         drawable="radiodroid" />
     <item
         component="ComponentInfo{cc.rainwave.android/cc.rainwave.android.LandingActivity}"
-        drawable="rainwave" />
+		drawable="rainwave" />
+    <item
+		component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}"
+        drawable="readerforselfoss" />
     <item
         component="ComponentInfo{wb.receiptspro/wb.receiptspro.SmartReceiptsProActivity}"
         drawable="receipts" />
