@@ -26,6 +26,7 @@
         <item>androsens</item>
         <item>andstatus</item>
         <item>anexplorer</item>
+        <item>animagia</item>
         <item>ankidroid</item>
         <item>antennapod</item>
         <item>antox</item>
@@ -40,6 +41,7 @@
         <item>apps</item>
         <item>aria2android</item>
         <item>arxiv</item>
+        <item>arxivexplorer</item>
         <item>asciicam</item>
         <item>ask</item>
         <item>atarashii</item>
@@ -252,6 +254,7 @@
         <item>fdroid</item>
         <item>feedhive</item>
         <item>feel</item>
+        <item>fenix</item>
         <item>fennec</item>
         <item>ffreddit</item>
         <item>ffupdater</item>
@@ -484,6 +487,7 @@
         <item>nextcloud</item>
         <item>nextclouddev</item>
         <item>nextcloudtalk</item>
+        <item>nextcompanion</item>
         <item>nhbooks</item>
         <item>nicecompass</item>
         <item>nlpbackend</item>
@@ -621,6 +625,7 @@
         <item>radiobeacon</item>
         <item>radiodroid</item>
         <item>rainwave</item>
+        <item>readerforselfoss</item>
         <item>receipts</item>
         <item>recurrence</item>
         <item>recursiverunner</item>

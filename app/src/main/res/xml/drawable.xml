@@ -26,6 +26,7 @@
     <item drawable="androsens" />
     <item drawable="andstatus" />
     <item drawable="anexplorer" />
+    <item drawable="animagia" />
     <item drawable="ankidroid" />
     <item drawable="antennapod" />
     <item drawable="antox" />
@@ -40,6 +41,7 @@
     <item drawable="apps" />
     <item drawable="aria2android" />
     <item drawable="arxiv" />
+    <item drawable="arxivexplorer" />
     <item drawable="asciicam" />
     <item drawable="ask" />
     <item drawable="atarashii" />
@@ -252,6 +254,7 @@
     <item drawable="fdroid" />
     <item drawable="feedhive" />
     <item drawable="feel" />
+    <item drawable="fenix" />
     <item drawable="fennec" />
     <item drawable="ffreddit" />
     <item drawable="ffupdater" />
@@ -484,6 +487,7 @@
     <item drawable="nextcloud" />
     <item drawable="nextclouddev" />
     <item drawable="nextcloudtalk" />
+    <item drawable="nextcompanion" />
     <item drawable="nhbooks" />
     <item drawable="nicecompass" />
     <item drawable="nlpbackend" />
@@ -621,6 +625,7 @@
     <item drawable="radiobeacon" />
     <item drawable="radiodroid" />
     <item drawable="rainwave" />
+    <item drawable="readerforselfoss" />
     <item drawable="receipts" />
     <item drawable="recurrence" />
     <item drawable="recursiverunner" />
