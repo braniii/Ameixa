@@ -164,7 +164,7 @@
         component="ComponentInfo{com.commonsware.android.arXiv/com.commonsware.android.arXiv.arXiv}"
 		drawable="arxiv" />
     <item
-        component="ComponentInfo{com.gbeatty.arxivexplorer/com.gbeatty.arxivexplorer.main.MainActivity}"
+        component="ComponentInfo{com.gbeatty.arxiv/com.gbeatty.arxivexplorer.main.MainActivity}"
         drawable="arxivexplorer" />
     <item
         component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}"
@@ -1746,6 +1746,9 @@
         drawable="keepassdx" />
     <item
         component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}"
+		drawable="keepassdx" />
+    <item
+        component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}"
         drawable="keepassdx" />
     <item
         component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.password.PasswordActivity}"
