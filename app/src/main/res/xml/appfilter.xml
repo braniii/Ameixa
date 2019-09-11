@@ -4488,7 +4488,10 @@
         drawable="weathernotification" />
     <item
         component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}"
-        drawable="webapps" />
+		drawable="webapps" />
+    <item
+        component="ComponentInfo{com.tobykurien.webmediashare/com.tobykurien.webmediashare.activity.MainActivity}"
+        drawable="webmediashare" />
     <item
         component="ComponentInfo{cz.yetanotherview.webcamviewer.app/cz.yetanotherview.webcamviewer.app.MainActivity}"
         drawable="webcamviewer" />
