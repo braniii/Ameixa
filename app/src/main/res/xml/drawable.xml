@@ -866,7 +866,6 @@
     <item drawable="tuxrider" />
     <item drawable="tvkill" />
     <item drawable="twidere" />
-    <item drawable="twire" />
     <item drawable="twittnuker" />
     <item drawable="twobuntu" />
     <item drawable="uget" />
@@ -904,6 +903,7 @@
     <item drawable="weathernotification" />
     <item drawable="webapps" />
     <item drawable="webcamviewer" />
+    <item drawable="webmediashare" />
     <item drawable="webopac" />
     <item drawable="webradio" />
     <item drawable="webtube" />
