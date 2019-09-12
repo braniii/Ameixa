@@ -3303,7 +3303,7 @@
         drawable="rgbtool" />
     <item
         component="ComponentInfo{cx.ring/cx.ring.launch.LaunchActivity}"
-        drawable="ring" />
+        drawable="jami" />
     <item
         component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}"
         drawable="ringdroid" />
@@ -4837,6 +4837,12 @@
 	<item
 		component="ComponentInfo{com.lyonbros.turtl/com.lyonbros.turtl.MainActivity}"
 		drawable="turtl2" />
+	<item
+		component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}"
+		drawable="torbrowser" />
+	<item
+		component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}"
+		drawable="torbrowseralpha" />
 
     <!-- Nova Launcher specific -->
     <item
