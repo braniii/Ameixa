@@ -308,6 +308,9 @@
         component="ComponentInfo{org.blokada.alarm/core.MainActivity}"
         drawable="blokada" />
     <item
+    	component="ComponentInfo{org.blokada.alarm/core.PanelActivity}"
+    	drawable="blokada" />
+    <item
         component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}"
         drawable="blockinger" />
     <item
@@ -3313,6 +3316,9 @@
     <item
         component="ComponentInfo{im.vector.alpha/im.vector.activity.LauncherActivity}"
         drawable="riot" />
+	<item
+		component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}"
+		drawable="riot" />
     <item
         component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}"
         drawable="ripple" />
@@ -4816,7 +4822,21 @@
     <item
         component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot}"
         drawable="towerjumper" />
-
+	<item
+		component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}"
+		drawable="changelog" />
+    <item
+    	component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
+    	drawable="auroradroid" />
+	<item
+		component="ComponentInfo{io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity}"
+		drawable="openinwhatsapp" />
+	<item
+		component="ComponentInfo{im.vector.riotx.debug/im.vector.riotx.features.Alias}"
+		drawable="riotx" />
+	<item
+		component="ComponentInfo{com.lyonbros.turtl/com.lyonbros.turtl.MainActivity}"
+		drawable="turtl2" />
 
     <!-- Nova Launcher specific -->
     <item
