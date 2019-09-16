@@ -4843,6 +4843,24 @@
 	<item
 		component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}"
 		drawable="torbrowseralpha" />
+	<item
+		component="ComponentInfo{org.atalk.android/org.atalk.android.plugin.permissions.PermissionsActivity}"
+		drawable="atalk" />
+	<item
+		component="ComponentInfo{com.tutpro.baresip/com.tutpro.baresip.MainActivity}"
+		drawable="baresip" />
+	<item
+		component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}"
+		drawable="disrootapp" />
+	<item
+		component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}"
+		drawable="fedilab" />
+	<item
+		component="ComponentInfo{org.havenapp.main/org.havenapp.main.ListActivity}"
+		drawable="haven" />
+	<item
+		component="ComponentInfo{org.witness.proofmode/org.witness.proofmode.MainActivity}"
+		drawable="proofmode" />
 
     <!-- Nova Launcher specific -->
     <item
