@@ -308,6 +308,9 @@
         component="ComponentInfo{org.blokada.alarm/core.MainActivity}"
         drawable="blokada" />
     <item
+    	component="ComponentInfo{org.blokada.alarm/core.PanelActivity}"
+    	drawable="blokada" />
+    <item
         component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}"
         drawable="blockinger" />
     <item
@@ -3303,7 +3306,7 @@
         drawable="rgbtool" />
     <item
         component="ComponentInfo{cx.ring/cx.ring.launch.LaunchActivity}"
-        drawable="ring" />
+        drawable="jami" />
     <item
         component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}"
         drawable="ringdroid" />
@@ -3316,6 +3319,9 @@
     <item
         component="ComponentInfo{im.vector.alpha/im.vector.activity.LauncherActivity}"
         drawable="riot" />
+	<item
+		component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}"
+		drawable="riot" />
     <item
         component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}"
         drawable="ripple" />
@@ -4819,7 +4825,45 @@
     <item
         component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot}"
         drawable="towerjumper" />
-
+	<item
+		component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}"
+		drawable="changelog" />
+    <item
+    	component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
+    	drawable="auroradroid" />
+	<item
+		component="ComponentInfo{io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity}"
+		drawable="openinwhatsapp" />
+	<item
+		component="ComponentInfo{im.vector.riotx.debug/im.vector.riotx.features.Alias}"
+		drawable="riotx" />
+	<item
+		component="ComponentInfo{com.lyonbros.turtl/com.lyonbros.turtl.MainActivity}"
+		drawable="turtl2" />
+	<item
+		component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}"
+		drawable="torbrowser" />
+	<item
+		component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}"
+		drawable="torbrowseralpha" />
+	<item
+		component="ComponentInfo{org.atalk.android/org.atalk.android.plugin.permissions.PermissionsActivity}"
+		drawable="atalk" />
+	<item
+		component="ComponentInfo{com.tutpro.baresip/com.tutpro.baresip.MainActivity}"
+		drawable="baresip" />
+	<item
+		component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}"
+		drawable="disrootapp" />
+	<item
+		component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}"
+		drawable="fedilab" />
+	<item
+		component="ComponentInfo{org.havenapp.main/org.havenapp.main.ListActivity}"
+		drawable="haven" />
+	<item
+		component="ComponentInfo{org.witness.proofmode/org.witness.proofmode.MainActivity}"
+		drawable="proofmode" />
 
     <!-- Nova Launcher specific -->
     <item
