@@ -2187,7 +2187,10 @@
         drawable="mozstumbler" />
     <item
         component="ComponentInfo{com.namelessdev.mpdroid/com.namelessdev.mpdroid.MainMenuActivity}"
-        drawable="mpdroid" />
+			drawable="mpdroid" />
+    <item
+        component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}"
+        drawable="mpv" />
     <item
         component="ComponentInfo{com.gelakinetic.mtgfam/com.gelakinetic.mtgfam.FamiliarActivity}"
         drawable="mtgfamiliar" />
