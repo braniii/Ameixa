@@ -4862,6 +4862,9 @@
         component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}"
         drawable="fedilab" />
     <item
+        component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles}"
+        drawable="fedilab" />
+    <item
         component="ComponentInfo{org.havenapp.main/org.havenapp.main.ListActivity}"
         drawable="haven" />
     <item
@@ -4894,6 +4897,12 @@
     <item
         component="ComponentInfo{deep.ryd.rydplayer/deep.ryd.MainActivity}"
         drawable="musicpiped" />
+    <item
+        component="ComponentInfo{team.swing.pendulums/team.swing.pendulums.MainActivity}"
+        drawable="pendulums" />
+    <item
+        component="ComponentInfo{com.github.axet.hourlyreminder/com.github.axet.hourlyreminder.activities.MainActivity}"
+        drawable="hourlyreminder" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
