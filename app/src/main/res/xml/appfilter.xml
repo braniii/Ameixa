@@ -4867,6 +4867,9 @@
     <item
         component="ComponentInfo{org.witness.proofmode/org.witness.proofmode.MainActivity}"
         drawable="proofmode" />
+    <item
+        component="ComponentInfo{fr.acinq.eclair.wallet.mainnet2/fr.acinq.eclair.wallet.activities.StartupActivity}"
+        drawable="eclairmobile" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
