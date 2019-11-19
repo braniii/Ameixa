@@ -4876,6 +4876,12 @@
     <item
         component="ComponentInfo{com.peppercarrot.runninggame/com.peppercarrot.runninggame.AndroidLauncher}"
         drawable="peppercarrotgame" />
+    <item
+        component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.authentication.PinActivity}"
+        drawable="green" />
+    <item
+        component="ComponentInfo{com.greenaddress.greenbits_android_wallet.testnet/com.greenaddress.greenbits.ui.PinActivity}"
+        drawable="greenbits" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
