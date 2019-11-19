@@ -4882,6 +4882,18 @@
     <item
         component="ComponentInfo{com.greenaddress.greenbits_android_wallet.testnet/com.greenaddress.greenbits.ui.PinActivity}"
         drawable="greenbits" />
+    <item
+        component="ComponentInfo{amirz.dngprocessor/amirz.dngprocessor.MainActivity}"
+        drawable="dngprocessor" />
+    <item
+        component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}"
+        drawable="lawnchair" />
+    <item
+        component="ComponentInfo{com.lolo.io.onelist/com.lolo.io.onelist.MainActivity}"
+        drawable="onelist" />
+    <item
+        component="ComponentInfo{deep.ryd.rydplayer/deep.ryd.MainActivity}"
+        drawable="musicpiped" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
