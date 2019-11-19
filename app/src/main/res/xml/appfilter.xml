@@ -93,7 +93,7 @@
         drawable="anexplorer" />
     <item
         component="ComponentInfo{dev.dworks.apps.anexplorer/dev.dworks.apps.anexplorer.DocumentsActivity}"
-		drawable="anexplorer" />
+        drawable="anexplorer" />
     <item
         component="ComponentInfo{pl.animagia/pl.animagia.MainActivity}"
         drawable="animagia" />
@@ -162,7 +162,7 @@
         drawable="aria2android" />
     <item
         component="ComponentInfo{com.commonsware.android.arXiv/com.commonsware.android.arXiv.arXiv}"
-		drawable="arxiv" />
+        drawable="arxiv" />
     <item
         component="ComponentInfo{com.gbeatty.arxiv/com.gbeatty.arxivexplorer.main.MainActivity}"
         drawable="arxivexplorer" />
@@ -308,8 +308,8 @@
         component="ComponentInfo{org.blokada.alarm/core.MainActivity}"
         drawable="blokada" />
     <item
-    	component="ComponentInfo{org.blokada.alarm/core.PanelActivity}"
-    	drawable="blokada" />
+        component="ComponentInfo{org.blokada.alarm/core.PanelActivity}"
+        drawable="blokada" />
     <item
         component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}"
         drawable="blockinger" />
@@ -1347,7 +1347,7 @@
         drawable="firefoxfocus" />
     <item
         component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
-		drawable="fenix" />
+    drawable="fenix" />
     <item
         component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}"
         drawable="firewall" />
@@ -1749,7 +1749,7 @@
         drawable="keepassdx" />
     <item
         component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}"
-		drawable="keepassdx" />
+        drawable="keepassdx" />
     <item
         component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}"
         drawable="keepassdx" />
@@ -2190,7 +2190,7 @@
         drawable="mozstumbler" />
     <item
         component="ComponentInfo{com.namelessdev.mpdroid/com.namelessdev.mpdroid.MainMenuActivity}"
-			drawable="mpdroid" />
+        drawable="mpdroid" />
     <item
         component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}"
         drawable="mpv" />
@@ -2379,7 +2379,7 @@
         drawable="nextcloudtalk" />
     <item
         component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}"
-		drawable="nextclouddev" />
+        drawable="nextclouddev" />
     <item
         component="ComponentInfo{com.example.hochi.nextcompanion/com.example.hochi.nextcompanion.MainActivity}"
         drawable="nextcompanion" />
@@ -3231,9 +3231,9 @@
         drawable="radiodroid" />
     <item
         component="ComponentInfo{cc.rainwave.android/cc.rainwave.android.LandingActivity}"
-		drawable="rainwave" />
+        drawable="rainwave" />
     <item
-		component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}"
+        component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}"
         drawable="readerforselfoss" />
     <item
         component="ComponentInfo{wb.receiptspro/wb.receiptspro.SmartReceiptsProActivity}"
@@ -3319,9 +3319,9 @@
     <item
         component="ComponentInfo{im.vector.alpha/im.vector.activity.LauncherActivity}"
         drawable="riot" />
-	<item
-		component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}"
-		drawable="riot" />
+    <item
+        component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}"
+        drawable="riot" />
     <item
         component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}"
         drawable="ripple" />
@@ -4497,7 +4497,7 @@
         drawable="weathernotification" />
     <item
         component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}"
-		drawable="webapps" />
+        drawable="webapps" />
     <item
         component="ComponentInfo{com.tobykurien.webmediashare/com.tobykurien.webmediashare.activity.MainActivity}"
         drawable="webmediashare" />
@@ -4787,7 +4787,7 @@
         component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}"
         drawable="bromite" />
 
-    <!-- 4.1.3 < [] --> <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.1.3 < [] -->
 
     <item
         component="ComponentInfo{com.oF2pks.classyshark3xodus/com.google.classysharkandroid.activities.MainActivity}"
@@ -4825,45 +4825,51 @@
     <item
         component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot}"
         drawable="towerjumper" />
-	<item
-		component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}"
-		drawable="changelog" />
+
+    <!-- 4.1.4 < [] -->
+
     <item
-    	component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
-    	drawable="auroradroid" />
-	<item
-		component="ComponentInfo{io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity}"
-		drawable="openinwhatsapp" />
-	<item
-		component="ComponentInfo{im.vector.riotx.debug/im.vector.riotx.features.Alias}"
-		drawable="riotx" />
-	<item
-		component="ComponentInfo{com.lyonbros.turtl/com.lyonbros.turtl.MainActivity}"
-		drawable="turtl2" />
-	<item
-		component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}"
-		drawable="torbrowser" />
-	<item
-		component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}"
-		drawable="torbrowseralpha" />
-	<item
-		component="ComponentInfo{org.atalk.android/org.atalk.android.plugin.permissions.PermissionsActivity}"
-		drawable="atalk" />
-	<item
-		component="ComponentInfo{com.tutpro.baresip/com.tutpro.baresip.MainActivity}"
-		drawable="baresip" />
-	<item
-		component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}"
-		drawable="disrootapp" />
-	<item
-		component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}"
-		drawable="fedilab" />
-	<item
-		component="ComponentInfo{org.havenapp.main/org.havenapp.main.ListActivity}"
-		drawable="haven" />
-	<item
-		component="ComponentInfo{org.witness.proofmode/org.witness.proofmode.MainActivity}"
-		drawable="proofmode" />
+        component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}"
+        drawable="changelog" />
+    <item
+        component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}"
+        drawable="auroradroid" />
+    <item
+        component="ComponentInfo{io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity}"
+        drawable="openinwhatsapp" />
+    <item
+        component="ComponentInfo{im.vector.riotx.debug/im.vector.riotx.features.Alias}"
+        drawable="riotx" />
+    <item
+        component="ComponentInfo{com.lyonbros.turtl/com.lyonbros.turtl.MainActivity}"
+        drawable="turtl2" />
+    <item
+        component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}"
+        drawable="torbrowser" />
+    <item
+        component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}"
+        drawable="torbrowseralpha" />
+    <item
+        component="ComponentInfo{org.atalk.android/org.atalk.android.plugin.permissions.PermissionsActivity}"
+        drawable="atalk" />
+    <item
+        component="ComponentInfo{com.tutpro.baresip/com.tutpro.baresip.MainActivity}"
+        drawable="baresip" />
+    <item
+        component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}"
+        drawable="disrootapp" />
+    <item
+        component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}"
+        drawable="fedilab" />
+    <item
+        component="ComponentInfo{org.havenapp.main/org.havenapp.main.ListActivity}"
+        drawable="haven" />
+    <item
+        component="ComponentInfo{org.witness.proofmode/org.witness.proofmode.MainActivity}"
+        drawable="proofmode" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+
 
     <!-- Nova Launcher specific -->
     <item
