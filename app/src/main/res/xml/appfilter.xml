@@ -4870,6 +4870,12 @@
     <item
         component="ComponentInfo{fr.acinq.eclair.wallet.mainnet2/fr.acinq.eclair.wallet.activities.StartupActivity}"
         drawable="eclairmobile" />
+    <item
+        component="ComponentInfo{nightlock.peppercarrot/nightlock.peppercarrot.activities.MainActivity}"
+        drawable="peppercarrot" />
+    <item
+        component="ComponentInfo{com.peppercarrot.runninggame/com.peppercarrot.runninggame.AndroidLauncher}"
+        drawable="peppercarrotgame" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
