@@ -44,11 +44,13 @@
         <item>arxivexplorer</item>
         <item>asciicam</item>
         <item>ask</item>
+        <item>atalk</item>
         <item>atarashii</item>
         <item>atomic</item>
         <item>audiofx</item>
         <item>aurdroid</item>
         <item>aurora</item>
+        <item>auroradroid</item>
         <item>aurorastore</item>
         <item>authenticator</item>
         <item>autoairplanemode</item>
@@ -56,6 +58,7 @@
         <item>babysleepsounds</item>
         <item>barcodegen</item>
         <item>barcodescanner</item>
+        <item>baresip</item>
         <item>batshiit</item>
         <item>batterychargelimit</item>
         <item>batteryfu</item>
@@ -198,6 +201,8 @@
         <item>dir</item>
         <item>disablemanager</item>
         <item>diskusage</item>
+        <item>disrootapp</item>
+        <item>dngprocessor</item>
         <item>dns66</item>
         <item>dnsman</item>
         <item>documents</item>
@@ -223,6 +228,7 @@
         <item>easydice</item>
         <item>easytoken</item>
         <item>easyxkcd</item>
+        <item>eclairmobile</item>
         <item>eddymalou</item>
         <item>editor</item>
         <item>editor920</item>
@@ -252,6 +258,7 @@
         <item>fbreader</item>
         <item>fdprivileged</item>
         <item>fdroid</item>
+        <item>fedilab</item>
         <item>feedhive</item>
         <item>feel</item>
         <item>fenix</item>
@@ -313,6 +320,7 @@
         <item>gpstest</item>
         <item>gramophone</item>
         <item>graph89</item>
+        <item>green</item>
         <item>greenaddress</item>
         <item>greenbits</item>
         <item>gsmmap</item>
@@ -320,6 +328,7 @@
         <item>hackerskeyboard</item>
         <item>hashpass</item>
         <item>hashr</item>
+        <item>haven</item>
         <item>hayai</item>
         <item>heartobserve</item>
         <item>help</item>
@@ -327,6 +336,7 @@
         <item>hn</item>
         <item>holocounter</item>
         <item>holokenmod</item>
+        <item>hourlyreminder</item>
         <item>hwmanager</item>
         <item>hyperrogue</item>
         <item>i2p</item>
@@ -348,6 +358,7 @@
         <item>j2meloader</item>
         <item>jadcompass</item>
         <item>jamendo</item>
+        <item>jami</item>
         <item>jaws</item>
         <item>jupiterbroadcast</item>
         <item>justplayer</item>
@@ -374,6 +385,7 @@
         <item>kore</item>
         <item>kungfoobarracuda</item>
         <item>labcoat</item>
+        <item>lawnchair</item>
         <item>lcamera</item>
         <item>leafpic</item>
         <item>lesserpad</item>
@@ -459,6 +471,7 @@
         <item>multirommgr</item>
         <item>mupdf</item>
         <item>music</item>
+        <item>musicpiped</item>
         <item>musicplayergo</item>
         <item>mustard</item>
         <item>mustardmod</item>
@@ -517,6 +530,7 @@
         <item>oishoppinglist</item>
         <item>omninotes</item>
         <item>omniswitch</item>
+        <item>onelist</item>
         <item>onetimepad</item>
         <item>openbikesharing</item>
         <item>opencamera</item>
@@ -527,6 +541,7 @@
         <item>openfoodfacts</item>
         <item>openhab</item>
         <item>openimgur</item>
+        <item>openinwhatsapp</item>
         <item>openkeychain</item>
         <item>openlauncher</item>
         <item>openlaw</item>
@@ -578,6 +593,9 @@
         <item>pedometer2</item>
         <item>peertube</item>
         <item>penandpdf</item>
+        <item>pendulums</item>
+        <item>peppercarrot</item>
+        <item>peppercarrotgame</item>
         <item>performancecontrol</item>
         <item>periodical</item>
         <item>persiancalendar</item>
@@ -602,6 +620,7 @@
         <item>pretendyourexyzzy</item>
         <item>prevo</item>
         <item>privacybrowser</item>
+        <item>proofmode</item>
         <item>providersmedia</item>
         <item>puff</item>
         <item>puma</item>
@@ -647,6 +666,7 @@
         <item>ring</item>
         <item>ringdroid</item>
         <item>riot</item>
+        <item>riotx</item>
         <item>ripple</item>
         <item>rmaps</item>
         <item>rocketchat</item>
@@ -836,6 +856,8 @@
         <item>toffeed</item>
         <item>togozip</item>
         <item>tomdroid</item>
+        <item>torbrowser</item>
+        <item>torbrowseralpha</item>
         <item>torch</item>
         <item>torchlight</item>
         <item>torrentclient</item>
@@ -859,6 +881,7 @@
         <item>tuner</item>
         <item>turboeditor</item>
         <item>turtl</item>
+        <item>turtl2</item>
         <item>tusky</item>
         <item>tutanota</item>
         <item>tuxemon</item>

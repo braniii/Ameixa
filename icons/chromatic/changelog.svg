@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
         </filter>
     </defs>
     <g transform="translate(0 -1093.8)">
-        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
-        <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#673ab7"/>
+        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#3e2723" filter="url(#filter6206-7)" opacity=".2"/>
+        <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#ff5722"/>
         <g transform="translate(-22.32 1056.5)">
             <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
             <g transform="matrix(.33601 0 0 .33601 1.5296 73.043)">
@@ -73,12 +73,10 @@
                 </g>
             </g>
         </g>
-        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
+        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g fill="#fff">
-        <rect x="7.7827" y="15.576" width="9.1182" height="5.388" ry="0"/>
-        <rect x="9.8089" y="11.685" width="9.1182" height="5.388" ry="0"/>
-        <rect x="11.835" y="7.7933" width="9.1182" height="5.388" ry="0"/>
+    <g>
+        <path d="m11.083 8.4513v2.303h8.8831v3.6191h0.98695v-5.9221zm-1.6451 2.9611v2.303h8.8831v3.619h0.98695v-5.922zm-1.6449 2.961v5.922h9.87v-5.922z" fill="#fff"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

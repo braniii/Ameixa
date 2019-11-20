@@ -44,11 +44,13 @@
     <item drawable="arxivexplorer" />
     <item drawable="asciicam" />
     <item drawable="ask" />
+    <item drawable="atalk" />
     <item drawable="atarashii" />
     <item drawable="atomic" />
     <item drawable="audiofx" />
     <item drawable="aurdroid" />
     <item drawable="aurora" />
+    <item drawable="auroradroid" />
     <item drawable="aurorastore" />
     <item drawable="authenticator" />
     <item drawable="autoairplanemode" />
@@ -56,6 +58,7 @@
     <item drawable="babysleepsounds" />
     <item drawable="barcodegen" />
     <item drawable="barcodescanner" />
+    <item drawable="baresip" />
     <item drawable="batshiit" />
     <item drawable="batterychargelimit" />
     <item drawable="batteryfu" />
@@ -198,6 +201,8 @@
     <item drawable="dir" />
     <item drawable="disablemanager" />
     <item drawable="diskusage" />
+    <item drawable="disrootapp" />
+    <item drawable="dngprocessor" />
     <item drawable="dns66" />
     <item drawable="dnsman" />
     <item drawable="documents" />
@@ -223,6 +228,7 @@
     <item drawable="easydice" />
     <item drawable="easytoken" />
     <item drawable="easyxkcd" />
+    <item drawable="eclairmobile" />
     <item drawable="eddymalou" />
     <item drawable="editor" />
     <item drawable="editor920" />
@@ -252,6 +258,7 @@
     <item drawable="fbreader" />
     <item drawable="fdprivileged" />
     <item drawable="fdroid" />
+    <item drawable="fedilab" />
     <item drawable="feedhive" />
     <item drawable="feel" />
     <item drawable="fenix" />
@@ -313,6 +320,7 @@
     <item drawable="gpstest" />
     <item drawable="gramophone" />
     <item drawable="graph89" />
+    <item drawable="green" />
     <item drawable="greenaddress" />
     <item drawable="greenbits" />
     <item drawable="gsmmap" />
@@ -320,6 +328,7 @@
     <item drawable="hackerskeyboard" />
     <item drawable="hashpass" />
     <item drawable="hashr" />
+    <item drawable="haven" />
     <item drawable="hayai" />
     <item drawable="heartobserve" />
     <item drawable="help" />
@@ -327,6 +336,7 @@
     <item drawable="hn" />
     <item drawable="holocounter" />
     <item drawable="holokenmod" />
+    <item drawable="hourlyreminder" />
     <item drawable="hwmanager" />
     <item drawable="hyperrogue" />
     <item drawable="i2p" />
@@ -348,6 +358,7 @@
     <item drawable="j2meloader" />
     <item drawable="jadcompass" />
     <item drawable="jamendo" />
+    <item drawable="jami" />
     <item drawable="jaws" />
     <item drawable="jupiterbroadcast" />
     <item drawable="justplayer" />
@@ -374,6 +385,7 @@
     <item drawable="kore" />
     <item drawable="kungfoobarracuda" />
     <item drawable="labcoat" />
+    <item drawable="lawnchair" />
     <item drawable="lcamera" />
     <item drawable="leafpic" />
     <item drawable="lesserpad" />
@@ -459,6 +471,7 @@
     <item drawable="multirommgr" />
     <item drawable="mupdf" />
     <item drawable="music" />
+    <item drawable="musicpiped" />
     <item drawable="musicplayergo" />
     <item drawable="mustard" />
     <item drawable="mustardmod" />
@@ -517,6 +530,7 @@
     <item drawable="oishoppinglist" />
     <item drawable="omninotes" />
     <item drawable="omniswitch" />
+    <item drawable="onelist" />
     <item drawable="onetimepad" />
     <item drawable="openbikesharing" />
     <item drawable="opencamera" />
@@ -527,6 +541,7 @@
     <item drawable="openfoodfacts" />
     <item drawable="openhab" />
     <item drawable="openimgur" />
+    <item drawable="openinwhatsapp" />
     <item drawable="openkeychain" />
     <item drawable="openlauncher" />
     <item drawable="openlaw" />
@@ -578,6 +593,9 @@
     <item drawable="pedometer2" />
     <item drawable="peertube" />
     <item drawable="penandpdf" />
+    <item drawable="pendulums" />
+    <item drawable="peppercarrot" />
+    <item drawable="peppercarrotgame" />
     <item drawable="performancecontrol" />
     <item drawable="periodical" />
     <item drawable="persiancalendar" />
@@ -602,6 +620,7 @@
     <item drawable="pretendyourexyzzy" />
     <item drawable="prevo" />
     <item drawable="privacybrowser" />
+    <item drawable="proofmode" />
     <item drawable="providersmedia" />
     <item drawable="puff" />
     <item drawable="puma" />
@@ -647,6 +666,7 @@
     <item drawable="ring" />
     <item drawable="ringdroid" />
     <item drawable="riot" />
+    <item drawable="riotx" />
     <item drawable="ripple" />
     <item drawable="rmaps" />
     <item drawable="rocketchat" />
@@ -836,6 +856,8 @@
     <item drawable="toffeed" />
     <item drawable="togozip" />
     <item drawable="tomdroid" />
+    <item drawable="torbrowser" />
+    <item drawable="torbrowseralpha" />
     <item drawable="torch" />
     <item drawable="torchlight" />
     <item drawable="torrentclient" />
@@ -859,6 +881,7 @@
     <item drawable="tuner" />
     <item drawable="turboeditor" />
     <item drawable="turtl" />
+    <item drawable="turtl2" />
     <item drawable="tusky" />
     <item drawable="tutanota" />
     <item drawable="tuxemon" />

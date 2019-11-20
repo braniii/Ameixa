@@ -4311,7 +4311,7 @@
         drawable="twidere" />
     <item
         component="ComponentInfo{org.perflyst.twire/org.perflyst.twire.activities.StartUpActivity}"
-        drawable="twire" />	
+        drawable="twire" />
     <item
         component="ComponentInfo{de.vanita5.twittnuker/de.vanita5.twittnuker.activity.MainActivity}"
         drawable="twittnuker" />
