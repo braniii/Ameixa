@@ -4905,7 +4905,9 @@
         drawable="hourlyreminder" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
-
+    <item
+        component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" 
+        drawable="jami" />
 
     <!-- Nova Launcher specific -->
     <item
