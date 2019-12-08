@@ -4911,6 +4911,13 @@
     <item
         component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}"
         drawable="otpplus" />
+    <item
+        component="ComponentInfo{com.stripe1.xmouse/com.stripe1.xmouse.MainActivity}"
+        drawable="xmouse" />
+    <item
+        component="ComponentInfo{io.github.subhamtyagi.privacyapplock/com.lzx.lock.activities.main.SplashActivity}"
+        drawable="applock" />
+
 
     <!-- Nova Launcher specific -->
     <item
