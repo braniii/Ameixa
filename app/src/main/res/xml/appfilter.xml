@@ -4908,6 +4908,9 @@
     <item
         component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" 
         drawable="jami" />
+    <item
+        component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}"
+        drawable="otpplus" />
 
     <!-- Nova Launcher specific -->
     <item
