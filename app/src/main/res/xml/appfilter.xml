@@ -4056,7 +4056,7 @@
         drawable="taskbar" />
     <item
         component="ComponentInfo{io.gitlab.allenb1.todolist/io.gitlab.allenb1.todolist.TaskActivity}"
-        drawable="taskeeper" />
+        drawable="taskkeeper" />
     <item
         component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}"
         drawable="tasks" />
