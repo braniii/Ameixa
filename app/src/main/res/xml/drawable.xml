@@ -12,7 +12,6 @@
     <item drawable="adsdroid" />
     <item drawable="afhdownloader" />
     <item drawable="aizoban" />
-    <item drawable="alarm" />
     <item drawable="alogcatroot" />
     <item drawable="altcoin" />
     <item drawable="amaze" />
@@ -86,8 +85,6 @@
     <item drawable="bobball" />
     <item drawable="bombusmod" />
     <item drawable="bookcatalogue" />
-    <item drawable="bookmarkbr" />
-    <item drawable="bookmarkff" />
     <item drawable="bookreader" />
     <item drawable="botbrew" />
     <item drawable="briar" />
@@ -117,7 +114,6 @@
     <item drawable="callerid" />
     <item drawable="callrecorder" />
     <item drawable="camcorder" />
-    <item drawable="camera1" />
     <item drawable="camera2" />
     <item drawable="cameraroll" />
     <item drawable="candymemory" />
@@ -172,7 +168,6 @@
     <item drawable="crocodilenote" />
     <item drawable="crosswords" />
     <item drawable="csipsimple" />
-    <item drawable="csploit" />
     <item drawable="csploit2" />
     <item drawable="cupsprint" />
     <item drawable="cupsprintservice" />
@@ -213,7 +208,6 @@
     <item drawable="driibo" />
     <item drawable="drinks" />
     <item drawable="droidfish" />
-    <item drawable="droidshows" />
     <item drawable="droidupnp" />
     <item drawable="droidwall" />
     <item drawable="droidweignt" />
@@ -281,7 +275,6 @@
     <item drawable="forcedoze" />
     <item drawable="forecastie" />
     <item drawable="forkhub" />
-    <item drawable="forrunners" />
     <item drawable="fortunes" />
     <item drawable="fossbrowser" />
     <item drawable="fotofinder" />
@@ -309,8 +302,6 @@
     <item drawable="ghostcommander" />
     <item drawable="gigaget" />
     <item drawable="github" />
-    <item drawable="github2" />
-    <item drawable="gitlab" />
     <item drawable="gloomydungeons" />
     <item drawable="gltron" />
     <item drawable="glucosio" />
@@ -327,7 +318,6 @@
     <item drawable="greenbits" />
     <item drawable="gsmmap" />
     <item drawable="hackerkeyboard" />
-    <item drawable="hackerskeyboard" />
     <item drawable="hashpass" />
     <item drawable="hashr" />
     <item drawable="haven" />
@@ -636,7 +626,6 @@
     <item drawable="pyload" />
     <item drawable="qksms" />
     <item drawable="qksmspink" />
-    <item drawable="qrscanner" />
     <item drawable="qrstream" />
     <item drawable="quake1" />
     <item drawable="quake2" />
@@ -668,7 +657,6 @@
     <item drawable="retroshare" />
     <item drawable="revolution" />
     <item drawable="rgbtool" />
-    <item drawable="ring" />
     <item drawable="ringdroid" />
     <item drawable="riot" />
     <item drawable="riotx" />
@@ -958,7 +946,6 @@
     <item drawable="wiktionary" />
     <item drawable="wireapp" />
     <item drawable="wireguard" />
-    <item drawable="wisperpush" />
     <item drawable="wlanscanner" />
     <item drawable="wordpress" />
     <item drawable="worktime" />
