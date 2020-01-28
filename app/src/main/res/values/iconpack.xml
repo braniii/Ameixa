@@ -38,6 +38,7 @@
         <item>apktrack</item>
         <item>apod</item>
         <item>applicationsinfo</item>
+        <item>applock</item>
         <item>apps</item>
         <item>aria2android</item>
         <item>arxiv</item>
@@ -571,6 +572,7 @@
         <item>otaupdate</item>
         <item>otp</item>
         <item>otpauth</item>
+        <item>otpplus</item>
         <item>overchan</item>
         <item>owncloud</item>
         <item>owncloudbeta</item>
@@ -969,6 +971,7 @@
         <item>xdafeedreader</item>
         <item>xjackoverride</item>
         <item>xkcdviewer</item>
+        <item>xmouse</item>
         <item>xposed</item>
         <item>xposeddownloader</item>
         <item>xprivacy</item>
