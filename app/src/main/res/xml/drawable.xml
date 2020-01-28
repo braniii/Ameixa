@@ -38,6 +38,7 @@
     <item drawable="apktrack" />
     <item drawable="apod" />
     <item drawable="applicationsinfo" />
+    <item drawable="applock" />
     <item drawable="apps" />
     <item drawable="aria2android" />
     <item drawable="arxiv" />
@@ -571,6 +572,7 @@
     <item drawable="otaupdate" />
     <item drawable="otp" />
     <item drawable="otpauth" />
+    <item drawable="otpplus" />
     <item drawable="overchan" />
     <item drawable="owncloud" />
     <item drawable="owncloudbeta" />
@@ -969,6 +971,7 @@
     <item drawable="xdafeedreader" />
     <item drawable="xjackoverride" />
     <item drawable="xkcdviewer" />
+    <item drawable="xmouse" />
     <item drawable="xposed" />
     <item drawable="xposeddownloader" />
     <item drawable="xprivacy" />
