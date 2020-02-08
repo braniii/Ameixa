@@ -1352,10 +1352,13 @@
         component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
         drawable="fenix" />
     <item
-        component="ComponentInfo{org.mozilla.fenix/org.mozilla.App.HomeActivity}"
+        component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
         drawable="fenix" />
     <item
-        component="ComponentInfo{org.mozilla.fenix/org.mozilla.App}"
+        component="ComponentInfo{org.mozilla.fenix/.App}"
+        drawable="fenix" />
+    <item
+        component="ComponentInfo{org.mozilla.fenix/.HomeActivity}"
         drawable="fenix" />
     <item
         component="ComponentInfo{org.mozilla.fenix.beta/org.mozilla.fenix.HomeActivity}"
