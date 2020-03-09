@@ -44,7 +44,7 @@ assemble:
     paths:
       - app/build/outputs/
 
-checkIcons:
-  stage: icons
+icons:
+  stage: checkIcons
   script:
     - bash check_icons.sh
