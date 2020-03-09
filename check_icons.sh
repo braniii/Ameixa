@@ -2,10 +2,13 @@
 
 DEFINITION_FILE="app/src/main/res/xml/appfilter.xml"
 SVG_BASE_FOLDER="icons"
+TODO_FOLDER="todo"
 ICON_TYPES="chromatic monochromatic"
 ICON_SIZES="drawable-mdpi drawable-hdpi drawable-xhdpi drawable-xxhdpi drawable-xxxhdpi"
 
 DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
+
+return_value=0
 
 echo Checking "each icon definition has an existing svg icon file for each type"...
 ICON_DEFINITIONS=$(sed 's/ /\n/g' ${DEFINITION_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
@@ -16,7 +19,12 @@ do
         FILE="${SVG_BASE_FOLDER}/${TYPE}/${ICON}.svg"
         if [ ! -f "${FILE}" ]
         then
-            echo "Icon requested in ${DEFINITION_FILE} but file not found: ${FILE}"
+            FILETODO="${TODO_FOLDER}/${ICON}.svg"
+            if [ ! -f "${FILETODO}" ]
+            then
+                echo "Icon requested in ${DEFINITION_FILE} but neither file found: ${FILE} nor ${FILETODO}"
+                return_value=$((return_value + 1))
+            fi
         fi
     done
 done
@@ -35,6 +43,7 @@ do
                 if [ ! -f "${FILE}" ]
                 then
                     echo "File icon found in ${TYPE1} but missing in ${TYPE2}: ${FILE}"
+                    return_value=$((return_value + 1))
                 fi
             done
         fi
@@ -51,6 +60,7 @@ do
     if [ $FOUND -eq 0 ]
     then
         echo "File found but not referenced in ${DEFINITION_FILE}: ${ICON_NAME}"
+        return_value=$((return_value + 1))
     fi
 done
 echo "ok, done"
@@ -67,6 +77,7 @@ do
             if [ ! -f "${FILE}" ]
             then
                 echo "File icon found but generated file not found: ${FILE}"
+                return_value=$((return_value + 1))
             fi
         done
     done
@@ -74,4 +85,6 @@ done
 echo "ok, done"
 
 echo ""
-echo "ok, all checks done"
+echo "ok, all checks done. found ${return_value} errors"
+
+exit "${return_value}"
