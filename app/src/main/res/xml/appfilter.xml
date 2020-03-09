@@ -2144,6 +2144,9 @@
         component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}"
         drawable="minetest" />
     <item
+        component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MainActivity}"
+        drawable="minetest" />
+    <item
         component="ComponentInfo{com.godot.game/com.godot.game.com.android.godot.Godot}"
         drawable="minilens" />
     <item
@@ -2353,6 +2356,9 @@
     <item
         component="ComponentInfo{org.navitproject.navit/org.navitproject.navit.Navit}"
         drawable="navit" />
+    <item
+        component="ComponentInfo{com.duy.calculator.free/com.duy.ncalc.calculator.BasicCalculatorActivity}"
+        drawable="ncalc" />
     <item
         component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}"
         drawable="netguard" />
