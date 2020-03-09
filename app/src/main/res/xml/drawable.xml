@@ -302,6 +302,7 @@
     <item drawable="game2050" />
     <item drawable="gameboid" />
     <item drawable="gappsbrowser" />
+    <item drawable="gbcoid" />
     <item drawable="gdroid" />
     <item drawable="gearshift" />
     <item drawable="getbackgps" />
@@ -361,6 +362,7 @@
     <item drawable="jamendo" />
     <item drawable="jami" />
     <item drawable="jaws" />
+    <item drawable="joplin" />
     <item drawable="jupiterbroadcast" />
     <item drawable="justplayer" />
     <item drawable="k9mail" />
