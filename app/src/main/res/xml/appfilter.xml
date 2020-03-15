@@ -1271,6 +1271,9 @@
         component="ComponentInfo{com.enjoyingfoss.feeel/com.enjoyingfoss.feeel.view.CoverActivity}"
         drawable="feel" />
     <item
+        component="ComponentInfo{com.enjoyingfoss.feeel/com.enjoyingfoss.feeel.view.OverviewActivity}"
+        drawable="feel" />
+    <item
         component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}"
         drawable="fennec" />
     <item
@@ -3256,6 +3259,9 @@
     <item
         component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}"
         drawable="riot" />
+    <item
+        component="ComponentInfo{im.vector.riotx/im.vector.riotx.features.Alias}"
+        drawable="riotx" />
     <item
         component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}"
         drawable="ripple" />
