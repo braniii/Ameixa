@@ -1673,6 +1673,9 @@
         component="ComponentInfo{is.pinterjann.jaws/is.pinterjann.jaws.activities.JAWSActivity}"
         drawable="jaws" />
     <item
+        component="ComponentInfo{org.jitsi.meet/org.jitsi.meet.MainActivity}"
+        drawable="jitsi" />
+    <item
         component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}"
         drawable="joplin" />
     <item
@@ -4270,6 +4273,9 @@
     <item
         component="ComponentInfo{ch.blinkenlights.android.vanillaplug/ch.blinkenlights.android.vanillaplug.VPlug}"
         drawable="vanillamusicheadphone" />
+    <item
+        component="ComponentInfo{com.iven.iconify/com.iven.vectorify.ui.MainActivity}"
+        drawable="vectorify" />
     <item
         component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}"
         drawable="vectorpinball" />
