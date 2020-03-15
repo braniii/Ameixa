@@ -1373,6 +1373,9 @@
         component="ComponentInfo{de.baumann.browser/de.baumann.browser.Activity.BrowserActivity}"
         drawable="fossbrowser" />
     <item
+        component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}"
+        drawable="fossbrowser" />
+    <item
         component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.FotoGalleryActivity}"
         drawable="fotofinder" />
     <item
@@ -1837,6 +1840,9 @@
     <item
         component="ComponentInfo{org.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}"
         drawable="libreoffice" />
+    <item
+        component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}"
+        drawable="librerapro" />
     <item
         component="ComponentInfo{libretasks.app/libretasks.app.view.simple.ActivityMain}"
         drawable="libretasks" />
@@ -3546,6 +3552,9 @@
         drawable="simpledraw" />
     <item
         component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.Orange}"
+        drawable="simpledraw" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Orange}"
         drawable="simpledraw" />
     <item
         component="ComponentInfo{com.dnielfe.manager/com.dnielfe.manager.BrowserActivity}"
