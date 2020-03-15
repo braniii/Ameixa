@@ -650,6 +650,9 @@
         component="ComponentInfo{us.lindanrandy.cidrcalculator/us.lindanrandy.cidrcalculator.CIDRCalculator}"
         drawable="cidrcalc" />
     <item
+        component="ComponentInfo{com.mookie.circo/com.mookie.circo.MainActivity}"
+        drawable="circo" />
+    <item
         component="ComponentInfo{com.cityzen.cityzen/com.cityzen.cityzen.Activities.SplashScreenActivity}"
         drawable="cityzen" />
     <item
@@ -937,6 +940,9 @@
     <item
         component="ComponentInfo{org.csploit.android/org.csploit.android.MainActivity}"
         drawable="csploit2" />
+    <item
+        component="ComponentInfo{com.ctemplar.app.fdroid/com.ctemplar.app.fdroid.splash.SplashActivity}"
+        drawable="ctemplar" />
     <item
         component="ComponentInfo{io.github.benoitduffez.cupsprint/io.github.benoitduffez.cupsprint.app.ManageManualPrintersActivity}"
         drawable="cupsprint" />
@@ -1474,6 +1480,9 @@
     <item
         component="ComponentInfo{us.shandian.giga/us.shandian.giga.ui.main.MainActivity}"
         drawable="gigaget" />
+    <item
+        component="ComponentInfo{com.gitlab.terrakok.gitfox/ru.terrakok.gitlabclient.ui.AppActivity}"
+        drawable="gitfox" />
     <item
         component="ComponentInfo{com.github.mobile/com.github.mobile.ui.MainActivity}"
         drawable="github" />
@@ -4105,6 +4114,9 @@
     <item
         component="ComponentInfo{org.y20k.trackbook/org.y20k.trackbook.MainActivity}"
         drawable="trackbook" />
+    <item
+        component="ComponentInfo{com.samco.trackandgraph/com.samco.trackandgraph.MainActivity}"
+        drawable="trackgraph" />
     <item
         component="ComponentInfo{org.transdroid/org.transdroid.core.gui.TorrentsActivity_}"
         drawable="transdroid" />
