@@ -620,6 +620,9 @@
         component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}"
         drawable="cgeo" />
     <item
+        component="ComponentInfo{com.bernaferrari.changedetection/com.bernaferrari.changedetection.MainActivity}"
+        drawable="changedetection" />
+    <item
         component="ComponentInfo{com.chanapps.four.activity/com.chanapps.four.activity.StartupActivity}"
         drawable="chanu" />
     <item
@@ -1215,6 +1218,9 @@
         drawable="etarcalendar" />
     <item
         component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.activities.StartActivity}"
+        drawable="etchdroid" />
+    <item
+        component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.activities.StartActivity}"
         drawable="etchdroid" />
     <item
         component="ComponentInfo{net.sf.ethersynth/net.sf.ethersynth.EtherSynthActivity}"
