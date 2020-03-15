@@ -1886,6 +1886,9 @@
         component="ComponentInfo{org.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}"
         drawable="libreoffice" />
     <item
+        component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}"
+        drawable="librerapro" />
+    <item
         component="ComponentInfo{libretasks.app/libretasks.app.view.simple.ActivityMain}"
         drawable="libretasks" />
     <item
@@ -4912,7 +4915,7 @@
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
     <item
-        component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" 
+        component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}"
         drawable="jami" />
     <item
         component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}"
