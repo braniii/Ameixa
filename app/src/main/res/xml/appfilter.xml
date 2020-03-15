@@ -1118,9 +1118,6 @@
         component="ComponentInfo{org.petero.droidfish/org.petero.droidfish.DroidFish}"
         drawable="droidfish" />
     <item
-        component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}"
-        drawable="zapp" />
-    <item
         component="ComponentInfo{org.droidupnp/org.droidupnp.Main}"
         drawable="droidupnp" />
     <item
@@ -1396,6 +1393,9 @@
     <item
         component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.locationmap.MapGeoPickerActivity}"
         drawable="fotofindermap" />
+    <item
+        component="ComponentInfo{de.fragdenstaat.app/de.fragdenstaat.app.MainActivity}"
+        drawable="fragdenstaat" />
     <item
         component="ComponentInfo{org.freedombox.freedombox/org.freedombox.freedombox.views.activities.MainActivity}"
         drawable="freedombox" />
@@ -4669,6 +4669,10 @@
     <item
         component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}"
         drawable="zapp" />
+    <item
+        component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}"
+        drawable="zapp" />
+
 
     <!-- 4.0.7 < [] -->
 
