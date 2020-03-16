@@ -126,6 +126,7 @@
         <item>catlog</item>
         <item>caweather</item>
         <item>cgeo</item>
+        <item>changedetection</item>
         <item>changelog</item>
         <item>chanu</item>
         <item>characterrecognition</item>
@@ -137,6 +138,7 @@
         <item>chromium</item>
         <item>chronosnap</item>
         <item>cidrcalc</item>
+        <item>circo</item>
         <item>cityzen</item>
         <item>classyshark3xodus</item>
         <item>clementineremote</item>
@@ -169,6 +171,7 @@
         <item>crosswords</item>
         <item>csipsimple</item>
         <item>csploit2</item>
+        <item>ctemplar</item>
         <item>cupsprint</item>
         <item>cupsprintservice</item>
         <item>currencyconverter</item>
@@ -279,6 +282,7 @@
         <item>fossbrowser</item>
         <item>fotofinder</item>
         <item>fotofindermap</item>
+        <item>fragdenstaat</item>
         <item>freedombox</item>
         <item>freeminer</item>
         <item>freeshisen</item>
@@ -295,12 +299,14 @@
         <item>game2050</item>
         <item>gameboid</item>
         <item>gappsbrowser</item>
+        <item>gasflow</item>
         <item>gbcoid</item>
         <item>gdroid</item>
         <item>gearshift</item>
         <item>getbackgps</item>
         <item>ghostcommander</item>
         <item>gigaget</item>
+        <item>gitfox</item>
         <item>github</item>
         <item>gloomydungeons</item>
         <item>gltron</item>
@@ -352,6 +358,7 @@
         <item>jamendo</item>
         <item>jami</item>
         <item>jaws</item>
+        <item>jitsi</item>
         <item>joplin</item>
         <item>jupiterbroadcast</item>
         <item>justplayer</item>
@@ -385,6 +392,7 @@
         <item>lexica</item>
         <item>liberario</item>
         <item>libreoffice</item>
+        <item>librerapro</item>
         <item>libretasks</item>
         <item>libretorrent</item>
         <item>lightningbrowser</item>
@@ -857,6 +865,7 @@
         <item>towerjumper</item>
         <item>traccar</item>
         <item>trackbook</item>
+        <item>trackgraph</item>
         <item>transdroid</item>
         <item>transdroidsearch</item>
         <item>transdrone</item>
@@ -895,6 +904,7 @@
         <item>usbmountr</item>
         <item>vanillamusic</item>
         <item>vanillamusicheadphone</item>
+        <item>vectorify</item>
         <item>vectorpinball</item>
         <item>vegemap</item>
         <item>vespucci</item>

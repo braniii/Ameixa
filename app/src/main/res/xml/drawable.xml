@@ -126,6 +126,7 @@
     <item drawable="catlog" />
     <item drawable="caweather" />
     <item drawable="cgeo" />
+    <item drawable="changedetection" />
     <item drawable="changelog" />
     <item drawable="chanu" />
     <item drawable="characterrecognition" />
@@ -137,6 +138,7 @@
     <item drawable="chromium" />
     <item drawable="chronosnap" />
     <item drawable="cidrcalc" />
+    <item drawable="circo" />
     <item drawable="cityzen" />
     <item drawable="classyshark3xodus" />
     <item drawable="clementineremote" />
@@ -169,6 +171,7 @@
     <item drawable="crosswords" />
     <item drawable="csipsimple" />
     <item drawable="csploit2" />
+    <item drawable="ctemplar" />
     <item drawable="cupsprint" />
     <item drawable="cupsprintservice" />
     <item drawable="currencyconverter" />
@@ -279,6 +282,7 @@
     <item drawable="fossbrowser" />
     <item drawable="fotofinder" />
     <item drawable="fotofindermap" />
+    <item drawable="fragdenstaat" />
     <item drawable="freedombox" />
     <item drawable="freeminer" />
     <item drawable="freeshisen" />
@@ -295,12 +299,14 @@
     <item drawable="game2050" />
     <item drawable="gameboid" />
     <item drawable="gappsbrowser" />
+    <item drawable="gasflow" />
     <item drawable="gbcoid" />
     <item drawable="gdroid" />
     <item drawable="gearshift" />
     <item drawable="getbackgps" />
     <item drawable="ghostcommander" />
     <item drawable="gigaget" />
+    <item drawable="gitfox" />
     <item drawable="github" />
     <item drawable="gloomydungeons" />
     <item drawable="gltron" />
@@ -352,6 +358,7 @@
     <item drawable="jamendo" />
     <item drawable="jami" />
     <item drawable="jaws" />
+    <item drawable="jitsi" />
     <item drawable="joplin" />
     <item drawable="jupiterbroadcast" />
     <item drawable="justplayer" />
@@ -385,6 +392,7 @@
     <item drawable="lexica" />
     <item drawable="liberario" />
     <item drawable="libreoffice" />
+    <item drawable="librerapro" />
     <item drawable="libretasks" />
     <item drawable="libretorrent" />
     <item drawable="lightningbrowser" />
@@ -857,6 +865,7 @@
     <item drawable="towerjumper" />
     <item drawable="traccar" />
     <item drawable="trackbook" />
+    <item drawable="trackgraph" />
     <item drawable="transdroid" />
     <item drawable="transdroidsearch" />
     <item drawable="transdrone" />
@@ -895,6 +904,7 @@
     <item drawable="usbmountr" />
     <item drawable="vanillamusic" />
     <item drawable="vanillamusicheadphone" />
+    <item drawable="vectorify" />
     <item drawable="vectorpinball" />
     <item drawable="vegemap" />
     <item drawable="vespucci" />
