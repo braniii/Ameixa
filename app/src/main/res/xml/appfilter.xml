@@ -4836,7 +4836,8 @@
         component="ComponentInfo{com.github.axet.hourlyreminder/com.github.axet.hourlyreminder.activities.MainActivity}"
         drawable="hourlyreminder" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.2.1 < [] -->
+
     <item
         component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}"
         drawable="jami" />
@@ -4850,6 +4851,10 @@
         component="ComponentInfo{io.github.subhamtyagi.privacyapplock/com.lzx.lock.activities.main.SplashActivity}"
         drawable="applock" />
 
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}"
+        drawable="mupdf" />
 
     <!-- Nova Launcher specific -->
     <item
