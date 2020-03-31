@@ -4855,6 +4855,9 @@
     <item
         component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}"
         drawable="mupdf" />
+    <item
+        component="ComponentInfo{de.dennisguse.opentracks/de.dennisguse.opentracks.TrackListActivity}"
+        drawable="opentracks" />
 
     <!-- Nova Launcher specific -->
     <item
