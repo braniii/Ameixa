@@ -335,6 +335,9 @@
         component="ComponentInfo{org.briarproject.briar.beta/org.briarproject.briar.android.splash.SplashScreenActivity}"
         drawable="briar" />
     <item
+        component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}"
+        drawable="briar" />
+    <item
         component="ComponentInfo{com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastListActivity}"
         drawable="broadcast" />
     <item
@@ -2649,6 +2652,9 @@
         drawable="osmonitor" />
     <item
         component="ComponentInfo{me.guillaumin.android.osmtracker/me.guillaumin.android.osmtracker.activity.TrackManager}"
+        drawable="osmtracker" />
+    <item
+        component="ComponentInfo{net.osmtracker/net.osmtracker.activity.TrackManager}"
         drawable="osmtracker" />
     <item
         component="ComponentInfo{net.anzix.osm.upload/net.anzix.osm.upload.GpxList}"
