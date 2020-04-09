@@ -1,4 +1,4 @@
-![CI badge](https://gitlab.com/xphnx/ameixa/badges/master/build.svg)
+[![pipeline status](https://gitlab.com/xphnx/ameixa/badges/master/pipeline.svg)](https://gitlab.com/xphnx/ameixa/-/commits/master)
 
 Two icon packs (chromatic and monochromatic) that are compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw, and many more launchers (basically any launcher that supports icon packs).
 It's a material design inspired theme that aims to provide a consistent and minimalistic look to your device.
