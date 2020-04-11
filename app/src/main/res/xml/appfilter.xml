@@ -6298,6 +6298,15 @@
     <item
         component="ComponentInfo{org.epstudios.epmobile/org.epstudios.epmobile.EpMobile}"
         drawable="epmobile" />
+    <item
+        component="ComponentInfo{com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.Main.TimerActivity}"
+        drawable="goodtime" />
+    <item
+        component="ComponentInfo{io.timelimit.android.open/io.timelimit.android.ui.MainActivity}"
+        drawable="timelimit" />
+    <item
+        component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}"
+        drawable="imagepipe" />
 
     <!-- Nova Launcher specific -->
     <item
