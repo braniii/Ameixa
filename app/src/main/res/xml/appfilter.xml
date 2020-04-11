@@ -2774,6 +2774,9 @@
         component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}"
         drawable="phone" />
     <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
+        drawable="phone" />
+    <item
         component="ComponentInfo{com.android.phone/com.android.phone.CallFeaturesSetting}"
         drawable="phone" />
     <item
