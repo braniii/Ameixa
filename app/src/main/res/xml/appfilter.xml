@@ -4870,6 +4870,12 @@
     <item
         component="ComponentInfo{com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity}"
         drawable="clover" />
+    <item
+        component="ComponentInfo{com.pavelrekun.rekado/com.pavelrekun.rekado.screens.main_activity.MainActivity}"
+        drawable="rekado" />
+    <item
+        component="ComponentInfo{com.blogspot.developersu.ns_usbloader/com.blogspot.developersu.ns_usbloader.MainActivity}"
+        drawable="nsusbloader" />
 
 
     <!-- Nova Launcher specific -->
