@@ -4876,7 +4876,15 @@
     <item
         component="ComponentInfo{com.blogspot.developersu.ns_usbloader/com.blogspot.developersu.ns_usbloader.MainActivity}"
         drawable="nsusbloader" />
-
+    <item
+        component="ComponentInfo{de.rwth_aachen.phyphox/de.rwth_aachen.phyphox.ExperimentList}"
+        drawable="phyphox" />
+    <item
+        component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.MainActivity}"
+        drawable="nitterizeme" />
+    <item
+        component="ComponentInfo{com.developerfromjokela.motioneyeclient/com.developerfromjokela.motioneyeclient.ui.activities.MainActivity}"
+        drawable="motioneyeclient" />
 
     <!-- Nova Launcher specific -->
     <item
