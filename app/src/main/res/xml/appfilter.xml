@@ -2598,7 +2598,7 @@
         drawable="openwlanmap" />
     <item
         component="ComponentInfo{cz.romario.opensudoku/cz.romario.opensudoku.gui.FolderListActivity}"
-        drawable="opesudoku" />
+        drawable="opensudoku" />
     <item
         component="ComponentInfo{org.moire.opensudoku/org.moire.opensudoku.gui.TitleScreenActivity}"
         drawable="opensudoku" />
