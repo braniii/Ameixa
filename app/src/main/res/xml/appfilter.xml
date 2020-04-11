@@ -4864,6 +4864,10 @@
     <item
         component="ComponentInfo{de.dennisguse.opentracks/de.dennisguse.opentracks.TrackListActivity}"
         drawable="opentracks" />
+    <item
+        component="ComponentInfo{com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity}"
+        drawable="clover" />
+
 
     <!-- Nova Launcher specific -->
     <item
