@@ -4885,6 +4885,15 @@
     <item
         component="ComponentInfo{com.developerfromjokela.motioneyeclient/com.developerfromjokela.motioneyeclient.ui.activities.MainActivity}"
         drawable="motioneyeclient" />
+    <item
+        component="ComponentInfo{io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.MainActivity}"
+        drawable="powerapp" />
+    <item
+        component="ComponentInfo{org.dynamicsoft.caloriescope/org.dynamicsoft.caloriescope.activities.MainActivity}"
+        drawable="caloriescope" />
+    <item
+        component="ComponentInfo{org.epstudios.epmobile/org.epstudios.epmobile.EpMobile}"
+        drawable="epmobile" />
 
     <!-- Nova Launcher specific -->
     <item
