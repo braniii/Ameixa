@@ -113,6 +113,7 @@
     <item drawable="calendula" />
     <item drawable="callerid" />
     <item drawable="callrecorder" />
+    <item drawable="caloriescope" />
     <item drawable="camcorder" />
     <item drawable="camera2" />
     <item drawable="cameraroll" />
@@ -239,6 +240,7 @@
     <item drawable="ensichat" />
     <item drawable="enumbers" />
     <item drawable="episodes" />
+    <item drawable="epmobile" />
     <item drawable="epubreader" />
     <item drawable="equate" />
     <item drawable="etarcalendar" />
@@ -315,6 +317,7 @@
     <item drawable="gnuprivacyguard" />
     <item drawable="gobandroid" />
     <item drawable="goblim" />
+    <item drawable="goodtime" />
     <item drawable="gpslogger" />
     <item drawable="gpstest" />
     <item drawable="gramophone" />
@@ -342,6 +345,7 @@
     <item drawable="icsdroid" />
     <item drawable="identiconizer" />
     <item drawable="ifixit" />
+    <item drawable="imagepipe" />
     <item drawable="imapnotes" />
     <item drawable="imgurviewer" />
     <item drawable="impeller" />
@@ -460,6 +464,7 @@
     <item drawable="mobilewebcam" />
     <item drawable="moneybalance" />
     <item drawable="moneymanagerex" />
+    <item drawable="motioneyeclient" />
     <item drawable="mousetodon" />
     <item drawable="movecerts" />
     <item drawable="moviedb" />
@@ -506,6 +511,7 @@
     <item drawable="nextcompanion" />
     <item drawable="nhbooks" />
     <item drawable="nicecompass" />
+    <item drawable="nitterizeme" />
     <item drawable="nlpbackend" />
     <item drawable="nlpconfig" />
     <item drawable="nocknock" />
@@ -517,6 +523,7 @@
     <item drawable="notepad" />
     <item drawable="notificationnotes" />
     <item drawable="nounours" />
+    <item drawable="nsusbloader" />
     <item drawable="ntpsync" />
     <item drawable="oandbackup" />
     <item drawable="oasvn" />
@@ -554,6 +561,8 @@
     <item drawable="openobservatory" />
     <item drawable="openredmine" />
     <item drawable="openscale" />
+    <item drawable="opensudoku" />
+    <item drawable="opentracks" />
     <item drawable="opentraining" />
     <item drawable="openvpn" />
     <item drawable="openvpnsettings" />
@@ -603,6 +612,7 @@
     <item drawable="persiancalendar" />
     <item drawable="pftpd" />
     <item drawable="phone" />
+    <item drawable="phyphox" />
     <item drawable="piano" />
     <item drawable="piholedroid" />
     <item drawable="pipepanic" />
@@ -615,6 +625,7 @@
     <item drawable="politedroid" />
     <item drawable="pomodoro" />
     <item drawable="portauthority" />
+    <item drawable="powerapp" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
     <item drawable="prboom" />
@@ -656,6 +667,7 @@
     <item drawable="redphone" />
     <item drawable="redreader" />
     <item drawable="regex" />
+    <item drawable="rekado" />
     <item drawable="remotekeyboard" />
     <item drawable="repay" />
     <item drawable="retroarch" />
@@ -759,6 +771,7 @@
     <item drawable="simpletask" />
     <item drawable="simplethankyou" />
     <item drawable="simpletodo" />
+    <item drawable="simplevoicerecorder" />
     <item drawable="simtk" />
     <item drawable="sipdroid" />
     <item drawable="sismicsreader" />
@@ -847,6 +860,7 @@
     <item drawable="tickmate" />
     <item drawable="tigase" />
     <item drawable="timber" />
+    <item drawable="timelimit" />
     <item drawable="timeriffic" />
     <item drawable="tinc" />
     <item drawable="tinfoilfb" />

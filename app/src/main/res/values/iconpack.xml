@@ -113,6 +113,7 @@
         <item>calendula</item>
         <item>callerid</item>
         <item>callrecorder</item>
+        <item>caloriescope</item>
         <item>camcorder</item>
         <item>camera2</item>
         <item>cameraroll</item>
@@ -239,6 +240,7 @@
         <item>ensichat</item>
         <item>enumbers</item>
         <item>episodes</item>
+        <item>epmobile</item>
         <item>epubreader</item>
         <item>equate</item>
         <item>etarcalendar</item>
@@ -315,6 +317,7 @@
         <item>gnuprivacyguard</item>
         <item>gobandroid</item>
         <item>goblim</item>
+        <item>goodtime</item>
         <item>gpslogger</item>
         <item>gpstest</item>
         <item>gramophone</item>
@@ -342,6 +345,7 @@
         <item>icsdroid</item>
         <item>identiconizer</item>
         <item>ifixit</item>
+        <item>imagepipe</item>
         <item>imapnotes</item>
         <item>imgurviewer</item>
         <item>impeller</item>
@@ -460,6 +464,7 @@
         <item>mobilewebcam</item>
         <item>moneybalance</item>
         <item>moneymanagerex</item>
+        <item>motioneyeclient</item>
         <item>mousetodon</item>
         <item>movecerts</item>
         <item>moviedb</item>
@@ -506,6 +511,7 @@
         <item>nextcompanion</item>
         <item>nhbooks</item>
         <item>nicecompass</item>
+        <item>nitterizeme</item>
         <item>nlpbackend</item>
         <item>nlpconfig</item>
         <item>nocknock</item>
@@ -517,6 +523,7 @@
         <item>notepad</item>
         <item>notificationnotes</item>
         <item>nounours</item>
+        <item>nsusbloader</item>
         <item>ntpsync</item>
         <item>oandbackup</item>
         <item>oasvn</item>
@@ -554,11 +561,12 @@
         <item>openobservatory</item>
         <item>openredmine</item>
         <item>openscale</item>
+        <item>opensudoku</item>
+        <item>opentracks</item>
         <item>opentraining</item>
         <item>openvpn</item>
         <item>openvpnsettings</item>
         <item>openwlanmap</item>
-        <item>opesudoku</item>
         <item>orbot</item>
         <item>orfox</item>
         <item>orgzly</item>
@@ -604,6 +612,7 @@
         <item>persiancalendar</item>
         <item>pftpd</item>
         <item>phone</item>
+        <item>phyphox</item>
         <item>piano</item>
         <item>piholedroid</item>
         <item>pipepanic</item>
@@ -616,6 +625,7 @@
         <item>politedroid</item>
         <item>pomodoro</item>
         <item>portauthority</item>
+        <item>powerapp</item>
         <item>ppsspp</item>
         <item>practicehub</item>
         <item>prboom</item>
@@ -657,6 +667,7 @@
         <item>redphone</item>
         <item>redreader</item>
         <item>regex</item>
+        <item>rekado</item>
         <item>remotekeyboard</item>
         <item>repay</item>
         <item>retroarch</item>
@@ -760,6 +771,7 @@
         <item>simpletask</item>
         <item>simplethankyou</item>
         <item>simpletodo</item>
+        <item>simplevoicerecorder</item>
         <item>simtk</item>
         <item>sipdroid</item>
         <item>sismicsreader</item>
@@ -848,6 +860,7 @@
         <item>tickmate</item>
         <item>tigase</item>
         <item>timber</item>
+        <item>timelimit</item>
         <item>timeriffic</item>
         <item>tinc</item>
         <item>tinfoilfb</item>
