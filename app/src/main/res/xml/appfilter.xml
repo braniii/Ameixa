@@ -1799,6 +1799,9 @@
         component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}"
         drawable="kore" />
     <item
+        component="ComponentInfo{org.koreader.launcher/org.koreader.launcher.MainActivity}"
+        drawable="koreader"/>
+    <item
         component="ComponentInfo{com.onetwofivegames.kungfoobarracuda/com.onetwofivegames.kungfoobarracuda.KungFooBarracudaNativeActivity}"
         drawable="kungfoobarracuda" />
     <item
