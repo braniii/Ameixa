@@ -3,10 +3,10 @@
     <string name="icons">Icons</string>
     <string name="sourcecodetext">Source Code</string>
     <string name="licensetext">License</string>
-    <string name="sourcecodelink">https://gitlab.com/xphnx/ameixa</string>
+    <string name="sourcecodelink" translatable="false">https://gitlab.com/xphnx/ameixa</string>
     <string name="codelicense">This program\'s source code is available under the GNU General Public License v3.</string>
-    <string name="imageslicense">The images included in this program are available under the Creative Commons Attribution Share Alike 4.0 license, except for non-compatible derivative licenses (see credits).</string>
-    <string name="urlgplv3">https://choosealicense.com/licenses/gpl-3.0</string>
-    <string name="urlccbysa4">https://creativecommons.org/licenses/by-sa/4.0</string>
+    <string name="imageslicense">The images included in this program are available under the Creative Commons Attribution Share Alike 4.0 license.</string>
+    <string name="urlgplv3" translatable="false">https://www.gnu.org/licenses/gpl-3.0.html</string>
+    <string name="urlccbysa4" translatable="false">https://creativecommons.org/licenses/by-sa/4.0</string>
     <bool name="config_iconpack">true</bool>
 </resources>
