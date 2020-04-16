@@ -2066,6 +2066,9 @@
         component="ComponentInfo{com.arnaud.metronome/com.arnaud.metronome.Metronome}"
         drawable="metronome" />
     <item
+        component="ComponentInfo{de.moekadu.metronome/de.moekadu.metronome.MainActivity}"
+        drawable="metronome" />
+    <item
         component="ComponentInfo{com.manichord.mgit/com.manichord.mgit.repolist.RepoListActivity}"
         drawable="mgit" />
     <item
