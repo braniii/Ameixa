@@ -3506,6 +3506,9 @@
         component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}"
         drawable="sgit" />
     <item
+        component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}"
+        drawable="sgtpuzzles"/>
+    <item
         component="ComponentInfo{de.markusfisch.android.shadereditor/de.markusfisch.android.shadereditor.activity.SplashActivity}"
         drawable="shadereditor" />
     <item
