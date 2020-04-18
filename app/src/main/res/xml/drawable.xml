@@ -512,7 +512,6 @@
     <item drawable="nextcompanion" />
     <item drawable="nhbooks" />
     <item drawable="nicecompass" />
-    <item drawable="nitterizeme" />
     <item drawable="nlpbackend" />
     <item drawable="nlpconfig" />
     <item drawable="nocknock" />
@@ -915,6 +914,7 @@
     <item drawable="unicodemap" />
     <item drawable="unipatcher" />
     <item drawable="unote" />
+    <item drawable="untrackme" />
     <item drawable="updaterforspotify" />
     <item drawable="usbmountr" />
     <item drawable="vanillamusic" />
