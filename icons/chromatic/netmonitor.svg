@@ -75,11 +75,11 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
     </g>
-    <rect x="7.25" y="13.801" width="2.1918" height="6.293" fill="#fff9ff"/>
-    <rect x="10.268" y="15.697" width="2.1918" height="4.397" fill="#fff9ff"/>
-    <rect x="13.285" y="10.749" width="2.1918" height="9.3453" fill="#fff9ff"/>
-    <rect x="16.303" y="12.134" width="2.1918" height="7.9604" fill="#fff9ff"/>
-    <rect x="19.321" y="8.7486" width="2.1918" height="11.345" fill="#fff9ff"/>
+    <rect x="7.25" y="13.801" width="2.1918" height="6.293" fill="#fff"/>
+    <rect x="10.268" y="15.697" width="2.1918" height="4.397" fill="#fff"/>
+    <rect x="13.285" y="10.749" width="2.1918" height="9.3453" fill="#fff"/>
+    <rect x="16.303" y="12.134" width="2.1918" height="7.9604" fill="#fff"/>
+    <rect x="19.321" y="8.7486" width="2.1918" height="11.345" fill="#fff"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>

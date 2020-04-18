@@ -4,21 +4,9 @@
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
         </filter>
-        <filter id="filter4275">
-            <feGaussianBlur stdDeviation="0.04375"/>
-        </filter>
-        <filter id="filter4271">
-            <feGaussianBlur stdDeviation="0.04375"/>
-        </filter>
-        <filter id="filter4275-9" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="0.04375"/>
-        </filter>
-        <filter id="filter4271-6" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="0.04375"/>
-        </filter>
     </defs>
     <g transform="translate(0 -1093.8)">
-        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
+        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
         <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#232323"/>
         <g transform="translate(-22.32 1056.5)">
             <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
@@ -85,22 +73,7 @@
                 </g>
             </g>
         </g>
-        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
+        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
-    <g transform="matrix(.29602 0 0 .29602 6.7952 6.7952)" stroke-width="1.0667">
-        <path d="m0 0h51.2v51.2h-51.2z" fill="none"/>
-        <path d="m25.587 1.3672c-13.298 0-24.044 10.772-24.044 24.057s10.745 24.057 24.044 24.057 24.07-10.772 24.07-24.057-10.772-24.057-24.07-24.057z" fill="#fff"/>
-    </g>
-    <g fill="#fbffff" stroke="#232323">
-        <path d="m12.13 12.577h-2.2427v3.5883h4.4854v-3.5883h2.2427v-3.5883h-4.4854z" stroke-linejoin="round" stroke-width=".81697"/>
-        <path transform="matrix(.44854 0 0 .44854 -79.821 -73.704)" d="m205 197.36v-5" filter="url(#filter4275)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path transform="matrix(.44854 0 0 .44854 -79.821 -73.704)" d="m210 192.36v-5" filter="url(#filter4271)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path d="m14.373 16.165h-2.2427v3.5883h4.4854v-3.5883h2.2427v-3.5883h-4.4854z" stroke-linejoin="round" stroke-width=".81697"/>
-        <path transform="matrix(.44854 0 0 .44854 -77.577 -70.115)" d="m205 197.36v-5" filter="url(#filter4275-9)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path transform="matrix(.44854 0 0 .44854 -77.577 -70.115)" d="m210 192.36v-5" filter="url(#filter4271-6)" stroke-linejoin="round" stroke-width="1.8214"/>
-        <path d="m14.372 12.542v-1.4709" stroke-linecap="round" stroke-width=".81695"/>
-        <path d="m16.619 16.382v-1.4709" stroke-linecap="round" stroke-width=".81695"/>
-        <path d="m14.372 16.22v1.4709" stroke-linecap="round" stroke-width=".81695"/>
-        <path d="m12.126 13.908v-1.4709" stroke-linecap="round" stroke-width=".81695"/>
-    </g>
+    <path d="m14.369 7.2725c-3.9226 0-7.0948 3.1804-7.0948 7.1031 0 3.9185 3.168 7.0989 7.0948 7.0989 3.9268 0 7.1031-3.1804 7.1031-7.0989 0-3.9227-3.1763-7.1031-7.1031-7.1031zm-2.6414 1.3767h5.2869v3.5785h2.235v4.3912h-2.235v3.5785h-5.2869v-3.5785h-2.235v-4.3912h2.235zm0.81687 0.81273v3.5785h-0.0039v0.92054c-0.0039 0.22392-0.1866 0.40636-0.41051 0.40636-0.22391 0-0.40636-0.18245-0.40636-0.40636v-0.92054h-1.4184v2.7658h3.6614v-3.1555c-0.0039-0.0166-0.0039-0.03317-0.0039-0.04975v-1.4679c0-0.22392 0.18245-0.40636 0.40636-0.40636 0.22391 0 0.40636 0.18245 0.41051 0.40636v1.0947h1.418v-2.7658zm2.235 3.5785v4.6898c-0.0039 0.22392-0.1866 0.40636-0.41051 0.40636-0.22392 0-0.40636-0.18245-0.40636-0.40636v-1.1113h-1.4181v2.7658h3.6573v-3.5785h0.0039v-0.8459c-0.0039-0.14513 0.07463-0.28196 0.19904-0.35246 0.12854-0.07463 0.28611-0.07463 0.41051 0 0.12854 0.07049 0.20318 0.20733 0.20318 0.35246v0.8459h1.4181v-2.7658z" fill="#fff"/>
 </svg>
