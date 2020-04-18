@@ -5696,6 +5696,9 @@
         component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}"
         drawable="unote" />
     <item
+        component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.MainActivity}"
+        drawable="untrackme"/>
+    <item
         component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}"
         drawable="usbmountr" />
     <item
@@ -6301,9 +6304,6 @@
     <item
         component="ComponentInfo{de.rwth_aachen.phyphox/de.rwth_aachen.phyphox.ExperimentList}"
         drawable="phyphox" />
-    <item
-        component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.MainActivity}"
-        drawable="nitterizeme" />
     <item
         component="ComponentInfo{com.developerfromjokela.motioneyeclient/com.developerfromjokela.motioneyeclient.ui.activities.MainActivity}"
         drawable="motioneyeclient" />
