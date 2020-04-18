@@ -6,7 +6,7 @@
         </filter>
     </defs>
     <g transform="translate(0 -1093.8)">
-        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
+        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
         <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#232323"/>
         <g transform="translate(-22.32 1056.5)">
             <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
@@ -73,7 +73,7 @@
                 </g>
             </g>
         </g>
-        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
+        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
     <g transform="matrix(1.1526 0 0 1.1526 -2.2382 -2.1942)">
         <circle cx="9.5787" cy="10.787" r="1.1973" fill="#fff" style="paint-order:markers stroke fill"/>
@@ -82,15 +82,15 @@
         <circle cx="14.368" cy="8.392" r="1.1973" fill="#fff" style="paint-order:markers stroke fill"/>
         <circle cx="14.368" cy="20.365" r="1.1973" fill="#fff" style="paint-order:markers stroke fill"/>
         <circle cx="19.756" cy="14.379" r="1.1973" fill="#fff" style="paint-order:markers stroke fill"/>
-        <path d="m9.5787 10.787 4.7893-2.3947" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 14.379-4.7893-3.592" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m9.5787 17.971 4.7893-3.592" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 20.365-4.7893-2.3947" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m9.5787 10.787 4.7893 9.5787" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 8.392-4.7893 9.5787" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m19.756 14.379h-5.388" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 8.392 5.388 5.9867" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 20.365 5.388-5.9867" fill="none" stroke="#fffffe" stroke-width=".8"/>
+        <path d="m9.5787 10.787 4.7893-2.3947" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 14.379-4.7893-3.592" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m9.5787 17.971 4.7893-3.592" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 20.365-4.7893-2.3947" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m9.5787 10.787 4.7893 9.5787" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 8.392-4.7893 9.5787" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m19.756 14.379h-5.388" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 8.392 5.388 5.9867" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 20.365 5.388-5.9867" fill="none" stroke="#fff" stroke-width=".8"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

@@ -82,15 +82,15 @@
         <circle cx="14.368" cy="8.392" r="1.1973" fill="#fff" style="paint-order:markers stroke fill"/>
         <circle cx="14.368" cy="20.365" r="1.1973" fill="#fff" style="paint-order:markers stroke fill"/>
         <circle cx="19.756" cy="14.379" r="1.1973" fill="#fff" style="paint-order:markers stroke fill"/>
-        <path d="m9.5787 10.787 4.7893-2.3947" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 14.379-4.7893-3.592" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m9.5787 17.971 4.7893-3.592" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 20.365-4.7893-2.3947" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m9.5787 10.787 4.7893 9.5787" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 8.392-4.7893 9.5787" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m19.756 14.379h-5.388" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 8.392 5.388 5.9867" fill="none" stroke="#fffffe" stroke-width=".8"/>
-        <path d="m14.368 20.365 5.388-5.9867" fill="none" stroke="#fffffe" stroke-width=".8"/>
+        <path d="m9.5787 10.787 4.7893-2.3947" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 14.379-4.7893-3.592" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m9.5787 17.971 4.7893-3.592" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 20.365-4.7893-2.3947" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m9.5787 10.787 4.7893 9.5787" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 8.392-4.7893 9.5787" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m19.756 14.379h-5.388" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 8.392 5.388 5.9867" fill="none" stroke="#fff" stroke-width=".8"/>
+        <path d="m14.368 20.365 5.388-5.9867" fill="none" stroke="#fff" stroke-width=".8"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

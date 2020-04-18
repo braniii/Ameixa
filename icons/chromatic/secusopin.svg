@@ -80,7 +80,7 @@
             <flowRoot fill="#ffff00" font-family="Roboto" font-size="3.75px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><flowRegion fill="#ffff00"><rect x="10.664" y="11.235" width="4.49" height="5.0512" fill="#ff0"/></flowRegion><flowPara>your</flowPara></flowRoot>
             <g transform="translate(-24.406 -.28125)" fill="#f00">
                 <g transform="translate(-5.9867 -2.3947)" fill="#f00">
-                    <g transform="matrix(.86557 0 0 1.035 26.392 7.944)" fill="#fffffe" stroke-width="1.0565">
+                    <g transform="matrix(.86557 0 0 1.035 26.392 7.944)" fill="#fff" stroke-width="1.0565">
                         <rect x="-117.58" y="-3.0962" width="3.592" height="2.1741" rx="1.3864" ry="1.1594" style="paint-order:normal"/>
                         <rect x="-112.8" y="-3.0962" width="3.592" height="2.1741" rx="1.3864" ry="1.1594" style="paint-order:normal"/>
                         <rect x="-108.01" y="-3.0962" width="3.592" height="2.1741" rx="1.3864" ry="1.1594" style="paint-order:normal"/>

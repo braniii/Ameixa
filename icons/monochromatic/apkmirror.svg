@@ -75,11 +75,13 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
-    <path d="m16.936 10.891h-1.4643v-2.1965h-2.1965v2.1965h-1.4643l2.5626 2.5626z" fill="#fff" stroke-width=".36608"/>
-    <path d="m7.6924 19.584 3.3403-6.7917 3.3403 6.8849 3.3403-6.8849 3.3403 6.8183" fill="none" stroke="#fffff7" stroke-linejoin="bevel" stroke-width="1.9133"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
         <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
+    </g>
+    <g transform="matrix(1.0646 0 0 1.0646 .0028689 -.018009)">
+        <path d="m15.906 10.227h-1.375v-2.0625h-2.0625v2.0625h-1.375l2.4062 2.4102z" fill="#fff"/>
+        <path transform="scale(.93921)" d="m7.6902 19.581 3.3439-6.7876 3.3398 6.8833 3.3398-6.8833 3.3398 6.8168" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-width="1.9133"/>
     </g>
 </svg>
