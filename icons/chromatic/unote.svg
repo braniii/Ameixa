@@ -4,9 +4,6 @@
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
         </filter>
-        <filter id="filter6206-7-8" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="0.658125"/>
-        </filter>
     </defs>
     <g transform="translate(0 -1025.4)">
         <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#263238" filter="url(#filter6206-7)" opacity=".2"/>
@@ -82,21 +79,6 @@
         <g transform="matrix(.072581 0 0 .072581 443.33 275.58)">
             <g transform="matrix(13.778 0 0 13.778 -5683.4 3149.8)">
                 <g transform="translate(0 -1025.4)">
-                    <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#212121" filter="url(#filter6206-7-8)" opacity=".2"/>
-                    <rect x="2.8113" y="1028.2" width="21.327" height="21.327" rx="1.1225" ry="1.1226" fill="#9e9e9e"/>
-                    <g transform="translate(-20.925 990.46)">
-                        <path d="m0 0h48v48h-48z" fill="none"/>
-                        <g transform="matrix(.33601 0 0 .33601 1.434 68.477)">
-                            <path d="m0 0h48v48h-48z" fill="none"/>
-                        </g>
-                        <g transform="matrix(.37187 0 0 .37187 36.377 59.287)">
-                            <path d="m0 0h48v48h-48z" fill="none"/>
-                            <g transform="matrix(2.6891 0 0 2.6891 -77.724 -45.422)">
-                                <path d="m0 0h48v48h-48z" fill="none"/>
-                            </g>
-                        </g>
-                    </g>
-                    <path transform="translate(0 1025.4)" d="m3.9336 2.8105c-0.62186 0-1.123 0.50115-1.123 1.123v0.3125c0-0.6219 0.50118-1.123 1.123-1.123h19.082c0.62186 0 1.123 0.50115 1.123 1.123v-0.3125c0-0.6219-0.50118-1.123-1.123-1.123h-19.082z" fill="#fff" opacity=".2"/>
                     <rect x="120" y="512.36" width="40" height="40" fill="none"/>
                     <rect x="120" y="592.36" width="40" height="40" fill="none"/>
                     <rect x="120" y="632.36" width="40" height="40" fill="none"/>
@@ -134,12 +116,6 @@
                     <rect x="320" y="632.36" width="40" height="40" fill="none"/>
                     <rect x="320" y="712.36" width="40" height="40" fill="none"/>
                     <rect x="150" y="542.36" width="180" height="180" fill="none"/>
-                    <g transform="matrix(.37344 0 0 .37344 4.4375 1028.8)">
-                        <path d="m0 0h48v48h-48z" fill="none"/>
-                    </g>
-                    <g transform="matrix(.36471 0 0 .36471 4.8146 1028.8)">
-                        <path d="m0 0h48v48h-48z" fill="none"/>
-                    </g>
                     <g transform="matrix(.41585 0 0 .41585 79.055 989.88)">
                         <g transform="matrix(.062269 0 0 .062269 -26.473 173.71)">
                             <g transform="matrix(38.618 0 0 38.618 13804 -12696)">
@@ -149,16 +125,6 @@
                             </g>
                         </g>
                     </g>
-                    <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#212121" opacity=".2"/>
-                </g>
-                <g transform="translate(-.0093746 -1025.5)" fill="#fff">
-                    <rect transform="translate(-12.489 953.1)" x="22.03" y="77.934" width="1.1225" height="2.245"/>
-                    <path transform="translate(0 1025.4)" d="m8.9688 6.75c-0.49023 0.019644-0.875 0.4872-0.875 1.0938v11.25c0 0.6191 0.40176 1.125 0.90625 1.125h8.9688c0.50449 0 0.90625-0.5059 0.90625-1.125v-11.25c0-0.6191-0.40176-1.0938-0.90625-1.0938v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875h-1.125v1.6875h-2.25v-1.6875zm0 3.375h9v8.9688h-9z"/>
-                    <rect x="12.909" y="1031" width="1.1225" height="2.245"/>
-                    <rect x="16.276" y="1031" width="1.1225" height="2.245"/>
-                    <rect transform="translate(0 1025.4)" x="10.664" y="12.358" width="5.6125" height="1.1225"/>
-                    <rect x="10.664" y="1040" width="5.6125" height="1.1225"/>
-                    <rect x="10.664" y="1042.3" width="5.6125" height="1.1225"/>
                 </g>
                 <g display="none" fill="none">
                     <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

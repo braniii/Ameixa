@@ -77,7 +77,10 @@
     </g>
     <g transform="matrix(-.46518 -.70711 .46518 -.70711 -12.693 61.374)">
         <g transform="matrix(1.3881,0,0,1.3881,-3.2706,-23.303)">
-            <text transform="matrix(-.70711 .70711 -.70711 -.70711 0 0)" x="31.147547" y="-46.211559" fill="#ffffff" font-family="Roboto" font-size="10.612px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="31.147547" y="-46.211559">&gt;_</tspan></text>
+            <g transform="matrix(-.70711 .70711 -.70711 -.70711 0 0)" fill="#fff" aria-label="&gt;_">
+                <path d="m35.267-49.58-3.4251-1.342v-0.98451l4.4251 1.9587v0.75652l-4.4251 1.9638v-0.99488z" style=""/>
+                <path d="m41.469-45.429h-4.7464v-0.78243h4.7464z" style=""/>
+            </g>
         </g>
     </g>
     <g display="none" fill="none">

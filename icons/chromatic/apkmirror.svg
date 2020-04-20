@@ -80,8 +80,6 @@
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
         <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
     </g>
-    <g transform="matrix(1.0646 0 0 1.0646 .0028689 -.018009)">
-        <path d="m15.906 10.227h-1.375v-2.0625h-2.0625v2.0625h-1.375l2.4062 2.4102z" fill="#fff"/>
-        <path transform="scale(.93921)" d="m7.6902 19.581 3.3439-6.7876 3.3398 6.8833 3.3398-6.8833 3.3398 6.8168" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-width="1.9133"/>
-    </g>
+    <path d="m16.936 10.869h-1.4638v-2.1957h-2.1957v2.1957h-1.4638l2.5616 2.5659z" fill="#fff" stroke-width="1.0646"/>
+    <path d="m10.178 12.352-3.3437 6.7852 1.7168 0.8457 2.4785-5.0312 2.4844 5.123h1.7227l2.4824-5.1191 2.4766 5.0547 1.7168-0.8418-3.3379-6.8145-1.7207 2e-3 -2.4785 5.1074-2.4785-5.1074z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

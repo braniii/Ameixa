@@ -75,15 +75,5 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#bf360c" opacity=".2"/>
     </g>
-    <g transform="matrix(.17309 0 0 .17309 7.6315 2.7014)" fill="none" stroke="#fff">
-        <path d="m47.689 62.268h-27.861" stroke-width="6.3476"/>
-        <path d="m12.128 29.795h43.262c5.9917 0 10.815 4.8237 10.815 10.815v43.262c0 5.9917-4.8237 10.815-10.815 10.815h-43.262c-5.9917 0-10.815-4.8237-10.815-10.815v-43.262c0-5.9917 4.8237-10.815 10.815-10.815z" stroke-width="6.2309"/>
-        <path d="m44.574 62.241v14.871h-21.631v17.575" stroke-width="6.2309"/>
-        <path d="m44.574 29.795v17.575h-21.631v14.871" stroke-width="6.2309"/>
-    </g>
-    <g display="none" fill="none">
-        <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
-        <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
-        <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
-    </g>
+    <path d="m9.7305 7.3184c-1.3265 0-2.4102 1.0855-2.4102 2.4121v7.4883c0 1.3265 1.0836 2.4121 2.4102 2.4121h7.4883c1.3265 0 2.4121-1.0855 2.4121-2.4121v-7.4883c0-1.3265-1.0855-2.4121-2.4121-2.4121h-7.4883zm0 1.0801h5.0781v1.9629h-3.7441v2.5684 0.54492 0.55469h3.7441v1.4805h-3.7441v3.041h-1.334c-0.74768 0-1.332-0.5844-1.332-1.332v-7.4883c0-0.74768 0.5844-1.332 1.332-1.332zm6.1563 0h1.332c0.74768 0 1.334 0.58442 1.334 1.332v7.4883c0 0.74768-0.58637 1.332-1.334 1.332h-5.0762v-1.9629h3.7441v-2.5586-0.55469-0.54492h-3.7441v-1.4902h3.7441v-3.041z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

@@ -77,8 +77,7 @@
     </g>
     <g transform="matrix(1.2394 0 0 -1.2394 -680.11 561.51)">
         <g transform="matrix(.72446 0 0 -.7581 540.82 507.25)">
-            <path d="m20.513 92.361h10.902l-4.3607-13.082h-2.1803z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="5.8" stroke-width="1.1896"/>
-            <path d="m25.361 82.106 0.04122 5.3943-1.1317-0.02218 3e-3 0.55879 1.1329 0.58156 0.0044 6.82e-4 0.01493 1.8645 1.128 0.02342-0.01442-1.8688 1.1194-0.5336-0.0049-0.55818-1.1218-0.02331-0.04122-5.3944-1.1299-0.02275z" fill="#fff"/>
+            <path transform="matrix(1.1137 0 0 1.0643 10.934 71.495)" d="m12.516 6.7539a0.53412 0.55892 0 0 0-0.50586 0.38477l-3.916 12.291a0.53412 0.55892 0 0 0 0.50781 0.73437h9.7871a0.53412 0.55892 0 0 0 0.50781-0.73437l-3.916-12.291a0.53412 0.55892 0 0 0-0.50586-0.38477h-1.959zm0.38672 1.1191h1.1855l3.5605 11.174h-8.3047l3.5586-11.174zm0.050781 2.0977 0.037109 5.0684-1.0156-0.021484 0.001953 0.52539 1.0176 0.54688h0.003906l0.013672 1.752 1.0137 0.021484-0.013672-1.7559 1.0059-0.5-0.005859-0.52539-1.0059-0.021484-0.037109-5.0684-1.0156-0.021484z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
         </g>
     </g>
     <g display="none" fill="none">

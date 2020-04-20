@@ -76,9 +76,10 @@
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#232323" opacity=".2"/>
     </g>
     <g font-family="Roboto" letter-spacing="0px" stroke-width="1px" word-spacing="0px">
-        <flowRoot fill="#000000" font-size="3.75px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <text x="5.9975219" y="16.514362" fill="#ffffff" font-size="8.3608px" style="line-height:125%" xml:space="preserve"><tspan x="5.9975219" y="16.514362">#</tspan></text>
-        <text x="11.68151" y="18.843596" fill="#ffffff" font-size="14.768px" style="line-height:125%" xml:space="preserve"><tspan x="11.68151" y="18.843596">P</tspan></text>
+        <flowRoot fill="#232323" font-size="3.75px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
+        <g fill="#fff" aria-label="#">
+            <path d="m12.9 8.3438v10.5h1.3848v-4.1113h2.4727c1.1874 0 2.0979-0.27228 2.7324-0.82031 0.63937-0.55284 0.95898-1.3402 0.95898-2.3594 0-0.96627-0.32668-1.7416-0.98047-2.3281-0.64898-0.58649-1.5483-0.88086-2.6973-0.88086h-3.8711zm1.3848 1.1406h2.5664c0.68744 0.014422 1.2288 0.20902 1.623 0.58398 0.3942 0.37497 0.5918 0.87505 0.5918 1.5 0 0.6586-0.1976 1.1627-0.5918 1.5137-0.3942 0.34612-0.9628 0.51953-1.7031 0.51953h-2.4863v-4.1172zm-5.9941 1.0859-0.33398 1.6992h-1.1641v0.56641h1.0547l-0.2832 1.4453h-1.082v0.55859h0.97656l-0.32617 1.6738h0.58398l0.32617-1.6738h1.0781l-0.32617 1.6738h0.58789l0.32617-1.6738h1.0234v-0.55859h-0.91797l0.28125-1.4453h0.94336v-0.56641h-0.83203l0.33398-1.6992h-0.58789l-0.33398 1.6992h-1.0781l0.33398-1.6992h-0.58398zm0.13867 2.2656h1.0781l-0.28125 1.4453h-1.0781l0.28125-1.4453z" style=""/>
+        </g>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
