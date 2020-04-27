@@ -5699,10 +5699,10 @@
         component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}"
         drawable="unote" />
     <item
-        component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}"
-        drawable="unote" />
-    <item
         component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.MainActivity}"
+        drawable="untrackme"/>
+    <item
+        component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.activities.MainActivity}"
         drawable="untrackme"/>
     <item
         component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}"
