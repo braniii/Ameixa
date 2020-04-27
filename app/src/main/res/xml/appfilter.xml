@@ -6280,7 +6280,6 @@
         drawable="hourlyreminder" />
 
     <!-- 4.2.1 < [] -->
-
     <item
         component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}"
         drawable="jami" />
@@ -6294,7 +6293,7 @@
         component="ComponentInfo{io.github.subhamtyagi.privacyapplock/com.lzx.lock.activities.main.SplashActivity}"
         drawable="applock" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.2.2 < [] -->
     <item
         component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}"
         drawable="mupdf" />
@@ -6334,6 +6333,15 @@
     <item
         component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}"
         drawable="imagepipe" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{com.limelight/com.limelight.PcView}"
+        drawable="moonlight" />
+    <item
+        component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.MainActivity}"
+        drawable="nextclouddeck"/>
+
 
     <!-- Nova Launcher specific -->
     <item
