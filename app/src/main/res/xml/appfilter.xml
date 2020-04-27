@@ -2345,6 +2345,12 @@
         component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}"
         drawable="newpipe" />
     <item
+        component="ComponentInfo{org.schabi.newpipe.beta/org.schabi.newpipe.MainActivity}"
+        drawable="newpipe" />
+    <item
+        component="ComponentInfo{org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity}"
+        drawable="newpipe" />
+    <item
         component="ComponentInfo{com.newsblur/com.newsblur.activity.Login}"
         drawable="newsblur" />
     <item
