@@ -3428,6 +3428,9 @@
         component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}"
         drawable="secusoqr" />
     <item
+        component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}"
+        drawable="secusoqr" />
+    <item
         component="ComponentInfo{org.secuso.privacyfriendlyrecknoningskills/org.secuso.privacyfriendlyreckoningskills.activities.SplashActivity}"
         drawable="secusorecknoning" />
     <item
