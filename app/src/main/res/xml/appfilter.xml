@@ -6307,6 +6307,9 @@
         component="ComponentInfo{com.pavelrekun.rekado/com.pavelrekun.rekado.screens.main_activity.MainActivity}"
         drawable="rekado" />
     <item
+        component="ComponentInfo{com.pavelrekun.rekado/com.pavelrekun.rekado.containers.PrimaryContainerActivity}"
+        drawable="rekado" />
+    <item
         component="ComponentInfo{com.blogspot.developersu.ns_usbloader/com.blogspot.developersu.ns_usbloader.MainActivity}"
         drawable="nsusbloader" />
     <item
@@ -6340,7 +6343,10 @@
         drawable="moonlight" />
     <item
         component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.MainActivity}"
-        drawable="nextclouddeck"/>
+        drawable="nextclouddeck" />
+    <item
+        component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.activity.LauncherActivity}"
+        drawable="fitotrack" />
 
 
     <!-- Nova Launcher specific -->
