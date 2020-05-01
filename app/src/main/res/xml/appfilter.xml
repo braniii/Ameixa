@@ -3353,6 +3353,9 @@
         component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.MainActivity}"
         drawable="screencam" />
     <item
+        component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity}"
+        drawable="screencam" />
+    <item
         component="ComponentInfo{com.cyanogenmod.screencast/com.cyanogenmod.screencast.MainActivity}"
         drawable="screencast" />
     <item
