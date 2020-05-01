@@ -2030,12 +2030,6 @@
         component="ComponentInfo{com.bijoysingh.quicknote/com.bijoysingh.quicknote.activities.MainActivity}"
         drawable="materialnotes" />
     <item
-        component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookActivity}"
-        drawable="materialplayer" />
-    <item
-        component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookShelfActivity}"
-        drawable="materialplayer" />
-    <item
         component="ComponentInfo{net.cactii.mathdoku/net.cactii.mathdoku.MainActivity}"
         drawable="mathdoku" />
     <item
@@ -5756,7 +5750,16 @@
         component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}"
         drawable="vlc" />
     <item
+        component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookActivity}"
+        drawable="voice" />
+    <item
+        component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.activity.BookShelfActivity}"
+        drawable="voice" />
+    <item
         component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.coldStart.SplashActivity}"
+        drawable="voice" />
+    <item
+        component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}"
         drawable="voice" />
     <item
         component="ComponentInfo{com.android.voicedialer/com.android.voicedialer.VoiceDialerActivity}"
