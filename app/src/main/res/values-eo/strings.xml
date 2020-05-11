@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icons">Piktogramoj</string>
+    <string name="sourcecodetext">Fontkodo</string>
+    <string name="licensetext">Permesilo</string>
+    <string name="sourcecodelink" translatable="false">https://gitlab.com/xphnx/ameixa</string>
+    <string name="codelicense">Ĉi tiu aplikaĵa fontkodo estas disponebligada laŭ Ĝenerala Publika Permesilo de GNU v3.</string>
+    <string name="imageslicense">La bildoj enhavitaj en ĉi tiu aplikaĵo estas disponebligada laŭ la permesilo Krea Komunaĵo Atribuite-Samkondiĉe 4.0.</string>
+    <string name="urlgplv3" translatable="false">https://www.gnu.org/licenses/gpl-3.0.html</string>
+    <string name="urlccbysa4" translatable="false">https://creativecommons.org/licenses/by-sa/4.0</string>
+    <bool name="config_iconpack">true</bool>
+</resources>
+
