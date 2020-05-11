@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="icons">Iconos</string>
-    <string name="sourcecodetext">Código Fuente</string>
+    <string name="sourcecodetext">Código fuente</string>
     <string name="licensetext">Licencia</string>
     <string name="codelicense">El código fuente de este programa está disponible bajo la GNU General Public License v3.</string>
     <string name="imageslicense">Las imágenes incluidas en este programa están disponibles bajo la licencia Creative Commons Attribution Share Alike 4.0.</string>
