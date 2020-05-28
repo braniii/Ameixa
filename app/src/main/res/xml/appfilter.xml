@@ -1800,7 +1800,7 @@
         drawable="kore" />
     <item
         component="ComponentInfo{org.koreader.launcher/org.koreader.launcher.MainActivity}"
-        drawable="koreader"/>
+        drawable="koreader" />
     <item
         component="ComponentInfo{com.onetwofivegames.kungfoobarracuda/com.onetwofivegames.kungfoobarracuda.KungFooBarracudaNativeActivity}"
         drawable="kungfoobarracuda" />
@@ -3507,7 +3507,7 @@
         drawable="sgit" />
     <item
         component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}"
-        drawable="sgtpuzzles"/>
+        drawable="sgtpuzzles" />
     <item
         component="ComponentInfo{de.markusfisch.android.shadereditor/de.markusfisch.android.shadereditor.activity.SplashActivity}"
         drawable="shadereditor" />
@@ -4964,8 +4964,8 @@
         component="ComponentInfo{apps.jizzu.simpletodo/apps.jizzu.simpletodo.activity.MainActivity}"
         drawable="simpletodo" />
     <item
-        component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivit
-        }" drawable="simplevoicerecorder"/>
+        component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity}"
+        drawable="simplevoicerecorder" />
     <item
         component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Pink}"
         drawable="simplevoicerecorder" />
@@ -5694,10 +5694,10 @@
         drawable="unote" />
     <item
         component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.MainActivity}"
-        drawable="untrackme"/>
+        drawable="untrackme" />
     <item
         component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.activities.MainActivity}"
-        drawable="untrackme"/>
+        drawable="untrackme" />
     <item
         component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}"
         drawable="usbmountr" />
