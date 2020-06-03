@@ -73,7 +73,7 @@ do
     do
         for SIZE in ${ICON_SIZES}
         do
-            FILE="app/src/${TYPE}/res/${SIZE}/${ICON}.png"
+            FILE="app/src/${TYPE}/res/${SIZE}/${ICON_NAME}.png"
             if [ ! -f "${FILE}" ]
             then
                 echo "File icon found but generated file not found: ${FILE}"
