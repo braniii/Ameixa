@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,9 +75,7 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <path d="m9.0389 7.7344a1.1799 1.0627 0 0 0-1.2074 1.0622v1.8078l10.905 5.5153 1.5888-0.82624a1.1799 1.0627 0 0 0 0-1.8404l-10.725-5.5767a1.1799 1.0627 0 0 0-0.56208-0.14205zm-1.2074 3.7901v1.2297l8.8096 4.4554 1.1987-0.62331zm0 2.1497v0.962l4.5201 2.2859-4.5201 2.6126v0.41548a1.1799 1.0627 0 0 0 1.7695 0.92018l6.143-3.1944z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-    </g>
+    <path d="m9.0389 7.7344a1.1799 1.0627 0 0 0-1.2074 1.0622v1.8078l10.905 5.5153 1.5888-0.82624a1.1799 1.0627 0 0 0 0-1.8404l-10.725-5.5767a1.1799 1.0627 0 0 0-0.56208-0.14205zm-1.2074 3.7901v1.2297l8.8096 4.4554 1.1987-0.62331zm0 2.1497v0.962l4.5201 2.2859-4.5201 2.6126v0.41548a1.1799 1.0627 0 0 0 1.7695 0.92018l6.143-3.1944z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
