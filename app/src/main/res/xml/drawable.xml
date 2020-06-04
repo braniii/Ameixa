@@ -273,6 +273,7 @@
     <item drawable="firefox" />
     <item drawable="firefoxfocus" />
     <item drawable="firewall" />
+    <item drawable="fitotrack" />
     <item drawable="floatingstickies" />
     <item drawable="flym" />
     <item drawable="fmradio" />
@@ -464,6 +465,7 @@
     <item drawable="mobilewebcam" />
     <item drawable="moneybalance" />
     <item drawable="moneymanagerex" />
+    <item drawable="moonlight" />
     <item drawable="motioneyeclient" />
     <item drawable="mousetodon" />
     <item drawable="movecerts" />
@@ -506,6 +508,7 @@
     <item drawable="newpipe" />
     <item drawable="newsblur" />
     <item drawable="nextcloud" />
+    <item drawable="nextclouddeck" />
     <item drawable="nextclouddev" />
     <item drawable="nextcloudtalk" />
     <item drawable="nextcompanion" />

@@ -1337,6 +1337,9 @@
         component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}"
         drawable="firefoxfocus" />
     <item
+        component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.activity.LauncherActivity}"
+        drawable="fitotrack" />
+    <item
         component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
         drawable="fenix" />
     <item
@@ -2147,6 +2150,9 @@
         component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}"
         drawable="moneymanagerex" />
     <item
+        component="ComponentInfo{com.limelight/com.limelight.PcView}"
+        drawable="moonlight" />
+    <item
         component="ComponentInfo{fr.xtof54.mousetodon/fr.xtof54.mousetodon.MouseApp}"
         drawable="mousetodon" />
     <item
@@ -2353,6 +2359,9 @@
     <item
         component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}"
         drawable="nextcloud" />
+    <item
+        component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.MainActivity}"
+        drawable="nextclouddeck" />
     <item
         component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}"
         drawable="nextcloudtalk" />
@@ -6344,15 +6353,6 @@
         drawable="imagepipe" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
-    <item
-        component="ComponentInfo{com.limelight/com.limelight.PcView}"
-        drawable="moonlight" />
-    <item
-        component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.MainActivity}"
-        drawable="nextclouddeck" />
-    <item
-        component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.activity.LauncherActivity}"
-        drawable="fitotrack" />
 
 
     <!-- Nova Launcher specific -->
