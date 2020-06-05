@@ -6,7 +6,7 @@
         </filter>
     </defs>
     <g transform="translate(0 -1093.8)">
-        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
+        <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
         <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#232323"/>
         <g transform="translate(-22.32 1056.5)">
             <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
@@ -73,7 +73,7 @@
                 </g>
             </g>
         </g>
-        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
+        <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
     <path d="m14.363 7.729c-0.38906 0.00585-0.69982 0.32579-0.69434 0.71486v6.1063c-0.01326 0.9531 1.4232 0.9531 1.4099 0v-6.1063c0.0056-0.39737-0.31818-0.72083-0.71555-0.71486zm-3.7705 1.5379c-0.15978 0.00646-0.31262 0.067054-0.43343 0.17183-1.4504 1.217-2.2718 2.9714-2.3375 4.7899-0.029883 0.82661 0.09654 1.6664 0.39088 2.4751 0.9419 2.5878 3.4072 4.3141 6.1611 4.3141s5.2192-1.7262 6.1611-4.3141c0.9419-2.5878 0.16305-5.4948-1.9466-7.265-0.72134-0.62019-1.6423 0.47719-0.90637 1.08 1.6593 1.3923 2.269 3.6674 1.5282 5.7029-0.74084 2.0354-2.6702 3.3863-4.8363 3.3863s-4.0954-1.3509-4.8363-3.3863c-0.74084-2.0354-0.13129-4.3106 1.528-5.7029 0.52663-0.42746 0.20491-1.2792-0.47281-1.2518z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     <g display="none" fill="none">
