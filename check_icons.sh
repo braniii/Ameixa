@@ -1,6 +1,8 @@
 #!/bin/bash
 
 DEFINITION_FILE="app/src/main/res/xml/appfilter.xml"
+DRAWABLE_FILE="app/src/main/res/xml/drawable.xml"
+ICONPACK_FILE="app/src/main/res/values/iconpack.xml"
 SVG_BASE_FOLDER="icons"
 TODO_FOLDER="todo"
 ICON_TYPES="chromatic monochromatic"
@@ -10,7 +12,7 @@ DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 
 return_value=0
 
-echo Checking "each icon definition has an existing svg icon file for each type"...
+echo Checking "each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type"...
 ICON_DEFINITIONS=$(sed 's/ /\n/g' ${DEFINITION_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DEFINITIONS}
 do
@@ -23,6 +25,46 @@ do
             if [ ! -f "${FILETODO}" ]
             then
                 echo "Icon requested in ${DEFINITION_FILE} but neither file found: ${FILE} nor ${FILETODO}"
+                return_value=$((return_value + 1))
+            fi
+        fi
+    done
+done
+echo "ok, done"
+
+echo Checking "each icon definition in ${DRAWABLE_FILE} has an existing svg icon file for each type"...
+ICON_DRAWABLE=$(sed 's/ /\n/g' ${DRAWABLE_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
+for ICON in ${ICON_DRAWABLE}
+do
+    for TYPE in ${ICON_TYPES}
+    do
+        FILE="${SVG_BASE_FOLDER}/${TYPE}/${ICON}.svg"
+        if [ ! -f "${FILE}" ]
+        then
+            FILETODO="${TODO_FOLDER}/${ICON}.svg"
+            if [ ! -f "${FILETODO}" ]
+            then
+                echo "Icon requested in ${DRAWABLE_FILE} but neither file found: ${FILE} nor ${FILETODO}"
+                return_value=$((return_value + 1))
+            fi
+        fi
+    done
+done
+echo "ok, done"
+
+echo Checking "each icon definition in ${ICONPACK_FILE} has an existing svg icon file for each type"...
+ICON_ICONPACK=$(sed 's/ /\n/g' ${ICONPACK_FILE} | grep "item" | cut -d">" -f2 | cut -d"<" -f1 | sort | uniq)
+for ICON in ${ICON_ICONPACK}
+do
+    for TYPE in ${ICON_TYPES}
+    do
+        FILE="${SVG_BASE_FOLDER}/${TYPE}/${ICON}.svg"
+        if [ ! -f "${FILE}" ]
+        then
+            FILETODO="${TODO_FOLDER}/${ICON}.svg"
+            if [ ! -f "${FILETODO}" ]
+            then
+                echo "Icon requested in ${ICONPACK_FILE} but neither file found: ${FILE} nor ${FILETODO}"
                 return_value=$((return_value + 1))
             fi
         fi
@@ -51,7 +93,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each svg icon file has at least one icon definition"...
+echo Checking "each svg icon file has at least one icon definition in ${DEFINITION_FILE}"...
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -60,6 +102,34 @@ do
     if [ $FOUND -eq 0 ]
     then
         echo "File found but not referenced in ${DEFINITION_FILE}: ${ICON_NAME}"
+        return_value=$((return_value + 1))
+    fi
+done
+echo "ok, done"
+
+echo Checking "each svg icon file has at least one icon definition in ${DRAWABLE_FILE}"...
+for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
+do
+    ICON_NAME=$(basename ${SVG} .svg)
+    SEARCH_STRING="drawable=\"${ICON_NAME}\""
+    FOUND=$(grep ${SEARCH_STRING} ${DRAWABLE_FILE} | wc -l | awk '{print $0}')
+    if [ $FOUND -eq 0 ]
+    then
+        echo "File found but not referenced in ${DRAWABLE_FILE}: ${ICON_NAME}"
+        return_value=$((return_value + 1))
+    fi
+done
+echo "ok, done"
+
+echo Checking "each svg icon file has at least one icon definition in ${ICONPACK_FILE}"...
+for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
+do
+    ICON_NAME=$(basename ${SVG} .svg)
+    SEARCH_STRING="<item>${ICON_NAME}</item>"
+    FOUND=$(grep ${SEARCH_STRING} ${ICONPACK_FILE} | wc -l | awk '{print $0}')
+    if [ $FOUND -eq 0 ]
+    then
+        echo "File found but not referenced in ${ICONPACK_FILE}: ${ICON_NAME}"
         return_value=$((return_value + 1))
     fi
 done
