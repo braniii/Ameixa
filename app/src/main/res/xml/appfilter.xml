@@ -6368,6 +6368,12 @@
     <item
         component="ComponentInfo{org.mian.gitnex/org.mian.gitnex.activities.MainActivity}"
         drawable="gitnex" />
+    <item
+        component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}"
+        drawable="hauk" />
+    <item
+        component="ComponentInfo{org.lufebe16.pysolfc/org.kivy.android.PythonActivity}"
+        drawable="pysolfc" />
 
 
     <!-- Nova Launcher specific -->
