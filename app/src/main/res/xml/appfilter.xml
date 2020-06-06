@@ -6353,6 +6353,9 @@
         drawable="imagepipe" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{com.everfox.animetrackerandroid/com.everfox.animetrackerandroid.MainActivity}"
+        drawable="kitsu" />
 
 
     <!-- Nova Launcher specific -->
