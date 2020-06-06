@@ -1883,6 +1883,9 @@
         component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}"
         drawable="libretorrent" />
     <item
+        component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity}"
+        drawable="libretorrent" />
+    <item
         component="ComponentInfo{acr.browser.barebones/acr.browser.barebones.activities.BrowserActivity}"
         drawable="lightningbrowser" />
     <item
@@ -6362,6 +6365,9 @@
     <item
         component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}"
         drawable="filemanager" />
+    <item
+        component="ComponentInfo{org.mian.gitnex/org.mian.gitnex.activities.MainActivity}"
+        drawable="gitnex" />
 
 
     <!-- Nova Launcher specific -->
