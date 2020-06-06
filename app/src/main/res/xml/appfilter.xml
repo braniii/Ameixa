@@ -6374,6 +6374,9 @@
     <item
         component="ComponentInfo{org.lufebe16.pysolfc/org.kivy.android.PythonActivity}"
         drawable="pysolfc" />
+    <item
+        component="ComponentInfo{awais.instagrabber/awais.instagrabber.Main}"
+        drawable="instagrabber" />
 
 
     <!-- Nova Launcher specific -->
