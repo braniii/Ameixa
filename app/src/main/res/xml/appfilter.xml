@@ -6380,6 +6380,9 @@
     <item
         component="ComponentInfo{org.schabi.jedentageinset/org.schabi.jedentageinset.MainActivity}"
         drawable="jedentageinset" />
+    <item
+        component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.MainActivity}"
+        drawable="noice" />
 
 
     <!-- Nova Launcher specific -->
