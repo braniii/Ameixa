@@ -6356,6 +6356,12 @@
     <item
         component="ComponentInfo{com.everfox.animetrackerandroid/com.everfox.animetrackerandroid.MainActivity}"
         drawable="kitsu" />
+    <item
+        component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}"
+        drawable="jellyfin" />
+    <item
+        component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}"
+        drawable="filemanager" />
 
 
     <!-- Nova Launcher specific -->
