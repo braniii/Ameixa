@@ -6377,6 +6377,9 @@
     <item
         component="ComponentInfo{awais.instagrabber/awais.instagrabber.Main}"
         drawable="instagrabber" />
+    <item
+        component="ComponentInfo{org.schabi.jedentageinset/org.schabi.jedentageinset.MainActivity}"
+        drawable="jedentageinset" />
 
 
     <!-- Nova Launcher specific -->
