@@ -6383,6 +6383,9 @@
     <item
         component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.MainActivity}"
         drawable="noice" />
+    <item
+        component="ComponentInfo{re.indigo.epistolaire/re.indigo.epistolaire.MainActivity}"
+        drawable="epistolaire" />
 
 
     <!-- Nova Launcher specific -->
