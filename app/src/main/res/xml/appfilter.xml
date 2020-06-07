@@ -6497,6 +6497,15 @@
     <item
         component="ComponentInfo{re.indigo.epistolaire/re.indigo.epistolaire.MainActivity}"
         drawable="epistolaire" />
+    <item
+        component="ComponentInfo{im.pattle.app/im.pattle.app.MainActivity}"
+        drawable="pattle" />
+    <item
+        component="ComponentInfo{com.smilla.greentooth/com.smilla.greentooth.MainActivity}"
+        drawable="greentooth" />
+    <item
+        component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}"
+        drawable="trackercontrol" />
 
 
     <!-- Nova Launcher specific -->
