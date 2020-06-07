@@ -2072,6 +2072,15 @@
         component="ComponentInfo{de.moekadu.metronome/de.moekadu.metronome.MainActivity}"
         drawable="metronome" />
     <item
+        component="ComponentInfo{tk.radioactivemineral.metronome/tk.radioactivemineral.metronome.MetronomeActivity}"
+        drawable="metronome" />
+    <item
+        component="ComponentInfo{com.mustupid.metronome/com.mustupid.metronome.MetronomeActivity}"
+        drawable="metronome" />
+    <item
+        component="ComponentInfo{mn.tck.semitone/mn.tck.semitone.MainActivity}"
+        drawable="metronome" />
+    <item
         component="ComponentInfo{com.manichord.mgit/com.manichord.mgit.repolist.RepoListActivity}"
         drawable="mgit" />
     <item
@@ -5826,6 +5835,9 @@
         drawable="untrackme" />
     <item
         component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.activities.MainActivity}"
+        drawable="untrackme" />
+    <item
+        component="ComponentInfo{app.fedilab.nitterizemelite/app.fedilab.nitterizeme.activities.MainActivity}"
         drawable="untrackme" />
     <item
         component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}"
