@@ -6521,6 +6521,12 @@
     <item
         component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}"
         drawable="fluffychat" />
+    <item
+        component="ComponentInfo{com.example.tobiastrumm.freifunkautoconnect/com.example.tobiastrumm.freifunkautoconnect.MainActivity}"
+        drawable="freifunkautoconnect" />
+    <item
+        component="ComponentInfo{it.diab/it.diab.MainActivity}"
+        drawable="diab" />
 
 
     <!-- Nova Launcher specific -->
