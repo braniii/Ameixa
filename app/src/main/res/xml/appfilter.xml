@@ -6527,6 +6527,9 @@
     <item
         component="ComponentInfo{it.diab/it.diab.MainActivity}"
         drawable="diab" />
+    <item
+        component="ComponentInfo{com.drutol.malclient/crc64538156a8cca88d64.MainActivity}"
+        drawable="malclient" />
 
 
     <!-- Nova Launcher specific -->
