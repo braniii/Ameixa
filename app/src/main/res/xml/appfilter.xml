@@ -6518,6 +6518,9 @@
     <item
         component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}"
         drawable="trackercontrol" />
+    <item
+        component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}"
+        drawable="fluffychat" />
 
 
     <!-- Nova Launcher specific -->
