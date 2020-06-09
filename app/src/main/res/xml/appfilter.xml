@@ -6530,6 +6530,9 @@
     <item
         component="ComponentInfo{com.drutol.malclient/crc64538156a8cca88d64.MainActivity}"
         drawable="malclient" />
+    <item
+        component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
 
 
     <!-- Nova Launcher specific -->
