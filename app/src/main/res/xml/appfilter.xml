@@ -5573,6 +5573,9 @@
         component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}"
         drawable="tasks2" />
     <item
+        component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Orange}"
+        drawable="tasks2" />
+    <item
         component="ComponentInfo{org.tasks/org.tasks.activities.TimePickerActivity}"
         drawable="tasks2" />
     <item
@@ -6536,6 +6539,33 @@
     <item
         component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}"
         drawable="eapps" />
+    <item
+        component="ComponentInfo{foundation.e.tasks/org.dmfs.tasks.TaskListActivity}"
+        drawable="tasks" />
+    <item
+        component="ComponentInfo{foundation.e.browser/com.google.android.apps.chrome.Main}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{foundation.e.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{foundation.e.mail/foundation.e.mail.activity.Accounts}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{foundation.e.message/com.moez.QKSMS.feature.main.MainActivity}"
+        drawable="sms" />
+    <item
+        component="ComponentInfo{foundation.e.notes/foundation.e.notes.android.activity.SplashscreenActivity}"
+        drawable="notepad" />
+    <item
+        component="ComponentInfo{foundation.e.camera/net.sourceforge.opencamera.MainActivity}"
+        drawable="camera2" />
+    <item
+        component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}"
+        drawable="ffreddit" />
+    <item
+        component="ComponentInfo{foundation.e.weather/foundation.e.weather.MainActivity}"
+        drawable="localweather" />
 
 
     <!-- Nova Launcher specific -->
