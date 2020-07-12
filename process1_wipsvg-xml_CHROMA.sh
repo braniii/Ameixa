@@ -5,16 +5,16 @@ for SVG in todo/*.svg
 do
   if [[ -f "${SVG}" ]]; then
     N=$(basename ${SVG} .svg)
-    inkscape -f ${SVG} -w 48 -h 48 -e \
-    	app/src/chromatic/res/drawable-mdpi/${N}.png
-    inkscape -f ${SVG} -w 72 -h 72 -e \
-    	app/src/chromatic/res/drawable-hdpi/${N}.png
-    inkscape -f ${SVG} -w 96 -h 96 -e \
-    	app/src/chromatic/res/drawable-xhdpi/${N}.png
-    inkscape -f ${SVG} -w 144 -h 144 -e \
-    	app/src/chromatic/res/drawable-xxhdpi/${N}.png
-    inkscape -f ${SVG} -w 192 -h 192 -e \
-    	app/src/chromatic/res/drawable-xxxhdpi/${N}.png
+    inkscape -w 48 -h 48 -o \
+    	app/src/chromatic/res/drawable-mdpi/${N}.png ${SVG}
+    inkscape -w 72 -h 72 -o \
+    	app/src/chromatic/res/drawable-hdpi/${N}.png ${SVG}
+    inkscape -w 96 -h 96 -o \
+    	app/src/chromatic/res/drawable-xhdpi/${N}.png ${SVG}
+    inkscape -w 144 -h 144 -o \
+    	app/src/chromatic/res/drawable-xxhdpi/${N}.png ${SVG}
+    inkscape -w 192 -h 192 -o \
+    	app/src/chromatic/res/drawable-xxxhdpi/${N}.png ${SVG}
 
     cp ${SVG} ${SVG}.tmp
     scour --remove-descriptive-elements --enable-id-stripping --enable-viewboxing --enable-comment-stripping --nindent=4 -i ${SVG}.tmp -o ${SVG}
