@@ -6533,6 +6533,9 @@
     <item
         component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}"
         drawable="calendar" />
+    <item
+        component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}"
+        drawable="eapps" />
 
 
     <!-- Nova Launcher specific -->
