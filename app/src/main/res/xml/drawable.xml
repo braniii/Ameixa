@@ -191,6 +191,7 @@
     <item drawable="deskcon" />
     <item drawable="devtools" />
     <item drawable="dgapps" />
+    <item drawable="diab" />
     <item drawable="diasporadfa" />
     <item drawable="diasporanw" />
     <item drawable="diasporawebclient" />
@@ -223,6 +224,7 @@
     <item drawable="duckduckgo2" />
     <item drawable="dumbphoneassistant" />
     <item drawable="dvfont" />
+    <item drawable="eapps" />
     <item drawable="easer" />
     <item drawable="easydice" />
     <item drawable="easytoken" />
@@ -240,6 +242,7 @@
     <item drawable="ensichat" />
     <item drawable="enumbers" />
     <item drawable="episodes" />
+    <item drawable="epistolaire" />
     <item drawable="epmobile" />
     <item drawable="epubreader" />
     <item drawable="equate" />
@@ -275,6 +278,7 @@
     <item drawable="firewall" />
     <item drawable="fitotrack" />
     <item drawable="floatingstickies" />
+    <item drawable="fluffychat" />
     <item drawable="flym" />
     <item drawable="fmradio" />
     <item drawable="focal" />
@@ -289,6 +293,7 @@
     <item drawable="freedombox" />
     <item drawable="freeminer" />
     <item drawable="freeshisen" />
+    <item drawable="freifunkautoconnect" />
     <item drawable="freifunkkarte" />
     <item drawable="frex" />
     <item drawable="friendica" />
@@ -311,6 +316,7 @@
     <item drawable="gigaget" />
     <item drawable="gitfox" />
     <item drawable="github" />
+    <item drawable="gitnex" />
     <item drawable="gloomydungeons" />
     <item drawable="gltron" />
     <item drawable="glucosio" />
@@ -326,10 +332,12 @@
     <item drawable="green" />
     <item drawable="greenaddress" />
     <item drawable="greenbits" />
+    <item drawable="greentooth" />
     <item drawable="gsmmap" />
     <item drawable="hackerkeyboard" />
     <item drawable="hashpass" />
     <item drawable="hashr" />
+    <item drawable="hauk" />
     <item drawable="haven" />
     <item drawable="hayai" />
     <item drawable="heartobserve" />
@@ -353,6 +361,7 @@
     <item drawable="impression" />
     <item drawable="impressremote" />
     <item drawable="imsicatcher" />
+    <item drawable="instagrabber" />
     <item drawable="intentexplode" />
     <item drawable="intentintercept" />
     <item drawable="intheclear" />
@@ -363,6 +372,8 @@
     <item drawable="jamendo" />
     <item drawable="jami" />
     <item drawable="jaws" />
+    <item drawable="jedentageinset" />
+    <item drawable="jellyfin" />
     <item drawable="jitsi" />
     <item drawable="joplin" />
     <item drawable="jupiterbroadcast" />
@@ -381,6 +392,7 @@
     <item drawable="keyboardswitcher" />
     <item drawable="keypadmapper" />
     <item drawable="kisslauncher" />
+    <item drawable="kitsu" />
     <item drawable="kiwix" />
     <item drawable="klooni" />
     <item drawable="knockonports" />
@@ -424,6 +436,7 @@
     <item drawable="magiskmanager" />
     <item drawable="mahjonggbuilder" />
     <item drawable="mail" />
+    <item drawable="malclient" />
     <item drawable="malp" />
     <item drawable="manman" />
     <item drawable="manyverse" />
@@ -517,6 +530,7 @@
     <item drawable="nlpbackend" />
     <item drawable="nlpconfig" />
     <item drawable="nocknock" />
+    <item drawable="noice" />
     <item drawable="nomad" />
     <item drawable="nonsensenotepad" />
     <item drawable="nori" />
@@ -599,6 +613,7 @@
     <item drawable="paperlaunch" />
     <item drawable="passandroid" />
     <item drawable="passwdsafe" />
+    <item drawable="pattle" />
     <item drawable="pdfcreator" />
     <item drawable="pdfreader" />
     <item drawable="pdfviewer" />
@@ -644,6 +659,7 @@
     <item drawable="pwdhash" />
     <item drawable="pwdstore" />
     <item drawable="pyload" />
+    <item drawable="pysolfc" />
     <item drawable="qksms" />
     <item drawable="qksmspink" />
     <item drawable="qrstream" />
@@ -761,6 +777,7 @@
     <item drawable="simplecamera" />
     <item drawable="simpleclock" />
     <item drawable="simplecontacts" />
+    <item drawable="simpledialer" />
     <item drawable="simpledraw" />
     <item drawable="simpleemail" />
     <item drawable="simpleexplorer" />
@@ -881,6 +898,7 @@
     <item drawable="towerjumper" />
     <item drawable="traccar" />
     <item drawable="trackbook" />
+    <item drawable="trackercontrol" />
     <item drawable="trackgraph" />
     <item drawable="transdroid" />
     <item drawable="transdroidsearch" />
