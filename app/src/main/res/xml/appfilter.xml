@@ -6351,6 +6351,9 @@
         component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.activity.AuroraActivity}"
         drawable="auroradroid" />
     <item
+        component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity}"
+        drawable="auroradroid" />
+    <item
         component="ComponentInfo{io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity}"
         drawable="openinwhatsapp" />
     <item
