@@ -6566,6 +6566,9 @@
     <item
         component="ComponentInfo{foundation.e.weather/foundation.e.weather.MainActivity}"
         drawable="localweather" />
+    <item
+        component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}"
+        drawable="element" />
 
 
     <!-- Nova Launcher specific -->
