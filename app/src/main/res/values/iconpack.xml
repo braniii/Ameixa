@@ -191,6 +191,7 @@
         <item>deskcon</item>
         <item>devtools</item>
         <item>dgapps</item>
+        <item>diab</item>
         <item>diasporadfa</item>
         <item>diasporanw</item>
         <item>diasporawebclient</item>
@@ -223,6 +224,7 @@
         <item>duckduckgo2</item>
         <item>dumbphoneassistant</item>
         <item>dvfont</item>
+        <item>eapps</item>
         <item>easer</item>
         <item>easydice</item>
         <item>easytoken</item>
@@ -240,6 +242,7 @@
         <item>ensichat</item>
         <item>enumbers</item>
         <item>episodes</item>
+        <item>epistolaire</item>
         <item>epmobile</item>
         <item>epubreader</item>
         <item>equate</item>
@@ -273,7 +276,9 @@
         <item>firefox</item>
         <item>firefoxfocus</item>
         <item>firewall</item>
+        <item>fitotrack</item>
         <item>floatingstickies</item>
+        <item>fluffychat</item>
         <item>flym</item>
         <item>fmradio</item>
         <item>focal</item>
@@ -288,6 +293,7 @@
         <item>freedombox</item>
         <item>freeminer</item>
         <item>freeshisen</item>
+        <item>freifunkautoconnect</item>
         <item>freifunkkarte</item>
         <item>frex</item>
         <item>friendica</item>
@@ -310,6 +316,7 @@
         <item>gigaget</item>
         <item>gitfox</item>
         <item>github</item>
+        <item>gitnex</item>
         <item>gloomydungeons</item>
         <item>gltron</item>
         <item>glucosio</item>
@@ -325,10 +332,12 @@
         <item>green</item>
         <item>greenaddress</item>
         <item>greenbits</item>
+        <item>greentooth</item>
         <item>gsmmap</item>
         <item>hackerkeyboard</item>
         <item>hashpass</item>
         <item>hashr</item>
+        <item>hauk</item>
         <item>haven</item>
         <item>hayai</item>
         <item>heartobserve</item>
@@ -352,6 +361,7 @@
         <item>impression</item>
         <item>impressremote</item>
         <item>imsicatcher</item>
+        <item>instagrabber</item>
         <item>intentexplode</item>
         <item>intentintercept</item>
         <item>intheclear</item>
@@ -362,6 +372,8 @@
         <item>jamendo</item>
         <item>jami</item>
         <item>jaws</item>
+        <item>jedentageinset</item>
+        <item>jellyfin</item>
         <item>jitsi</item>
         <item>joplin</item>
         <item>jupiterbroadcast</item>
@@ -380,6 +392,7 @@
         <item>keyboardswitcher</item>
         <item>keypadmapper</item>
         <item>kisslauncher</item>
+        <item>kitsu</item>
         <item>kiwix</item>
         <item>klooni</item>
         <item>knockonports</item>
@@ -423,6 +436,7 @@
         <item>magiskmanager</item>
         <item>mahjonggbuilder</item>
         <item>mail</item>
+        <item>malclient</item>
         <item>malp</item>
         <item>manman</item>
         <item>manyverse</item>
@@ -464,6 +478,7 @@
         <item>mobilewebcam</item>
         <item>moneybalance</item>
         <item>moneymanagerex</item>
+        <item>moonlight</item>
         <item>motioneyeclient</item>
         <item>mousetodon</item>
         <item>movecerts</item>
@@ -506,6 +521,7 @@
         <item>newpipe</item>
         <item>newsblur</item>
         <item>nextcloud</item>
+        <item>nextclouddeck</item>
         <item>nextclouddev</item>
         <item>nextcloudtalk</item>
         <item>nextcompanion</item>
@@ -514,6 +530,7 @@
         <item>nlpbackend</item>
         <item>nlpconfig</item>
         <item>nocknock</item>
+        <item>noice</item>
         <item>nomad</item>
         <item>nonsensenotepad</item>
         <item>nori</item>
@@ -596,6 +613,7 @@
         <item>paperlaunch</item>
         <item>passandroid</item>
         <item>passwdsafe</item>
+        <item>pattle</item>
         <item>pdfcreator</item>
         <item>pdfreader</item>
         <item>pdfviewer</item>
@@ -641,6 +659,7 @@
         <item>pwdhash</item>
         <item>pwdstore</item>
         <item>pyload</item>
+        <item>pysolfc</item>
         <item>qksms</item>
         <item>qksmspink</item>
         <item>qrstream</item>
@@ -758,6 +777,7 @@
         <item>simplecamera</item>
         <item>simpleclock</item>
         <item>simplecontacts</item>
+        <item>simpledialer</item>
         <item>simpledraw</item>
         <item>simpleemail</item>
         <item>simpleexplorer</item>
@@ -878,6 +898,7 @@
         <item>towerjumper</item>
         <item>traccar</item>
         <item>trackbook</item>
+        <item>trackercontrol</item>
         <item>trackgraph</item>
         <item>transdroid</item>
         <item>transdroidsearch</item>

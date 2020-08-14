@@ -1337,6 +1337,9 @@
         component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}"
         drawable="firefoxfocus" />
     <item
+        component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.activity.LauncherActivity}"
+        drawable="fitotrack" />
+    <item
         component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
         drawable="fenix" />
     <item
@@ -1880,6 +1883,9 @@
         component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}"
         drawable="libretorrent" />
     <item
+        component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity}"
+        drawable="libretorrent" />
+    <item
         component="ComponentInfo{acr.browser.barebones/acr.browser.barebones.activities.BrowserActivity}"
         drawable="lightningbrowser" />
     <item
@@ -2066,6 +2072,15 @@
         component="ComponentInfo{de.moekadu.metronome/de.moekadu.metronome.MainActivity}"
         drawable="metronome" />
     <item
+        component="ComponentInfo{tk.radioactivemineral.metronome/tk.radioactivemineral.metronome.MetronomeActivity}"
+        drawable="metronome" />
+    <item
+        component="ComponentInfo{com.mustupid.metronome/com.mustupid.metronome.MetronomeActivity}"
+        drawable="metronome" />
+    <item
+        component="ComponentInfo{mn.tck.semitone/mn.tck.semitone.MainActivity}"
+        drawable="metronome" />
+    <item
         component="ComponentInfo{com.manichord.mgit/com.manichord.mgit.repolist.RepoListActivity}"
         drawable="mgit" />
     <item
@@ -2146,6 +2161,9 @@
     <item
         component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}"
         drawable="moneymanagerex" />
+    <item
+        component="ComponentInfo{com.limelight/com.limelight.PcView}"
+        drawable="moonlight" />
     <item
         component="ComponentInfo{fr.xtof54.mousetodon/fr.xtof54.mousetodon.MouseApp}"
         drawable="mousetodon" />
@@ -2353,6 +2371,9 @@
     <item
         component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}"
         drawable="nextcloud" />
+    <item
+        component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.MainActivity}"
+        drawable="nextclouddeck" />
     <item
         component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}"
         drawable="nextcloudtalk" />
@@ -3353,6 +3374,9 @@
         component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.MainActivity}"
         drawable="screencam" />
     <item
+        component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity}"
+        drawable="screencam" />
+    <item
         component="ComponentInfo{com.cyanogenmod.screencast/com.cyanogenmod.screencast.MainActivity}"
         drawable="screencast" />
     <item
@@ -3426,6 +3450,9 @@
         drawable="secusoqr" />
     <item
         component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}"
+        drawable="secusoqr" />
+    <item
+        component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}"
         drawable="secusoqr" />
     <item
         component="ComponentInfo{org.secuso.privacyfriendlyrecknoningskills/org.secuso.privacyfriendlyreckoningskills.activities.SplashActivity}"
@@ -4219,6 +4246,117 @@
     <item
         component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Grey_black}"
         drawable="simplecontacts" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Pink}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Purple}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Deep_purple}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Indigo}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Blue}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Light_blue}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Cyan}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Teal}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Green}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Light_green}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Lime}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Yellow}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Amber}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Deep_orange}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Brown}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Blue_grey}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Grey_black}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Pink}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Purple}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Deep_purple}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Indigo}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Blue}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Light_blue}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Cyan}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Teal}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Green}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Light_green}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Lime}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Yellow}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Amber}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Orange}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Deep_orange}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Brown}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Blue_grey}"
+        drawable="simpledialer" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Grey_black}"
+        drawable="simpledialer" />
     <item
         component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}"
         drawable="simpledraw" />
@@ -5435,6 +5573,9 @@
         component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}"
         drawable="tasks2" />
     <item
+        component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Orange}"
+        drawable="tasks2" />
+    <item
         component="ComponentInfo{org.tasks/org.tasks.activities.TimePickerActivity}"
         drawable="tasks2" />
     <item
@@ -5697,6 +5838,9 @@
         drawable="untrackme" />
     <item
         component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.activities.MainActivity}"
+        drawable="untrackme" />
+    <item
+        component="ComponentInfo{app.fedilab.nitterizemelite/app.fedilab.nitterizeme.activities.MainActivity}"
         drawable="untrackme" />
     <item
         component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}"
@@ -6207,6 +6351,9 @@
         component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.activity.AuroraActivity}"
         drawable="auroradroid" />
     <item
+        component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity}"
+        drawable="auroradroid" />
+    <item
         component="ComponentInfo{io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity}"
         drawable="openinwhatsapp" />
     <item
@@ -6280,7 +6427,6 @@
         drawable="hourlyreminder" />
 
     <!-- 4.2.1 < [] -->
-
     <item
         component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}"
         drawable="jami" />
@@ -6294,7 +6440,7 @@
         component="ComponentInfo{io.github.subhamtyagi.privacyapplock/com.lzx.lock.activities.main.SplashActivity}"
         drawable="applock" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.2.2 < [] -->
     <item
         component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}"
         drawable="mupdf" />
@@ -6306,6 +6452,9 @@
         drawable="clover" />
     <item
         component="ComponentInfo{com.pavelrekun.rekado/com.pavelrekun.rekado.screens.main_activity.MainActivity}"
+        drawable="rekado" />
+    <item
+        component="ComponentInfo{com.pavelrekun.rekado/com.pavelrekun.rekado.containers.PrimaryContainerActivity}"
         drawable="rekado" />
     <item
         component="ComponentInfo{com.blogspot.developersu.ns_usbloader/com.blogspot.developersu.ns_usbloader.MainActivity}"
@@ -6334,6 +6483,96 @@
     <item
         component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}"
         drawable="imagepipe" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{com.everfox.animetrackerandroid/com.everfox.animetrackerandroid.MainActivity}"
+        drawable="kitsu" />
+    <item
+        component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}"
+        drawable="jellyfin" />
+    <item
+        component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}"
+        drawable="filemanager" />
+    <item
+        component="ComponentInfo{org.mian.gitnex/org.mian.gitnex.activities.MainActivity}"
+        drawable="gitnex" />
+    <item
+        component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}"
+        drawable="hauk" />
+    <item
+        component="ComponentInfo{org.lufebe16.pysolfc/org.kivy.android.PythonActivity}"
+        drawable="pysolfc" />
+    <item
+        component="ComponentInfo{awais.instagrabber/awais.instagrabber.Main}"
+        drawable="instagrabber" />
+    <item
+        component="ComponentInfo{org.schabi.jedentageinset/org.schabi.jedentageinset.MainActivity}"
+        drawable="jedentageinset" />
+    <item
+        component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.MainActivity}"
+        drawable="noice" />
+    <item
+        component="ComponentInfo{re.indigo.epistolaire/re.indigo.epistolaire.MainActivity}"
+        drawable="epistolaire" />
+    <item
+        component="ComponentInfo{im.pattle.app/im.pattle.app.MainActivity}"
+        drawable="pattle" />
+    <item
+        component="ComponentInfo{com.smilla.greentooth/com.smilla.greentooth.MainActivity}"
+        drawable="greentooth" />
+    <item
+        component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}"
+        drawable="trackercontrol" />
+    <item
+        component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}"
+        drawable="fluffychat" />
+    <item
+        component="ComponentInfo{com.example.tobiastrumm.freifunkautoconnect/com.example.tobiastrumm.freifunkautoconnect.MainActivity}"
+        drawable="freifunkautoconnect" />
+    <item
+        component="ComponentInfo{it.diab/it.diab.MainActivity}"
+        drawable="diab" />
+    <item
+        component="ComponentInfo{com.drutol.malclient/crc64538156a8cca88d64.MainActivity}"
+        drawable="malclient" />
+    <item
+        component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}"
+        drawable="eapps" />
+    <item
+        component="ComponentInfo{foundation.e.tasks/org.dmfs.tasks.TaskListActivity}"
+        drawable="tasks" />
+    <item
+        component="ComponentInfo{foundation.e.browser/com.google.android.apps.chrome.Main}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{foundation.e.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{foundation.e.mail/foundation.e.mail.activity.Accounts}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{foundation.e.message/com.moez.QKSMS.feature.main.MainActivity}"
+        drawable="sms" />
+    <item
+        component="ComponentInfo{foundation.e.notes/foundation.e.notes.android.activity.SplashscreenActivity}"
+        drawable="notepad" />
+    <item
+        component="ComponentInfo{foundation.e.camera/net.sourceforge.opencamera.MainActivity}"
+        drawable="camera2" />
+    <item
+        component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}"
+        drawable="ffreddit" />
+    <item
+        component="ComponentInfo{foundation.e.weather/foundation.e.weather.MainActivity}"
+        drawable="localweather" />
+    <item
+        component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}"
+        drawable="element" />
+
 
     <!-- Nova Launcher specific -->
     <item
