@@ -1358,6 +1358,9 @@
         component="ComponentInfo{net.fred.feedex/net.fred.feedex.activity.HomeActivity}"
         drawable="flym" />
     <item
+        component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}"
+        drawable="flym" />
+    <item
         component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}"
         drawable="fmradio" />
     <item
@@ -6484,7 +6487,7 @@
         component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}"
         drawable="imagepipe" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.3.0 < [] -->
     <item
         component="ComponentInfo{com.everfox.animetrackerandroid/com.everfox.animetrackerandroid.MainActivity}"
         drawable="kitsu" />
@@ -6572,6 +6575,8 @@
     <item
         component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}"
         drawable="element" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
 
     <!-- Nova Launcher specific -->
