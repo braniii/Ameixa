@@ -5033,6 +5033,117 @@
         component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Grey_black}"
         drawable="simplenotes" />
     <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Pink}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Deep_purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Indigo}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Light_blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Cyan}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Light_green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Lime}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Yellow}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Amber}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Deep_orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Brown}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Blue_grey}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Grey_black}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Pink}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Deep_purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Indigo}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Light_blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Cyan}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Teal}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Light_green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Lime}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Yellow}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Amber}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Deep_orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Brown}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Blue_grey}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Grey_black}"
+        drawable="simplesms" />
+    <item
         component="ComponentInfo{simple.reboot.com/simple.reboot.com.MainActivity}"
         drawable="simplereboot" />
     <item
