@@ -6691,6 +6691,12 @@
     <item
         component="ComponentInfo{su.xash.husky/com.keylesspalace.tusky.SplashActivity}"
         drawable="husky" />
+    <item
+        component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}"
+        drawable="mattermost" />
+    <item
+        component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}"
+        drawable="mattermost" />
 
 
     <!-- Nova Launcher specific -->
