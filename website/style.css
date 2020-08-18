@@ -1,0 +1,236 @@
+@font-face{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('lato-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('lato-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;  font-size: 100%;
+  vertical-align: baseline;
+}
+html{
+  font-family: 'Lato', 'Open Sans', 'Calibri', sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+body{
+  background-color: #fff;
+}
+/*header ul, footer ul{
+  
+}*/
+header{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  color: #eee;
+  background-color: #4696e5;
+  background-image: url('overlay.png'), url('pattern-size1.svg');
+  background-position: top left, center center;
+  background-attachment: fixed;
+}
+header>*{
+  margin-bottom: 1rem;
+}
+header>p{
+  font-size: 1.5rem;   
+}
+header li, footer li{
+  display: inline-block;
+  list-style-type: none;
+}
+section{
+  padding: 2.5rem 10% 2.5rem 10%;
+  border-bottom: solid 2px #ccc;
+  color: #666;
+  font-size: 1.25rem;
+}
+section:nth-child(odd){
+  background-color: #eee;
+}
+footer{
+  padding: 2.5rem 5% 2.5rem 5%;
+  background-color: #333;
+  color: #eee;
+  font-size: .9rem;
+}
+p{
+  margin-bottom: 1rem; 
+}
+h1{
+  font-size: 3rem;
+}
+h2{
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+h3{
+  font-size: 1.75rem;
+  color: #333;
+}
+.actions{
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+}
+@media(min-width: 500px){
+  .actions{
+    grid-template-columns: auto auto;
+  }
+}
+.button{
+  display: inline-block;
+  padding: 1rem 1.25rem 1rem .75rem;
+  border: 2px solid;
+  border-radius: .5rem;
+}
+.button a{
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-left: 2rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+.button.d{
+  border-color: #eee;
+  background-color: #eee;
+}
+.button.d a{
+  color: #4696e5;
+  background-image: url('arrow.svg');
+}
+.button.d2{
+  border-color: #4696e5;
+  background-color: #4696e5;
+}
+.button.d2 a{
+  color: #eee;
+  background-image: url('arrow2.svg');
+}
+.button.r{
+  border-color: #eee4;
+}
+.button.r a{
+  color: #eee;
+  background-image: url('down.svg');
+}
+#download>div{
+  display: grid;
+  grid-gap: 1rem;
+  font-size: 1rem;
+}
+#download>div>div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#download img{
+  border-radius: 5px;
+  max-width: 250px;
+  margin-bottom: 1rem;
+}
+@media(min-width: 500px){
+  #download>div{
+    grid-template-columns: auto auto;
+  }
+}
+#searchbox{
+  display: flex;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+#search{
+  margin: 1em 0;
+  width: calc(100% - 1rem - 16px);
+  box-sizing: border-box !important;
+  overflow: visible;
+  min-height: 3rem;
+  border-radius: 0.35em;
+  border: 1px solid #eee;
+  box-shadow: none;
+  outline: none;
+  padding: 0.5em 0.5em;
+}
+#search:hover, #search:focus{
+  border-color: #e91e63;
+  transition: all 200ms ease-in-out;
+} 
+#colored{
+  margin: 1rem 0;
+  margin-left: 1rem;
+  width: 3rem;
+  filter: brightness(0);
+}
+[data-colored="true"]{
+  filter: none !important;
+}
+[aria-disabled=true]{
+  display: none;
+}
+#results{
+  max-height: 50vh;
+  overflow: auto;
+  overflow-x: none;
+}
+.tab{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 64px);
+  grid-gap: 0 1rem;
+  place-content: center;
+}
+.tab img{
+  width: 64px;
+  height: 64px;
+}
+#mc .lazy{
+  filter: saturate(0);
+}
+figure{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000d;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+figure figcaption{
+  margin-top: 1rem;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+}
+figure img {
+  max-width: 80%;
+  max-height: 80%;
+  margin: 0 auto;
+}
+figure button{
+  background: transparent;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+aside{
+  display: none;
+}
+/* filter: grayscale(1) brightness(.5);*/x
