@@ -6688,6 +6688,9 @@
         drawable="element" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{su.xash.husky/com.keylesspalace.tusky.SplashActivity}"
+        drawable="husky" />
 
 
     <!-- Nova Launcher specific -->
