@@ -1082,7 +1082,7 @@
         component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
         drawable="documents" />
     <item
-        component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}"
+        component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RequestPermissionsActivity}"
         drawable="documentviewer" />
     <item
         component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}"
@@ -1775,7 +1775,7 @@
         component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.KiwixMobileActivity}"
         drawable="kiwix" />
     <item
-        component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.utils.SplashActivity}"
+        component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.splash.KiwixSplashActivity}"
         drawable="kiwix" />
     <item
         component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}"
@@ -2330,6 +2330,9 @@
         component="ComponentInfo{com.duy.calculator.free/com.duy.ncalc.calculator.BasicCalculatorActivity}"
         drawable="ncalc" />
     <item
+        component="ComponentInfo{com.duy.calculator.free/com.duy.ncalc.calculator.ScientificCalculatorActivity}"
+        drawable="ncalc" />
+    <item
         component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}"
         drawable="netguard" />
     <item
@@ -2498,7 +2501,7 @@
         component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}"
         drawable="obsqr" />
     <item
-        component="ComponentInfo{org.schabi.nxbookmarks.owncloud/org.schabi.ocbookmarks.MainActivity}"
+        component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.MainActivity}"
         drawable="ocbookmarks" />
     <item
         component="ComponentInfo{email.schaal.ocreader/email.schaal.ocreader.ListActivity}"
@@ -2648,7 +2651,7 @@
         component="ComponentInfo{org.mozilla.fennec_amoghbl1/org.mozilla.gecko.BrowserApp}"
         drawable="orfox" />
     <item
-        component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}"
+        component="ComponentInfo{com.orgzly/com.orgzly.android.ui.LauncherActivity}"
         drawable="orgzly" />
     <item
         component="ComponentInfo{org.ethack.orwall/org.ethack.orwall.TabbedMain}"
@@ -2717,7 +2720,7 @@
         component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}"
         drawable="owncloudnotes" />
     <item
-        component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}"
+        component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.SplashscreenActivity}"
         drawable="owncloudnotes" />
     <item
         component="ComponentInfo{fr.unix_experience.owncloud_sms/fr.unix_experience.owncloud_sms.activities.MainActivity}"
@@ -3140,7 +3143,7 @@
         component="ComponentInfo{com.uploadedlobster.PwdHash/com.uploadedlobster.PwdHash.activities.PwdHashApp}"
         drawable="pwdhash" />
     <item
-        component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}"
+        component="ComponentInfo{dev.msfjarvis.aps/com.zeapo.pwdstore.LaunchActivity}"
         drawable="pwdstore" />
     <item
         component="ComponentInfo{org.pyload.android.client/org.pyload.android.client.pyLoad}"
@@ -6167,7 +6170,7 @@
         component="ComponentInfo{net.sourceforge.x11basic/net.sourceforge.x11basic.X11BasicActivity}"
         drawable="x11basic" />
     <item
-        component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}"
+        component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactListActivity}"
         drawable="xabber" />
     <item
         component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}"
@@ -6572,7 +6575,15 @@
     <item
         component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}"
         drawable="element" />
-
+    <item
+        component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}"
+        drawable="unciv" />
+    <item
+        component="ComponentInfo{org.galexander.sshd/org.galexander.sshd.SimpleSSHD}"
+        drawable="simplesshd" />
+    <item
+        component="ComponentInfo{net.basov.lws.fdroid/net.basov.lws.StartActiity}"
+        drawable="" />
 
     <!-- Nova Launcher specific -->
     <item
