@@ -6697,6 +6697,9 @@
     <item
         component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}"
         drawable="mattermost" />
+    <item
+        component="ComponentInfo{com.gmail.afonsotrepa.pocketgopher/com.gmail.afonsotrepa.pocketgopher.MainActivity}"
+        drawable="pocketgopher" />
 
 
     <!-- Nova Launcher specific -->
