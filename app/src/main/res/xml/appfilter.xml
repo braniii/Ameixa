@@ -1082,6 +1082,9 @@
         component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
         drawable="documents" />
     <item
+        component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}"
+        drawable="documentviewer" />
+    <item
         component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RequestPermissionsActivity}"
         drawable="documentviewer" />
     <item
@@ -1773,6 +1776,9 @@
         drawable="kisslauncher" />
     <item
         component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.KiwixMobileActivity}"
+        drawable="kiwix" />
+    <item
+        component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.utils.SplashActivity}"
         drawable="kiwix" />
     <item
         component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.splash.KiwixSplashActivity}"
@@ -2501,6 +2507,9 @@
         component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}"
         drawable="obsqr" />
     <item
+        component="ComponentInfo{org.schabi.nxbookmarks.owncloud/org.schabi.ocbookmarks.MainActivity}"
+        drawable="ocbookmarks" />
+    <item
         component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.MainActivity}"
         drawable="ocbookmarks" />
     <item
@@ -2651,6 +2660,9 @@
         component="ComponentInfo{org.mozilla.fennec_amoghbl1/org.mozilla.gecko.BrowserApp}"
         drawable="orfox" />
     <item
+        component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}"
+        drawable="orgzly" />
+    <item
         component="ComponentInfo{com.orgzly/com.orgzly.android.ui.LauncherActivity}"
         drawable="orgzly" />
     <item
@@ -2718,6 +2730,9 @@
         drawable="owncloudnews" />
     <item
         component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}"
+        drawable="owncloudnotes" />
+    <item
+        component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}"
         drawable="owncloudnotes" />
     <item
         component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.SplashscreenActivity}"
@@ -3142,6 +3157,9 @@
     <item
         component="ComponentInfo{com.uploadedlobster.PwdHash/com.uploadedlobster.PwdHash.activities.PwdHashApp}"
         drawable="pwdhash" />
+    <item
+        component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}"
+        drawable="pwdstore" />
     <item
         component="ComponentInfo{dev.msfjarvis.aps/com.zeapo.pwdstore.LaunchActivity}"
         drawable="pwdstore" />
@@ -6173,6 +6191,9 @@
         component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactListActivity}"
         drawable="xabber" />
     <item
+        component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}"
+        drawable="xabber" />
+    <item
         component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}"
         drawable="xabber" />
     <item
@@ -6582,8 +6603,11 @@
         component="ComponentInfo{org.galexander.sshd/org.galexander.sshd.SimpleSSHD}"
         drawable="simplesshd" />
     <item
-        component="ComponentInfo{net.basov.lws.fdroid/net.basov.lws.StartActiity}"
-        drawable="" />
+        component="ComponentInfo{net.basov.lws.fdroid/net.basov.lws.StartActivity}"
+        drawable="lws" />
+    <item
+        component="ComponentInfo{de.micmun.android.nextcloudcookbook/de.micmun.android.nextcloudcookbook.ui.MainActivity}"
+        drawable="nccookbook" />
 
     <!-- Nova Launcher specific -->
     <item
