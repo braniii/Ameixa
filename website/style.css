@@ -29,7 +29,7 @@ body{
   background-color: #fff;
 }
 /*header ul, footer ul{
-  
+
 }*/
 header{
   display: flex;
@@ -46,7 +46,7 @@ header>*{
   margin-bottom: 1rem;
 }
 header>p{
-  font-size: 1.5rem;   
+  font-size: 1.5rem;
 }
 header li, footer li{
   display: inline-block;
@@ -68,7 +68,7 @@ footer{
   font-size: .9rem;
 }
 p{
-  margin-bottom: 1rem; 
+  margin-bottom: 1rem;
 }
 h1{
   font-size: 3rem;
@@ -170,7 +170,7 @@ h3{
 #search:hover, #search:focus{
   border-color: #e91e63;
   transition: all 200ms ease-in-out;
-} 
+}
 #colored{
   margin: 1rem 0;
   margin-left: 1rem;
@@ -233,4 +233,4 @@ figure button{
 aside{
   display: none;
 }
-/* filter: grayscale(1) brightness(.5);*/x
+/* filter: grayscale(1) brightness(.5);*/

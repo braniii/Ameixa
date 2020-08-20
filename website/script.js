@@ -17,12 +17,13 @@ function abrirPopup(){
   var img = document.createElement('img');
   img.src = this.src;
   img.alt = this.alt;
-  var c = document.createElement('button');
-  c.append(document.createTextNode('Close'))
-  c.onclick = cerrarPopup;
+  //var c = document.createElement('button');
+  //c.append(document.createTextNode('Close'));
+  //c.onclick = cerrarPopup;
+  fig.onclick = cerrarPopup;
   fig.appendChild(title);
   fig.appendChild(img);
-  fig.appendChild(c);
+  //fig.appendChild(c);
   document.body.appendChild(fig)
 }
 
@@ -33,7 +34,7 @@ function cerrarPopup(){
 
 function buscar(){
   document.getElementById('results').setAttribute('aria-disabled', 'false');
-  var busq = '.tab img[title*="'+this.value+'"]';
+  var busq = '.tab img[title*="'+this.value.toLocaleLowerCase()+'"]';
   var todo = '.tab img';
   var validos = Array.prototype.slice.call(document.querySelectorAll(busq));
   var todos = Array.prototype.slice.call(document.querySelectorAll(todo));
