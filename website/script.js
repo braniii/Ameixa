@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", function(){
   document.getElementsByClassName('tab')[1].style.display = 'none';
   document.getElementById('search').oninput = buscar;
   var a = new XMLHttpRequest();
-  a.open('GET', 'https://cors-anywhere.herokuapp.com/https://gitlab.com/xphnx/ameixa/raw/master/app/src/main/res/xml/drawable.xml');
+  a.open('GET', 'https://cors-anywhere.herokuapp.com/https://gitlab.com/xphnx/ameixa/-/blob/website/website/drawable.xml');
   a.onload = genImageGrid;
   a.send();
 });
