@@ -296,6 +296,9 @@
         component="ComponentInfo{com.x8bit.bitwarden/md5fb78b69c5ddbc157f4db38fd738139a6.SplashActivity}"
         drawable="bitwarden" />
     <item
+        component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}"
+        drawable="bitwarden" />
+    <item
         component="ComponentInfo{org.blokada.alarm/org.blokada.ui.app.android.MainActivity}"
         drawable="blokada" />
     <item
@@ -3570,6 +3573,9 @@
         drawable="shareviahttp" />
     <item
         component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}"
+        drawable="shatteredpixel" />
+    <item
+        component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}"
         drawable="shatteredpixel" />
     <item
         component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}"
