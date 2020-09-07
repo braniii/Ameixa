@@ -6686,6 +6686,9 @@
     <item
         component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}"
         drawable="element" />
+    <item
+        component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}"
+        drawable="element" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
     <item
