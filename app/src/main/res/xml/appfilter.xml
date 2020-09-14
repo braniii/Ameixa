@@ -6703,6 +6703,9 @@
     <item
         component="ComponentInfo{com.gmail.afonsotrepa.pocketgopher/com.gmail.afonsotrepa.pocketgopher.MainActivity}"
         drawable="pocketgopher" />
+    <item
+        component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}"
+        drawable="easer" />
 
 
     <!-- Nova Launcher specific -->
