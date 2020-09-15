@@ -51,7 +51,7 @@ icons:
     - bash check_icons.sh
 
 pages:
-  stage: deploy
+  stage: pages
   script:
     - bash process5_website_xml.sh
     - mv website public
