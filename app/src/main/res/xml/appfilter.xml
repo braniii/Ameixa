@@ -6706,6 +6706,15 @@
     <item
         component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}"
         drawable="easer" />
+    <item
+        component="ComponentInfo{me.wolszon.fastshopping/me.wolszon.fastshopping.MainActivity}"
+        drawable="fastshopping" />
+    <item
+        component="ComponentInfo{com.mikifus.padland/com.mikifus.padland.SplashActivity}"
+        drawable="padland" />
+    <item
+        component="ComponentInfo{com.readrops.app/com.readrops.app.activities.SplashActivity}"
+        drawable="readrops" />
 
 
     <!-- Nova Launcher specific -->
