@@ -48,3 +48,14 @@ icons:
   stage: checkIcons
   script:
     - bash check_icons.sh
+
+pages:
+  stage: deploy
+  script:
+    - bash process5_website_xml.sh
+    - mv website public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
