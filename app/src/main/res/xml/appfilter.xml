@@ -6782,6 +6782,9 @@
     <item
         component="ComponentInfo{me.jfenn.alarmio/me.jfenn.alarmio.activities.MainActivity}"
         drawable="alarmio" />
+    <item
+        component="ComponentInfo{com.asdoi.timetable/com.ulan.timetable.activities.MainActivity}"
+        drawable="cronograma" />
 
 
     <!-- Nova Launcher specific -->
