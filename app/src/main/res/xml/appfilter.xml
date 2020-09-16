@@ -6717,6 +6717,50 @@
         drawable="readrops" />
 
 
+    <!-- properitary applications -->
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+        drawable="whatsapp" />
+    <item
+        component="ComponentInfo{com.noctuasoftware.stellarium/org.qtproject.qt5.android.bindings.QtActivity}"
+        drawable="stellarium" />
+    <item
+        component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.v8engine.view.entry.EntryActivity}"
+        drawable="aptoide" />
+    <item
+        component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.entry.EntryActivity}"
+        drawable="aptoide" />
+    <item
+        component="ComponentInfo{cc.dict.dictcc/cc.dict.dictcc.DictCcActivity}"
+        drawable="dictcc" />
+    <item
+        component="ComponentInfo{com.ricohimaging.imagesync/com.ricohimaging.imagesync.MainActivity}"
+        drawable="ricoh" />
+    <item
+        component="ComponentInfo{org.leo.android.dict/org.leo.android.dict.LeoDict}"
+        drawable="leodict" />
+    <item
+        component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}"
+        drawable="adobelr" />
+    <item
+        component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}"
+        drawable="mega" />
+    <item
+        component="ComponentInfo{com.openmove/com.openmove.MainActivity}"
+        drawable="openmove" />
+    <item
+        component="ComponentInfo{com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity}"
+        drawable="podcastaddict" />
+    <item
+        component="ComponentInfo{io.moreless.tide/io.moreless.tide.play.PlayActivity}"
+        drawable="tide" />
+    <item
+        component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}"
+        drawable="substratum" />
+    <item
+        component="ComponentInfo{com.essence.linuxcommands/com.essence.linuxcommands.MainActivity}"
+        drawable="linuxcommands" />
+
     <!-- Nova Launcher specific -->
     <item
         component=":BROWSER"
