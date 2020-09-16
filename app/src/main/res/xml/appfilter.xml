@@ -2355,6 +2355,9 @@
         component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}"
         drawable="mysplash" />
     <item
+        component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.view.activity.MainActivity}"
+        drawable="mysplash" />
+    <item
         component="ComponentInfo{org.mythdroid/org.mythdroid.activities.Main}"
         drawable="mythdroid" />
     <item
@@ -6767,6 +6770,9 @@
     <item
         component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}"
         drawable="twire" />
+    <item
+        component="ComponentInfo{com.antony.muzei.pixiv/com.antony.muzei.pixiv.ui.activity.MainActivity}"
+        drawable="generic" />
 
 
     <!-- Nova Launcher specific -->
