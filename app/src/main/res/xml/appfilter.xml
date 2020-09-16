@@ -6779,6 +6779,9 @@
     <item
         component="ComponentInfo{com.gabriel.covid19stats/com.gabriel.covid19stats.MainActivity}"
         drawable="covid19stats" />
+    <item
+        component="ComponentInfo{me.jfenn.alarmio/me.jfenn.alarmio.activities.MainActivity}"
+        drawable="alarmio" />
 
 
     <!-- Nova Launcher specific -->
