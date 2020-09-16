@@ -6773,6 +6773,9 @@
     <item
         component="ComponentInfo{com.antony.muzei.pixiv/com.antony.muzei.pixiv.ui.activity.MainActivity}"
         drawable="generic" />
+    <item
+        component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}"
+        drawable="aegis" />
 
 
     <!-- Nova Launcher specific -->
