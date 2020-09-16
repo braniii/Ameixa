@@ -6776,6 +6776,9 @@
     <item
         component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}"
         drawable="aegis" />
+    <item
+        component="ComponentInfo{com.gabriel.covid19stats/com.gabriel.covid19stats.MainActivity}"
+        drawable="covid19stats" />
 
 
     <!-- Nova Launcher specific -->
