@@ -51,6 +51,15 @@
     <item
         component="ComponentInfo{com.essence.linuxcommands/com.essence.linuxcommands.MainActivity}"
         drawable="linuxcommands" />
+    <item
+        component="ComponentInfo{com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity}"
+        drawable="memrise" />
+    <item
+        component="ComponentInfo{com.mdv.NaldoCompanion/com.mdv.NaldoCompanion.NaldoActivity}"
+        drawable="naldo" />
+    <item
+        component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}"
+        drawable="protonmail" />
 
 
     <!-- FOSS icons -->
