@@ -1,4 +1,6 @@
 [![pipeline status](https://gitlab.com/xphnx/ameixa/badges/master/pipeline.svg)](https://gitlab.com/xphnx/ameixa/-/commits/master)
+[![F-Droid version ameixa](https://img.shields.io/f-droid/v/org.xphnx.ameixa.svg)](https://f-droid.org/en/packages/org.xphnx.ameixa/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxphnx.gitlab.io%2Fameixa%2F)](https://xphnx.gitlab.io/ameixa/)
 
 Two icon packs (chromatic and monochromatic) that are compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw, and many more launchers (basically any launcher that supports icon packs).
 It's a material design inspired theme that aims to provide a consistent and minimalistic look to your device.
@@ -10,13 +12,13 @@ Only [F-Droid](https://f-droid.org/) hosted apps are supported.
 
 ### Ameixa
 <a href="https://f-droid.org/packages/org.xphnx.ameixa">
-    <img src="https://f-droid.org/badge/get-it-on.png"
+    <img src="website/chromatic-get-it-on.png"
     alt="Get it on F-Droid" height="80">
 </a>
 
 ### Ameixa Monochrome
 <a href="https://f-droid.org/packages/org.xphnx.ameixamonochrome">
-    <img src="https://f-droid.org/badge/get-it-on.png"
+    <img src="website/monochromatic-get-it-on.png"
     alt="Get it on F-Droid" height="80">
 </a>
 
