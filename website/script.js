@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function(){
   //b.onload = genImageCarrousel;
   //b.send();
   var a = new XMLHttpRequest();
-  a.open('GET', 'https://cors-anywhere.herokuapp.com/https://gitlab.com/xphnx/ameixa/-/raw/website/website/drawable.xml');
+  a.open('GET', 'https://cors-anywhere.herokuapp.com/https://gitlab.com/xphnx/ameixa/-/raw/master/website/drawable.xml');
   a.onload = genImageGrid;
   a.send();
 });
