@@ -1419,9 +1419,6 @@
         component="ComponentInfo{net.fred.feedex/net.fred.feedex.activity.HomeActivity}"
         drawable="flym" />
     <item
-        component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}"
-        drawable="flym" />
-    <item
         component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}"
         drawable="fmradio" />
     <item
@@ -6790,7 +6787,7 @@
         component="ComponentInfo{de.micmun.android.nextcloudcookbook/de.micmun.android.nextcloudcookbook.ui.MainActivity}"
         drawable="nccookbook" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.4.0 < [] -->
     <item
         component="ComponentInfo{su.xash.husky/com.keylesspalace.tusky.SplashActivity}"
         drawable="husky" />
@@ -6854,6 +6851,7 @@
     <item
         component="ComponentInfo{posidon.launcher/posidon.launcher.Main}"
         drawable="posidon" />
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
     <!-- Nova Launcher specific -->
     <item

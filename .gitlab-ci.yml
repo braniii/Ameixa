@@ -27,6 +27,7 @@ stages:
   - test
   - build
   - checkIcons
+  - pages
 
 tests:
   stage: test
@@ -48,3 +49,14 @@ icons:
   stage: checkIcons
   script:
     - bash check_icons.sh
+
+pages:
+  stage: pages
+  script:
+    - bash process5_website_xml.sh
+    - mv website public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
