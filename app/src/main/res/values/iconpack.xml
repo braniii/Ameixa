@@ -9,9 +9,12 @@
         <item>activitylauncher</item>
         <item>adaway</item>
         <item>adfree</item>
+        <item>adobelr</item>
         <item>adsdroid</item>
+        <item>aegis</item>
         <item>afhdownloader</item>
         <item>aizoban</item>
+        <item>alarmio</item>
         <item>alogcatroot</item>
         <item>altcoin</item>
         <item>amaze</item>
@@ -39,6 +42,7 @@
         <item>applicationsinfo</item>
         <item>applock</item>
         <item>apps</item>
+        <item>aptoide</item>
         <item>aria2android</item>
         <item>arxiv</item>
         <item>arxivexplorer</item>
@@ -163,12 +167,15 @@
         <item>conversations</item>
         <item>coolreader</item>
         <item>copay</item>
+        <item>corona</item>
         <item>counterme</item>
+        <item>covid19stats</item>
         <item>cowsrevenge</item>
         <item>cpuinfo</item>
         <item>crbrowser</item>
         <item>criticalmaps</item>
         <item>crocodilenote</item>
+        <item>cronograma</item>
         <item>crosswords</item>
         <item>csipsimple</item>
         <item>csploit2</item>
@@ -195,6 +202,7 @@
         <item>diasporadfa</item>
         <item>diasporanw</item>
         <item>diasporawebclient</item>
+        <item>dictcc</item>
         <item>dictionaryformids</item>
         <item>diktofon</item>
         <item>dilbert</item>
@@ -257,6 +265,7 @@
         <item>fairemail</item>
         <item>faketraveler</item>
         <item>fastergps</item>
+        <item>fastshopping</item>
         <item>fbfrost</item>
         <item>fblite</item>
         <item>fbreader</item>
@@ -290,6 +299,7 @@
         <item>fossbrowser</item>
         <item>fotofinder</item>
         <item>fotofindermap</item>
+        <item>foxydroid</item>
         <item>fragdenstaat</item>
         <item>freedombox</item>
         <item>freeminer</item>
@@ -312,6 +322,7 @@
         <item>gbcoid</item>
         <item>gdroid</item>
         <item>gearshift</item>
+        <item>generic</item>
         <item>getbackgps</item>
         <item>ghostcommander</item>
         <item>gigaget</item>
@@ -321,6 +332,7 @@
         <item>gloomydungeons</item>
         <item>gltron</item>
         <item>glucosio</item>
+        <item>gmapswv</item>
         <item>gnucash</item>
         <item>gnuprivacyguard</item>
         <item>gobandroid</item>
@@ -348,6 +360,7 @@
         <item>holocounter</item>
         <item>holokenmod</item>
         <item>hourlyreminder</item>
+        <item>husky</item>
         <item>hwmanager</item>
         <item>hyperrogue</item>
         <item>i2p</item>
@@ -407,6 +420,7 @@
         <item>lawnchair</item>
         <item>lcamera</item>
         <item>leafpic</item>
+        <item>leodict</item>
         <item>lesserpad</item>
         <item>lexica</item>
         <item>liberario</item>
@@ -420,6 +434,7 @@
         <item>lincal</item>
         <item>linconnect</item>
         <item>linphone</item>
+        <item>linuxcommands</item>
         <item>linuxdeploy</item>
         <item>listmyapps</item>
         <item>lkeyboard</item>
@@ -434,6 +449,7 @@
         <item>loyaltycard</item>
         <item>lumicall</item>
         <item>lunary</item>
+        <item>lws</item>
         <item>magiskmanager</item>
         <item>mahjonggbuilder</item>
         <item>mail</item>
@@ -453,10 +469,13 @@
         <item>mathtools</item>
         <item>matlog</item>
         <item>matrixconsole</item>
+        <item>mattermost</item>
         <item>maxima</item>
         <item>maxsmain</item>
         <item>meditationassistant</item>
+        <item>mega</item>
         <item>memetastic</item>
+        <item>memrise</item>
         <item>mercury</item>
         <item>metronome</item>
         <item>mgit</item>
@@ -507,10 +526,12 @@
         <item>mythdroid</item>
         <item>mythmote</item>
         <item>mytronome</item>
+        <item>naldo</item>
         <item>narau</item>
         <item>nasaimages</item>
         <item>navit</item>
         <item>ncalc</item>
+        <item>nccookbook</item>
         <item>netguard</item>
         <item>netmbuddy</item>
         <item>netmonitor</item>
@@ -573,6 +594,7 @@
         <item>openlaw</item>
         <item>openlinkwith</item>
         <item>openmensa</item>
+        <item>openmove</item>
         <item>openmw</item>
         <item>opennotescanner</item>
         <item>openobservatory</item>
@@ -608,6 +630,7 @@
         <item>packetsender</item>
         <item>packlist</item>
         <item>paddletennis</item>
+        <item>padland</item>
         <item>pageturner</item>
         <item>palemoon</item>
         <item>papercraft</item>
@@ -637,12 +660,15 @@
         <item>pixeldungeon</item>
         <item>pixelesque</item>
         <item>plumble</item>
+        <item>pocketgopher</item>
         <item>pocketmaps</item>
         <item>podax</item>
+        <item>podcastaddict</item>
         <item>podlisten</item>
         <item>politedroid</item>
         <item>pomodoro</item>
         <item>portauthority</item>
+        <item>posidon</item>
         <item>powerapp</item>
         <item>ppsspp</item>
         <item>practicehub</item>
@@ -652,6 +678,7 @@
         <item>prevo</item>
         <item>privacybrowser</item>
         <item>proofmode</item>
+        <item>protonmail</item>
         <item>providersmedia</item>
         <item>puff</item>
         <item>puma</item>
@@ -677,6 +704,7 @@
         <item>radiodroid</item>
         <item>rainwave</item>
         <item>readerforselfoss</item>
+        <item>readrops</item>
         <item>receipts</item>
         <item>recurrence</item>
         <item>recursiverunner</item>
@@ -695,6 +723,7 @@
         <item>retroshare</item>
         <item>revolution</item>
         <item>rgbtool</item>
+        <item>ricoh</item>
         <item>ringdroid</item>
         <item>riot</item>
         <item>riotx</item>
@@ -765,6 +794,7 @@
         <item>shatteredpixel</item>
         <item>shelter</item>
         <item>shoppinglist</item>
+        <item>shuttle</item>
         <item>sicmuplayer</item>
         <item>sieben</item>
         <item>signal</item>
@@ -789,6 +819,8 @@
         <item>simplenotes</item>
         <item>simplereboot</item>
         <item>simplerss</item>
+        <item>simplesms</item>
+        <item>simplesshd</item>
         <item>simpletask</item>
         <item>simplethankyou</item>
         <item>simpletodo</item>
@@ -829,6 +861,7 @@
         <item>stanley</item>
         <item>stardroid</item>
         <item>steamgifts</item>
+        <item>stellarium</item>
         <item>streetcomplete</item>
         <item>stringlate</item>
         <item>subsonic</item>
@@ -848,6 +881,7 @@
         <item>syncorg</item>
         <item>syncthing</item>
         <item>synergy</item>
+        <item>syphon</item>
         <item>systemappmover</item>
         <item>tabulae</item>
         <item>tacere</item>
@@ -879,6 +913,7 @@
         <item>textwarrior</item>
         <item>themes</item>
         <item>tickmate</item>
+        <item>tide</item>
         <item>tigase</item>
         <item>timber</item>
         <item>timelimit</item>
@@ -927,11 +962,13 @@
         <item>tuxrider</item>
         <item>tvkill</item>
         <item>twidere</item>
+        <item>twire</item>
         <item>twittnuker</item>
         <item>twobuntu</item>
         <item>uget</item>
         <item>ukweather</item>
         <item>umbrella</item>
+        <item>unciv</item>
         <item>unicodemap</item>
         <item>unipatcher</item>
         <item>unote</item>
@@ -972,6 +1009,7 @@
         <item>webtube</item>
         <item>weechat</item>
         <item>wetter</item>
+        <item>whatsapp</item>
         <item>whatsappbetaupdater</item>
         <item>wheelmap</item>
         <item>whereyougo</item>
