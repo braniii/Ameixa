@@ -1,0 +1,4 @@
+* added 37 icons and many filters
+* fixing some icon
+* added an amazing website
+* improved fdroid meta data
