@@ -6797,6 +6797,12 @@
     <item
         component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.LauncherActivity}"
         drawable="corona" />
+    <item
+        component="ComponentInfo{com.simplecity.amp_pro/com.simplecity.amp_library.ui.activities.MainActivity}"
+        drawable="shuttle" />
+    <item
+        component="ComponentInfo{posidon.launcher/posidon.launcher.Main}"
+        drawable="posidon" />
 
 
     <!-- Nova Launcher specific -->
