@@ -8,6 +8,52 @@
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
 
+    <!-- properitary applications -->
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+        drawable="whatsapp" />
+    <item
+        component="ComponentInfo{com.noctuasoftware.stellarium/org.qtproject.qt5.android.bindings.QtActivity}"
+        drawable="stellarium" />
+    <item
+        component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.v8engine.view.entry.EntryActivity}"
+        drawable="aptoide" />
+    <item
+        component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.entry.EntryActivity}"
+        drawable="aptoide" />
+    <item
+        component="ComponentInfo{cc.dict.dictcc/cc.dict.dictcc.DictCcActivity}"
+        drawable="dictcc" />
+    <item
+        component="ComponentInfo{com.ricohimaging.imagesync/com.ricohimaging.imagesync.MainActivity}"
+        drawable="ricoh" />
+    <item
+        component="ComponentInfo{org.leo.android.dict/org.leo.android.dict.LeoDict}"
+        drawable="leodict" />
+    <item
+        component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}"
+        drawable="adobelr" />
+    <item
+        component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}"
+        drawable="mega" />
+    <item
+        component="ComponentInfo{com.openmove/com.openmove.MainActivity}"
+        drawable="openmove" />
+    <item
+        component="ComponentInfo{com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity}"
+        drawable="podcastaddict" />
+    <item
+        component="ComponentInfo{io.moreless.tide/io.moreless.tide.play.PlayActivity}"
+        drawable="tide" />
+    <item
+        component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}"
+        drawable="substratum" />
+    <item
+        component="ComponentInfo{com.essence.linuxcommands/com.essence.linuxcommands.MainActivity}"
+        drawable="linuxcommands" />
+
+
+    <!-- FOSS icons -->
     <item
         component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}"
         drawable="aard" />
@@ -1364,6 +1410,9 @@
         component="ComponentInfo{net.fred.feedex/net.fred.feedex.activity.HomeActivity}"
         drawable="flym" />
     <item
+        component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}"
+        drawable="flym" />
+    <item
         component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}"
         drawable="fmradio" />
     <item
@@ -2313,6 +2362,9 @@
         drawable="myposition" />
     <item
         component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}"
+        drawable="mysplash" />
+    <item
+        component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.view.activity.MainActivity}"
         drawable="mysplash" />
     <item
         component="ComponentInfo{org.mythdroid/org.mythdroid.activities.Main}"
@@ -5057,6 +5109,117 @@
         component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Grey_black}"
         drawable="simplenotes" />
     <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Pink}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Deep_purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Indigo}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Light_blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Cyan}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Light_green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Lime}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Yellow}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Amber}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Deep_orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Brown}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Blue_grey}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Grey_black}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Pink}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Deep_purple}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Indigo}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Light_blue}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Cyan}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Teal}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Light_green}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Lime}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Yellow}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Amber}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Deep_orange}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Brown}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Blue_grey}"
+        drawable="simplesms" />
+    <item
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Grey_black}"
+        drawable="simplesms" />
+    <item
         component="ComponentInfo{simple.reboot.com/simple.reboot.com.MainActivity}"
         drawable="simplereboot" />
     <item
@@ -6514,7 +6677,7 @@
         component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}"
         drawable="imagepipe" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.3.0 < [] -->
     <item
         component="ComponentInfo{com.everfox.animetrackerandroid/com.everfox.animetrackerandroid.MainActivity}"
         drawable="kitsu" />
@@ -6603,6 +6766,9 @@
         component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}"
         drawable="element" />
     <item
+        component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}"
+        drawable="element" />
+    <item
         component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}"
         drawable="unciv" />
     <item
@@ -6614,6 +6780,71 @@
     <item
         component="ComponentInfo{de.micmun.android.nextcloudcookbook/de.micmun.android.nextcloudcookbook.ui.MainActivity}"
         drawable="nccookbook" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{su.xash.husky/com.keylesspalace.tusky.SplashActivity}"
+        drawable="husky" />
+    <item
+        component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}"
+        drawable="mattermost" />
+    <item
+        component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}"
+        drawable="mattermost" />
+    <item
+        component="ComponentInfo{com.gmail.afonsotrepa.pocketgopher/com.gmail.afonsotrepa.pocketgopher.MainActivity}"
+        drawable="pocketgopher" />
+    <item
+        component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}"
+        drawable="easer" />
+    <item
+        component="ComponentInfo{me.wolszon.fastshopping/me.wolszon.fastshopping.MainActivity}"
+        drawable="fastshopping" />
+    <item
+        component="ComponentInfo{com.mikifus.padland/com.mikifus.padland.SplashActivity}"
+        drawable="padland" />
+    <item
+        component="ComponentInfo{com.readrops.app/com.readrops.app.activities.SplashActivity}"
+        drawable="readrops" />
+    <item
+        component="ComponentInfo{org.secuso.privacyfriendlycircuittraining/org.secuso.privacyfriendlycircuittraining.activities.SplashActivity}"
+        drawable="secusotimer" />
+    <item
+        component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}"
+        drawable="twire" />
+    <item
+        component="ComponentInfo{com.antony.muzei.pixiv/com.antony.muzei.pixiv.ui.activity.MainActivity}"
+        drawable="generic" />
+    <item
+        component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}"
+        drawable="aegis" />
+    <item
+        component="ComponentInfo{com.gabriel.covid19stats/com.gabriel.covid19stats.MainActivity}"
+        drawable="covid19stats" />
+    <item
+        component="ComponentInfo{me.jfenn.alarmio/me.jfenn.alarmio.activities.MainActivity}"
+        drawable="alarmio" />
+    <item
+        component="ComponentInfo{com.asdoi.timetable/com.ulan.timetable.activities.MainActivity}"
+        drawable="cronograma" />
+    <item
+        component="ComponentInfo{org.tether.tether/org.tether.tether.MainActivity}"
+        drawable="syphon" />
+    <item
+        component="ComponentInfo{nya.kitsunyan.foxydroid/nya.kitsunyan.foxydroid.MainActivity}"
+        drawable="foxydroid" />
+    <item
+        component="ComponentInfo{us.spotco.maps/us.spotco.maps.MainActivity}"
+        drawable="gmapswv" />
+    <item
+        component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.LauncherActivity}"
+        drawable="corona" />
+    <item
+        component="ComponentInfo{com.simplecity.amp_pro/com.simplecity.amp_library.ui.activities.MainActivity}"
+        drawable="shuttle" />
+    <item
+        component="ComponentInfo{posidon.launcher/posidon.launcher.Main}"
+        drawable="posidon" />
 
     <!-- Nova Launcher specific -->
     <item
