@@ -6785,6 +6785,9 @@
     <item
         component="ComponentInfo{com.asdoi.timetable/com.ulan.timetable.activities.MainActivity}"
         drawable="cronograma" />
+    <item
+        component="ComponentInfo{org.tether.tether/org.tether.tether.MainActivity}"
+        drawable="syphon" />
 
 
     <!-- Nova Launcher specific -->
