@@ -6706,6 +6706,9 @@
         component="ComponentInfo{awais.instagrabber/awais.instagrabber.Main}"
         drawable="instagrabber" />
     <item
+        component="ComponentInfo{me.austinhang.instagrabber/awais.instagrabber.activities.Main}"
+        drawable="instagrabber" />
+    <item
         component="ComponentInfo{org.schabi.jedentageinset/org.schabi.jedentageinset.MainActivity}"
         drawable="jedentageinset" />
     <item
@@ -6852,6 +6855,21 @@
         component="ComponentInfo{posidon.launcher/posidon.launcher.Main}"
         drawable="posidon" />
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{net.fabiszewski.ulogger/net.fabiszewski.ulogger.MainActivity}"
+        drawable="ulogger" />
+    <item
+        component="ComponentInfo{rocks.poopjournal.morse/rocks.poopjournal.morse.MainActivity}"
+        drawable="morse" />
+    <item
+        component="ComponentInfo{com.dosse.chromiumautoupdater/com.dosse.chromiumautoupdater.MainActivity}"
+        drawable="chromiumautoupdater" />
+    <item
+        component="ComponentInfo{dk.andsen.asqlitemanager/dk.andsen.asqlitemanager.aSQLiteManager}"
+        drawable="asqlitemanager" />
+    <item
+        component="ComponentInfo{com.tttdevs.stncbookmarks/com.tttdevs.stncbookmarks.ConfigActivity}"
+        drawable="savetoncbookmarks" />
 
     <!-- Nova Launcher specific -->
     <item
