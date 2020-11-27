@@ -6709,6 +6709,9 @@
         component="ComponentInfo{me.austinhang.instagrabber/awais.instagrabber.activities.Main}"
         drawable="instagrabber" />
     <item
+        component="ComponentInfo{me.austinhang.instagrabber/awais.instagrabber.activities.MainActivity}"
+        drawable="instagrabber" />
+    <item
         component="ComponentInfo{org.schabi.jedentageinset/org.schabi.jedentageinset.MainActivity}"
         drawable="jedentageinset" />
     <item
@@ -6870,6 +6873,24 @@
     <item
         component="ComponentInfo{com.tttdevs.stncbookmarks/com.tttdevs.stncbookmarks.ConfigActivity}"
         drawable="savetoncbookmarks" />
+    <item
+        component="ComponentInfo{fr.jakse.raphael.simpleprotocolplayer/fr.jakse.raphael.simpleprotocolplayer.MainActivity}"
+        drawable="simpleprotocolplayer" />
+    <item
+        component="ComponentInfo{io.github.muntashirakon.Music/io.github.muntashirakon.music.activities.MainActivity}"
+        drawable="metro" />
+    <item
+        component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}"
+        drawable="metro" />
+    <item
+        component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.ui.main.MainActivity}"
+        drawable="downloadnavi" />
+    <item
+        component="ComponentInfo{com.biglybt.android.client/com.biglybt.android.client.activity.IntentHandler}"
+        drawable="biglybt" />
+    <item
+        component="ComponentInfo{com.github.axet.smsgate/com.github.axet.smsgate.activities.MainActivity}"
+        drawable="smsgate" />
 
     <!-- Nova Launcher specific -->
     <item
