@@ -42,8 +42,8 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 </br>
 
 * [ ] The icon is in the [icons folder](https://gitlab.com/xphnx/ameixa/tree/master/icons)
-* [ ] The icon is in the [todo folder](https://gitlab.com/xphnx/ameixa/tree/master/todo/wip)
-* [ ] There is no proper icon in todo or icons --> Grab a [template](https://gitlab.com/xphnx/ameixa/tree/master/templates) and draw a new chromatic icon. (More [info](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home))
+* [ ] The icon is in the [todo folder](https://gitlab.com/xphnx/ameixa/tree/master/todo)
+* [ ] There is no proper icon in todo or icons --> Grab a [template](https://gitlab.com/xphnx/ameixa/tree/master/other/templates) and draw a new chromatic icon. (More [info](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home))
 
 </br>
 
