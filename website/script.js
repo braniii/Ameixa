@@ -3,6 +3,7 @@ var lazyImageObserver = new IntersectionObserver(function(entries, observer){
   entries.forEach(function(entry){
     if (entry.isIntersecting) {
       let lazyImage = entry.target;
+      lazyImage.addEventListener('error', function(){this.src = this.src.replace('icons/chromatic', 'todo').replace('icons/monochromatic', 'todo');});
       lazyImage.src = lazyImage.dataset.src;
       lazyImage.className = '';
       lazyImageObserver.unobserve(lazyImage);
@@ -17,7 +18,7 @@ function openPopup(){
   var img = document.createElement('img');
   img.src = this.src;
   img.alt = this.alt;
-  fig.onclick = closePopup;
+  fig.addEventListener('click', closePopup); 
   fig.appendChild(title);
   fig.appendChild(img);
   document.body.appendChild(fig);
@@ -79,6 +80,7 @@ function genImageGrid(){
   for (var i of latest){
     var im = document.createElement('img');
     im.src = 'https://gitlab.com/xphnx/ameixa/raw/master/icons/chromatic/' + i.attributes.drawable.value + '.svg';
+    im.addEventListener('error', function(){this.src = this.src.replace('icons/chromatic', 'todo');});
     im.alt = i.attributes.drawable.value;
     im.title = i.attributes.drawable.value;
     carrousel.children[1].appendChild(im);
@@ -95,7 +97,7 @@ function genImageGrid(){
     im.dataset.src = 'https://gitlab.com/xphnx/ameixa/raw/master/icons/chromatic/' + i.attributes.drawable.value + '.svg';
     im.alt = i.attributes.drawable.value;
     im.title = i.attributes.drawable.value;
-    im.onclick = openPopup;
+    im.addEventListener('click', openPopup);
     document.getElementsByClassName('tab')[0].appendChild(im);
     // Monochromatic
     im = document.createElement('img');
@@ -105,7 +107,7 @@ function genImageGrid(){
     im.dataset.src = 'https://gitlab.com/xphnx/ameixa/raw/master/icons/monochromatic/' + i.attributes.drawable.value + '.svg';
     im.alt = i.attributes.drawable.value;
     im.title = i.attributes.drawable.value;
-    im.onclick = openPopup;
+    im.addEventListener('click', openPopup);
     document.getElementsByClassName('tab')[1].appendChild(im);
   }
 }
