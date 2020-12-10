@@ -6705,11 +6705,15 @@
     <item
         component="ComponentInfo{awais.instagrabber/awais.instagrabber.Main}"
         drawable="instagrabber" />
+    <!-- Tipo in austinhang vs huang !? -->
     <item
         component="ComponentInfo{me.austinhang.instagrabber/awais.instagrabber.activities.Main}"
         drawable="instagrabber" />
     <item
         component="ComponentInfo{me.austinhang.instagrabber/awais.instagrabber.activities.MainActivity}"
+        drawable="instagrabber" />
+    <item
+        component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.MainActivity}"
         drawable="instagrabber" />
     <item
         component="ComponentInfo{org.schabi.jedentageinset/org.schabi.jedentageinset.MainActivity}"
