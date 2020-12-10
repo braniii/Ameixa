@@ -6898,6 +6898,9 @@
     <item
         component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.LauncherActivity}"
         drawable="corona" />
+    <item
+        component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}"
+        drawable="multivnc" />
 
     <!-- Nova Launcher specific -->
     <item
