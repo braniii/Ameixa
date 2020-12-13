@@ -6931,6 +6931,12 @@
     <item
         component="ComponentInfo{org.kde.neochat/org.qtproject.qt5.android.bindings.QtActivity}"
         drawable="neochat" />
+    <item
+        component="ComponentInfo{theredspy15.ltecleanerfoss/theredspy15.ltecleanerfoss.MainActivity}"
+        drawable="ltecleaner" />
+    <item
+        component="ComponentInfo{com.sleeptimer/com.sleeptimer.MainActivity}"
+        drawable="sleeptimer" />
 
     <!-- Nova Launcher specific -->
     <item
