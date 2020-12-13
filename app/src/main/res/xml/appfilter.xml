@@ -6922,6 +6922,9 @@
     <item
         component="ComponentInfo{com.dp.logcatapp/com.dp.logcatapp.activities.SplashActivity}"
         drawable="logcatreader" />
+    <item
+        component="ComponentInfo{app.fedilab.mobilizon/app.fedilab.mobilizon.MainActivity}"
+        drawable="mobilizon" />
 
     <!-- Nova Launcher specific -->
     <item
