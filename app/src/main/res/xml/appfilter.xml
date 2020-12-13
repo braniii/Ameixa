@@ -6901,6 +6901,18 @@
     <item
         component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}"
         drawable="multivnc" />
+    <item
+        component="ComponentInfo{rocks.poopjournal.flashy/com.poopjournal.flashy.MainActivity}"
+        drawable="flashy" />
+    <item
+        component="ComponentInfo{rocks.poopjournal.Ella/com.unity3d.player.UnityPlayerActivity}"
+        drawable="ella" />
+    <item
+        component="ComponentInfo{rocks.poopjournal.metadataremover/rocks.poopjournal.metadataremover.ui.MainActivity}"
+        drawable="metadataremover" />
+    <item
+        component="ComponentInfo{rocks.poopjournal.pimplepopper/com.godot.game.GodotApp}"
+        drawable="pimplepopper" />
 
     <!-- Nova Launcher specific -->
     <item
