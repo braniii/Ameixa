@@ -6916,6 +6916,9 @@
     <item
         component="ComponentInfo{com.freerdp.afreerdp/com.freerdp.freerdpcore.presentation.HomeActivity}"
         drawable="afreerdp" />
+    <item
+        component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.PhotoShootActivity}"
+        drawable="syncthingcamera" />
 
     <!-- Nova Launcher specific -->
     <item
