@@ -78,7 +78,9 @@
     <g transform="translate(.00032393 .050459)">
         <path d="m14.373 19.525a4.5123 4.5123 0 0 1-4.5123-4.5123 4.5123 4.5123 0 0 1 4.5123-4.5123 4.5123 4.5123 0 0 1 4.5123 4.5123 4.5123 4.5123 0 0 1-4.5123 4.5123m0-10.314a5.8016 5.8016 0 0 0-5.8016 5.8016 5.8016 5.8016 0 0 0 5.8016 5.8016 5.8016 5.8016 0 0 0 5.8016-5.8016 5.8016 5.8016 0 0 0-5.8016-5.8016m0.32231 2.5785h-0.96693v3.8677l3.0619 1.8372 0.48346-0.79288-2.5785-1.5277v-3.3843m-2.9781-2.9717-0.82511-0.98627-2.9652 2.4818 0.83156 0.98627 2.9588-2.4818m9.102 1.502-2.9653-2.4882-0.83156 0.98627 2.9652 2.4882z" fill="#fff" stroke-width=".64462"/>
     </g>
-    <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" fill="none" stroke="#000" stroke-width=".070382"/>
-    <rect x="7.2241" y="8.6528" width="14.298" height="11.441" fill="none" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
-    <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" fill="none" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>
+    <g display="none" fill="none">
+        <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
+        <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>
+        <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>
+    </g>
 </svg>
