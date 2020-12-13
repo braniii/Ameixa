@@ -2559,6 +2559,9 @@
         component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}"
         drawable="oandbackup" />
     <item
+        component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity}"
+        drawable="oandbackup" />
+    <item
         component="ComponentInfo{com.valleytg.oasvn.android/com.valleytg.oasvn.android.ui.activity.MainMenu}"
         drawable="oasvn" />
     <item
