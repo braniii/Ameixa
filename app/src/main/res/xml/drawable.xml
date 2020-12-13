@@ -13,6 +13,7 @@
     <item drawable="adsdroid" />
     <item drawable="aegis" />
     <item drawable="afhdownloader" />
+    <item drawable="afreerdp" />
     <item drawable="aizoban" />
     <item drawable="alarmio" />
     <item drawable="alogcatroot" />
@@ -48,6 +49,7 @@
     <item drawable="arxivexplorer" />
     <item drawable="asciicam" />
     <item drawable="ask" />
+    <item drawable="asqlitemanager" />
     <item drawable="atalk" />
     <item drawable="atarashii" />
     <item drawable="atomic" />
@@ -71,6 +73,7 @@
     <item drawable="beamshare" />
     <item drawable="beem" />
     <item drawable="behekeyboard" />
+    <item drawable="biglybt" />
     <item drawable="bimba" />
     <item drawable="binaryeye" />
     <item drawable="bipolalarm" />
@@ -141,6 +144,7 @@
     <item drawable="chesswalk" />
     <item drawable="chesswatch" />
     <item drawable="chromium" />
+    <item drawable="chromiumautoupdater" />
     <item drawable="chronosnap" />
     <item drawable="cidrcalc" />
     <item drawable="circo" />
@@ -217,6 +221,7 @@
     <item drawable="documents" />
     <item drawable="documentviewer" />
     <item drawable="doomytorch" />
+    <item drawable="downloadnavi" />
     <item drawable="downloads" />
     <item drawable="driibo" />
     <item drawable="drinks" />
@@ -246,6 +251,7 @@
     <item drawable="electrum" />
     <item drawable="element" />
     <item drawable="elementary" />
+    <item drawable="ella" />
     <item drawable="emeralddialer" />
     <item drawable="enigmandroid" />
     <item drawable="ensichat" />
@@ -287,6 +293,7 @@
     <item drawable="firefoxfocus" />
     <item drawable="firewall" />
     <item drawable="fitotrack" />
+    <item drawable="flashy" />
     <item drawable="floatingstickies" />
     <item drawable="fluffychat" />
     <item drawable="flym" />
@@ -443,10 +450,12 @@
     <item drawable="locationprivacy" />
     <item drawable="lockclock" />
     <item drawable="logcat" />
+    <item drawable="logcatreader" />
     <item drawable="logicaldefence" />
     <item drawable="loopboard" />
     <item drawable="loophabits" />
     <item drawable="loyaltycard" />
+    <item drawable="ltecleaner" />
     <item drawable="lumicall" />
     <item drawable="lunary" />
     <item drawable="lws" />
@@ -477,6 +486,8 @@
     <item drawable="memetastic" />
     <item drawable="memrise" />
     <item drawable="mercury" />
+    <item drawable="metadataremover" />
+    <item drawable="metro" />
     <item drawable="metronome" />
     <item drawable="mgit" />
     <item drawable="mibandnotifier" />
@@ -496,9 +507,11 @@
     <item drawable="mitzuli" />
     <item drawable="mlmanager" />
     <item drawable="mobilewebcam" />
+    <item drawable="mobilizon" />
     <item drawable="moneybalance" />
     <item drawable="moneymanagerex" />
     <item drawable="moonlight" />
+    <item drawable="morse" />
     <item drawable="motioneyeclient" />
     <item drawable="mousetodon" />
     <item drawable="movecerts" />
@@ -510,6 +523,7 @@
     <item drawable="mpv" />
     <item drawable="mtgfamiliar" />
     <item drawable="multirommgr" />
+    <item drawable="multivnc" />
     <item drawable="mupdf" />
     <item drawable="music" />
     <item drawable="musicpiped" />
@@ -532,6 +546,7 @@
     <item drawable="navit" />
     <item drawable="ncalc" />
     <item drawable="nccookbook" />
+    <item drawable="neochat" />
     <item drawable="netguard" />
     <item drawable="netmbuddy" />
     <item drawable="netmonitor" />
@@ -656,6 +671,7 @@
     <item drawable="phyphox" />
     <item drawable="piano" />
     <item drawable="piholedroid" />
+    <item drawable="pimplepopper" />
     <item drawable="pipepanic" />
     <item drawable="pixeldungeon" />
     <item drawable="pixelesque" />
@@ -740,6 +756,7 @@
     <item drawable="sand" />
     <item drawable="satstat" />
     <item drawable="saveforoffline" />
+    <item drawable="savetoncbookmarks" />
     <item drawable="scarletfdroid" />
     <item drawable="schessclock" />
     <item drawable="scid" />
@@ -817,6 +834,7 @@
     <item drawable="simplegallery" />
     <item drawable="simplemusicplayer" />
     <item drawable="simplenotes" />
+    <item drawable="simpleprotocolplayer" />
     <item drawable="simplereboot" />
     <item drawable="simplerss" />
     <item drawable="simplesms" />
@@ -829,6 +847,7 @@
     <item drawable="sipdroid" />
     <item drawable="sismicsreader" />
     <item drawable="skytube" />
+    <item drawable="sleeptimer" />
     <item drawable="slfms" />
     <item drawable="slide" />
     <item drawable="slidersynth" />
@@ -840,6 +859,7 @@
     <item drawable="sms" />
     <item drawable="sms2" />
     <item drawable="smsbackup" />
+    <item drawable="smsgate" />
     <item drawable="smsscheduler" />
     <item drawable="smssecure" />
     <item drawable="snes9xex" />
@@ -880,6 +900,7 @@
     <item drawable="syncopoli" />
     <item drawable="syncorg" />
     <item drawable="syncthing" />
+    <item drawable="syncthingcamera" />
     <item drawable="synergy" />
     <item drawable="syphon" />
     <item drawable="systemappmover" />
@@ -967,6 +988,7 @@
     <item drawable="twobuntu" />
     <item drawable="uget" />
     <item drawable="ukweather" />
+    <item drawable="ulogger" />
     <item drawable="umbrella" />
     <item drawable="unciv" />
     <item drawable="unicodemap" />

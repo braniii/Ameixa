@@ -13,6 +13,7 @@
         <item>adsdroid</item>
         <item>aegis</item>
         <item>afhdownloader</item>
+        <item>afreerdp</item>
         <item>aizoban</item>
         <item>alarmio</item>
         <item>alogcatroot</item>
@@ -48,6 +49,7 @@
         <item>arxivexplorer</item>
         <item>asciicam</item>
         <item>ask</item>
+        <item>asqlitemanager</item>
         <item>atalk</item>
         <item>atarashii</item>
         <item>atomic</item>
@@ -71,6 +73,7 @@
         <item>beamshare</item>
         <item>beem</item>
         <item>behekeyboard</item>
+        <item>biglybt</item>
         <item>bimba</item>
         <item>binaryeye</item>
         <item>bipolalarm</item>
@@ -141,6 +144,7 @@
         <item>chesswalk</item>
         <item>chesswatch</item>
         <item>chromium</item>
+        <item>chromiumautoupdater</item>
         <item>chronosnap</item>
         <item>cidrcalc</item>
         <item>circo</item>
@@ -217,6 +221,7 @@
         <item>documents</item>
         <item>documentviewer</item>
         <item>doomytorch</item>
+        <item>downloadnavi</item>
         <item>downloads</item>
         <item>driibo</item>
         <item>drinks</item>
@@ -246,6 +251,7 @@
         <item>electrum</item>
         <item>element</item>
         <item>elementary</item>
+        <item>ella</item>
         <item>emeralddialer</item>
         <item>enigmandroid</item>
         <item>ensichat</item>
@@ -287,6 +293,7 @@
         <item>firefoxfocus</item>
         <item>firewall</item>
         <item>fitotrack</item>
+        <item>flashy</item>
         <item>floatingstickies</item>
         <item>fluffychat</item>
         <item>flym</item>
@@ -443,10 +450,12 @@
         <item>locationprivacy</item>
         <item>lockclock</item>
         <item>logcat</item>
+        <item>logcatreader</item>
         <item>logicaldefence</item>
         <item>loopboard</item>
         <item>loophabits</item>
         <item>loyaltycard</item>
+        <item>ltecleaner</item>
         <item>lumicall</item>
         <item>lunary</item>
         <item>lws</item>
@@ -477,6 +486,8 @@
         <item>memetastic</item>
         <item>memrise</item>
         <item>mercury</item>
+        <item>metadataremover</item>
+        <item>metro</item>
         <item>metronome</item>
         <item>mgit</item>
         <item>mibandnotifier</item>
@@ -496,9 +507,11 @@
         <item>mitzuli</item>
         <item>mlmanager</item>
         <item>mobilewebcam</item>
+        <item>mobilizon</item>
         <item>moneybalance</item>
         <item>moneymanagerex</item>
         <item>moonlight</item>
+        <item>morse</item>
         <item>motioneyeclient</item>
         <item>mousetodon</item>
         <item>movecerts</item>
@@ -510,6 +523,7 @@
         <item>mpv</item>
         <item>mtgfamiliar</item>
         <item>multirommgr</item>
+        <item>multivnc</item>
         <item>mupdf</item>
         <item>music</item>
         <item>musicpiped</item>
@@ -532,6 +546,7 @@
         <item>navit</item>
         <item>ncalc</item>
         <item>nccookbook</item>
+        <item>neochat</item>
         <item>netguard</item>
         <item>netmbuddy</item>
         <item>netmonitor</item>
@@ -656,6 +671,7 @@
         <item>phyphox</item>
         <item>piano</item>
         <item>piholedroid</item>
+        <item>pimplepopper</item>
         <item>pipepanic</item>
         <item>pixeldungeon</item>
         <item>pixelesque</item>
@@ -740,6 +756,7 @@
         <item>sand</item>
         <item>satstat</item>
         <item>saveforoffline</item>
+        <item>savetoncbookmarks</item>
         <item>scarletfdroid</item>
         <item>schessclock</item>
         <item>scid</item>
@@ -817,6 +834,7 @@
         <item>simplegallery</item>
         <item>simplemusicplayer</item>
         <item>simplenotes</item>
+        <item>simpleprotocolplayer</item>
         <item>simplereboot</item>
         <item>simplerss</item>
         <item>simplesms</item>
@@ -829,6 +847,7 @@
         <item>sipdroid</item>
         <item>sismicsreader</item>
         <item>skytube</item>
+        <item>sleeptimer</item>
         <item>slfms</item>
         <item>slide</item>
         <item>slidersynth</item>
@@ -840,6 +859,7 @@
         <item>sms</item>
         <item>sms2</item>
         <item>smsbackup</item>
+        <item>smsgate</item>
         <item>smsscheduler</item>
         <item>smssecure</item>
         <item>snes9xex</item>
@@ -880,6 +900,7 @@
         <item>syncopoli</item>
         <item>syncorg</item>
         <item>syncthing</item>
+        <item>syncthingcamera</item>
         <item>synergy</item>
         <item>syphon</item>
         <item>systemappmover</item>
@@ -967,6 +988,7 @@
         <item>twobuntu</item>
         <item>uget</item>
         <item>ukweather</item>
+        <item>ulogger</item>
         <item>umbrella</item>
         <item>unciv</item>
         <item>unicodemap</item>
