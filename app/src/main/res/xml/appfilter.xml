@@ -6913,6 +6913,9 @@
     <item
         component="ComponentInfo{rocks.poopjournal.pimplepopper/com.godot.game.GodotApp}"
         drawable="pimplepopper" />
+    <item
+        component="ComponentInfo{com.freerdp.afreerdp/com.freerdp.freerdpcore.presentation.HomeActivity}"
+        drawable="afreerdp" />
 
     <!-- Nova Launcher specific -->
     <item
