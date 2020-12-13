@@ -6919,6 +6919,9 @@
     <item
         component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.PhotoShootActivity}"
         drawable="syncthingcamera" />
+    <item
+        component="ComponentInfo{com.dp.logcatapp/com.dp.logcatapp.activities.SplashActivity}"
+        drawable="logcatreader" />
 
     <!-- Nova Launcher specific -->
     <item
