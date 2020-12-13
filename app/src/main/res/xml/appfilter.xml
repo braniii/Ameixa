@@ -6928,6 +6928,9 @@
     <item
         component="ComponentInfo{app.fedilab.mobilizon/app.fedilab.mobilizon.MainActivity}"
         drawable="mobilizon" />
+    <item
+        component="ComponentInfo{org.kde.neochat/org.qtproject.qt5.android.bindings.QtActivity}"
+        drawable="neochat" />
 
     <!-- Nova Launcher specific -->
     <item
