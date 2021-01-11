@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 28
-    buildToolsVersion "29.0.3"
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "org.xphnx.ameixa"
@@ -37,7 +37,7 @@ android {
     }
 
     compileOptions {
-        encoding = 'UTF-8'
+        encoding "UTF-8"
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
@@ -52,6 +52,5 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.0.2'
-    implementation 'androidx.core:core:1.0.2'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
 }
