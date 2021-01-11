@@ -8,7 +8,7 @@
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
 
-    <!-- properitary applications -->
+    <!-- "proprietary" applications -->
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
         drawable="whatsapp" />
