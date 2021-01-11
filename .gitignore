@@ -1,6 +1,8 @@
-.gradle
-.idea
+.gradle/
+.idea/
 *.iml
 local.properties
-build
+build/
 inkscape
+**/debug/
+**/release/
