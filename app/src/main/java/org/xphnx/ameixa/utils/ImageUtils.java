@@ -13,7 +13,6 @@ import androidx.core.graphics.drawable.DrawableCompat;
 import org.xphnx.ameixa.async.BitmapLoadTask;
 
 public class ImageUtils {
-
     public static void bitmapLoadAsync(final ImageView imageView, final Resources resources,
                                        int resId, int width, int height) {
         BitmapLoadTask task = new BitmapLoadTask(resources, resId, width, height, bitmap -> {
@@ -62,7 +61,7 @@ public class ImageUtils {
         return Bitmap.createScaledBitmap(rawBitmap, width, height, true);
     }
 
-    // calc sample size for scaled resource loading
+    // calculate sample size for scaled resource loading
     private static int sampleSize(float scale) {
         int size = 1;
         while (scale < 0.5f) {

@@ -17,6 +17,7 @@ public abstract class BaseActivity extends AppCompatActivity {
             getWindow().setStatusBarColor(getResources().getColor(R.color.colorDark));
             getWindow().setNavigationBarColor(getResources().getColor(R.color.colorDark));
         }
+
         super.onCreate(savedInstanceState);
     }
 }

@@ -8,8 +8,7 @@ import org.xphnx.ameixa.R;
 import org.xphnx.ameixa.utils.IntentUtils;
 import org.xphnx.ameixa.views.CenterButton;
 
-public class MainActivity extends BaseActivity {
-
+public class SourceActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,22 +28,10 @@ public class MainActivity extends BaseActivity {
         baseLayout.setGravity(Gravity.START);
         frameLayout.addView(baseLayout);
 
-        CenterButton icons = new CenterButton(this);
-        icons.setText(R.string.icons);
-        icons.setIcon(R.drawable.ic_icon_button);
-        icons.setOnClickListener(v -> IntentUtils.openActivity(this, IconActivity.class));
-        baseLayout.addView(icons);
-
-        CenterButton source = new CenterButton(this);
-        source.setText(R.string.source);
-        source.setIcon(R.drawable.ic_source_button);
-        source.setOnClickListener(v -> IntentUtils.openActivity(this, SourceActivity.class));
-        baseLayout.addView(source);
-
         CenterButton code = new CenterButton(this);
-        code.setText(R.string.license);
-        code.setIcon(R.drawable.ic_license_button);
-        code.setOnClickListener(v -> IntentUtils.openActivity(this, LicenseActivity.class));
+        code.setText(R.string.source);
+        code.setIcon(R.drawable.ic_android);
+        code.setOnClickListener(v -> IntentUtils.openUrl(this, R.string.url_repository));
         baseLayout.addView(code);
     }
 }

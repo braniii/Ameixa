@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="icons">Symbole</string>
-    <string name="sourcecodetext">Quelltext</string>
-    <string name="licensetext">Lizenz</string>
-    <string name="codelicense">Der Quelltext dieses Programms steht unter der GNU General Public License v3 zur Verfügung.</string>
-    <string name="imageslicense">Die in diesem Programm enthaltenen Bilder stehen unter der Creative Commons Attribution Share Alike 4.0-Lizenz zur Verfügung.</string>
+    <string name="source">Quelltext</string>
+    <string name="license">Lizenz</string>
+    <string name="description_code">Der Quelltext dieses Programms steht unter der GNU General Public License v3 zur Verfügung.</string>
+    <string name="description_images">Die in diesem Programm enthaltenen Bilder stehen unter der Creative Commons Attribution Share Alike 4.0-Lizenz zur Verfügung.</string>
 </resources>
