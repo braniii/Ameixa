@@ -31,19 +31,19 @@ public class MainActivity extends BaseActivity {
 
         CenterButton icons = new CenterButton(this);
         icons.setText(R.string.icons);
-        icons.setIcon(R.drawable.ic_icon_button);
+        icons.setIcon(R.drawable.ic_icons);
         icons.setOnClickListener(v -> IntentUtils.openActivity(this, IconActivity.class));
         baseLayout.addView(icons);
 
         CenterButton source = new CenterButton(this);
         source.setText(R.string.source);
-        source.setIcon(R.drawable.ic_source_button);
-        source.setOnClickListener(v -> IntentUtils.openActivity(this, SourceActivity.class));
+        source.setIcon(R.drawable.ic_code);
+        source.setOnClickListener(v -> IntentUtils.openUrl(this, R.string.url_repository));
         baseLayout.addView(source);
 
         CenterButton code = new CenterButton(this);
         code.setText(R.string.license);
-        code.setIcon(R.drawable.ic_license_button);
+        code.setIcon(R.drawable.ic_copyright);
         code.setOnClickListener(v -> IntentUtils.openActivity(this, LicenseActivity.class));
         baseLayout.addView(code);
     }

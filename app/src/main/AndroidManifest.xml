@@ -29,7 +29,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".activities.SourceActivity" />
         <activity android:name=".activities.LicenseActivity" />
         <activity android:name=".activities.IconActivity" />
     </application>
