@@ -22,13 +22,6 @@ Only [F-Droid](https://f-droid.org/) hosted apps are supported.
     alt="Get it on F-Droid" height="80">
 </a>
 
-### Test builds
-<a href="https://gitlab.com/xphnx/ameixa/-/jobs/artifacts/master/download?job=build">
-    <img src="https://hike.in/images/hike5.0/apk.png"
-    alt="Download the latest build" height="80">
-</a>
-
-
 ## Contributions are welcome :)
 
 For requesting icons or contributing, please use the [Issue Tracker](https://gitlab.com/xphnx/ameixa/issues) or make a [Merge Request](https://gitlab.com/xphnx/ameixa/merge_requests)
