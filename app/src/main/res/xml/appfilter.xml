@@ -6970,6 +6970,9 @@
     <item
         component="ComponentInfo{io.lbry.browser/io.lbry.browser.MainActivity}"
         drawable="lbry" />
+    <item
+        component="ComponentInfo{com.practicalapps.hamtrainer/com.practicalapps.hamtrainer.HamTrainerActivity}"
+        drawable="hamtrainer" />
 
     <!-- Nova Launcher specific -->
     <item
