@@ -6967,6 +6967,9 @@
     <item
         component="ComponentInfo{com.cleverraven.cataclysmdda/com.cleverraven.cataclysmdda.SplashScreen}"
         drawable="cataclysmdda" />
+    <item
+        component="ComponentInfo{io.lbry.browser/io.lbry.browser.MainActivity}"
+        drawable="lbry" />
 
     <!-- Nova Launcher specific -->
     <item
