@@ -31,6 +31,7 @@
     <item drawable="anexplorer" />
     <item drawable="animagia" />
     <item drawable="ankidroid" />
+    <item drawable="ankieditor" />
     <item drawable="antennapod" />
     <item drawable="antox" />
     <item drawable="antwolinux" />
@@ -42,6 +43,7 @@
     <item drawable="apod" />
     <item drawable="applicationsinfo" />
     <item drawable="applock" />
+    <item drawable="appmanager" />
     <item drawable="apps" />
     <item drawable="aptoide" />
     <item drawable="aria2android" />
@@ -128,6 +130,7 @@
     <item drawable="carcast" />
     <item drawable="carnet" />
     <item drawable="carreport" />
+    <item drawable="cataclysmdda" />
     <item drawable="catandice" />
     <item drawable="catgenerator" />
     <item drawable="cathode" />
@@ -355,6 +358,7 @@
     <item drawable="greentooth" />
     <item drawable="gsmmap" />
     <item drawable="hackerkeyboard" />
+    <item drawable="hamtrainer" />
     <item drawable="hashpass" />
     <item drawable="hashr" />
     <item drawable="hauk" />
@@ -425,6 +429,7 @@
     <item drawable="kungfoobarracuda" />
     <item drawable="labcoat" />
     <item drawable="lawnchair" />
+    <item drawable="lbry" />
     <item drawable="lcamera" />
     <item drawable="leafpic" />
     <item drawable="leodict" />
@@ -569,6 +574,7 @@
     <item drawable="nocknock" />
     <item drawable="noice" />
     <item drawable="nomad" />
+    <item drawable="nonocross" />
     <item drawable="nonsensenotepad" />
     <item drawable="nori" />
     <item drawable="nostrangersms" />
@@ -770,6 +776,7 @@
     <item drawable="scummvm" />
     <item drawable="sdscanner" />
     <item drawable="seadroid2" />
+    <item drawable="searchsearx" />
     <item drawable="searchtool" />
     <item drawable="secdroid" />
     <item drawable="secrecy" />
@@ -874,6 +881,7 @@
     <item drawable="sparss" />
     <item drawable="speedmeter" />
     <item drawable="spiritf" />
+    <item drawable="spotify" />
     <item drawable="spydroid" />
     <item drawable="sqrl" />
     <item drawable="squeez" />
