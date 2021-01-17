@@ -1407,6 +1407,9 @@
         component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.activity.LauncherActivity}"
         drawable="fitotrack" />
     <item
+        component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.ui.LauncherActivity}"
+        drawable="fitotrack" />
+    <item
         component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}"
         drawable="fenix" />
     <item
@@ -6868,12 +6871,16 @@
         component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.LauncherActivity}"
         drawable="corona" />
     <item
+        component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.launcher.LauncherActivity}"
+        drawable="corona" />
+    <item
         component="ComponentInfo{com.simplecity.amp_pro/com.simplecity.amp_library.ui.activities.MainActivity}"
         drawable="shuttle" />
     <item
         component="ComponentInfo{posidon.launcher/posidon.launcher.Main}"
         drawable="posidon" />
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+
+    <!-- 4.4.0 < [] -->
     <item
         component="ComponentInfo{net.fabiszewski.ulogger/net.fabiszewski.ulogger.MainActivity}"
         drawable="ulogger" />
@@ -6911,6 +6918,9 @@
         component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.LauncherActivity}"
         drawable="corona" />
     <item
+        component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.launcher.LauncherActivity}"
+        drawable="corona" />
+    <item
         component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}"
         drawable="multivnc" />
     <item
@@ -6946,6 +6956,14 @@
     <item
         component="ComponentInfo{com.sleeptimer/com.sleeptimer.MainActivity}"
         drawable="sleeptimer" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}"
+        drawable="appmanager" />
+    <item
+        component="ComponentInfo{com.picross.nonocross/com.picross.nonocross.MainActivity}"
+        drawable="nonocross" />
 
     <!-- Nova Launcher specific -->
     <item
