@@ -60,6 +60,9 @@
     <item
         component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}"
         drawable="protonmail" />
+    <item
+        component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
+        drawable="spotify" />
 
 
     <!-- FOSS icons -->
