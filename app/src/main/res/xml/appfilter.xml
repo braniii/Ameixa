@@ -7000,6 +7000,9 @@
     <item
         component="ComponentInfo{com.jkcarino.ankieditor/com.jkcarino.ankieditor.ui.splash.SplashActivity}"
         drawable="ankieditor" />
+    <item
+        component="ComponentInfo{search.searx/search.searx.MainActivity}"
+        drawable="searchsearx" />
 
     <!-- Nova Launcher specific -->
     <item
