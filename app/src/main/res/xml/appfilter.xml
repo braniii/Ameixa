@@ -6973,6 +6973,9 @@
     <item
         component="ComponentInfo{com.practicalapps.hamtrainer/com.practicalapps.hamtrainer.HamTrainerActivity}"
         drawable="hamtrainer" />
+    <item
+        component="ComponentInfo{com.jkcarino.ankieditor/com.jkcarino.ankieditor.ui.splash.SplashActivity}"
+        drawable="ankieditor" />
 
     <!-- Nova Launcher specific -->
     <item
