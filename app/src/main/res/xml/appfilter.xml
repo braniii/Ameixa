@@ -980,6 +980,9 @@
     <item
         component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}"
         drawable="contacts" />
+    <item 
+        component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts" />
     <item
         component="ComponentInfo{de.k3b.android.contentproviderhelper/com.jensdriller.contentproviderhelper.ui.activity.MainActivity}"
         drawable="contentproviderhelper" />
@@ -3178,6 +3181,9 @@
         drawable="phone" />
     <item
         component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}"
+        drawable="phone" />
+    <item 
+        component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}"
         drawable="phone" />
     <item
         component="ComponentInfo{org.esteban.piano/org.esteban.piano.MainActivity}"
@@ -5575,6 +5581,9 @@
         drawable="sms" />
     <item
         component="ComponentInfo{com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity}"
+        drawable="sms" />
+    <item 
+        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" 
         drawable="sms" />
     <item
         component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
