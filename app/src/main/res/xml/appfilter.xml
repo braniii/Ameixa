@@ -7012,7 +7012,16 @@
     <item
         component="ComponentInfo{search.searx/search.searx.MainActivity}"
         drawable="searchsearx" />
-
+    <item
+        component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}"
+        drawable="adaway" />
+    <item
+        component="ComponentInfo{com.github.adamantcheese.chan.dev/com.github.adamantcheese.chan.StartActivity}"
+        drawable="clover" />
+    <item
+        component="ComponentInfo{eu.kanade.tachiyomi.az/eu.kanade.tachiyomi.ui.main.MainActivity}"
+        drawable="tachiyomi" />
+        
     <!-- Nova Launcher specific -->
     <item
         component=":BROWSER"
