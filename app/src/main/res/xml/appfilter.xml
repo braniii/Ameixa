@@ -7020,16 +7020,16 @@
         drawable="tachiyomi" />
     <item
         component="ComponentInfo{eu.kanade.tachiyomi.debug/eu.kanade.tachiyomi.ui.main.MainActivity}"
-        drawable="tachiyomi"/>        
+        drawable="tachiyomi" />        
     <item
         component="ComponentInfo{tachiyomi.mangadex/eu.kanade.tachiyomi.ui.main.MainActivity"
         drawable="tachiyomi" />
     <item
         component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}"
-        drawable="tachiyomi"/>
+        drawable="tachiyomi" />
     <item
         component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity"
-        drawable="tachiyomi"/>
+        drawable="tachiyomi" />
 
     <!-- Nova Launcher specific -->
     <item
