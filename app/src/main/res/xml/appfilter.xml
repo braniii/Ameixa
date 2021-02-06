@@ -87,9 +87,6 @@
         component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}"
         drawable="activitylauncher" />
     <item
-        component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}"
-        drawable="adaway" />
-    <item
         component="ComponentInfo{ch.abertschi.adfree/ch.abertschi.adfree.view.MainActivity}"
         drawable="adfree" />
     <item
@@ -7021,7 +7018,19 @@
     <item
         component="ComponentInfo{eu.kanade.tachiyomi.az/eu.kanade.tachiyomi.ui.main.MainActivity}"
         drawable="tachiyomi" />
-        
+    <item
+        component="ComponentInfo{eu.kanade.tachiyomi.debug/eu.kanade.tachiyomi.ui.main.MainActivity}"
+        drawable="tachiyomi"/>        
+    <item
+        component="ComponentInfo{tachiyomi.mangadex/eu.kanade.tachiyomi.ui.main.MainActivity"
+        drawable="tachiyomi" />
+    <item
+        component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}"
+        drawable="tachiyomi"/>
+    <item
+        component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity"
+        drawable="tachiyomi"/>
+
     <!-- Nova Launcher specific -->
     <item
         component=":BROWSER"
