@@ -116,12 +116,12 @@ document.addEventListener("DOMContentLoaded", function(){
   document.getElementsByClassName('tab')[1].style.display = 'none';
   document.getElementById('search').oninput = search;
   //var b = new XMLHttpRequest();
-  //b.open('GET', 'https://cors-anywhere.herokuapp.com/https://gitlab.com/xphnx/ameixa/raw/website/newdrawable.xml');
+  //b.open('GET', 'https://gitlab.com/xphnx/ameixa/raw/website/newdrawable.xml');
   //b.open('GET', 'newdrawable.xml');
   //b.onload = genImageCarrousel;
   //b.send();
   var a = new XMLHttpRequest();
-  a.open('GET', 'https://cors-anywhere.herokuapp.com/https://xphnx.gitlab.io/ameixa/drawable.xml');
+  a.open('GET', 'https://xphnx.gitlab.io/ameixa/drawable.xml');
   a.onload = genImageGrid;
   a.send();
 });
