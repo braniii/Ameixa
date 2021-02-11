@@ -1869,6 +1869,9 @@
         component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.splash.KiwixSplashActivity}"
         drawable="kiwix" />
     <item
+        component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.splash.KiwixMainActivity}"
+        drawable="kiwix" />
+    <item
         component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}"
         drawable="klooni" />
     <item
@@ -7021,6 +7024,24 @@
     <item
         component="ComponentInfo{eu.kanade.tachiyomi.az/eu.kanade.tachiyomi.ui.main.MainActivity}"
         drawable="tachiyomi" />
+    <item
+        component="ComponentInfo{com.madlonkay.orgro/com.madlonkay.orgro.MainActivity}"
+        drawable="thetranslator" />
+    <item
+        component="ComponentInfo{com.sunilpaulmathew.translator/com.sunilpaulmathew.translator.MainActivity}"
+        drawable="orgro" />
+    <item
+        component="ComponentInfo{com.ktprograms.ohmsnow/com.ktprograms.ohmsnow.MainActivity}"
+        drawable="ohmsnow" />
+    <item
+        component="ComponentInfo{org.inventati.massimol.liberovocab/org.inventati.massimol.liberovocab.activities.MainActivity}"
+        drawable="liberovocab" />
+    <item
+        component="ComponentInfo{com.example.barcodescanner/ComponentInfo{com.example.barcodescanner.feature.tabs.BottomTabsActivity}"
+        drawable="barcodescanner2" />
+    <item
+        component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/ComponentInfo{com.gmail.anubhavdas54.whatsdeleted.MainActivity}"
+        drawable="whatsdeleted" />
         
     <!-- Nova Launcher specific -->
     <item
