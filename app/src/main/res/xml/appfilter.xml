@@ -3288,7 +3288,7 @@
         component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}"
         drawable="qksms" />
     <item
-        component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-(((Pink)))}"
+        component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Pink}"
         drawable="qksmspink" />
     <item
         component="ComponentInfo{com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher}"
@@ -3711,7 +3711,7 @@
         component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity}"
         drawable="simpleapplauncher" />
     <item
-        component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Pink}"
         drawable="simpleapplauncher" />
     <item
         component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Purple}"
@@ -3765,7 +3765,7 @@
         component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Grey_black}"
         drawable="simpleapplauncher" />
     <item
-        component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Pink}"
         drawable="simpleapplauncher" />
     <item
         component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Purple}"
@@ -3822,7 +3822,7 @@
         component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity}"
         drawable="simplecalculator" />
     <item
-        component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Pink}"
         drawable="simplecalculator" />
     <item
         component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Purple}"
@@ -3876,7 +3876,7 @@
         component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Grey_black}"
         drawable="simplecalculator" />
     <item
-        component="ComponentInfo{com.simplemobiletools.calculcator.pro/com.simplemobiletools.calculcator.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.calculcator.pro/com.simplemobiletools.calculcator.pro.activities.SplashActivity.Pink}"
         drawable="simplecalculator" />
     <item
         component="ComponentInfo{com.simplemobiletools.calculcator.pro/com.simplemobiletools.calculcator.pro.activities.SplashActivity.Purple}"
@@ -3933,7 +3933,7 @@
         component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}"
         drawable="simplecalendar" />
     <item
-        component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Pink}"
         drawable="simplecalendar" />
     <item
         component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Purple}"
@@ -3987,7 +3987,7 @@
         component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Grey_black}"
         drawable="simplecalendar" />
     <item
-        component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Pink}"
         drawable="simplecalendar" />
     <item
         component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Purple}"
@@ -4044,7 +4044,7 @@
         component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity}"
         drawable="simplecamera" />
     <item
-        component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Pink}"
         drawable="simplecamera" />
     <item
         component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Purple}"
@@ -4098,7 +4098,7 @@
         component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Grey_black}"
         drawable="simplecamera" />
     <item
-        component="ComponentInfo{com.simplemobiletools.camera.pro/com.simplemobiletools.camera.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.camera.pro/com.simplemobiletools.camera.pro.activities.SplashActivity.Pink}"
         drawable="simplecamera" />
     <item
         component="ComponentInfo{com.simplemobiletools.camera.pro/com.simplemobiletools.camera.pro.activities.SplashActivity.Purple}"
@@ -4155,7 +4155,7 @@
         component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity}"
         drawable="simpleclock" />
     <item
-        component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Pink}"
         drawable="simpleclock" />
     <item
         component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Purple}"
@@ -4209,7 +4209,7 @@
         component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black}"
         drawable="simpleclock" />
     <item
-        component="ComponentInfo{com.simplemobiletools.clock.pro/com.simplemobiletools.clock.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.clock.pro/com.simplemobiletools.clock.pro.activities.SplashActivity.Pink}"
         drawable="simpleclock" />
     <item
         component="ComponentInfo{com.simplemobiletools.clock.pro/com.simplemobiletools.clock.pro.activities.SplashActivity.Purple}"
@@ -4266,7 +4266,7 @@
         component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity}"
         drawable="simplecontacts" />
     <item
-        component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Pink}"
         drawable="simplecontacts" />
     <item
         component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Purple}"
@@ -4320,7 +4320,7 @@
         component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Grey_black}"
         drawable="simplecontacts" />
     <item
-        component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Pink}"
         drawable="simplecontacts" />
     <item
         component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Purple}"
@@ -4377,7 +4377,7 @@
         component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity}"
         drawable="simpledialer" />
     <item
-        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Pink}"
         drawable="simpledialer" />
     <item
         component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Purple}"
@@ -4431,7 +4431,7 @@
         component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Grey_black}"
         drawable="simpledialer" />
     <item
-        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Pink}"
         drawable="simpledialer" />
     <item
         component="ComponentInfo{com.simplemobiletools.dialer.pro/com.simplemobiletools.dialer.pro.activities.SplashActivity.Purple}"
@@ -4488,7 +4488,7 @@
         component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}"
         drawable="simpledraw" />
     <item
-        component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.Pink}"
         drawable="simpledraw" />
     <item
         component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.Purple}"
@@ -4542,7 +4542,7 @@
         component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.Grey_black}"
         drawable="simpledraw" />
     <item
-        component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Pink}"
         drawable="simpledraw" />
     <item
         component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Purple}"
@@ -4602,7 +4602,7 @@
         component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity}"
         drawable="simplefilemanager" />
     <item
-        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Pink}"
         drawable="simplefilemanager" />
     <item
         component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Purple}"
@@ -4656,7 +4656,7 @@
         component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Grey_black}"
         drawable="simplefilemanager" />
     <item
-        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Pink}"
         drawable="simplefilemanager" />
     <item
         component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Purple}"
@@ -4716,7 +4716,7 @@
         component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity}"
         drawable="simpleflashlight" />
     <item
-        component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity.Pink}"
         drawable="simpleflashlight" />
     <item
         component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity.Purple}"
@@ -4770,7 +4770,7 @@
         component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity.Grey_black}"
         drawable="simpleflashlight" />
     <item
-        component="ComponentInfo{com.simplemobiletools.flashlight.pro/com.simplemobiletools.flashlight.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.flashlight.pro/com.simplemobiletools.flashlight.pro.activities.SplashActivity.Pink}"
         drawable="simpleflashlight" />
     <item
         component="ComponentInfo{com.simplemobiletools.flashlight.pro/com.simplemobiletools.flashlight.pro.activities.SplashActivity.Purple}"
@@ -4827,7 +4827,7 @@
         component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}"
         drawable="simplegallery" />
     <item
-        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Pink}"
         drawable="simplegallery" />
     <item
         component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Purple}"
@@ -4881,7 +4881,7 @@
         component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Grey_black}"
         drawable="simplegallery" />
     <item
-        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Pink}"
         drawable="simplegallery" />
     <item
         component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple}"
@@ -4938,7 +4938,7 @@
         component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity}"
         drawable="simplemusicplayer" />
     <item
-        component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Pink}"
         drawable="simplemusicplayer" />
     <item
         component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Purple}"
@@ -4992,7 +4992,7 @@
         component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Grey_black}"
         drawable="simplemusicplayer" />
     <item
-        component="ComponentInfo{com.simplemobiletools.musicplayer.pro/com.simplemobiletools.musicplayer.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.musicplayer.pro/com.simplemobiletools.musicplayer.pro.activities.SplashActivity.Pink}"
         drawable="simplemusicplayer" />
     <item
         component="ComponentInfo{com.simplemobiletools.musicplayer.pro/com.simplemobiletools.musicplayer.pro.activities.SplashActivity.Purple}"
@@ -5049,7 +5049,7 @@
         component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity}"
         drawable="simplenotes" />
     <item
-        component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Pink}"
         drawable="simplenotes" />
     <item
         component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Purple}"
@@ -5103,7 +5103,7 @@
         component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Grey_black}"
         drawable="simplenotes" />
     <item
-        component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Pink}"
         drawable="simplenotes" />
     <item
         component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Purple}"
@@ -5160,7 +5160,7 @@
         component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity}"
         drawable="simplesms" />
     <item
-        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Pink}"
         drawable="simplesms" />
     <item
         component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Purple}"
@@ -5214,7 +5214,7 @@
         component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Grey_black}"
         drawable="simplesms" />
     <item
-        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Pink}"
         drawable="simplesms" />
     <item
         component="ComponentInfo{com.simplemobiletools.smsmessenger.pro/com.simplemobiletools.smsmessenger.pro.activities.SplashActivity.Purple}"
@@ -5283,7 +5283,7 @@
         component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity}"
         drawable="simplethankyou" />
     <item
-        component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Pink}"
         drawable="simplethankyou" />
     <item
         component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Purple}"
@@ -5343,7 +5343,7 @@
         component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity}"
         drawable="simplevoicerecorder" />
     <item
-        component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Pink}"
         drawable="simplevoicerecorder" />
     <item
         component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Purple}"
@@ -5397,7 +5397,7 @@
         component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Grey_black}"
         drawable="simplevoicerecorder" />
     <item
-        component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.(((Pink)))}"
+        component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Pink}"
         drawable="simplevoicerecorder" />
     <item
         component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Purple}"
