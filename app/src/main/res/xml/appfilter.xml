@@ -7139,6 +7139,18 @@
         component="ComponentInfo{eu.kanade.tachiyomi.az/eu.kanade.tachiyomi.ui.main.MainActivity}"
         drawable="tachiyomi" />
     <item
+        component="ComponentInfo{eu.kanade.tachiyomi.debug/eu.kanade.tachiyomi.ui.main.MainActivity}"
+        drawable="tachiyomi" />        
+    <item
+        component="ComponentInfo{tachiyomi.mangadex/eu.kanade.tachiyomi.ui.main.MainActivity"
+        drawable="tachiyomi" />
+    <item
+        component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}"
+        drawable="tachiyomi" />
+    <item
+        component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity"
+        drawable="tachiyomi" />
+    <item
         component="ComponentInfo{com.madlonkay.orgro/com.madlonkay.orgro.MainActivity}"
         drawable="thetranslator" />
     <item
@@ -7177,6 +7189,7 @@
     <item
         component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
         drawable="camera2" />
+
     <!-- Nova Launcher specific -->
     <item
         component=":BROWSER"
