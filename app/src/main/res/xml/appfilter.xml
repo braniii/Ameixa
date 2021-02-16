@@ -7156,7 +7156,27 @@
     <item
         component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/ComponentInfo{com.gmail.anubhavdas54.whatsdeleted.MainActivity}"
         drawable="whatsdeleted" />
-        
+    <item
+        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
+        drawable="discord" />
+    <item
+        component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}"
+        drawable="photomath" />
+    <item
+        component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}"
+        drawable="pinterest" />
+    <item
+        component="ComponentInfo{com.pinterest.twa/com.pinterest.twa.LauncherActivity}"
+        drawable="pinterest" />
+    <item
+        component="ComponentInfo{dev.pesic.rpncalc/dev.pesic.rpncalc.MainActivity}"
+        drawable="rpncalc" />
+    <item
+        component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
+        drawable="shazam" />
+    <item
+        component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
+        drawable="camera2" />
     <!-- Nova Launcher specific -->
     <item
         component=":BROWSER"
