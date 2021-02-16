@@ -63,6 +63,117 @@
     <item
         component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
         drawable="spotify" />
+    <item
+        component="ComponentInfo{cz.alza.eshop/cz.alza.eshop.common.activity.proxy.HomeProxyActivity}"
+        drawable="alzacz" />
+    <item
+        component="ComponentInfo{com.bitwala.app/com.bitwala.app.MainActivity}"
+        drawable="bitwala" />
+    <item
+        component="ComponentInfo{com.blockfolio.blockfolio/com.blockfolio.blockfolio.SplashActivity}"
+        drawable="blockfolio" />
+    <item
+        component="ComponentInfo{io.bluewallet.bluewallet/io.bluewallet.bluewallet.MainActivity}"
+        drawable="bluewallet" />
+    <item
+        component="ComponentInfo{co.mona.android/co.mona.android.SplashActivity}"
+        drawable="cryptocom" />
+    <item
+        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="googlemaps" />
+    <item
+        component="ComponentInfo{cz.seznam.mapy/cz.seznam.mapy.MapActivity}"
+        drawable="mapycz" />
+    <item
+        component="ComponentInfo{cz.airbank.android/cz.airbank.mb.android.activity.unsecured.LandingActivity}"
+        drawable="myairbank" />
+    <item
+        component="ComponentInfo{com.ouraring.oura/com.ouraring.oura.LauncherActivity}"
+        drawable="oura" />
+    <item
+        component="ComponentInfo{cz.fhejl.pubtran/cz.fhejl.pubtran.activity.MainActivity}"
+        drawable="pubtran" />
+    <item
+        component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}"
+        drawable="revolut" />
+    <item
+        component="ComponentInfo{life.simple/life.simple.MainActivity}"
+        drawable="simple" />
+    <item
+        component="ComponentInfo{zapsolutions.zap/zapsolutions.zap.LandingActivity}"
+        drawable="zapwallet" />
+    <item
+        component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{com.oneplus.mms/com.oneplus.mss.ui.ConversationList}"
+        drawable="sms" />
+    <item
+        component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
+        drawable="calculator2" />
+    <item
+        component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
+        drawable="clock" />
+    <item
+        component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
+        drawable="filemanager" />
+    <item
+        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="camera2" />
+    <item
+        component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}"
+        drawable="soundrecorder" />
+    <item
+        component="ComponentInfo{com.standardnotes/com.standardnotes.MainActivity}"
+        drawable="standardnotes" />
+    <item
+        component="ComponentInfo{cz.fio.sb2/cz.fio.sb2.view.MainActivity}"
+        drawable="fiobankacz" />
+    <item
+        component="ComponentInfo{cz.csob.smartbanking/com.smartbanking.android.sbank.app.activity.SplashActivity}"
+        drawable="csobsmartbanking" />
+    <item
+        component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}"
+        drawable="threema" />
+    <item
+        component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}"
+        drawable="telegramx" />
+    <item
+        component="ComponentInfo{com.synology.dsdrive/com.synology.dsdrive.activity.SplashActivity}"
+        drawable="synologydrive" />
+    <item
+        component="ComponentInfo{com.synology.moments/com.synology.moments.view.SplashActivity}"
+        drawable="synologymoments" />
+    <item
+        component="ComponentInfo{com.enki.insights/com.enki.insights.MainActivity}"
+        drawable="enki" />
+    <item
+        component="ComponentInfo{cz.csob.sp/cz.csob.sp.splash.SplashActivity}"
+        drawable="csobdokapsy" />
+    <item
+        component="ComponentInfo{com.droid4you.application.wallet/com.droid4you.application.wallet.SplashScreenActivity}"
+        drawable="walletbudgetbakers" />
+    <item
+        component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}"
+        drawable="businesscalendar" />
+    <item
+        component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}"
+        drawable="mullvadvpn" />
+    <item
+        component="ComponentInfo{net.sjava.officereader/net.sjava.officereader.ui.activities.MainActivity}"
+        drawable="officereader" />
+    <item
+        component="ComponentInfo{cz.dpp.praguepublictransport/cz.dpp.praguepublictransport.activities.GuideActivity}"
+        drawable="pidlitacka" />
+    <item
+        component="ComponentInfo{cz.postaonline.android/cz.cyberfox.postaonline2.activity.MainPageActivity}"
+        drawable="postaonline" />
+    <item
+        component="ComponentInfo{cz.rekola.app/cz.rekola.app.activity.SplashActivity}"
+        drawable="rekolacz" />
 
 
     <!-- FOSS icons -->
@@ -364,6 +475,9 @@
         drawable="blokada" />
     <item
         component="ComponentInfo{org.blokada.alarm/core.PanelActivity}"
+        drawable="blokada" />
+    <item
+        component="ComponentInfo{org.blokada.fem.fdroid/ui.MainActivity}"
         drawable="blokada" />
     <item
         component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}"
