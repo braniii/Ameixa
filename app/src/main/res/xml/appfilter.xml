@@ -7189,6 +7189,9 @@
     <item
         component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
         drawable="camera2" />
+    <item
+        component="ComponentInfo{oppen.gemini.ariane/oppen.ariane.ui.GemActivity}"
+        drawable="ariane" />
 
     <!-- Nova Launcher specific -->
     <item
