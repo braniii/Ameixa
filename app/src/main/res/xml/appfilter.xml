@@ -7192,6 +7192,9 @@
     <item
         component="ComponentInfo{oppen.gemini.ariane/oppen.ariane.ui.GemActivity}"
         drawable="ariane" />
+    <item
+        component="ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}"
+        drawable="lemmur" />
 
     <!-- Nova Launcher specific -->
     <item
