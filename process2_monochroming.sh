@@ -19,7 +19,30 @@ DARK_COLOR="#232323"
 SVG_TAGS_TO_SEARCH="rect path g"
 SVG_ATTR_TO_SEARCH="fill stroke"
 # I want to see the sun, blotted out from the sky
-COLORS_TO_CONVERT_TO_DARK="#009688 #00bcd4 #03a9f4 #1a237e #2196f3 #263238 #3f51b5 #4caf50 #607d8b #673ab7 #795548 #8bc34a #9c27b0 #9e9e9e #bf360c #cddc39 #e91e63 #f44336 #ff5722 #ff9800 #ffc107 #ffeb3b"
+COLORS_TO_CONVERT_TO_DARK="
+    #009688
+    #00bcd4
+    #03a9f4
+    #1a237e
+    #2196f3
+    #263238
+    #3f51b5
+    #4caf50
+    #607d8b
+    #673ab7
+    #795548
+    #8bc34a
+    #9c27b0
+    #9e9e9e
+    #bf360c
+    #cddc39
+    #e91e63
+    #f44336
+    #ff5722
+    #ff9800
+    #ffc107
+    #ffeb3b
+"
 
 echo "List colors to convert to ${DARK_COLOR}:"
 for TAG in ${SVG_TAGS_TO_SEARCH}
@@ -29,7 +52,7 @@ do
         for COLOR in ${COLORS_TO_CONVERT_TO_DARK}
         do
             COUNT=$(grep -E "<${TAG} .*${ATTR}=\"${COLOR}\"" *.svg | wc -l | awk '{print $1}')
-            if [ "${COUNT}" -ne "0" ]
+            if [[ "${COUNT}" -ne "0" ]]
             then
                 echo "<${TAG} ${ATTR}=\"${COLOR}\" -> ${COUNT}"
             fi
