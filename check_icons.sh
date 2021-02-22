@@ -12,6 +12,17 @@ DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 
 return_value=0
 
+echo Checking "each application component name is unique in ${DEFINITION_FILE}"
+DUPLICATES=$(grep "component=" ${DEFINITION_FILE} | sort | uniq --count --repeated)
+DUPLICATES_COUNT=$(echo "${DUPLICATES}" | sed '/^$/d' | wc -l | awk '{print $0}')
+if [[ $DUPLICATES_COUNT -ne 0 ]]
+then
+    echo "Found duplicates in ${DEFINITION_FILE}"
+    echo -e "${DUPLICATES}"
+    return_value=$((return_value + ${DUPLICATES_COUNT}))
+fi
+echo "ok, done"
+
 echo Checking "each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type"...
 ICON_DEFINITIONS=$(sed 's/ /\n/g' ${DEFINITION_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DEFINITIONS}
@@ -19,10 +30,10 @@ do
     for TYPE in ${ICON_TYPES}
     do
         FILE="${SVG_BASE_FOLDER}/${TYPE}/${ICON}.svg"
-        if [ ! -f "${FILE}" ]
+        if [[ ! -f "${FILE}" ]]
         then
             FILETODO="${TODO_FOLDER}/${ICON}.svg"
-            if [ ! -f "${FILETODO}" ]
+            if [[ ! -f "${FILETODO}" ]]
             then
                 echo "Icon requested in ${DEFINITION_FILE} but neither file found: ${FILE} nor ${FILETODO}"
                 return_value=$((return_value + 1))
@@ -39,10 +50,10 @@ do
     for TYPE in ${ICON_TYPES}
     do
         FILE="${SVG_BASE_FOLDER}/${TYPE}/${ICON}.svg"
-        if [ ! -f "${FILE}" ]
+        if [[ ! -f "${FILE}" ]]
         then
             FILETODO="${TODO_FOLDER}/${ICON}.svg"
-            if [ ! -f "${FILETODO}" ]
+            if [[ ! -f "${FILETODO}" ]]
             then
                 echo "Icon requested in ${DRAWABLE_FILE} but neither file found: ${FILE} nor ${FILETODO}"
                 return_value=$((return_value + 1))
@@ -59,10 +70,10 @@ do
     for TYPE in ${ICON_TYPES}
     do
         FILE="${SVG_BASE_FOLDER}/${TYPE}/${ICON}.svg"
-        if [ ! -f "${FILE}" ]
+        if [[ ! -f "${FILE}" ]]
         then
             FILETODO="${TODO_FOLDER}/${ICON}.svg"
-            if [ ! -f "${FILETODO}" ]
+            if [[ ! -f "${FILETODO}" ]]
             then
                 echo "Icon requested in ${ICONPACK_FILE} but neither file found: ${FILE} nor ${FILETODO}"
                 return_value=$((return_value + 1))
@@ -77,12 +88,12 @@ for TYPE1 in ${ICON_TYPES}
 do
     for TYPE2 in ${ICON_TYPES}
     do
-        if [ "${TYPE1}" != "${TYPE2}" ]
+        if [[ "${TYPE1}" != "${TYPE2}" ]]
         then
             for SVG in ${SVG_BASE_FOLDER}/${TYPE1}/*.svg
             do
                 FILE="${SVG_BASE_FOLDER}/${TYPE2}/$(basename ${SVG})"
-                if [ ! -f "${FILE}" ]
+                if [[ ! -f "${FILE}" ]]
                 then
                     echo "File icon found in ${TYPE1} but missing in ${TYPE2}: ${FILE}"
                     return_value=$((return_value + 1))
@@ -99,7 +110,7 @@ do
     ICON_NAME=$(basename ${SVG} .svg)
     SEARCH_STRING="drawable=\"${ICON_NAME}\""
     FOUND=$(grep ${SEARCH_STRING} ${DEFINITION_FILE} | wc -l | awk '{print $0}')
-    if [ $FOUND -eq 0 ]
+    if [[ $FOUND -eq 0 ]]
     then
         echo "File found but not referenced in ${DEFINITION_FILE}: ${ICON_NAME}"
         return_value=$((return_value + 1))
@@ -113,7 +124,7 @@ do
     ICON_NAME=$(basename ${SVG} .svg)
     SEARCH_STRING="drawable=\"${ICON_NAME}\""
     FOUND=$(grep ${SEARCH_STRING} ${DRAWABLE_FILE} | wc -l | awk '{print $0}')
-    if [ $FOUND -eq 0 ]
+    if [[ $FOUND -eq 0 ]]
     then
         echo "File found but not referenced in ${DRAWABLE_FILE}: ${ICON_NAME}"
         return_value=$((return_value + 1))
@@ -127,7 +138,7 @@ do
     ICON_NAME=$(basename ${SVG} .svg)
     SEARCH_STRING="<item>${ICON_NAME}</item>"
     FOUND=$(grep ${SEARCH_STRING} ${ICONPACK_FILE} | wc -l | awk '{print $0}')
-    if [ $FOUND -eq 0 ]
+    if [[ $FOUND -eq 0 ]]
     then
         echo "File found but not referenced in ${ICONPACK_FILE}: ${ICON_NAME}"
         return_value=$((return_value + 1))
@@ -144,7 +155,7 @@ do
         for SIZE in ${ICON_SIZES}
         do
             FILE="app/src/${TYPE}/res/${SIZE}/${ICON_NAME}.png"
-            if [ ! -f "${FILE}" ]
+            if [[ ! -f "${FILE}" ]]
             then
                 echo "File icon found but generated file not found: ${FILE}"
                 return_value=$((return_value + 1))
