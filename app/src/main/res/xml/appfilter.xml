@@ -621,6 +621,9 @@
         component="ComponentInfo{at.bitfire.cadroid/at.bitfire.cadroid.MainActivity}"
         drawable="cadroid" />
     <item
+        component="ComponentInfo{com.rechnen.app/com.rechnen.app.ui.userlist.SelectUserActivity}"
+        drawable="calculate" />
+    <item
         component="ComponentInfo{com.android.calculator2/com.android.calculator2.AsxCalculator}"
         drawable="calculator" />
     <item
@@ -920,6 +923,9 @@
     <item
         component="ComponentInfo{org.androidsoft.coloring/org.androidsoft.coloring.ui.activity.SplashActivity}"
         drawable="coloring" />
+    <item
+        component="ComponentInfo{eu.quelltext.coloring/org.androidsoft.coloring.ui.activity.SplashActivity}"
+        drawable="coloringbook" />
     <item
         component="ComponentInfo{com.sgr_b2.compass/com.sgr_b2.compass.activities.MainActivity}"
         drawable="communitycompass" />
@@ -1659,6 +1665,9 @@
         component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}"
         drawable="gallery" />
     <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
+        drawable="gallery" />
+    <item
         component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}"
         drawable="game2048" />
     <item
@@ -1983,6 +1992,9 @@
         component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}"
         drawable="klooni" />
     <item
+        component="ComponentInfo{dev.lonami.klooni/dev.lonami.klooni.AndroidLauncher}"
+        drawable="klooni" />
+    <item
         component="ComponentInfo{me.impa.knockonports/me.impa.knockonports.MainActivity}"
         drawable="knockonports" />
     <item
@@ -2022,10 +2034,13 @@
         component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}"
         drawable="leafpic" />
     <item
+        component="ComponentInfo{com.alienpants.leafpicrevived/com.alienpants.leafpicrevived.activities.SplashScreen}"
+        drawable="leafpicrevived" />
+    <item
         component="ComponentInfo{org.pulpdust.lesserpad/org.pulpdust.lesserpad.LesserPadListActivity}"
         drawable="lesserpad" />
     <item
-        component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}"
+        component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}"
         drawable="lexica" />
     <item
         component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.MainActivity}"
@@ -2985,7 +3000,7 @@
         component="ComponentInfo{io.github.droidapps.pdfreader/io.github.droidapps.pdfreader.ChooseFileActivity}"
         drawable="pdfreader" />
     <item
-        component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.MainActivity_}"
+        component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.LauncherAlias}"
         drawable="pdfviewer" />
     <item
         component="ComponentInfo{name.bagi.levente.pedometer/name.bagi.levente.pedometer.Pedometer}"
@@ -3309,6 +3324,9 @@
         component="ComponentInfo{com.rj.pixelesque/com.rj.pixelesque.PixelArtEditor}"
         drawable="pixelesque" />
     <item
+        component="ComponentInfo{com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher}"
+        drawable="pixelwheels" />
+    <item
         component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}"
         drawable="plumble" />
     <item
@@ -3353,6 +3371,9 @@
     <item
         component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity}"
         drawable="privacybrowser" />
+    <item
+        component="ComponentInfo{com.wesaphzt.privatelocation/com.wesaphzt.privatelocation.MainActivity}"
+        drawable="privatelocation" />
     <item
         component="ComponentInfo{com.android.providers.media/com.android.providers.media.RingtonePickerActivity}"
         drawable="providersmedia" />
@@ -3449,6 +3470,9 @@
     <item
         component="ComponentInfo{cc.rainwave.android/cc.rainwave.android.LandingActivity}"
         drawable="rainwave" />
+    <item
+        component="ComponentInfo{de.eidottermihi.raspicheck/de.eidottermihi.rpicheck.activity.MainActivity}"
+        drawable="raspicheck" />
     <item
         component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}"
         drawable="readerforselfoss" />
@@ -4816,7 +4840,10 @@
         drawable="simplefilemanager" />
     <item
         component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}"
-        drawable="simplefilemanager" />
+        drawable="filemanager" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
+        drawable="filemanager" />
     <item
         component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity}"
         drawable="simpleflashlight" />
@@ -5784,6 +5811,9 @@
         component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}"
         drawable="stardroid" />
     <item
+        component="ComponentInfo{atm.starun.game/atm.starun.game.AndroidLauncher}"
+        drawable="starun" />
+    <item
         component="ComponentInfo{net.mabako.steamgifts/net.mabako.steamgifts.activities.MainActivity}"
         drawable="steamgifts" />
     <item
@@ -5864,6 +5894,9 @@
     <item
         component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}"
         drawable="systemappmover" />
+    <item
+        component="ComponentInfo{godau.fynn.usagedirect.system/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
+        drawable="systemusagestats" />
     <item
         component="ComponentInfo{org.pyneo.maps/org.pyneo.maps.applib.MainActivity}"
         drawable="tabulae" />
@@ -6117,6 +6150,9 @@
         component="ComponentInfo{org.billthefarmer.tuner/org.billthefarmer.tuner.MainActivity}"
         drawable="tuner" />
     <item
+        component="ComponentInfo{com.tunerly/com.tunerly.MainActivity}"
+        drawable="tunerly" />
+    <item
         component="ComponentInfo{com.maskyn.fileeditor/com.maskyn.fileeditor.HomeActivity}"
         drawable="turboeditor" />
     <item
@@ -6138,7 +6174,7 @@
         component="ComponentInfo{org.tuxemon.game/org.renpy.android.PythonActivity}"
         drawable="tuxemon" />
     <item
-        component="ComponentInfo{org.tuxpaint/org.tuxpaint.TuxPaintActivity}"
+        component="ComponentInfo{org.tuxpaint/org.tuxpaint.tuxpaintActivity}"
         drawable="tuxpaint" />
     <item
         component="ComponentInfo{org.tuxpaint/org.tuxpaint.ConfigActivity}"
