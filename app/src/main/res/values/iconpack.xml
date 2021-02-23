@@ -111,6 +111,7 @@
         <item>bvnc</item>
         <item>cachecleaner</item>
         <item>cadroid</item>
+        <item>calculate</item>
         <item>calculator</item>
         <item>calculator2</item>
         <item>caldavsync</item>
@@ -163,6 +164,7 @@
         <item>cmupdater</item>
         <item>coinbase</item>
         <item>coloring</item>
+        <item>coloringbook</item>
         <item>communitycompass</item>
         <item>compass</item>
         <item>connectbot</item>
@@ -432,6 +434,7 @@
         <item>lbry</item>
         <item>lcamera</item>
         <item>leafpic</item>
+        <item>leafpicrevived</item>
         <item>leodict</item>
         <item>lesserpad</item>
         <item>lexica</item>
@@ -681,6 +684,7 @@
         <item>pipepanic</item>
         <item>pixeldungeon</item>
         <item>pixelesque</item>
+        <item>pixelwheels</item>
         <item>plumble</item>
         <item>pocketgopher</item>
         <item>pocketmaps</item>
@@ -699,6 +703,7 @@
         <item>pretendyourexyzzy</item>
         <item>prevo</item>
         <item>privacybrowser</item>
+        <item>privatelocation</item>
         <item>proofmode</item>
         <item>protonmail</item>
         <item>providersmedia</item>
@@ -725,6 +730,7 @@
         <item>radiobeacon</item>
         <item>radiodroid</item>
         <item>rainwave</item>
+        <item>raspicheck</item>
         <item>readerforselfoss</item>
         <item>readrops</item>
         <item>receipts</item>
@@ -821,7 +827,6 @@
         <item>shuttle</item>
         <item>sicmuplayer</item>
         <item>sieben</item>
-        <item>signal</item>
         <item>signalgenerator</item>
         <item>sigspoof</item>
         <item>silentnight</item>
@@ -888,6 +893,7 @@
         <item>standalonecalendar</item>
         <item>stanley</item>
         <item>stardroid</item>
+        <item>starun</item>
         <item>steamgifts</item>
         <item>stellarium</item>
         <item>streetcomplete</item>
@@ -912,6 +918,7 @@
         <item>synergy</item>
         <item>syphon</item>
         <item>systemappmover</item>
+        <item>systemusagestats</item>
         <item>tabulae</item>
         <item>tacere</item>
         <item>tachiyomi</item>
@@ -980,6 +987,7 @@
         <item>ttleditor</item>
         <item>ttrss</item>
         <item>tuner</item>
+        <item>tunerly</item>
         <item>turboeditor</item>
         <item>turtl</item>
         <item>turtl2</item>

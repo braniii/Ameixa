@@ -111,6 +111,7 @@
     <item drawable="bvnc" />
     <item drawable="cachecleaner" />
     <item drawable="cadroid" />
+    <item drawable="calculate" />
     <item drawable="calculator" />
     <item drawable="calculator2" />
     <item drawable="caldavsync" />
@@ -163,6 +164,7 @@
     <item drawable="cmupdater" />
     <item drawable="coinbase" />
     <item drawable="coloring" />
+    <item drawable="coloringbook" />
     <item drawable="communitycompass" />
     <item drawable="compass" />
     <item drawable="connectbot" />
@@ -432,6 +434,7 @@
     <item drawable="lbry" />
     <item drawable="lcamera" />
     <item drawable="leafpic" />
+    <item drawable="leafpicrevived" />
     <item drawable="leodict" />
     <item drawable="lesserpad" />
     <item drawable="lexica" />
@@ -681,6 +684,7 @@
     <item drawable="pipepanic" />
     <item drawable="pixeldungeon" />
     <item drawable="pixelesque" />
+    <item drawable="pixelwheels" />
     <item drawable="plumble" />
     <item drawable="pocketgopher" />
     <item drawable="pocketmaps" />
@@ -699,6 +703,7 @@
     <item drawable="pretendyourexyzzy" />
     <item drawable="prevo" />
     <item drawable="privacybrowser" />
+    <item drawable="privatelocation" />
     <item drawable="proofmode" />
     <item drawable="protonmail" />
     <item drawable="providersmedia" />
@@ -725,6 +730,7 @@
     <item drawable="radiobeacon" />
     <item drawable="radiodroid" />
     <item drawable="rainwave" />
+    <item drawable="raspicheck" />
     <item drawable="readerforselfoss" />
     <item drawable="readrops" />
     <item drawable="receipts" />
@@ -821,7 +827,6 @@
     <item drawable="shuttle" />
     <item drawable="sicmuplayer" />
     <item drawable="sieben" />
-    <item drawable="signal" />
     <item drawable="signalgenerator" />
     <item drawable="sigspoof" />
     <item drawable="silentnight" />
@@ -888,6 +893,7 @@
     <item drawable="standalonecalendar" />
     <item drawable="stanley" />
     <item drawable="stardroid" />
+    <item drawable="starun" />
     <item drawable="steamgifts" />
     <item drawable="stellarium" />
     <item drawable="streetcomplete" />
@@ -912,6 +918,7 @@
     <item drawable="synergy" />
     <item drawable="syphon" />
     <item drawable="systemappmover" />
+    <item drawable="systemusagestats" />
     <item drawable="tabulae" />
     <item drawable="tacere" />
     <item drawable="tachiyomi" />
@@ -980,6 +987,7 @@
     <item drawable="ttleditor" />
     <item drawable="ttrss" />
     <item drawable="tuner" />
+    <item drawable="tunerly" />
     <item drawable="turboeditor" />
     <item drawable="turtl" />
     <item drawable="turtl2" />
