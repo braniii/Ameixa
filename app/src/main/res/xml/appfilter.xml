@@ -7165,6 +7165,9 @@
     <item
         component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
         drawable="camera2" />
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}"
+        drawable="magiskmanager" />
 
     <!-- Nova Launcher specific -->
     <item
