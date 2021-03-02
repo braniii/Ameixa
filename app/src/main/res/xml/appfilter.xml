@@ -2040,6 +2040,9 @@
         component="ComponentInfo{org.pulpdust.lesserpad/org.pulpdust.lesserpad.LesserPadListActivity}"
         drawable="lesserpad" />
     <item
+        component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}"
+        drawable="lexica" />
+    <item
         component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}"
         drawable="lexica" />
     <item
@@ -3001,6 +3004,9 @@
         drawable="pdfreader" />
     <item
         component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.LauncherAlias}"
+        drawable="pdfviewer" />
+    <item
+        component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.MainActivity_}"
         drawable="pdfviewer" />
     <item
         component="ComponentInfo{name.bagi.levente.pedometer/name.bagi.levente.pedometer.Pedometer}"
@@ -6175,6 +6181,9 @@
         drawable="tuxemon" />
     <item
         component="ComponentInfo{org.tuxpaint/org.tuxpaint.tuxpaintActivity}"
+        drawable="tuxpaint" />
+    <item
+        component="ComponentInfo{org.tuxpaint/org.tuxpaint.TuxPaintActivity}"
         drawable="tuxpaint" />
     <item
         component="ComponentInfo{org.tuxpaint/org.tuxpaint.ConfigActivity}"
