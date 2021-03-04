@@ -7210,6 +7210,15 @@
     <item
         component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
         drawable="camera2" />
+    <item
+        component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}"
+        drawable="arcticons" />
+    <item
+        component="ComponentInfo{com.bancomer.mbanking/com.bbva.bgm.loginui.activity.SplashActivityDefault}"
+        drawable="bbva" />
+    <item
+        component="ComponentInfo{com.bbva.bbvawalletmx/com.bbva.bbvawallet.modules.splash.view.SplashBActivity}"
+        drawable="bbvawallet" />
 
     <!-- Nova Launcher specific -->
     <item
