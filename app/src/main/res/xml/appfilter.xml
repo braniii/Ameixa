@@ -7219,6 +7219,9 @@
     <item
         component="ComponentInfo{com.bbva.bbvawalletmx/com.bbva.bbvawallet.modules.splash.view.SplashBActivity}"
         drawable="bbvawallet" />
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}"
+        drawable="magiskmanager" />
 
     <!-- Nova Launcher specific -->
     <item
