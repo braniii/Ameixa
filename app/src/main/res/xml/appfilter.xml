@@ -7195,6 +7195,15 @@
     <item
         component="ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}"
         drawable="lemmur" />
+    <item
+        component="ComponentInfo{app.attestation.auditor/app.attestation.auditor.AttestationActivity}"
+        drawable="auditor" />
+    <item
+        component="ComponentInfo{org.grapheneos.pdfviewer/org.grapheneos.pdfviewer.PdfViewer}"
+        drawable="graphenepdfviewer" />
+    <item
+        component="ComponentInfo{rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity}"
+        drawable="simplekeyboard" />
 
     <!-- Nova Launcher specific -->
     <item
