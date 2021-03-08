@@ -5,7 +5,7 @@
 Two icon packs (chromatic and monochromatic) that are compatible with Trebuchet, Kiss Launcher, Lawnchair Launcher, OpenLauncher, Adw, and many more launchers (basically any launcher that supports icon packs).
 It's a material design inspired theme that aims to provide a consistent and minimalistic look to your device.
 Some code from the [Frost icon pack](https://github.com/dkanada/frost) is utilized (thank you dkanada!).
-Only [F-Droid](https://f-droid.org/) hosted apps are supported.
+Mainly [F-Droid](https://f-droid.org/) hosted apps are supported. and only icon requests of FOSS apps are accepted.
 
 
 ## Download
