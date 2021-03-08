@@ -7222,6 +7222,19 @@
     <item
         component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}"
         drawable="magiskmanager" />
+    <item
+	component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}"
+	drawable="sharetocomputer"/>
+    <item
+	component="ComponentInfo{org.kde.bettercounter/org.kde.bettercounter.ui.MainActivity}"
+	drawable="bettercounter"/>
+    <item
+	component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}"
+	drawable="zoom"/>
+    <item
+	component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
+	drawable="googlemeet"/>
+
 
     <!-- Nova Launcher specific -->
     <item
