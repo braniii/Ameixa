@@ -7211,6 +7211,15 @@
         component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
         drawable="camera2" />
     <item
+        component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}"
+        drawable="dbnavigator"/>
+    <item
+        component="ComponentInfo{com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity}"
+        drawable="ebaykleinanzeigen"/>
+    <item
+        component="ComponentInfo{com.superthomaslab.hueessentials/com.superthomaslab.hueessentials.MainActivity}"
+        drawable="hueessentials"/>
+    <item
         component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}"
         drawable="arcticons" />
     <item
