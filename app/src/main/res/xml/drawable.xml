@@ -18,6 +18,7 @@
     <item drawable="alarmio" />
     <item drawable="alogcatroot" />
     <item drawable="altcoin" />
+    <item drawable="alzacz" />
     <item drawable="amaze" />
     <item drawable="ametro" />
     <item drawable="andbible" />
@@ -46,7 +47,9 @@
     <item drawable="appmanager" />
     <item drawable="apps" />
     <item drawable="aptoide" />
+    <item drawable="arcticons" />
     <item drawable="aria2android" />
+    <item drawable="ariane" />
     <item drawable="arxiv" />
     <item drawable="arxivexplorer" />
     <item drawable="asciicam" />
@@ -56,6 +59,7 @@
     <item drawable="atarashii" />
     <item drawable="atomic" />
     <item drawable="audiofx" />
+    <item drawable="auditor" />
     <item drawable="aurdroid" />
     <item drawable="aurora" />
     <item drawable="auroradroid" />
@@ -66,15 +70,19 @@
     <item drawable="babysleepsounds" />
     <item drawable="barcodegen" />
     <item drawable="barcodescanner" />
+    <item drawable="barcodescanner2" />
     <item drawable="baresip" />
     <item drawable="batshiit" />
     <item drawable="batterychargelimit" />
     <item drawable="batteryfu" />
     <item drawable="batterylevel" />
     <item drawable="baumann" />
+    <item drawable="bbva" />
+    <item drawable="bbvawallet" />
     <item drawable="beamshare" />
     <item drawable="beem" />
     <item drawable="behekeyboard" />
+    <item drawable="bettercounter" />
     <item drawable="biglybt" />
     <item drawable="bimba" />
     <item drawable="binaryeye" />
@@ -85,12 +93,15 @@
     <item drawable="bitconium" />
     <item drawable="bites" />
     <item drawable="bitmask" />
+    <item drawable="bitwala" />
     <item drawable="bitwarden" />
+    <item drawable="blockfolio" />
     <item drawable="blockinger" />
     <item drawable="blokada" />
     <item drawable="bluemono" />
     <item drawable="bluetooth" />
     <item drawable="bluetoothterminal" />
+    <item drawable="bluewallet" />
     <item drawable="bobball" />
     <item drawable="bombusmod" />
     <item drawable="bookcatalogue" />
@@ -107,6 +118,7 @@
     <item drawable="budget" />
     <item drawable="budgetwatch" />
     <item drawable="bugreport" />
+    <item drawable="businesscalendar" />
     <item drawable="busybox" />
     <item drawable="bvnc" />
     <item drawable="cachecleaner" />
@@ -186,7 +198,10 @@
     <item drawable="crocodilenote" />
     <item drawable="cronograma" />
     <item drawable="crosswords" />
+    <item drawable="cryptocom" />
     <item drawable="csipsimple" />
+    <item drawable="csobdokapsy" />
+    <item drawable="csobsmartbanking" />
     <item drawable="csploit2" />
     <item drawable="ctemplar" />
     <item drawable="cupsprint" />
@@ -196,6 +211,7 @@
     <item drawable="dashclock" />
     <item drawable="datastats" />
     <item drawable="davdroid" />
+    <item drawable="dbnavigator" />
     <item drawable="debiandroid" />
     <item drawable="debiankit" />
     <item drawable="decsynccc" />
@@ -218,6 +234,7 @@
     <item drawable="dimmer" />
     <item drawable="dir" />
     <item drawable="disablemanager" />
+    <item drawable="discord" />
     <item drawable="diskusage" />
     <item drawable="disrootapp" />
     <item drawable="dngprocessor" />
@@ -247,6 +264,7 @@
     <item drawable="easydice" />
     <item drawable="easytoken" />
     <item drawable="easyxkcd" />
+    <item drawable="ebaykleinanzeigen" />
     <item drawable="eclairmobile" />
     <item drawable="eddymalou" />
     <item drawable="editor" />
@@ -259,6 +277,7 @@
     <item drawable="ella" />
     <item drawable="emeralddialer" />
     <item drawable="enigmandroid" />
+    <item drawable="enki" />
     <item drawable="ensichat" />
     <item drawable="enumbers" />
     <item drawable="episodes" />
@@ -294,6 +313,7 @@
     <item drawable="filemanagerpro" />
     <item drawable="filemanagersc" />
     <item drawable="findmyphone" />
+    <item drawable="fiobankacz" />
     <item drawable="firefox" />
     <item drawable="firefoxfocus" />
     <item drawable="firewall" />
@@ -350,10 +370,13 @@
     <item drawable="gobandroid" />
     <item drawable="goblim" />
     <item drawable="goodtime" />
+    <item drawable="googlemaps" />
+    <item drawable="googlemeet" />
     <item drawable="gpslogger" />
     <item drawable="gpstest" />
     <item drawable="gramophone" />
     <item drawable="graph89" />
+    <item drawable="graphenepdfviewer" />
     <item drawable="green" />
     <item drawable="greenaddress" />
     <item drawable="greenbits" />
@@ -373,6 +396,7 @@
     <item drawable="holocounter" />
     <item drawable="holokenmod" />
     <item drawable="hourlyreminder" />
+    <item drawable="hueessentials" />
     <item drawable="husky" />
     <item drawable="hwmanager" />
     <item drawable="hyperrogue" />
@@ -388,6 +412,7 @@
     <item drawable="impression" />
     <item drawable="impressremote" />
     <item drawable="imsicatcher" />
+    <item drawable="infinity" />
     <item drawable="instagrabber" />
     <item drawable="intentexplode" />
     <item drawable="intentintercept" />
@@ -429,16 +454,19 @@
     <item drawable="kore" />
     <item drawable="koreader" />
     <item drawable="kungfoobarracuda" />
+    <item drawable="kurobaex" />
     <item drawable="labcoat" />
     <item drawable="lawnchair" />
     <item drawable="lbry" />
     <item drawable="lcamera" />
     <item drawable="leafpic" />
     <item drawable="leafpicrevived" />
+    <item drawable="lemmur" />
     <item drawable="leodict" />
     <item drawable="lesserpad" />
     <item drawable="lexica" />
     <item drawable="liberario" />
+    <item drawable="liberovocab" />
     <item drawable="libreoffice" />
     <item drawable="librerapro" />
     <item drawable="libretasks" />
@@ -476,6 +504,7 @@
     <item drawable="manyverse" />
     <item drawable="maps" />
     <item drawable="mapsme" />
+    <item drawable="mapycz" />
     <item drawable="marblemaps" />
     <item drawable="markdownview" />
     <item drawable="markers" />
@@ -530,6 +559,7 @@
     <item drawable="mpdroid" />
     <item drawable="mpv" />
     <item drawable="mtgfamiliar" />
+    <item drawable="mullvadvpn" />
     <item drawable="multirommgr" />
     <item drawable="multivnc" />
     <item drawable="mupdf" />
@@ -539,6 +569,7 @@
     <item drawable="mustard" />
     <item drawable="mustardmod" />
     <item drawable="muzei" />
+    <item drawable="myairbank" />
     <item drawable="myapplist" />
     <item drawable="mybanq" />
     <item drawable="myexpenses" />
@@ -598,6 +629,8 @@
     <item drawable="oeffidirections" />
     <item drawable="oeffiplans" />
     <item drawable="oeffistations" />
+    <item drawable="officereader" />
+    <item drawable="ohmsnow" />
     <item drawable="oishoppinglist" />
     <item drawable="omninotes" />
     <item drawable="omniswitch" />
@@ -632,6 +665,7 @@
     <item drawable="openwlanmap" />
     <item drawable="orbot" />
     <item drawable="orfox" />
+    <item drawable="orgro" />
     <item drawable="orgzly" />
     <item drawable="orwall" />
     <item drawable="orweb" />
@@ -645,6 +679,7 @@
     <item drawable="otp" />
     <item drawable="otpauth" />
     <item drawable="otpplus" />
+    <item drawable="oura" />
     <item drawable="overchan" />
     <item drawable="owncloud" />
     <item drawable="owncloudbeta" />
@@ -677,10 +712,13 @@
     <item drawable="persiancalendar" />
     <item drawable="pftpd" />
     <item drawable="phone" />
+    <item drawable="photomath" />
     <item drawable="phyphox" />
     <item drawable="piano" />
+    <item drawable="pidlitacka" />
     <item drawable="piholedroid" />
     <item drawable="pimplepopper" />
+    <item drawable="pinterest" />
     <item drawable="pipepanic" />
     <item drawable="pixeldungeon" />
     <item drawable="pixelesque" />
@@ -695,6 +733,7 @@
     <item drawable="pomodoro" />
     <item drawable="portauthority" />
     <item drawable="posidon" />
+    <item drawable="postaonline" />
     <item drawable="powerapp" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
@@ -707,6 +746,7 @@
     <item drawable="proofmode" />
     <item drawable="protonmail" />
     <item drawable="providersmedia" />
+    <item drawable="pubtran" />
     <item drawable="puff" />
     <item drawable="puma" />
     <item drawable="punchlinebingo" />
@@ -743,12 +783,14 @@
     <item drawable="redreader" />
     <item drawable="regex" />
     <item drawable="rekado" />
+    <item drawable="rekolacz" />
     <item drawable="remotekeyboard" />
     <item drawable="repay" />
     <item drawable="retroarch" />
     <item drawable="retroboy" />
     <item drawable="retrobreaker" />
     <item drawable="retroshare" />
+    <item drawable="revolut" />
     <item drawable="revolution" />
     <item drawable="rgbtool" />
     <item drawable="ricoh" />
@@ -763,6 +805,7 @@
     <item drawable="roundr" />
     <item drawable="routerkeygen" />
     <item drawable="rpn" />
+    <item drawable="rpncalc" />
     <item drawable="runnerup" />
     <item drawable="sage" />
     <item drawable="sand" />
@@ -820,16 +863,21 @@
     <item drawable="shadereditor" />
     <item drawable="shadowsocks" />
     <item drawable="sharetoclipboard" />
+    <item drawable="sharetocomputer" />
     <item drawable="shareviahttp" />
     <item drawable="shatteredpixel" />
+    <item drawable="shazam" />
     <item drawable="shelter" />
+    <item drawable="shitter" />
     <item drawable="shoppinglist" />
     <item drawable="shuttle" />
     <item drawable="sicmuplayer" />
     <item drawable="sieben" />
+    <item drawable="signal" />
     <item drawable="signalgenerator" />
     <item drawable="sigspoof" />
     <item drawable="silentnight" />
+    <item drawable="simple" />
     <item drawable="simplealarm" />
     <item drawable="simpleapplauncher" />
     <item drawable="simplecalculator" />
@@ -844,6 +892,7 @@
     <item drawable="simplefilemanager" />
     <item drawable="simpleflashlight" />
     <item drawable="simplegallery" />
+    <item drawable="simplekeyboard" />
     <item drawable="simplemusicplayer" />
     <item drawable="simplenotes" />
     <item drawable="simpleprotocolplayer" />
@@ -891,6 +940,7 @@
     <item drawable="sqrl" />
     <item drawable="squeez" />
     <item drawable="standalonecalendar" />
+    <item drawable="standardnotes" />
     <item drawable="stanley" />
     <item drawable="stardroid" />
     <item drawable="starun" />
@@ -916,6 +966,8 @@
     <item drawable="syncthing" />
     <item drawable="syncthingcamera" />
     <item drawable="synergy" />
+    <item drawable="synologydrive" />
+    <item drawable="synologymoments" />
     <item drawable="syphon" />
     <item drawable="systemappmover" />
     <item drawable="systemusagestats" />
@@ -935,6 +987,7 @@
     <item drawable="td" />
     <item drawable="teatimer" />
     <item drawable="telegram" />
+    <item drawable="telegramx" />
     <item drawable="tempmonitor" />
     <item drawable="terminal" />
     <item drawable="terminalemulator" />
@@ -948,6 +1001,8 @@
     <item drawable="textsecure" />
     <item drawable="textwarrior" />
     <item drawable="themes" />
+    <item drawable="thetranslator" />
+    <item drawable="threema" />
     <item drawable="tickmate" />
     <item drawable="tide" />
     <item drawable="tigase" />
@@ -1034,6 +1089,7 @@
     <item drawable="vxconnectbot" />
     <item drawable="wakeonlan" />
     <item drawable="wallabag" />
+    <item drawable="walletbudgetbakers" />
     <item drawable="walleth" />
     <item drawable="wallpaper" />
     <item drawable="wally" />
@@ -1049,6 +1105,7 @@
     <item drawable="wetter" />
     <item drawable="whatsapp" />
     <item drawable="whatsappbetaupdater" />
+    <item drawable="whatsdeleted" />
     <item drawable="wheelmap" />
     <item drawable="whereyougo" />
     <item drawable="whisperpush" />
@@ -1100,4 +1157,6 @@
     <item drawable="yoke" />
     <item drawable="yubico" />
     <item drawable="zapp" />
+    <item drawable="zapwallet" />
+    <item drawable="zoom" />
 </resources>

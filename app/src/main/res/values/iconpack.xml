@@ -18,6 +18,7 @@
         <item>alarmio</item>
         <item>alogcatroot</item>
         <item>altcoin</item>
+        <item>alzacz</item>
         <item>amaze</item>
         <item>ametro</item>
         <item>andbible</item>
@@ -46,7 +47,9 @@
         <item>appmanager</item>
         <item>apps</item>
         <item>aptoide</item>
+        <item>arcticons</item>
         <item>aria2android</item>
+        <item>ariane</item>
         <item>arxiv</item>
         <item>arxivexplorer</item>
         <item>asciicam</item>
@@ -56,6 +59,7 @@
         <item>atarashii</item>
         <item>atomic</item>
         <item>audiofx</item>
+        <item>auditor</item>
         <item>aurdroid</item>
         <item>aurora</item>
         <item>auroradroid</item>
@@ -66,15 +70,19 @@
         <item>babysleepsounds</item>
         <item>barcodegen</item>
         <item>barcodescanner</item>
+        <item>barcodescanner2</item>
         <item>baresip</item>
         <item>batshiit</item>
         <item>batterychargelimit</item>
         <item>batteryfu</item>
         <item>batterylevel</item>
         <item>baumann</item>
+        <item>bbva</item>
+        <item>bbvawallet</item>
         <item>beamshare</item>
         <item>beem</item>
         <item>behekeyboard</item>
+        <item>bettercounter</item>
         <item>biglybt</item>
         <item>bimba</item>
         <item>binaryeye</item>
@@ -85,12 +93,15 @@
         <item>bitconium</item>
         <item>bites</item>
         <item>bitmask</item>
+        <item>bitwala</item>
         <item>bitwarden</item>
+        <item>blockfolio</item>
         <item>blockinger</item>
         <item>blokada</item>
         <item>bluemono</item>
         <item>bluetooth</item>
         <item>bluetoothterminal</item>
+        <item>bluewallet</item>
         <item>bobball</item>
         <item>bombusmod</item>
         <item>bookcatalogue</item>
@@ -107,6 +118,7 @@
         <item>budget</item>
         <item>budgetwatch</item>
         <item>bugreport</item>
+        <item>businesscalendar</item>
         <item>busybox</item>
         <item>bvnc</item>
         <item>cachecleaner</item>
@@ -186,7 +198,10 @@
         <item>crocodilenote</item>
         <item>cronograma</item>
         <item>crosswords</item>
+        <item>cryptocom</item>
         <item>csipsimple</item>
+        <item>csobdokapsy</item>
+        <item>csobsmartbanking</item>
         <item>csploit2</item>
         <item>ctemplar</item>
         <item>cupsprint</item>
@@ -196,6 +211,7 @@
         <item>dashclock</item>
         <item>datastats</item>
         <item>davdroid</item>
+        <item>dbnavigator</item>
         <item>debiandroid</item>
         <item>debiankit</item>
         <item>decsynccc</item>
@@ -218,6 +234,7 @@
         <item>dimmer</item>
         <item>dir</item>
         <item>disablemanager</item>
+        <item>discord</item>
         <item>diskusage</item>
         <item>disrootapp</item>
         <item>dngprocessor</item>
@@ -247,6 +264,7 @@
         <item>easydice</item>
         <item>easytoken</item>
         <item>easyxkcd</item>
+        <item>ebaykleinanzeigen</item>
         <item>eclairmobile</item>
         <item>eddymalou</item>
         <item>editor</item>
@@ -259,6 +277,7 @@
         <item>ella</item>
         <item>emeralddialer</item>
         <item>enigmandroid</item>
+        <item>enki</item>
         <item>ensichat</item>
         <item>enumbers</item>
         <item>episodes</item>
@@ -294,6 +313,7 @@
         <item>filemanagerpro</item>
         <item>filemanagersc</item>
         <item>findmyphone</item>
+        <item>fiobankacz</item>
         <item>firefox</item>
         <item>firefoxfocus</item>
         <item>firewall</item>
@@ -350,10 +370,13 @@
         <item>gobandroid</item>
         <item>goblim</item>
         <item>goodtime</item>
+        <item>googlemaps</item>
+        <item>googlemeet</item>
         <item>gpslogger</item>
         <item>gpstest</item>
         <item>gramophone</item>
         <item>graph89</item>
+        <item>graphenepdfviewer</item>
         <item>green</item>
         <item>greenaddress</item>
         <item>greenbits</item>
@@ -373,6 +396,7 @@
         <item>holocounter</item>
         <item>holokenmod</item>
         <item>hourlyreminder</item>
+        <item>hueessentials</item>
         <item>husky</item>
         <item>hwmanager</item>
         <item>hyperrogue</item>
@@ -388,6 +412,7 @@
         <item>impression</item>
         <item>impressremote</item>
         <item>imsicatcher</item>
+        <item>infinity</item>
         <item>instagrabber</item>
         <item>intentexplode</item>
         <item>intentintercept</item>
@@ -429,16 +454,19 @@
         <item>kore</item>
         <item>koreader</item>
         <item>kungfoobarracuda</item>
+        <item>kurobaex</item>
         <item>labcoat</item>
         <item>lawnchair</item>
         <item>lbry</item>
         <item>lcamera</item>
         <item>leafpic</item>
         <item>leafpicrevived</item>
+        <item>lemmur</item>
         <item>leodict</item>
         <item>lesserpad</item>
         <item>lexica</item>
         <item>liberario</item>
+        <item>liberovocab</item>
         <item>libreoffice</item>
         <item>librerapro</item>
         <item>libretasks</item>
@@ -476,6 +504,7 @@
         <item>manyverse</item>
         <item>maps</item>
         <item>mapsme</item>
+        <item>mapycz</item>
         <item>marblemaps</item>
         <item>markdownview</item>
         <item>markers</item>
@@ -530,6 +559,7 @@
         <item>mpdroid</item>
         <item>mpv</item>
         <item>mtgfamiliar</item>
+        <item>mullvadvpn</item>
         <item>multirommgr</item>
         <item>multivnc</item>
         <item>mupdf</item>
@@ -539,6 +569,7 @@
         <item>mustard</item>
         <item>mustardmod</item>
         <item>muzei</item>
+        <item>myairbank</item>
         <item>myapplist</item>
         <item>mybanq</item>
         <item>myexpenses</item>
@@ -598,6 +629,8 @@
         <item>oeffidirections</item>
         <item>oeffiplans</item>
         <item>oeffistations</item>
+        <item>officereader</item>
+        <item>ohmsnow</item>
         <item>oishoppinglist</item>
         <item>omninotes</item>
         <item>omniswitch</item>
@@ -632,6 +665,7 @@
         <item>openwlanmap</item>
         <item>orbot</item>
         <item>orfox</item>
+        <item>orgro</item>
         <item>orgzly</item>
         <item>orwall</item>
         <item>orweb</item>
@@ -645,6 +679,7 @@
         <item>otp</item>
         <item>otpauth</item>
         <item>otpplus</item>
+        <item>oura</item>
         <item>overchan</item>
         <item>owncloud</item>
         <item>owncloudbeta</item>
@@ -677,10 +712,13 @@
         <item>persiancalendar</item>
         <item>pftpd</item>
         <item>phone</item>
+        <item>photomath</item>
         <item>phyphox</item>
         <item>piano</item>
+        <item>pidlitacka</item>
         <item>piholedroid</item>
         <item>pimplepopper</item>
+        <item>pinterest</item>
         <item>pipepanic</item>
         <item>pixeldungeon</item>
         <item>pixelesque</item>
@@ -695,6 +733,7 @@
         <item>pomodoro</item>
         <item>portauthority</item>
         <item>posidon</item>
+        <item>postaonline</item>
         <item>powerapp</item>
         <item>ppsspp</item>
         <item>practicehub</item>
@@ -707,6 +746,7 @@
         <item>proofmode</item>
         <item>protonmail</item>
         <item>providersmedia</item>
+        <item>pubtran</item>
         <item>puff</item>
         <item>puma</item>
         <item>punchlinebingo</item>
@@ -743,12 +783,14 @@
         <item>redreader</item>
         <item>regex</item>
         <item>rekado</item>
+        <item>rekolacz</item>
         <item>remotekeyboard</item>
         <item>repay</item>
         <item>retroarch</item>
         <item>retroboy</item>
         <item>retrobreaker</item>
         <item>retroshare</item>
+        <item>revolut</item>
         <item>revolution</item>
         <item>rgbtool</item>
         <item>ricoh</item>
@@ -763,6 +805,7 @@
         <item>roundr</item>
         <item>routerkeygen</item>
         <item>rpn</item>
+        <item>rpncalc</item>
         <item>runnerup</item>
         <item>sage</item>
         <item>sand</item>
@@ -820,16 +863,21 @@
         <item>shadereditor</item>
         <item>shadowsocks</item>
         <item>sharetoclipboard</item>
+        <item>sharetocomputer</item>
         <item>shareviahttp</item>
         <item>shatteredpixel</item>
+        <item>shazam</item>
         <item>shelter</item>
+        <item>shitter</item>
         <item>shoppinglist</item>
         <item>shuttle</item>
         <item>sicmuplayer</item>
         <item>sieben</item>
+        <item>signal</item>
         <item>signalgenerator</item>
         <item>sigspoof</item>
         <item>silentnight</item>
+        <item>simple</item>
         <item>simplealarm</item>
         <item>simpleapplauncher</item>
         <item>simplecalculator</item>
@@ -844,6 +892,7 @@
         <item>simplefilemanager</item>
         <item>simpleflashlight</item>
         <item>simplegallery</item>
+        <item>simplekeyboard</item>
         <item>simplemusicplayer</item>
         <item>simplenotes</item>
         <item>simpleprotocolplayer</item>
@@ -891,6 +940,7 @@
         <item>sqrl</item>
         <item>squeez</item>
         <item>standalonecalendar</item>
+        <item>standardnotes</item>
         <item>stanley</item>
         <item>stardroid</item>
         <item>starun</item>
@@ -916,6 +966,8 @@
         <item>syncthing</item>
         <item>syncthingcamera</item>
         <item>synergy</item>
+        <item>synologydrive</item>
+        <item>synologymoments</item>
         <item>syphon</item>
         <item>systemappmover</item>
         <item>systemusagestats</item>
@@ -935,6 +987,7 @@
         <item>td</item>
         <item>teatimer</item>
         <item>telegram</item>
+        <item>telegramx</item>
         <item>tempmonitor</item>
         <item>terminal</item>
         <item>terminalemulator</item>
@@ -948,6 +1001,8 @@
         <item>textsecure</item>
         <item>textwarrior</item>
         <item>themes</item>
+        <item>thetranslator</item>
+        <item>threema</item>
         <item>tickmate</item>
         <item>tide</item>
         <item>tigase</item>
@@ -1034,6 +1089,7 @@
         <item>vxconnectbot</item>
         <item>wakeonlan</item>
         <item>wallabag</item>
+        <item>walletbudgetbakers</item>
         <item>walleth</item>
         <item>wallpaper</item>
         <item>wally</item>
@@ -1049,6 +1105,7 @@
         <item>wetter</item>
         <item>whatsapp</item>
         <item>whatsappbetaupdater</item>
+        <item>whatsdeleted</item>
         <item>wheelmap</item>
         <item>whereyougo</item>
         <item>whisperpush</item>
@@ -1100,5 +1157,7 @@
         <item>yoke</item>
         <item>yubico</item>
         <item>zapp</item>
+        <item>zapwallet</item>
+        <item>zoom</item>
     </string-array>
 </resources>
