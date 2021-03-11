@@ -7,10 +7,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="28.746668"
    height="28.746668"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="dbnavigator.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="806"
+     inkscape:window-height="480"
+     id="namedview430"
+     showgrid="false"
+     inkscape:zoom="9.9006424"
+     inkscape:cx="8.9406794"
+     inkscape:cy="14.383998"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
@@ -2190,32 +2214,5 @@
            d="M 0,0 H -4.946 V 13.47 H 0 c 3.484,0 5.349,-2.183 5.349,-6.672 C 5.349,2.9 4.105,0.033 0,0 m 2.147,6.518 c 0,2.712 -0.282,4.832 -3.204,4.832 H -1.712 V 2.183 h 1.151 c 1.711,0 2.708,1.372 2.708,4.335" />
       </g>
     </g>
-  </g>
-  <g
-     id="layer3"
-     style="display:inline">
-    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.07038245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4387-7-8"
-       width="13.100284"
-       height="13.100285"
-       x="7.8231916"
-       y="-20.923475"
-       transform="rotate(90)" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.06958948;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3862"
-       width="14.29841"
-       height="11.441077"
-       x="7.2241287"
-       y="8.6527958" />
-    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.06958948;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3862-6"
-       width="14.29841"
-       height="11.441076"
-       x="7.2241287"
-       y="-20.093872"
-       transform="rotate(90)" />
   </g>
 </svg>
