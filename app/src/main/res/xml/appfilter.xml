@@ -7051,7 +7051,7 @@
         component="ComponentInfo{posidon.launcher/posidon.launcher.Main}"
         drawable="posidon" />
 
-    <!-- 4.4.0 < [] -->
+    <!-- 4.5.0 -->
     <item
         component="ComponentInfo{net.fabiszewski.ulogger/net.fabiszewski.ulogger.MainActivity}"
         drawable="ulogger" />
@@ -7128,7 +7128,7 @@
         component="ComponentInfo{com.sleeptimer/com.sleeptimer.MainActivity}"
         drawable="sleeptimer" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.7.0 -->
     <item
         component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}"
         drawable="appmanager" />
@@ -7267,6 +7267,8 @@
     <item
     	component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
     	drawable="googlemeet" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
     <!-- Nova Launcher specific -->
     <item
