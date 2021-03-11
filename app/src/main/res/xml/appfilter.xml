@@ -7204,6 +7204,9 @@
     <item
         component="ComponentInfo{rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity}"
         drawable="simplekeyboard" />
+    <item
+        component="ComponentInfo{org.nuclearfog.twidda/org.nuclearfog.twidda.activity.MainActivity}"
+        drawable="shitter" />
 
     <!-- Nova Launcher specific -->
     <item
