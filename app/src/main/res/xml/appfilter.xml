@@ -7211,14 +7211,38 @@
         component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
         drawable="camera2" />
     <item
+        component="ComponentInfo{oppen.gemini.ariane/oppen.ariane.ui.GemActivity}"
+        drawable="ariane" />
+    <item
+        component="ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}"
+        drawable="lemmur" />
+    <item
+        component="ComponentInfo{app.attestation.auditor/app.attestation.auditor.AttestationActivity}"
+        drawable="auditor" />
+    <item
+        component="ComponentInfo{org.grapheneos.pdfviewer/org.grapheneos.pdfviewer.PdfViewer}"
+        drawable="graphenepdfviewer" />
+    <item
+        component="ComponentInfo{rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity}"
+        drawable="simplekeyboard" />
+    <item
+        component="ComponentInfo{org.nuclearfog.twidda/org.nuclearfog.twidda.activity.MainActivity}"
+        drawable="shitter" />
+    <item
+        component="ComponentInfo{com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity}"
+        drawable="kurobaex" />
+    <item
+        component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}"
+        drawable="infinity" />
+    <item
         component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}"
-        drawable="dbnavigator"/>
+        drawable="dbnavigator" />
     <item
         component="ComponentInfo{com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity}"
-        drawable="ebaykleinanzeigen"/>
+        drawable="ebaykleinanzeigen" />
     <item
         component="ComponentInfo{com.superthomaslab.hueessentials/com.superthomaslab.hueessentials.MainActivity}"
-        drawable="hueessentials"/>
+        drawable="hueessentials" />
     <item
         component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}"
         drawable="arcticons" />
@@ -7232,18 +7256,17 @@
         component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}"
         drawable="magiskmanager" />
     <item
-	component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}"
-	drawable="sharetocomputer"/>
+    	component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}"
+    	drawable="sharetocomputer" />
     <item
-	component="ComponentInfo{org.kde.bettercounter/org.kde.bettercounter.ui.MainActivity}"
-	drawable="bettercounter"/>
+    	component="ComponentInfo{org.kde.bettercounter/org.kde.bettercounter.ui.MainActivity}"
+    	drawable="bettercounter" />
     <item
-	component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}"
-	drawable="zoom"/>
+    	component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}"
+    	drawable="zoom" />
     <item
-	component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
-	drawable="googlemeet"/>
-
+    	component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
+    	drawable="googlemeet" />
 
     <!-- Nova Launcher specific -->
     <item
