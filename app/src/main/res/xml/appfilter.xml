@@ -7207,6 +7207,12 @@
     <item
         component="ComponentInfo{org.nuclearfog.twidda/org.nuclearfog.twidda.activity.MainActivity}"
         drawable="shitter" />
+    <item
+        component="ComponentInfo{com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity}"
+        drawable="kurobaex" />
+    <item
+        component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}"
+        drawable="infinity" />
 
     <!-- Nova Launcher specific -->
     <item
