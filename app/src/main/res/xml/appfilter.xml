@@ -7296,6 +7296,21 @@
     <item
         component="ComponentInfo{ch.rmy.android.http_shortcuts/ch.rmy.android.http_shortcuts.activities.main.MainActivity}"
         drawable="httpshortcuts" />
+    <item
+        component="ComponentInfo{com.rascarlo.arch.packages/com.rascarlo.arch.packages.MainActivity}"
+        drawable="archpackages" />
+    <item
+        component="ComponentInfo{com.jtmcn.archwiki.viewer/com.jtmcn.archwiki.viewer.MainActivity}"
+        drawable="archwikiviewer" />
+    <item
+        component="ComponentInfo{com.parishod.watomatic/com.parishod.watomatic.activity.main.MainActivity}"
+        drawable="watomatic" />
+    <item
+        component="ComponentInfo{net.redsolver.noteless/net.redsolver.noteless.MainActivity}"
+        drawable="noteless" />
+    <item
+        component="ComponentInfo{com.matt.bolton/com.matt.bolton.BoltOnActivity}"
+        drawable="bolton" />
 
     <!-- Nova Launcher specific -->
     <item
