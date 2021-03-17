@@ -223,6 +223,9 @@
         component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}"
         drawable="amaze" />
     <item
+        component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.ui.activities.MainActivity}"
+        drawable="amaze" />
+    <item
         component="ComponentInfo{org.ametro/org.ametro.ui.activities.Map}"
         drawable="ametro" />
     <item
@@ -1987,6 +1990,9 @@
         drawable="kiwix" />
     <item
         component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.splash.KiwixMainActivity}"
+        drawable="kiwix" />
+    <item
+        component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.main.KiwixMainActivity}"
         drawable="kiwix" />
     <item
         component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}"
@@ -7173,10 +7179,10 @@
         drawable="tachiyomi" />
     <item
         component="ComponentInfo{com.madlonkay.orgro/com.madlonkay.orgro.MainActivity}"
-        drawable="thetranslator" />
+        drawable="orgro" />
     <item
         component="ComponentInfo{com.sunilpaulmathew.translator/com.sunilpaulmathew.translator.MainActivity}"
-        drawable="orgro" />
+        drawable="thetranslator" />
     <item
         component="ComponentInfo{com.ktprograms.ohmsnow/com.ktprograms.ohmsnow.MainActivity}"
         drawable="ohmsnow" />
@@ -7184,10 +7190,10 @@
         component="ComponentInfo{org.inventati.massimol.liberovocab/org.inventati.massimol.liberovocab.activities.MainActivity}"
         drawable="liberovocab" />
     <item
-        component="ComponentInfo{com.example.barcodescanner/ComponentInfo{com.example.barcodescanner.feature.tabs.BottomTabsActivity}"
+        component="ComponentInfo{com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity}"
         drawable="barcodescanner2" />
     <item
-        component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/ComponentInfo{com.gmail.anubhavdas54.whatsdeleted.MainActivity}"
+        component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/com.gmail.anubhavdas54.whatsdeleted.MainActivity}"
         drawable="whatsdeleted" />
     <item
         component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
@@ -7256,19 +7262,40 @@
         component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}"
         drawable="magiskmanager" />
     <item
-    	component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}"
-    	drawable="sharetocomputer" />
+        component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}"
+        drawable="sharetocomputer" />
     <item
-    	component="ComponentInfo{org.kde.bettercounter/org.kde.bettercounter.ui.MainActivity}"
-    	drawable="bettercounter" />
+        component="ComponentInfo{org.kde.bettercounter/org.kde.bettercounter.ui.MainActivity}"
+        drawable="bettercounter" />
     <item
-    	component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}"
-    	drawable="zoom" />
+        component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}"
+        drawable="zoom" />
     <item
-    	component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
+        component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
     	drawable="googlemeet" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{com.maxistar.textpad/com.maxistar.textpad.EditorActivity}"
+        drawable="editor" />
+    <item
+        component="ComponentInfo{de.storchp.fdroidbuildstatus/de.storchp.fdroidbuildstatus.MainActivity}"
+        drawable="fdroidbuildstatus" />
+    <item
+        component="ComponentInfo{mx.com.cfe.cfecontigo/mx.com.cfe.cfecontigo.SplashActivity}"
+        drawable="cfe" />
+    <item
+        component="ComponentInfo{de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings}"
+        drawable="wallpaperchanger" />
+    <item
+        component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}"
+        drawable="netflix" />
+    <item
+        component="ComponentInfo{fr.ralala.hexviewer/fr.ralala.hexviewer.ui.activities.MainActivity}"
+        drawable="hexviewer" />
+    <item
+        component="ComponentInfo{ch.rmy.android.http_shortcuts/ch.rmy.android.http_shortcuts.activities.main.MainActivity}"
+        drawable="httpshortcuts" />
 
     <!-- Nova Launcher specific -->
     <item
