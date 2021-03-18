@@ -7274,7 +7274,7 @@
         component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
     	drawable="googlemeet" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.7.1 -->
     <item
         component="ComponentInfo{com.maxistar.textpad/com.maxistar.textpad.EditorActivity}"
         drawable="editor" />
@@ -7311,6 +7311,8 @@
     <item
         component="ComponentInfo{com.matt.bolton/com.matt.bolton.BoltOnActivity}"
         drawable="bolton" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
     <!-- Nova Launcher specific -->
     <item
