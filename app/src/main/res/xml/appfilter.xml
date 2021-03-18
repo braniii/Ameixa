@@ -2799,6 +2799,9 @@
         component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}"
         drawable="openfoodfacts" />
     <item
+        component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.features.splash.SplashActivity}"
+        drawable="openfoodfacts" />
+    <item
         component="ComponentInfo{org.openhab.habdroid/org.openhab.habdroid.ui.OpenHABMainActivity}"
         drawable="openhab" />
     <item
