@@ -47,6 +47,8 @@
         <item>appmanager</item>
         <item>apps</item>
         <item>aptoide</item>
+        <item>archpackages</item>
+        <item>archwikiviewer</item>
         <item>arcticons</item>
         <item>aria2android</item>
         <item>ariane</item>
@@ -103,6 +105,7 @@
         <item>bluetoothterminal</item>
         <item>bluewallet</item>
         <item>bobball</item>
+        <item>bolton</item>
         <item>bombusmod</item>
         <item>bookcatalogue</item>
         <item>bookreader</item>
@@ -149,6 +152,7 @@
         <item>cathode</item>
         <item>catlog</item>
         <item>caweather</item>
+        <item>cfe</item>
         <item>cgeo</item>
         <item>changedetection</item>
         <item>changelog</item>
@@ -301,6 +305,7 @@
         <item>fbreader</item>
         <item>fdprivileged</item>
         <item>fdroid</item>
+        <item>fdroidbuildstatus</item>
         <item>fedilab</item>
         <item>feedhive</item>
         <item>feel</item>
@@ -392,10 +397,12 @@
         <item>heartobserve</item>
         <item>help</item>
         <item>hexiano</item>
+        <item>hexviewer</item>
         <item>hn</item>
         <item>holocounter</item>
         <item>holokenmod</item>
         <item>hourlyreminder</item>
+        <item>httpshortcuts</item>
         <item>hueessentials</item>
         <item>husky</item>
         <item>hwmanager</item>
@@ -586,6 +593,7 @@
         <item>ncalc</item>
         <item>nccookbook</item>
         <item>neochat</item>
+        <item>netflix</item>
         <item>netguard</item>
         <item>netmbuddy</item>
         <item>netmonitor</item>
@@ -613,6 +621,7 @@
         <item>nori</item>
         <item>nostrangersms</item>
         <item>notecipher</item>
+        <item>noteless</item>
         <item>notepad</item>
         <item>notificationnotes</item>
         <item>nounours</item>
@@ -1092,7 +1101,9 @@
         <item>walletbudgetbakers</item>
         <item>walleth</item>
         <item>wallpaper</item>
+        <item>wallpaperchanger</item>
         <item>wally</item>
+        <item>watomatic</item>
         <item>waveup</item>
         <item>weathernotification</item>
         <item>webapps</item>

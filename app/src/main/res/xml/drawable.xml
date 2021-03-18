@@ -47,6 +47,8 @@
     <item drawable="appmanager" />
     <item drawable="apps" />
     <item drawable="aptoide" />
+    <item drawable="archpackages" />
+    <item drawable="archwikiviewer" />
     <item drawable="arcticons" />
     <item drawable="aria2android" />
     <item drawable="ariane" />
@@ -103,6 +105,7 @@
     <item drawable="bluetoothterminal" />
     <item drawable="bluewallet" />
     <item drawable="bobball" />
+    <item drawable="bolton" />
     <item drawable="bombusmod" />
     <item drawable="bookcatalogue" />
     <item drawable="bookreader" />
@@ -149,6 +152,7 @@
     <item drawable="cathode" />
     <item drawable="catlog" />
     <item drawable="caweather" />
+    <item drawable="cfe" />
     <item drawable="cgeo" />
     <item drawable="changedetection" />
     <item drawable="changelog" />
@@ -301,6 +305,7 @@
     <item drawable="fbreader" />
     <item drawable="fdprivileged" />
     <item drawable="fdroid" />
+    <item drawable="fdroidbuildstatus" />
     <item drawable="fedilab" />
     <item drawable="feedhive" />
     <item drawable="feel" />
@@ -392,10 +397,12 @@
     <item drawable="heartobserve" />
     <item drawable="help" />
     <item drawable="hexiano" />
+    <item drawable="hexviewer" />
     <item drawable="hn" />
     <item drawable="holocounter" />
     <item drawable="holokenmod" />
     <item drawable="hourlyreminder" />
+    <item drawable="httpshortcuts" />
     <item drawable="hueessentials" />
     <item drawable="husky" />
     <item drawable="hwmanager" />
@@ -586,6 +593,7 @@
     <item drawable="ncalc" />
     <item drawable="nccookbook" />
     <item drawable="neochat" />
+    <item drawable="netflix" />
     <item drawable="netguard" />
     <item drawable="netmbuddy" />
     <item drawable="netmonitor" />
@@ -613,6 +621,7 @@
     <item drawable="nori" />
     <item drawable="nostrangersms" />
     <item drawable="notecipher" />
+    <item drawable="noteless" />
     <item drawable="notepad" />
     <item drawable="notificationnotes" />
     <item drawable="nounours" />
@@ -1092,7 +1101,9 @@
     <item drawable="walletbudgetbakers" />
     <item drawable="walleth" />
     <item drawable="wallpaper" />
+    <item drawable="wallpaperchanger" />
     <item drawable="wally" />
+    <item drawable="watomatic" />
     <item drawable="waveup" />
     <item drawable="weathernotification" />
     <item drawable="webapps" />
