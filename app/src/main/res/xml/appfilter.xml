@@ -7275,7 +7275,7 @@
         drawable="zoom" />
     <item
         component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}"
-    	drawable="googlemeet" />
+        drawable="googlemeet" />
 
     <!-- 4.7.1 -->
     <item
@@ -7316,6 +7316,21 @@
         drawable="bolton" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageCompose}"
+        drawable="k9mail" />
+    <item
+        component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.carddav.GlobalSettingsEditor}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{org.dmfs.carddav.Sync/org.dmfs.carddav.GlobalSettingsEditor}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{com.anod.calendarpro/com.anod.calendarpro.HelpActivity}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{keepass2android.keepass2android/crc64ae7e22645ed9821f.KeePass}"
+        drawable="keepass2android" />
 
     <!-- Nova Launcher specific -->
     <item
