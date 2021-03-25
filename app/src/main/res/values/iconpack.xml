@@ -375,7 +375,6 @@
         <item>gobandroid</item>
         <item>goblim</item>
         <item>goodtime</item>
-        <item>googlemaps</item>
         <item>googlemeet</item>
         <item>gpslogger</item>
         <item>gpstest</item>
@@ -616,6 +615,50 @@
         <item>nocknock</item>
         <item>noice</item>
         <item>nomad</item>
+        <item>nonfree_arte</item>
+        <item>nonfree_auchandrive</item>
+        <item>nonfree_auchanfrance</item>
+        <item>nonfree_badoo</item>
+        <item>nonfree_booking</item>
+        <item>nonfree_bouyguestelecom</item>
+        <item>nonfree_creditdunord</item>
+        <item>nonfree_ecoledirecte</item>
+        <item>nonfree_famileo</item>
+        <item>nonfree_fdj</item>
+        <item>nonfree_fip</item>
+        <item>nonfree_franceinter</item>
+        <item>nonfree_gmail</item>
+        <item>nonfree_googlemaps</item>
+        <item>nonfree_googleplaystore</item>
+        <item>nonfree_happn</item>
+        <item>nonfree_harmonieetmoi</item>
+        <item>nonfree_ilevia</item>
+        <item>nonfree_ilovehue</item>
+        <item>nonfree_ilovehuetoo</item>
+        <item>nonfree_instagram</item>
+        <item>nonfree_lastfm</item>
+        <item>nonfree_leboncoin</item>
+        <item>nonfree_linguish</item>
+        <item>nonfree_messenger</item>
+        <item>nonfree_myedenred</item>
+        <item>nonfree_okoo</item>
+        <item>nonfree_petitbambou</item>
+        <item>nonfree_pr0gramm</item>
+        <item>nonfree_rteeco2mix</item>
+        <item>nonfree_samsungcalendar</item>
+        <item>nonfree_samsungkids</item>
+        <item>nonfree_samsungreminder</item>
+        <item>nonfree_shazam</item>
+        <item>nonfree_skype</item>
+        <item>nonfree_slack</item>
+        <item>nonfree_spotify</item>
+        <item>nonfree_spotifykids</item>
+        <item>nonfree_tinder</item>
+        <item>nonfree_twitter</item>
+        <item>nonfree_waze</item>
+        <item>nonfree_whatsapp</item>
+        <item>nonfree_youtube</item>
+        <item>nonfree_ytmusic</item>
         <item>nonocross</item>
         <item>nonsensenotepad</item>
         <item>nori</item>
@@ -876,7 +919,6 @@
         <item>sharetocomputer</item>
         <item>shareviahttp</item>
         <item>shatteredpixel</item>
-        <item>shazam</item>
         <item>shelter</item>
         <item>shitter</item>
         <item>shoppinglist</item>
@@ -945,7 +987,6 @@
         <item>sparss</item>
         <item>speedmeter</item>
         <item>spiritf</item>
-        <item>spotify</item>
         <item>spydroid</item>
         <item>sqrl</item>
         <item>squeez</item>
@@ -1117,7 +1158,6 @@
         <item>webtube</item>
         <item>weechat</item>
         <item>wetter</item>
-        <item>whatsapp</item>
         <item>whatsappbetaupdater</item>
         <item>whatsdeleted</item>
         <item>wheelmap</item>
