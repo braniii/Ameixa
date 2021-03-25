@@ -7331,18 +7331,18 @@
     <item
         component="ComponentInfo{keepass2android.keepass2android/crc64ae7e22645ed9821f.KeePass}"
         drawable="keepass2android" />
-
     <item
         component="ComponentInfo{de.vodafone.callyaflex/com.tsse.Valencia.splash.activity.SplashActivity}"
-        drawable="vodafone"/>
-
+        drawable="vodafone" />
     <item
         component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Amber}"
-        drawable="tasks3"/>
-
+        drawable="tasks3" />
     <item
         component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashScreenActivity}"
-        drawable="outbank"/>
+        drawable="outbank" />
+    <item
+        component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}"
+        drawable="aurorastore" />
 
     <!-- Nova Launcher specific -->
     <item
