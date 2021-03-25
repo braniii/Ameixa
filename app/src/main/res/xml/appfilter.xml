@@ -7317,13 +7317,16 @@
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
-    <item component="ComponentInfo{de.vodafone.callyaflex/com.tsse.Valencia.splash.activity.SplashActivity}"
+    <item
+        component="ComponentInfo{de.vodafone.callyaflex/com.tsse.Valencia.splash.activity.SplashActivity}"
         drawable="vodafone"/>
 
-    <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Amber}"
+    <item
+        component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Amber}"
         drawable="tasks3"/>
 
-    <item component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashScreenActivity}"
+    <item
+        component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashScreenActivity}"
         drawable="outbank"/>
 
     <!-- Nova Launcher specific -->
