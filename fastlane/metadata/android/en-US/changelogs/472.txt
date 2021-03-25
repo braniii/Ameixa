@@ -1,0 +1,10 @@
+4.7.2:
+* fixed chromatic icons in monochromatic ameixa
+* added 3 icons and some filters
+
+4.7.x:
+* added 70+ icons and fixed many filters
+* improved CI
+* fixed wrong icon assignment
+
+Thx to an active community: @loadsas, @twilight1794, @benoit.harrault, @martin.allien, @jahed, @bdju, @marunjar
