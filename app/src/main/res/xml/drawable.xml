@@ -689,6 +689,7 @@
     <item drawable="otpauth" />
     <item drawable="otpplus" />
     <item drawable="oura" />
+    <item drawable="outbank" />
     <item drawable="overchan" />
     <item drawable="owncloud" />
     <item drawable="owncloudbeta" />
@@ -992,6 +993,7 @@
     <item drawable="taskkeeper" />
     <item drawable="tasks" />
     <item drawable="tasks2" />
+    <item drawable="tasks3" />
     <item drawable="taskwarrior" />
     <item drawable="td" />
     <item drawable="teatimer" />
@@ -1090,6 +1092,7 @@
     <item drawable="virtualhosts" />
     <item drawable="visualbitcoin" />
     <item drawable="vlc" />
+    <item drawable="vodafone" />
     <item drawable="voice" />
     <item drawable="voicedialer" />
     <item drawable="voicerecorder" />

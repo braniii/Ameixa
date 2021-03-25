@@ -378,6 +378,9 @@
         component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}"
         drawable="aurorastore" />
     <item
+        component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}"
+        drawable="aurorastore" />
+    <item
         component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
         drawable="authenticator" />
     <item
@@ -1914,6 +1917,9 @@
         component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}"
         drawable="k9mail" />
     <item
+        component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageCompose}"
+        drawable="k9mail" />
+    <item
         component="ComponentInfo{org.kde.kalgebramobile/org.qtproject.qt5.android.bindings.QtActivity}"
         drawable="kalgebra" />
     <item
@@ -1939,6 +1945,9 @@
         drawable="keepass2android" />
     <item
         component="ComponentInfo{keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass}"
+        drawable="keepass2android" />
+    <item
+        component="ComponentInfo{keepass2android.keepass2android/crc64ae7e22645ed9821f.KeePass}"
         drawable="keepass2android" />
     <item
         component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}"
@@ -7315,22 +7324,16 @@
         component="ComponentInfo{com.matt.bolton/com.matt.bolton.BoltOnActivity}"
         drawable="bolton" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
-    <item
-        component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageCompose}"
-        drawable="k9mail" />
+    <!-- 4.7.2 -->
     <item
         component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.carddav.GlobalSettingsEditor}"
         drawable="calendar" />
     <item
-        component="ComponentInfo{org.dmfs.carddav.Sync/org.dmfs.carddav.GlobalSettingsEditor}"
-        drawable="contacts" />
-    <item
         component="ComponentInfo{com.anod.calendarpro/com.anod.calendarpro.HelpActivity}"
         drawable="calendar" />
     <item
-        component="ComponentInfo{keepass2android.keepass2android/crc64ae7e22645ed9821f.KeePass}"
-        drawable="keepass2android" />
+        component="ComponentInfo{org.dmfs.carddav.Sync/org.dmfs.carddav.GlobalSettingsEditor}"
+        drawable="contacts" />
     <item
         component="ComponentInfo{de.vodafone.callyaflex/com.tsse.Valencia.splash.activity.SplashActivity}"
         drawable="vodafone" />
@@ -7340,9 +7343,9 @@
     <item
         component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashScreenActivity}"
         drawable="outbank" />
-    <item
-        component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}"
-        drawable="aurorastore" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+
 
     <!-- Nova Launcher specific -->
     <item

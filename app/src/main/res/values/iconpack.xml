@@ -689,6 +689,7 @@
         <item>otpauth</item>
         <item>otpplus</item>
         <item>oura</item>
+        <item>outbank</item>
         <item>overchan</item>
         <item>owncloud</item>
         <item>owncloudbeta</item>
@@ -992,6 +993,7 @@
         <item>taskkeeper</item>
         <item>tasks</item>
         <item>tasks2</item>
+        <item>tasks3</item>
         <item>taskwarrior</item>
         <item>td</item>
         <item>teatimer</item>
@@ -1090,6 +1092,7 @@
         <item>virtualhosts</item>
         <item>visualbitcoin</item>
         <item>vlc</item>
+        <item>vodafone</item>
         <item>voice</item>
         <item>voicedialer</item>
         <item>voicerecorder</item>
