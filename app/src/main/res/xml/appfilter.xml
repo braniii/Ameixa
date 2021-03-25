@@ -7316,6 +7316,9 @@
         drawable="bolton" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <item
+        component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}"
+        drawable="aurorastore"/>
 
     <!-- Nova Launcher specific -->
     <item
