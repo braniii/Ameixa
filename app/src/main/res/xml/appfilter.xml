@@ -9,9 +9,164 @@
     <iconupon img1="iconupon" />
 
     <!-- "proprietary" applications -->
+
+    <!-- Android default apps icons -->
+    <item
+        component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
+        drawable="voicerecorder" />
+    <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+        drawable="nonfree_googleplaystore" />
+    <item
+        component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}"
+        drawable="fmradio" />
+
+    <!-- Google default apps icons -->
+    <item
+        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="nonfree_googlemaps" />
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="nonfree_gmail" />
+    <item
+        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+        drawable="nonfree_youtube" />
+    <item
+        component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}"
+        drawable="nonfree_ytmusic" />
+
+    <!-- Samsung default apps icons -->
+    <item
+        component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="nonfree_samsungcalendar" />
+    <item
+        component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
+        drawable="nonfree_samsungcalendar" />
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
+        drawable="phone" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}"
+        drawable="nonfree_samsungreminder" />
+    <item
+        component="ComponentInfo{com.sec.android.app.kidshome/com.sec.android.app.kidshome.start.ui.LaunchActivity}"
+        drawable="nonfree_samsungkids" />
+
+    <!-- Misc non free icons -->
+    <item
+        component="ComponentInfo{tv.arte.plus7/tv.arte.plus7.mobile.presentation.home.HomeActivityPortraitMobile}"
+        drawable="nonfree_arte" />
+    <item
+        component="ComponentInfo{fr.ikomobi.auchandrive/com.ikomobi.auchandrive.login.LoginActivity}"
+        drawable="nonfree_auchandrive" />
+    <item
+        component="ComponentInfo{com.auchan.android/crc64a9bca9f5868825e1.LaunchActivity}"
+        drawable="nonfree_auchanfrance" />
+    <item
+        component="ComponentInfo{com.badoo.mobile/com.badoo.mobile.android.BadooActivity}"
+        drawable="nonfree_badoo" />
+    <item
+        component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}"
+        drawable="nonfree_booking" />
+    <item
+        component="ComponentInfo{com.ocito.cdn.activity.creditdunord/com.societegenerale.templateoriginalcdn.OriginalCDNMainController}"
+        drawable="nonfree_creditdunord" />
+    <item
+        component="ComponentInfo{fr.bouyguestelecom.ecm.android/fr.bouyguestelecom.ecm.android.ecm.modules.newlogin.activities.EcmSplashActivity}"
+        drawable="nonfree_bouyguestelecom" />
+    <item
+        component="ComponentInfo{com.ecoledirecte.edmobile/com.ecoledirecte.edmobile.MainActivity}"
+        drawable="nonfree_ecoledirecte" />
+    <item
+        component="ComponentInfo{com.entourage.famileo/com.entourage.famileo.activity.SplashActivity}"
+        drawable="nonfree_famileo" />
+    <item
+        component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
+        drawable="nonfree_messenger" />
+    <item
+        component="ComponentInfo{com.myedenredmobile.droid/crc6487a4254b43869f6f.SplashscreenActivity}"
+        drawable="nonfree_myedenred" />
+    <item
+        component="ComponentInfo{fr.fdj.apps.fdj/fr.fdj.apps.maitre.ui.activities.SplashScreenActivity}"
+        drawable="nonfree_fdj" />
+    <item
+        component="ComponentInfo{com.radiofrance.radio.fip.android/com.radiofrance.fipandroid.onboarding.OnBoardingActivity}"
+        drawable="nonfree_fip" />
+    <item
+        component="ComponentInfo{com.ftw_and_co.happn/com.ftw_and_co.happn.ui.splash.SplashActivity}"
+        drawable="nonfree_happn" />
+    <item
+        component="ComponentInfo{fr.harmonie.mutuelle.mobile/fr.harmonie.mutuelle.mobile.MainActivity}"
+        drawable="nonfree_harmonieetmoi" />
+    <item
+        component="ComponentInfo{com.radiofrance.radio.franceinter.android/com.radiofrance.radio.franceinter.android.ui.activity.StarterActivity}"
+        drawable="nonfree_franceinter" />
+    <item
+        component="ComponentInfo{com.transpole.mobi/com.kisiodigital.adm.RNBootSplashActivityPackageNameWorkaround}"
+        drawable="nonfree_ilevia" />
+    <item
+        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="nonfree_instagram" />
+    <item
+        component="ComponentInfo{com.zutgames.ilovehue/com.ansca.corona.CoronaActivity}"
+        drawable="nonfree_ilovehue" />
+    <item
+        component="ComponentInfo{com.zutgames.ilovehue2/com.unity3d.player.UnityPlayerActivity}"
+        drawable="nonfree_ilovehuetoo" />
+    <item
+        component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}"
+        drawable="nonfree_lastfm" />
+    <item
+        component="ComponentInfo{fr.leboncoin/fr.leboncoin.feature.splashscreen.ui.activities.SplashScreenActivity}"
+        drawable="nonfree_leboncoin" />
+    <item
+        component="ComponentInfo{io.getknow.linguish/io.getknow.MainActivity}"
+        drawable="nonfree_linguish" />
+    <item
+        component="ComponentInfo{fr.francetv.zouzous/fr.francetv.kids.main.MainActivity}"
+        drawable="nonfree_okoo" />
+    <item
+        component="ComponentInfo{com.petitbambou/com.petitbambou.frontend.launcher.ActivityLauncherCustomizable}"
+        drawable="nonfree_petitbambou" />
+    <item
+        component="ComponentInfo{com.pr0gramm.app/com.pr0gramm.app.ui.MainActivity}"
+        drawable="nonfree_pr0gramm" />
+    <item
+        component="ComponentInfo{com.rte.eco2mix/com.rte.eco2mix.modestart.HomeActivity}"
+        drawable="nonfree_rteeco2mix" />
+    <item
+        component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
+        drawable="nonfree_shazam" />
+    <item
+        component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}"
+        drawable="nonfree_skype" />
+    <item
+        component="ComponentInfo{com.Slack/slack.app.ui.HomeActivity}"
+        drawable="nonfree_slack" />
+    <item
+        component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
+        drawable="nonfree_spotify" />
+    <item
+        component="ComponentInfo{com.spotify.kids/com.spotify.kids.app.MainActivity}"
+        drawable="nonfree_spotifykids" />
+    <item
+        component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}"
+        drawable="nonfree_tinder" />
+    <item
+        component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
+        drawable="nonfree_twitter" />
+    <item
+        component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}"
+        drawable="nonfree_waze" />
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
-        drawable="whatsapp" />
+        drawable="nonfree_whatsapp" />
     <item
         component="ComponentInfo{com.noctuasoftware.stellarium/org.qtproject.qt5.android.bindings.QtActivity}"
         drawable="stellarium" />
@@ -58,9 +213,6 @@
         component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}"
         drawable="protonmail" />
     <item
-        component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
-        drawable="spotify" />
-    <item
         component="ComponentInfo{cz.alza.eshop/cz.alza.eshop.common.activity.proxy.HomeProxyActivity}"
         drawable="alzacz" />
     <item
@@ -75,9 +227,6 @@
     <item
         component="ComponentInfo{co.mona.android/co.mona.android.SplashActivity}"
         drawable="cryptocom" />
-    <item
-        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
-        drawable="googlemaps" />
     <item
         component="ComponentInfo{cz.seznam.mapy/cz.seznam.mapy.MapActivity}"
         drawable="mapycz" />
@@ -171,6 +320,8 @@
     <item
         component="ComponentInfo{cz.rekola.app/cz.rekola.app.activity.SplashActivity}"
         drawable="rekolacz" />
+
+    <!-- end of "proprietary" applications -->
 
 
     <!-- FOSS icons -->
@@ -7222,9 +7373,6 @@
     <item
         component="ComponentInfo{dev.pesic.rpncalc/dev.pesic.rpncalc.MainActivity}"
         drawable="rpncalc" />
-    <item
-        component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
-        drawable="shazam" />
     <item
         component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}"
         drawable="camera2" />
