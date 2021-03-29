@@ -10,9 +10,10 @@ ICON_SIZES="drawable-mdpi drawable-hdpi drawable-xhdpi drawable-xxhdpi drawable-
 
 DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 
+CHECK_COUNT="10"
 return_value=0
 
-echo Checking "each application component name is unique in ${DEFINITION_FILE}"
+echo "(1/${CHECK_COUNT}) Checking \"each application component name is unique in ${DEFINITION_FILE}\"..."
 DUPLICATES=$(grep "component=" ${DEFINITION_FILE} | sort | uniq --count --repeated)
 DUPLICATES_COUNT=$(echo "${DUPLICATES}" | sed '/^$/d' | wc -l | awk '{print $0}')
 if [[ $DUPLICATES_COUNT -ne 0 ]]
@@ -23,7 +24,7 @@ then
 fi
 echo "ok, done"
 
-echo Checking "each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type"...
+echo "(2/${CHECK_COUNT}) Checking \"each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type\"..."
 ICON_DEFINITIONS=$(sed 's/ /\n/g' ${DEFINITION_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DEFINITIONS}
 do
@@ -43,7 +44,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each icon definition in ${DRAWABLE_FILE} has an existing svg icon file for each type"...
+echo "(3/${CHECK_COUNT}) Checking \"each icon definition in ${DRAWABLE_FILE} has an existing svg icon file for each type\"..."
 ICON_DRAWABLE=$(sed 's/ /\n/g' ${DRAWABLE_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DRAWABLE}
 do
@@ -63,7 +64,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each icon definition in ${ICONPACK_FILE} has an existing svg icon file for each type"...
+echo "(4/${CHECK_COUNT}) Checking \"each icon definition in ${ICONPACK_FILE} has an existing svg icon file for each type\"..."
 ICON_ICONPACK=$(sed 's/ /\n/g' ${ICONPACK_FILE} | grep "item" | cut -d">" -f2 | cut -d"<" -f1 | sort | uniq)
 for ICON in ${ICON_ICONPACK}
 do
@@ -83,7 +84,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each svg icon file exists in each icon type"...
+echo "(5/${CHECK_COUNT}) Checking \"each svg icon file exists in each icon type\"..."
 for TYPE1 in ${ICON_TYPES}
 do
     for TYPE2 in ${ICON_TYPES}
@@ -104,7 +105,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each svg icon file has at least one icon definition in ${DEFINITION_FILE}"...
+echo "(6/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DEFINITION_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -118,7 +119,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each svg icon file has at least one icon definition in ${DRAWABLE_FILE}"...
+echo "(7/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DRAWABLE_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -132,7 +133,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each svg icon file has at least one icon definition in ${ICONPACK_FILE}"...
+echo "(8/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${ICONPACK_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -146,7 +147,7 @@ do
 done
 echo "ok, done"
 
-echo Checking "each svg file has a png rendered file in each type/size"...
+echo "(9/${CHECK_COUNT}) Checking \"each svg file has a png rendered file in each type/size\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -158,6 +159,26 @@ do
             if [[ ! -f "${FILE}" ]]
             then
                 echo "File icon found but generated file not found: ${FILE}"
+                return_value=$((return_value + 1))
+            fi
+        done
+    done
+done
+echo "ok, done"
+
+echo "(10/${CHECK_COUNT}) Checking \"each generated png icon file is referenced in ${DEFINITION_FILE}\"..."
+for TYPE in ${ICON_TYPES}
+do
+    for SIZE in ${ICON_SIZES}
+    do
+        for PNG in app/src/${TYPE}/res/${SIZE}/*.png
+        do
+            ICON_NAME=$(basename ${PNG} .png)
+            SEARCH_STRING="drawable=\"${ICON_NAME}\""
+            FOUND=$(grep ${SEARCH_STRING} ${DEFINITION_FILE} | wc -l | awk '{print $0}')
+            if [[ $FOUND -eq 0 ]]
+            then
+                echo "File found but not referenced in ${DEFINITION_FILE}: ${PNG}"
                 return_value=$((return_value + 1))
             fi
         done
