@@ -26,6 +26,7 @@ COLORS_TO_CONVERT_TO_DARK="
     #1a237e
     #2196f3
     #263238
+    #3e2723
     #3f51b5
     #4caf50
     #607d8b

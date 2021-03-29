@@ -48,6 +48,7 @@ assemble:
 icons:
   stage: checkIcons
   script:
+    - apt-get --quiet install --yes imagemagick
     - bash check_icons.sh
 
 pages:

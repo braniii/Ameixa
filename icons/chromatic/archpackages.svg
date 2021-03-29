@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,10 +75,8 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <g transform="matrix(1.0224 0 0 1.0224 -.033704 25.891)" fill="#fff" aria-label="λ">
-            <path d="m14.343-16.673 4.6362 12.384h-1.7487l-2.8158-7.4251-3.4614 7.4251h-1.7487l4.403-9.6311-0.66359-1.7756q-0.42147-1.1299-1.381-1.1299h-0.86088v-1.4169l1.0492 0.01794q2.0267 0.0269 2.5916 1.5514z" fill="#fff" stroke-width=".97812"/>
-        </g>
+    <g transform="matrix(1.0224 0 0 1.0224 -.033704 25.891)" fill="#fff" aria-label="λ">
+        <path d="m14.343-16.673 4.6362 12.384h-1.7487l-2.8158-7.4251-3.4614 7.4251h-1.7487l4.403-9.6311-0.66359-1.7756q-0.42147-1.1299-1.381-1.1299h-0.86088v-1.4169l1.0492 0.01794q2.0267 0.0269 2.5916 1.5514z" fill="#fff" stroke-width=".97812"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

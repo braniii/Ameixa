@@ -88,7 +88,7 @@
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
         <rect transform="rotate(90)" x="6.7726" y="-18.838" width="13.405" height="10.726" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>
     </g>
-    <g transform="matrix(.093044 0 0 .07836 8.4456 13.863)" fill="#fdfdfd" stroke="#fdfdfd" stroke-width=".50523" aria-label="PDF">
+    <g transform="matrix(.093044 0 0 .07836 8.4456 13.863)" fill="#fff" stroke="#fff" stroke-width=".50523" aria-label="PDF">
         <path d="m21.236 1.1496c0-2.9101-2.0411-4.2844-5.3757-4.2844h-3.5366v13.924h1.738v-5.1736h1.7986c3.1324 0 5.3757-1.2126 5.3757-4.4662zm-1.8795 0.020209c0 2.3847-1.4146 3.0516-3.3345 3.0516h-1.9603v-5.9617h2.0209c1.8795 0 3.2739 0.76795 3.2739 2.9101z"/>
         <path d="m33.273 3.7566c0-5.7798-3.2537-6.8913-6.5276-6.8913h-2.9708v13.924h3.1931c2.8899 0 6.3053-1.1923 6.3053-7.0328zm-1.8795 0c0 4.6077-2.2028 5.6182-4.2035 5.6182h-1.6572v-11.075h1.6369c1.9199 0 4.2237 0.60628 4.2237 5.4565z"/>
         <path d="m38.762-1.6797h6.2447l0.20209-1.4551h-8.2049v13.924h1.7582v-6.184h5.4565v-1.4146h-5.4565z"/>
