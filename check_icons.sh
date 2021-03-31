@@ -10,7 +10,7 @@ ICON_SIZES="drawable-mdpi drawable-hdpi drawable-xhdpi drawable-xxhdpi drawable-
 
 DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 
-CHECK_COUNT="10"
+CHECK_COUNT="11"
 return_value=0
 
 echo "(1/${CHECK_COUNT}) Checking \"each application component name is unique in ${DEFINITION_FILE}\"..."
@@ -183,6 +183,20 @@ do
             fi
         done
     done
+done
+echo "ok, done"
+
+echo "(11/${CHECK_COUNT}) Checking \"each monochrome png file is really monochrome\"..."
+PNG_MONOCHROMATIC_BASE_FOLDER="app/src/monochromatic/res/drawable-xxxhdpi"
+for PNG in ${PNG_MONOCHROMATIC_BASE_FOLDER}/*.png
+do
+    # compare image with its grayscaled clone
+    MISMATCH_VALUE="$(convert "${PNG}" \( +clone -colorspace Gray \) -metric AE -compare -format %[distortion] info: | awk '{print $1}')"
+
+    if [[ "${MISMATCH_VALUE}" != "0" ]]; then
+        echo "File icon seems not properly monochromed: ${PNG} // ${MISMATCH_VALUE}"
+        return_value=$((return_value + 1))
+    fi
 done
 echo "ok, done"
 
