@@ -5945,7 +5945,7 @@
         drawable="soundwaves" />
     <item
         component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}"
-        drawable="sparserss" />
+        drawable="feeder" />
     <item
         component="ComponentInfo{de.shandschuh.sparserss/de.shandschuh.sparserss.MainTabActivity}"
         drawable="sparserss" />
