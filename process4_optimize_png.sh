@@ -22,7 +22,7 @@ do
             echo "File: ${FILE}"
             if [[ -f "${FILE}" ]]
             then
-                optipng ${OPTIONS} ${FILE}
+                optipng ${OPTIPNG_OPTIONS} ${FILE}
             else
                 echo "Warning: File not found: ${FILE}"
             fi
