@@ -7515,6 +7515,9 @@
     <item
       component="ComponentInfo{org.nonononoki.hendroid/me.devsaki.hentoid.activities.SplashActivity}"
       drawable="hendroid "/>
+    <item
+        component="ComponentInfo{org.woheller69.weather/org.woheller69.weather.activities.SplashActivity}"
+        drawable="localweather" />
 
 
     <!-- Nova Launcher specific -->
