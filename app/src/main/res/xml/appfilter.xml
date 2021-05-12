@@ -7493,28 +7493,27 @@
         drawable="outbank" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
-    <!-- ANeko -->
     <item
-      component="ComponentInfo{org.tamanegi.aneko/org.tamanegi.aneko.ANekoActivity}"
-      drawable="aneko" />
+        component="ComponentInfo{org.tamanegi.aneko/org.tamanegi.aneko.ANekoActivity}"
+        drawable="aneko" />
     <item
-      component="ComponentInfo{com.github.muellerma.coffee/com.github.muellerma.coffee.MainActivity}"
-      drawable="coffee" />
+        component="ComponentInfo{com.github.muellerma.coffee/com.github.muellerma.coffee.MainActivity}"
+        drawable="coffee" />
     <item
-      component="ComponentInfo{com.hardcodecoder.pulsemusic/com.hardcodecoder.pulsemusic.activities.main.SplashActivity}"
-      drawable="pulsemusic" />
+        component="ComponentInfo{com.hardcodecoder.pulsemusic/com.hardcodecoder.pulsemusic.activities.main.SplashActivity}"
+        drawable="pulsemusic" />
     <item
-      component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}"
-      drawable="florisboard" />
+        component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}"
+        drawable="florisboard" />
     <item
-      component="ComponentInfo{fluddokt.opsu.android/fluddokt.opsu.android.AndroidLauncher}"
-      drawable="opsu" />
+        component="ComponentInfo{fluddokt.opsu.android/fluddokt.opsu.android.AndroidLauncher}"
+        drawable="opsu" />
     <item
-      component="ComponentInfo{inc.flide.vi8/inc.flide.vim8.ui.SettingsActivity}"
-      drawable="8vim "/>
+        component="ComponentInfo{inc.flide.vi8/inc.flide.vim8.ui.SettingsActivity}"
+        drawable="8vim" />
     <item
-      component="ComponentInfo{org.nonononoki.hendroid/me.devsaki.hentoid.activities.SplashActivity}"
-      drawable="hendroid "/>
+        component="ComponentInfo{org.nonononoki.hendroid/me.devsaki.hentoid.activities.SplashActivity}"
+        drawable="hendroid" />
     <item
         component="ComponentInfo{org.woheller69.weather/org.woheller69.weather.activities.SplashActivity}"
         drawable="localweather" />
