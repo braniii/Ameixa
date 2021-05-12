@@ -7517,6 +7517,12 @@
     <item
         component="ComponentInfo{org.woheller69.weather/org.woheller69.weather.activities.SplashActivity}"
         drawable="localweather" />
+    <item
+        component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}"
+        drawable="vivaldi" />
+    <item
+        component="ComponentInfo{com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main}"
+        drawable="vivaldisnapshot" />
 
 
     <!-- Nova Launcher specific -->
