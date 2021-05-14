@@ -7523,6 +7523,9 @@
     <item
         component="ComponentInfo{com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main}"
         drawable="vivaldisnapshot" />
+    <item
+        component="ComponentInfo{io.anuke.mindustry/mindustry.android.AndroidLauncher}"
+        drawable="mindustry" />
 
 
     <!-- Nova Launcher specific -->
