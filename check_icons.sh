@@ -29,12 +29,14 @@ echo "(2/${CHECK_COUNT}) Checking \"consistant formatting ${DEFINITION_FILE}\"..
 WRONGINDENT_ITEM=$(grep -nE "<item" ${DEFINITION_FILE} | grep -vE "^*:    <item$")
 WRONGINDENT_COMPONENT=$(grep -nE "component=" ${DEFINITION_FILE} | grep -vE "^*:        component=\"ComponentInfo\{.*\}\"$" | grep -vE "component=\":")
 WRONGINDENT_DRAWABLE=$(grep -nE "drawable=" ${DEFINITION_FILE} | grep -vE "^*:        drawable=\".*\" />$")
-WRONGINDENT=$(echo "${WRONGINDENT_ITEM}"; echo "${WRONGINDENT_COMPONENT}"; echo "${WRONGINDENT_DRAWABLE}")
-WRONGINDENT_COUNT=$(echo "${WRONGINDENT}" | wc -l)
+WRONGINDENT_ITEM_COUNT=$(echo "${WRONGINDENT_ITEM}" | sed '/^$/d' | wc -l)
+WRONGINDENT_COMPONENT_COUNT=$(echo "${WRONGINDENT_COMPONENT}" | sed '/^$/d' | wc -l)
+WRONGINDENT_DRAWABLE_COUNT=$(echo "${WRONGINDENT_DRAWABLE}" | sed '/^$/d' | wc -l)
+WRONGINDENT_COUNT=$((WRONGINDENT_ITEM_COUNT + WRONGINDENT_COMPONENT_COUNT + WRONGINDENT_DRAWABLE_COUNT))
 if [[ $WRONGINDENT_COUNT -ne 0 ]]
 then
     echo "Found wrong indent in ${DEFINITION_FILE}"
-    echo -e "${WRONGINDENT}"
+    echo -e "${WRONGINDENT_ITEM}\n${WRONGINDENT_COMPONENT}\n${WRONGINDENT_DRAWABLE}"
     return_value=$((return_value + ${WRONGINDENT_COUNT}))
 fi
 echo "ok, done"
