@@ -10,7 +10,7 @@ ICON_SIZES="drawable-mdpi drawable-hdpi drawable-xhdpi drawable-xxhdpi drawable-
 
 DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 
-CHECK_COUNT="11"
+CHECK_COUNT="12"
 return_value=0
 
 echo "(1/${CHECK_COUNT}) Checking \"each application component name is unique in ${DEFINITION_FILE}\"..."
@@ -24,7 +24,22 @@ then
 fi
 echo "ok, done"
 
-echo "(2/${CHECK_COUNT}) Checking \"each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type\"..."
+echo "(2/${CHECK_COUNT}) Checking \"consistant formatting ${DEFINITION_FILE}\"..."
+
+WRONGINDENT_ITEM=$(grep -nE "<item" ${DEFINITION_FILE} | grep -vE "^*:    <item$")
+WRONGINDENT_COMPONENT=$(grep -nE "component=" ${DEFINITION_FILE} | grep -vE "^*:        component=\"ComponentInfo\{.*\}\"$" | grep -vE "component=\":")
+WRONGINDENT_DRAWABLE=$(grep -nE "drawable=" ${DEFINITION_FILE} | grep -vE "^*:        drawable=\".*\" />$")
+WRONGINDENT=$(echo "${WRONGINDENT_ITEM}"; echo "${WRONGINDENT_COMPONENT}"; echo "${WRONGINDENT_DRAWABLE}")
+WRONGINDENT_COUNT=$(echo "${WRONGINDENT}" | wc -l)
+if [[ $WRONGINDENT_COUNT -ne 0 ]]
+then
+    echo "Found wrong indent in ${DEFINITION_FILE}"
+    echo -e "${WRONGINDENT}"
+    return_value=$((return_value + ${WRONGINDENT_COUNT}))
+fi
+echo "ok, done"
+
+echo "(3/${CHECK_COUNT}) Checking \"each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type\"..."
 ICON_DEFINITIONS=$(sed 's/ /\n/g' ${DEFINITION_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DEFINITIONS}
 do
@@ -44,7 +59,7 @@ do
 done
 echo "ok, done"
 
-echo "(3/${CHECK_COUNT}) Checking \"each icon definition in ${DRAWABLE_FILE} has an existing svg icon file for each type\"..."
+echo "(4/${CHECK_COUNT}) Checking \"each icon definition in ${DRAWABLE_FILE} has an existing svg icon file for each type\"..."
 ICON_DRAWABLE=$(sed 's/ /\n/g' ${DRAWABLE_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DRAWABLE}
 do
@@ -64,7 +79,7 @@ do
 done
 echo "ok, done"
 
-echo "(4/${CHECK_COUNT}) Checking \"each icon definition in ${ICONPACK_FILE} has an existing svg icon file for each type\"..."
+echo "(5/${CHECK_COUNT}) Checking \"each icon definition in ${ICONPACK_FILE} has an existing svg icon file for each type\"..."
 ICON_ICONPACK=$(sed 's/ /\n/g' ${ICONPACK_FILE} | grep "item" | cut -d">" -f2 | cut -d"<" -f1 | sort | uniq)
 for ICON in ${ICON_ICONPACK}
 do
@@ -84,7 +99,7 @@ do
 done
 echo "ok, done"
 
-echo "(5/${CHECK_COUNT}) Checking \"each svg icon file exists in each icon type\"..."
+echo "(6/${CHECK_COUNT}) Checking \"each svg icon file exists in each icon type\"..."
 for TYPE1 in ${ICON_TYPES}
 do
     for TYPE2 in ${ICON_TYPES}
@@ -105,7 +120,7 @@ do
 done
 echo "ok, done"
 
-echo "(6/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DEFINITION_FILE}\"..."
+echo "(7/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DEFINITION_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -119,7 +134,7 @@ do
 done
 echo "ok, done"
 
-echo "(7/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DRAWABLE_FILE}\"..."
+echo "(8/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DRAWABLE_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -133,7 +148,7 @@ do
 done
 echo "ok, done"
 
-echo "(8/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${ICONPACK_FILE}\"..."
+echo "(9/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${ICONPACK_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -147,7 +162,7 @@ do
 done
 echo "ok, done"
 
-echo "(9/${CHECK_COUNT}) Checking \"each svg file has a png rendered file in each type/size\"..."
+echo "(10/${CHECK_COUNT}) Checking \"each svg file has a png rendered file in each type/size\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -166,7 +181,7 @@ do
 done
 echo "ok, done"
 
-echo "(10/${CHECK_COUNT}) Checking \"each generated png icon file is referenced in ${DEFINITION_FILE}\"..."
+echo "(11/${CHECK_COUNT}) Checking \"each generated png icon file is referenced in ${DEFINITION_FILE}\"..."
 for TYPE in ${ICON_TYPES}
 do
     for SIZE in ${ICON_SIZES}
@@ -186,7 +201,7 @@ do
 done
 echo "ok, done"
 
-echo "(11/${CHECK_COUNT}) Checking \"each monochrome png file is really monochrome\"..."
+echo "(12/${CHECK_COUNT}) Checking \"each monochrome png file is really monochrome\"..."
 PNG_MONOCHROMATIC_BASE_FOLDER="app/src/monochromatic/res/drawable-xxxhdpi"
 for PNG in ${PNG_MONOCHROMATIC_BASE_FOLDER}/*.png
 do
