@@ -13,8 +13,8 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="calculatorplusplus.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="green.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1842,20 +1842,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="63.148585"
-     inkscape:cx="15.438043"
-     inkscape:cy="14.345434"
+     inkscape:zoom="45.254837"
+     inkscape:cx="15.571521"
+     inkscape:cy="13.22323"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     showgrid="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1135"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -2287,32 +2288,41 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline;opacity:1">
+     style="display:inline">
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11991215;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 15.890917,17.908675 c -1.983539,1.98354 -5.199492,1.98354 -7.1830323,0 -1.9835396,-1.983538 -1.9835397,-5.199493 -2e-7,-7.183031 1.9835395,-1.9835402 5.1994935,-1.9835402 7.1830325,0 l -1.144182,1.144182 c -0.04618,0.04539 -0.63682,-0.626342 -1.451729,-0.830529 -1.380172,-0.345822 -2.63321,0.129644 -3.4163219,0.936744 -1.1845907,1.220872 -1.5334017,3.186775 0.00727,4.864808 0.7614179,0.829299 2.1397109,1.222918 3.3341169,0.938477 0.993734,-0.236652 1.525345,-1.012958 1.594361,-0.947178 z"
        id="path2193"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssccsssscc" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11991215;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 15.743336,12.511849 h 0.89216 v 3.408509 h -0.89216 z"
-       id="rect2196"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11991215;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 14.485161,14.662183 v -0.892159 h 3.408509 v 0.892159 z"
-       id="rect2196-6" />
-    <path
-       inkscape:connector-curvature="0"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11991215;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 19.380604,12.511849 h 0.89216 v 3.408509 h -0.89216 z"
-       id="rect2196-7" />
-    <path
-       inkscape:connector-curvature="0"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11991215;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 18.12243,14.662183 v -0.892159 h 3.408508 v 0.892159 z"
-       id="rect2196-6-5" />
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 12.089295,9.4978821 c -1.247831,0 -2.4959319,0.4766321 -3.4479942,1.4286949 -1.9041258,1.904124 -1.9041258,4.98999 0,6.894114 1.9041272,1.904126 4.9918622,1.904126 6.8959872,0 l -1.033085,-1.033087 c -0.06626,-0.06316 -0.575993,0.682164 -1.529942,0.909341 -1.146586,0.273053 -2.469569,-0.103874 -3.2005023,-0.899965 -1.4789898,-1.610851 -1.1446649,-3.498456 -0.00747,-4.670449 0.7517593,-0.774785 1.9543373,-1.231942 3.2792503,-0.899965 0.782284,0.196014 1.348742,0.840418 1.393072,0.796845 L 15.53732,10.926577 C 14.585226,9.9745142 13.337125,9.4978821 12.089295,9.4978821 Z m 3.307375,3.1423809 v 1.207454 h -1.20933 v 0.856841 h 1.20933 v 1.207455 h 0.854966 v -1.207455 h 1.209329 v -0.856841 h -1.209329 v -1.207454 z m 4.072495,0 v 1.207454 H 18.26171 v 0.856841 h 1.207455 v 1.207455 h 0.856842 v -1.207455 h 1.207454 v -0.856841 h -1.207454 v -1.207454 z"
+       sodipodi:nodetypes="sssccscssccscccccccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="hint"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0703825;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4387-7-8"
+       width="13.100284"
+       height="13.100285"
+       x="7.8231916"
+       y="-20.923475"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.0695895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3862"
+       width="14.29841"
+       height="11.441077"
+       x="7.2241287"
+       y="8.6527958" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.0695895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3862-6"
+       width="14.29841"
+       height="11.441076"
+       x="7.2241287"
+       y="-20.093872"
+       transform="rotate(90)" />
   </g>
 </svg>
