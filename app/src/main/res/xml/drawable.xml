@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
-    <item drawable="8vim" />
     <item drawable="aard" />
     <item drawable="aat" />
     <item drawable="abcore" />
@@ -1149,6 +1148,7 @@
     <item drawable="vespucci" />
     <item drawable="videoeditor" />
     <item drawable="videotranscoder" />
+    <item drawable="vim8" />
     <item drawable="vimtouch" />
     <item drawable="vinyl" />
     <item drawable="virtualhosts" />

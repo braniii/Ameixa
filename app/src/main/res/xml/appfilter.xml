@@ -7510,7 +7510,7 @@
         drawable="opsu" />
     <item
         component="ComponentInfo{inc.flide.vi8/inc.flide.vim8.ui.SettingsActivity}"
-        drawable="8vim" />
+        drawable="vim8" />
     <item
         component="ComponentInfo{org.nonononoki.hendroid/me.devsaki.hentoid.activities.SplashActivity}"
         drawable="hendroid" />

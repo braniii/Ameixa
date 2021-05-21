@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
-        <item>8vim</item>
         <item>aard</item>
         <item>aat</item>
         <item>abcore</item>
@@ -1149,6 +1148,7 @@
         <item>vespucci</item>
         <item>videoeditor</item>
         <item>videotranscoder</item>
+        <item>vim8</item>
         <item>vimtouch</item>
         <item>vinyl</item>
         <item>virtualhosts</item>
