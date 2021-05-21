@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+        <item>8vim</item>
         <item>aard</item>
         <item>aat</item>
         <item>abcore</item>
@@ -29,6 +30,7 @@
         <item>androidusbterminal</item>
         <item>androsens</item>
         <item>andstatus</item>
+        <item>aneko</item>
         <item>anexplorer</item>
         <item>animagia</item>
         <item>ankidroid</item>
@@ -129,6 +131,8 @@
         <item>calculate</item>
         <item>calculator</item>
         <item>calculator2</item>
+        <item>calculatorplusplus</item>
+        <item>calculatorpluspluswm</item>
         <item>caldavsync</item>
         <item>calendar</item>
         <item>calendarcolor</item>
@@ -178,6 +182,7 @@
         <item>cmaccount</item>
         <item>cmbrowser</item>
         <item>cmupdater</item>
+        <item>coffee</item>
         <item>coinbase</item>
         <item>coloring</item>
         <item>coloringbook</item>
@@ -307,6 +312,7 @@
         <item>fdroid</item>
         <item>fdroidbuildstatus</item>
         <item>fedilab</item>
+        <item>feeder</item>
         <item>feedhive</item>
         <item>feel</item>
         <item>fenix</item>
@@ -325,6 +331,7 @@
         <item>fitotrack</item>
         <item>flashy</item>
         <item>floatingstickies</item>
+        <item>florisboard</item>
         <item>fluffychat</item>
         <item>flym</item>
         <item>fmradio</item>
@@ -360,12 +367,14 @@
         <item>gdroid</item>
         <item>gearshift</item>
         <item>generic</item>
+        <item>geometricweather</item>
         <item>getbackgps</item>
         <item>ghostcommander</item>
         <item>gigaget</item>
         <item>gitfox</item>
         <item>github</item>
         <item>gitnex</item>
+        <item>gittouch</item>
         <item>gloomydungeons</item>
         <item>gltron</item>
         <item>glucosio</item>
@@ -395,6 +404,7 @@
         <item>hayai</item>
         <item>heartobserve</item>
         <item>help</item>
+        <item>hendroid</item>
         <item>hexiano</item>
         <item>hexviewer</item>
         <item>hn</item>
@@ -432,6 +442,7 @@
         <item>jaws</item>
         <item>jedentageinset</item>
         <item>jellyfin</item>
+        <item>jiten</item>
         <item>jitsi</item>
         <item>joplin</item>
         <item>jupiterbroadcast</item>
@@ -468,6 +479,7 @@
         <item>leafpic</item>
         <item>leafpicrevived</item>
         <item>lemmur</item>
+        <item>lemuroid</item>
         <item>leodict</item>
         <item>lesserpad</item>
         <item>lexica</item>
@@ -540,6 +552,7 @@
         <item>midisheetmusic</item>
         <item>mifare</item>
         <item>mimanganu</item>
+        <item>mindustry</item>
         <item>minetest</item>
         <item>minilens</item>
         <item>miniopenwlanmap</item>
@@ -549,6 +562,7 @@
         <item>miros</item>
         <item>mitzuli</item>
         <item>mlmanager</item>
+        <item>mnml</item>
         <item>mobilewebcam</item>
         <item>mobilizon</item>
         <item>moneybalance</item>
@@ -663,6 +677,7 @@
         <item>nonsensenotepad</item>
         <item>nori</item>
         <item>nostrangersms</item>
+        <item>notally</item>
         <item>notecipher</item>
         <item>noteless</item>
         <item>notepad</item>
@@ -689,6 +704,7 @@
         <item>onelist</item>
         <item>onetimepad</item>
         <item>openbikesharing</item>
+        <item>openboard</item>
         <item>opencamera</item>
         <item>opencvengine</item>
         <item>opendocumentreader</item>
@@ -715,6 +731,7 @@
         <item>openvpn</item>
         <item>openvpnsettings</item>
         <item>openwlanmap</item>
+        <item>opsu</item>
         <item>orbot</item>
         <item>orfox</item>
         <item>orgro</item>
@@ -739,6 +756,7 @@
         <item>owncloudnews</item>
         <item>owncloudnotes</item>
         <item>owncloudsms</item>
+        <item>packagemanager</item>
         <item>packetsender</item>
         <item>packlist</item>
         <item>paddletennis</item>
@@ -801,6 +819,7 @@
         <item>providersmedia</item>
         <item>pubtran</item>
         <item>puff</item>
+        <item>pulsemusic</item>
         <item>puma</item>
         <item>punchlinebingo</item>
         <item>pushnotificationtester</item>
@@ -1005,6 +1024,7 @@
         <item>sudoq</item>
         <item>sudowars</item>
         <item>suntime</item>
+        <item>superfreezz</item>
         <item>supertuxkart</item>
         <item>superuser</item>
         <item>survivalmanual</item>
@@ -1066,6 +1086,7 @@
         <item>tinfoiltw</item>
         <item>tintbrowser</item>
         <item>tinykeepass</item>
+        <item>tldr</item>
         <item>toffeed</item>
         <item>togozip</item>
         <item>tomdroid</item>
@@ -1132,6 +1153,8 @@
         <item>vinyl</item>
         <item>virtualhosts</item>
         <item>visualbitcoin</item>
+        <item>vivaldi</item>
+        <item>vivaldisnapshot</item>
         <item>vlc</item>
         <item>vodafone</item>
         <item>voice</item>

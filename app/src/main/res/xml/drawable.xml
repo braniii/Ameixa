@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
+    <item drawable="8vim" />
     <item drawable="aard" />
     <item drawable="aat" />
     <item drawable="abcore" />
@@ -29,6 +30,7 @@
     <item drawable="androidusbterminal" />
     <item drawable="androsens" />
     <item drawable="andstatus" />
+    <item drawable="aneko" />
     <item drawable="anexplorer" />
     <item drawable="animagia" />
     <item drawable="ankidroid" />
@@ -129,6 +131,8 @@
     <item drawable="calculate" />
     <item drawable="calculator" />
     <item drawable="calculator2" />
+    <item drawable="calculatorplusplus" />
+    <item drawable="calculatorpluspluswm" />
     <item drawable="caldavsync" />
     <item drawable="calendar" />
     <item drawable="calendarcolor" />
@@ -178,6 +182,7 @@
     <item drawable="cmaccount" />
     <item drawable="cmbrowser" />
     <item drawable="cmupdater" />
+    <item drawable="coffee" />
     <item drawable="coinbase" />
     <item drawable="coloring" />
     <item drawable="coloringbook" />
@@ -307,6 +312,7 @@
     <item drawable="fdroid" />
     <item drawable="fdroidbuildstatus" />
     <item drawable="fedilab" />
+    <item drawable="feeder" />
     <item drawable="feedhive" />
     <item drawable="feel" />
     <item drawable="fenix" />
@@ -325,6 +331,7 @@
     <item drawable="fitotrack" />
     <item drawable="flashy" />
     <item drawable="floatingstickies" />
+    <item drawable="florisboard" />
     <item drawable="fluffychat" />
     <item drawable="flym" />
     <item drawable="fmradio" />
@@ -360,12 +367,14 @@
     <item drawable="gdroid" />
     <item drawable="gearshift" />
     <item drawable="generic" />
+    <item drawable="geometricweather" />
     <item drawable="getbackgps" />
     <item drawable="ghostcommander" />
     <item drawable="gigaget" />
     <item drawable="gitfox" />
     <item drawable="github" />
     <item drawable="gitnex" />
+    <item drawable="gittouch" />
     <item drawable="gloomydungeons" />
     <item drawable="gltron" />
     <item drawable="glucosio" />
@@ -395,6 +404,7 @@
     <item drawable="hayai" />
     <item drawable="heartobserve" />
     <item drawable="help" />
+    <item drawable="hendroid" />
     <item drawable="hexiano" />
     <item drawable="hexviewer" />
     <item drawable="hn" />
@@ -432,6 +442,7 @@
     <item drawable="jaws" />
     <item drawable="jedentageinset" />
     <item drawable="jellyfin" />
+    <item drawable="jiten" />
     <item drawable="jitsi" />
     <item drawable="joplin" />
     <item drawable="jupiterbroadcast" />
@@ -468,6 +479,7 @@
     <item drawable="leafpic" />
     <item drawable="leafpicrevived" />
     <item drawable="lemmur" />
+    <item drawable="lemuroid" />
     <item drawable="leodict" />
     <item drawable="lesserpad" />
     <item drawable="lexica" />
@@ -540,6 +552,7 @@
     <item drawable="midisheetmusic" />
     <item drawable="mifare" />
     <item drawable="mimanganu" />
+    <item drawable="mindustry" />
     <item drawable="minetest" />
     <item drawable="minilens" />
     <item drawable="miniopenwlanmap" />
@@ -549,6 +562,7 @@
     <item drawable="miros" />
     <item drawable="mitzuli" />
     <item drawable="mlmanager" />
+    <item drawable="mnml" />
     <item drawable="mobilewebcam" />
     <item drawable="mobilizon" />
     <item drawable="moneybalance" />
@@ -663,6 +677,7 @@
     <item drawable="nonsensenotepad" />
     <item drawable="nori" />
     <item drawable="nostrangersms" />
+    <item drawable="notally" />
     <item drawable="notecipher" />
     <item drawable="noteless" />
     <item drawable="notepad" />
@@ -689,6 +704,7 @@
     <item drawable="onelist" />
     <item drawable="onetimepad" />
     <item drawable="openbikesharing" />
+    <item drawable="openboard" />
     <item drawable="opencamera" />
     <item drawable="opencvengine" />
     <item drawable="opendocumentreader" />
@@ -715,6 +731,7 @@
     <item drawable="openvpn" />
     <item drawable="openvpnsettings" />
     <item drawable="openwlanmap" />
+    <item drawable="opsu" />
     <item drawable="orbot" />
     <item drawable="orfox" />
     <item drawable="orgro" />
@@ -739,6 +756,7 @@
     <item drawable="owncloudnews" />
     <item drawable="owncloudnotes" />
     <item drawable="owncloudsms" />
+    <item drawable="packagemanager" />
     <item drawable="packetsender" />
     <item drawable="packlist" />
     <item drawable="paddletennis" />
@@ -801,6 +819,7 @@
     <item drawable="providersmedia" />
     <item drawable="pubtran" />
     <item drawable="puff" />
+    <item drawable="pulsemusic" />
     <item drawable="puma" />
     <item drawable="punchlinebingo" />
     <item drawable="pushnotificationtester" />
@@ -1005,6 +1024,7 @@
     <item drawable="sudoq" />
     <item drawable="sudowars" />
     <item drawable="suntime" />
+    <item drawable="superfreezz" />
     <item drawable="supertuxkart" />
     <item drawable="superuser" />
     <item drawable="survivalmanual" />
@@ -1066,6 +1086,7 @@
     <item drawable="tinfoiltw" />
     <item drawable="tintbrowser" />
     <item drawable="tinykeepass" />
+    <item drawable="tldr" />
     <item drawable="toffeed" />
     <item drawable="togozip" />
     <item drawable="tomdroid" />
@@ -1132,6 +1153,8 @@
     <item drawable="vinyl" />
     <item drawable="virtualhosts" />
     <item drawable="visualbitcoin" />
+    <item drawable="vivaldi" />
+    <item drawable="vivaldisnapshot" />
     <item drawable="vlc" />
     <item drawable="vodafone" />
     <item drawable="voice" />
