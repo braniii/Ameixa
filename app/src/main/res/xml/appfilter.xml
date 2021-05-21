@@ -26,8 +26,17 @@
 
     <!-- Google default apps icons -->
     <item
+        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="nonfree_googledrive" />
+    <item
+        component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}"
+        drawable="nonfree_googleduo" />
+    <item
         component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
         drawable="nonfree_googlemaps" />
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="nonfree_googlephotos" />
     <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
         drawable="nonfree_gmail" />
@@ -108,6 +117,9 @@
         component="ComponentInfo{com.radiofrance.radio.franceinter.android/com.radiofrance.radio.franceinter.android.ui.activity.StarterActivity}"
         drawable="nonfree_franceinter" />
     <item
+        component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}"
+        drawable="nonfree_hwouc" />
+    <item
         component="ComponentInfo{com.transpole.mobi/com.kisiodigital.adm.RNBootSplashActivityPackageNameWorkaround}"
         drawable="nonfree_ilevia" />
     <item
@@ -158,6 +170,9 @@
     <item
         component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}"
         drawable="nonfree_tinder" />
+    <item
+        component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}"
+        drawable="nonfree_twitch" />
     <item
         component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
         drawable="nonfree_twitter" />
