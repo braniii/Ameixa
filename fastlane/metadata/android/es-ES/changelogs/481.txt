@@ -1,0 +1,9 @@
+4.8.0:
+* añadidos más de 60 iconos, y arreglados algunos filtros
+* mejorado CI aún más
+
+4.8.1:
+* corregido error en CI
+* añadidos algunos iconos
+
+Gracias a: @germe-fur, @benoit.harrault, @twilight1794, Jochen Spickhof, @bdju
