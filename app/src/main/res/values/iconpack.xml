@@ -641,10 +641,14 @@
         <item>nonfree_fip</item>
         <item>nonfree_franceinter</item>
         <item>nonfree_gmail</item>
+        <item>nonfree_googledrive</item>
+        <item>nonfree_googleduo</item>
         <item>nonfree_googlemaps</item>
+        <item>nonfree_googlephotos</item>
         <item>nonfree_googleplaystore</item>
         <item>nonfree_happn</item>
         <item>nonfree_harmonieetmoi</item>
+        <item>nonfree_hwouc</item>
         <item>nonfree_ilevia</item>
         <item>nonfree_ilovehue</item>
         <item>nonfree_ilovehuetoo</item>
@@ -667,6 +671,7 @@
         <item>nonfree_spotify</item>
         <item>nonfree_spotifykids</item>
         <item>nonfree_tinder</item>
+        <item>nonfree_twitch</item>
         <item>nonfree_twitter</item>
         <item>nonfree_waze</item>
         <item>nonfree_whatsapp</item>

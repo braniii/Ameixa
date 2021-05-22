@@ -641,10 +641,14 @@
     <item drawable="nonfree_fip" />
     <item drawable="nonfree_franceinter" />
     <item drawable="nonfree_gmail" />
+    <item drawable="nonfree_googledrive" />
+    <item drawable="nonfree_googleduo" />
     <item drawable="nonfree_googlemaps" />
+    <item drawable="nonfree_googlephotos" />
     <item drawable="nonfree_googleplaystore" />
     <item drawable="nonfree_happn" />
     <item drawable="nonfree_harmonieetmoi" />
+    <item drawable="nonfree_hwouc" />
     <item drawable="nonfree_ilevia" />
     <item drawable="nonfree_ilovehue" />
     <item drawable="nonfree_ilovehuetoo" />
@@ -667,6 +671,7 @@
     <item drawable="nonfree_spotify" />
     <item drawable="nonfree_spotifykids" />
     <item drawable="nonfree_tinder" />
+    <item drawable="nonfree_twitch" />
     <item drawable="nonfree_twitter" />
     <item drawable="nonfree_waze" />
     <item drawable="nonfree_whatsapp" />
