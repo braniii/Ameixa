@@ -7577,6 +7577,9 @@
     <item
         component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}"
         drawable="openboard" />
+    <item
+        component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}"
+        drawable="organicmaps" />
 
 
     <!-- Nova Launcher specific -->
