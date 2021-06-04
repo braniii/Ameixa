@@ -7580,7 +7580,15 @@
     <item
         component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}"
         drawable="organicmaps" />
-
+    <item
+        component="ComponentInfo{com.nathaniel.motus.umlclasseditor/com.nathaniel.motus.umlclasseditor.controller.MainActivity}"
+        drawable="umlclasseditor" />
+    <item
+        component="ComponentInfo{org.catrobat.paintdroid/org.catrobat.paintdroid.MainActivity}"
+        drawable="pocketpaint" />
+    <item
+        component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
+        drawable="androidresources" />
 
     <!-- Nova Launcher specific -->
     <item
