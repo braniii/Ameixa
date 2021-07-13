@@ -147,6 +147,9 @@
         component="ComponentInfo{com.petitbambou/com.petitbambou.frontend.launcher.ActivityLauncherCustomizable}"
         drawable="nonfree_petitbambou" />
     <item
+        component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}"
+        drawable="nonfree_pocketcasts" />
+    <item
         component="ComponentInfo{com.pr0gramm.app/com.pr0gramm.app.ui.MainActivity}"
         drawable="nonfree_pr0gramm" />
     <item
@@ -7507,7 +7510,7 @@
         component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashScreenActivity}"
         drawable="outbank" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.8.1 -->
     <item
         component="ComponentInfo{org.tamanegi.aneko/org.tamanegi.aneko.ANekoActivity}"
         drawable="aneko" />
@@ -7589,6 +7592,83 @@
     <item
         component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
         drawable="androidresources" />
+
+    <!-- 4.9.0 -->
+    <item
+        component="ComponentInfo{dasher.android/dasher.android.DasherActivity}"
+        drawable="dashersetup" />
+    <item
+        component="ComponentInfo{com.enrico.earthquake.batterysimplysolid/com.enrico.earthquake.batterysimplysolid.PreferenceActivity}"
+        drawable="batterylive" />
+    <item
+        component="ComponentInfo{io.github.datastopwatch/io.github.datastopwatch.MainActivity}"
+        drawable="datastopwatch" />
+    <item
+        component="ComponentInfo{com.lucao.limpazap/com.lucao.limpazap.MainActivity}"
+        drawable="limpazap" />
+    <item
+        component="ComponentInfo{com.roozen.SoundManagerv2/com.roozen.SoundManagerv2.MainSettings}"
+        drawable="soundmanager" />
+    <item
+        component="ComponentInfo{xyz.deepdaikon.xeonjia/xyz.deepdaikon.xeonjia.MainActivity}"
+        drawable="xeonjia" />
+    <item
+        component="ComponentInfo{de.spiritcroc.riotx/im.vector.app.features.Alias}"
+        drawable="schildichat" />
+    <item
+        component="ComponentInfo{com.ionicframework.backingtrainer763961/com.ionicframework.backingtrainer763961.MainActivity}"
+        drawable="backingtrainer" />
+    <item
+        component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}"
+        drawable="lichess" />
+    <item
+        component="ComponentInfo{foundation.e.message/com.moez.QKSMS.feature.main.MainActivity}"
+        drawable="emessage" />
+    <item
+        component="ComponentInfo{net.currit.tonality/net.currit.tonality.TonalityMainActivity}"
+        drawable="tonality" />
+    <item
+        component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}"
+        drawable="hypatia" />
+    <item
+        component="ComponentInfo{de.mwvb.blockpuzzle/de.mwvb.blockpuzzle.global.StartScreenActivity}"
+        drawable="blockpuzzle" />
+    <item
+        component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}"
+        drawable="supertuxkart" />
+    <item
+        component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}"
+        drawable="openapk" />
+    <item
+        component="ComponentInfo{me.jmh.authenticatorpro/crc643c2a2b888a14ec9a.MainActivity}"
+        drawable="authenticator" />
+    <item
+        component="ComponentInfo{com.nitish.privacyindicator/com.nitish.privacyindicator.ui.home.HomeActivity}"
+        drawable="privacyindicators" />
+    <item
+        component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.activity.MainActivity}"
+        drawable="noice" />
+    <item
+        component="ComponentInfo{com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity}"
+        drawable="binauralbeats" />
+    <item
+        component="ComponentInfo{nekox.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="nekogramx" />
+    <item
+        component="ComponentInfo{com.vishnuraghav.EnRecipes/com.tns.NativeScriptActivity}"
+        drawable="enrecipes" />
+    <item
+        component="ComponentInfo{com.jakewharton.telecine/com.jakewharton.telecine.TelecineActivity}"
+        drawable="telecine" />
+    <item
+        component="ComponentInfo{ch.fixme.cowsay/ch.fixme.cowsay.Main}"
+        drawable="cowsay" />
+    <item
+        component="ComponentInfo{com.castlewrath.hexpress/org.love2d.android.GameActivity}"
+        drawable="hexpress" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+
 
     <!-- Nova Launcher specific -->
     <item
