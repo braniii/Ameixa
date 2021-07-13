@@ -7622,9 +7622,6 @@
         component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}"
         drawable="lichess" />
     <item
-        component="ComponentInfo{foundation.e.message/com.moez.QKSMS.feature.main.MainActivity}"
-        drawable="emessage" />
-    <item
         component="ComponentInfo{net.currit.tonality/net.currit.tonality.TonalityMainActivity}"
         drawable="tonality" />
     <item
