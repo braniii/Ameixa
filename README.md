@@ -73,4 +73,4 @@ For requesting icons or contributing, please use the [Issue Tracker](https://git
 
 <img src="https://gnu.org/graphics/gplv3-127x51.png" />
 
-[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) and other libre / open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/ameixa/blob/master/CREDITS.md) for more details)
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) and other libre / open licenses for the artwork
