@@ -67,6 +67,7 @@ For many overloaded icons out there it is even beneficial to simplify them.
 * The icon should fit into **one** of the three hint outlines
 * The icon should be vertically and horizontally aligned
 * The minimum **gap** and **stroke width** is **0.6**
+* All paths should be united to a single path
 
 ### Text, Gradients, Masks, etc.
 * Use **Paths-objects only**
