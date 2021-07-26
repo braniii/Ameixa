@@ -8,65 +8,80 @@ Some code from the [Frost icon pack](https://github.com/dkanada/frost) is utiliz
 Mainly [F-Droid](https://f-droid.org/) hosted apps are supported. and only icon requests of FOSS apps are accepted.
 
 
-## Download
+# Download
 
-### Ameixa
+## Ameixa
 <a href="https://f-droid.org/packages/org.xphnx.ameixa">
     <img src="website/chromatic-get-it-on.png"
     alt="Get it on F-Droid" height="80">
 </a>
 
-### Ameixa Monochrome
+## Ameixa Monochrome
 <a href="https://f-droid.org/packages/org.xphnx.ameixamonochrome">
     <img src="website/monochromatic-get-it-on.png"
     alt="Get it on F-Droid" height="80">
 </a>
 
-## Contributions are welcome :)
+# Contributions are welcome :)
 
 For requesting icons or contributing, please use the [Issue Tracker](https://gitlab.com/xphnx/ameixa/issues) or make a [Merge Request](https://gitlab.com/xphnx/ameixa/merge_requests)
 
+Please run following command before pushing any commit. The output should be self explaining. Else, open an issue to get help.
+```bash
+$ ./check_icons.sh
+```
 
-### Deduce what to contribute
+## How To's
 
-* [ ] The activityname line is in [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml)
-* [ ] The activityname has changed or is not in [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml) --> Use [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit) to find the activityname line
+### Add a new icon
+* Extract the activity name and add it in [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml) --> Use [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit) to find the activity name line
+* Copy one of the [templates](https://gitlab.com/xphnx/ameixa/tree/master/other/templates) into the `todo` directory and create the new icon.
 
-</br>
+### An icon is not used after update
+* Extract the new activity name and add it in [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml) --> Use [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit) to find the activity name line
 
-* [ ] The icon is in the [icons folder](https://gitlab.com/xphnx/ameixa/tree/master/icons)
-* [ ] The icon is in the [todo folder](https://gitlab.com/xphnx/ameixa/tree/master/todo)
-* [ ] There is no proper icon in todo or icons --> Grab a [template](https://gitlab.com/xphnx/ameixa/tree/master/other/templates) and draw a new chromatic icon. (More [info](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home))
+### An icon is broken
+* Copy the broken icon (here the icon is called `broken_app.svg`, to find the name check in the [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml)) from chromatic icon directory to todo:
+`$ mv icons/chromatic/broken_app.svg todo/broken_app.svg`
+* Delete old monochromatic icon:
+`$ rm icons/monochromatic/broken_app.svg`
+* Modify the icon in the `todo` directory and push changes.
 
-</br>
+### An icon is outdated
+* Copy the old icon (here the icon is called `broken_app.svg`, to find the name check in the [appfilter.xml](https://gitlab.com/xphnx/ameixa/blob/master/app/src/main/res/xml/appfilter.xml)) from chromatic icon directory to the deprecated:
+`$ mv icons/chromatic/broken_app.svg other/deprecated\ or\ old/broken_app.svg`
+* Delete old monochromatic icon:
+`$ rm icons/monochromatic/broken_app.svg`
+* Copy one of the [templates](https://gitlab.com/xphnx/ameixa/tree/master/other/templates) into the `todo` directory and create the new icon.
 
-* [ ] The icon file name and the drawable string in the activityname line doesn't match --> Fix activityname
+## Tips for creating icons in Inkscape
+You can be creative, the icon does not have to be a 1-to-1 clone of the original.
+For many overloaded icons out there it is even beneficial to simplify them.
 
+### Nameing an icon correctly
+* the name should be in lower case
+* The name should start with a character, **not** a digit
 
-### What can you do? (You have 3 options)
+### General
+* The icon should be white only without any transparency
+* The icon should fit into **one** of the three hint outlines
+* The icon should be vertically and horizontally aligned
+* The minimum **gap** and **stroke width** is **0.6**
 
-1. Write a new activityname in the [Issue Tracker](https://gitlab.com/xphnx/ameixa/issues)
-2. Attach the new icon (.svg) in the [Issue Tracker](https://gitlab.com/xphnx/ameixa/issues)
-3. [MR](https://gitlab.com/xphnx/ameixa/merge_requests) activityname lines into appfilter.xml and/or icon files (.svg) into todo
+### Text, Gradients, Masks, etc.
+* Use **Paths-objects only**
+* Do not use any Text, Mask, etc. Instead, convert them as path via `Path>Stroke to Path` or `Path>Object to Path`
+
+### Layers
+* Do hide the `hint` layer after aligning the icon within the hint
+* Do not rename any layer
+* Do not change `background` layer
+ Do not add additional layers
 
 # Screenshots
 
 ![screenshot1-thumb](/uploads/c1b689614b683cff658c3d8245ef6cea/screenshot1-thumb.jpg)
 ![screenshot2-thumb](/uploads/833855214502447743662f1e010db19e/screenshot2-thumb.jpg)
-
-
-<!--
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/97c6faf3cad4619e8079327a5e3d3ac4/Screenshot_2015-05-23-07-53-03.png" alt="with a dark background" width="300" />
-<img src="https://gitlab.com/xphnx/ameixa/uploads/6a11ca228921b18225e700f6d37fcbe8/photo5463050469409663049.jpg" alt="with a dark background" width="300" />
-
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/b0ef81d60e8f4470e41cfec54c4a85b0/Screenshot_2015-05-23-21-03-30.png" alt="into apex launcher" width="300" />
-
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/081953c26fe1f8d30276f1d16bb0f672/Screenshot_2015-05-22-10-51-04.png" alt="light background" width="300" />
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/cec2077cb5bb09008b98d7c8681af67c/Screenshot_2015-05-22-23-47-06.png" alt="apps settings" width="300" />
-
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/27787db387074995a36f18c262f4abba/Screenshot_2015-06-09-22-21-20.png" alt="share feneec" width="300" />
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/a49b1be4708a70c2e3c554342ba21edb/Screenshot_2015-05-22-23-55-18.png" alt="inside afw++" width="300" />
--->
 
 
 # License
