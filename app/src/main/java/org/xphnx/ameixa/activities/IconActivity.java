@@ -2,18 +2,24 @@ package org.xphnx.ameixa.activities;
 
 import android.graphics.Rect;
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.view.Gravity;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.ScrollView;
 
 import org.xphnx.ameixa.R;
+import org.xphnx.ameixa.adapters.IconAdapter;
 import org.xphnx.ameixa.utils.ImageUtils;
 import org.xphnx.ameixa.utils.ScreenUtils;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class IconActivity extends BaseActivity {
     private final IconAdapter mAdapter = new IconAdapter(R.layout.grid_item);
