@@ -7597,7 +7597,7 @@
         drawable="nlpconfig" />
     <item
         component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
-        drawable="usagedirect" />
+        drawable="systemusagestats" />
     <item
         component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.modules.splash.activities.SplashActivity}"
         drawable="vodafone" />
