@@ -7589,6 +7589,9 @@
     <item
         component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
         drawable="androidresources" />
+    <item
+        component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
+        drawable="usagedirect" />
 
     <!-- Nova Launcher specific -->
     <item
