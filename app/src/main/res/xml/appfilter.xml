@@ -72,6 +72,9 @@
         component="ComponentInfo{tv.arte.plus7/tv.arte.plus7.mobile.presentation.home.HomeActivityPortraitMobile}"
         drawable="nonfree_arte" />
     <item
+        component="ComponentInfo{com.asana.app/com.asana.ui.activities.LaunchActivity}"
+        drawable="nonfree_asana" />
+    <item
         component="ComponentInfo{fr.ikomobi.auchandrive/com.ikomobi.auchandrive.login.LoginActivity}"
         drawable="nonfree_auchandrive" />
     <item
@@ -636,6 +639,9 @@
     <item
         component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}"
         drawable="bitwarden" />
+    <item
+        component="ComponentInfo{de.pixart.messenger/de.pixart.messenger.ui.StartUI}"
+        drawable="blabberim" />
     <item
         component="ComponentInfo{org.blokada.alarm/org.blokada.ui.app.android.MainActivity}"
         drawable="blokada" />
@@ -1434,6 +1440,9 @@
     <item
         component="ComponentInfo{com.nagopy.android.disablemanager2/com.nagopy.android.disablemanager2.MainActivity}"
         drawable="disablemanager" />
+    <item
+        component="ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}"
+        drawable="discreetlauncher" />
     <item
         component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}"
         drawable="diskusage" />
@@ -2800,6 +2809,9 @@
         component="ComponentInfo{com.digitallizard.nicecompass/com.digitallizard.nicecompass.CompassActivity}"
         drawable="nicecompass" />
     <item
+        component="ComponentInfo{com.nighthawkapps.wallet.android/com.nighthawkapps.wallet.android.ui.MainActivity}"
+        drawable="nighthawk" />
+    <item
         component="ComponentInfo{org.fitchfamily.android.gsmlocation/org.fitchfamily.android.gsmlocation.settings}"
         drawable="nlpbackend" />
     <item
@@ -3661,6 +3673,9 @@
         component="ComponentInfo{cc.rainwave.android/cc.rainwave.android.LandingActivity}"
         drawable="rainwave" />
     <item
+        component="ComponentInfo{com.minar.randomix/com.minar.randomix.activities.MainActivity}"
+        drawable="randomix" />
+    <item
         component="ComponentInfo{de.eidottermihi.raspicheck/de.eidottermihi.rpicheck.activity.MainActivity}"
         drawable="raspicheck" />
     <item
@@ -3934,6 +3949,9 @@
         component="ComponentInfo{com.mustafaali.sensorssandbox/com.mustafaali.sensorssandbox.MainActivity}"
         drawable="sensorssandbox" />
     <item
+        component="ComponentInfo{com.sentienhq.launcher/com.sentienhq.launcher.MainActivity}"
+        drawable="sentienlauncher" />
+    <item
         component="ComponentInfo{com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity}"
         drawable="seriesguide" />
     <item
@@ -3942,6 +3960,9 @@
     <item
         component="ComponentInfo{net.sourceforge.servestream/net.sourceforge.servestream.activity.MainActivity}"
         drawable="servestream" />
+    <item
+        component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}"
+        drawable="session" />
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.MainEntry}"
         drawable="settings" />
@@ -7592,6 +7613,18 @@
     <item
         component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}"
         drawable="mumla" />
+    <item
+        component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}"
+        drawable="matlog" />
+    <item
+        component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}"
+        drawable="nlpconfig" />
+    <item
+        component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
+        drawable="systemusagestats" />
+    <item
+        component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.modules.splash.activities.SplashActivity}"
+        drawable="vodafone" />
 
     <!-- Nova Launcher specific -->
     <item
