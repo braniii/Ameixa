@@ -68,15 +68,15 @@
         drawable="nonfree_samsungkids" />
 
     <!-- Nokia/HMD Global default apps icons -->
-    <item 
-        component="ComponentInfo{com.hmdglobal.support/com.hmdglobal.support.ui.EntryActivity}" 
-        drawable="nonfree_myphone"/>
-    <item 
-        component="ComponentInfo{com.hmdglobal.app.fmradio/com.hmdglobal.app.fmradio.FMRadio}" 
-        drawable="webradio"/>    
-    <item 
-        component="ComponentInfo{com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity}" 
-        drawable="camera2"/>                    
+    <item
+        component="ComponentInfo{com.hmdglobal.support/com.hmdglobal.support.ui.EntryActivity}"
+        drawable="nonfree_myphone" />
+    <item
+        component="ComponentInfo{com.hmdglobal.app.fmradio/com.hmdglobal.app.fmradio.FMRadio}"
+        drawable="webradio" />
+    <item
+        component="ComponentInfo{com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity}"
+        drawable="camera2" />
 
     <!-- Misc non free icons -->
     <item
@@ -91,9 +91,9 @@
     <item
         component="ComponentInfo{com.auchan.android/crc64a9bca9f5868825e1.LaunchActivity}"
         drawable="nonfree_auchanfrance" />
-    <item 
-        component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" 
-        drawable="nonfree_authenticator"/>    
+    <item
+        component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}"
+        drawable="nonfree_authenticator" />
     <item
         component="ComponentInfo{com.badoo.mobile/com.badoo.mobile.android.BadooActivity}"
         drawable="nonfree_badoo" />
@@ -184,9 +184,9 @@
     <item
         component="ComponentInfo{com.spotify.kids/com.spotify.kids.app.MainActivity}"
         drawable="nonfree_spotifykids" />
-    <item 
-        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" 
-        drawable="nonfree_steam"/>
+    <item
+        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
+        drawable="nonfree_steam" />
     <item
         component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}"
         drawable="nonfree_tinder" />
@@ -698,9 +698,9 @@
     <item
         component="ComponentInfo{com.botbrew.basil/com.botbrew.basil.Main}"
         drawable="botbrew" />
-    <item 
-        component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" 
-        drawable="brave"/>    
+    <item
+        component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}"
+        drawable="brave" />
     <item
         component="ComponentInfo{org.briarproject.briar.beta/org.briarproject.briar.android.splash.SplashScreenActivity}"
         drawable="briar" />
@@ -848,9 +848,9 @@
     <item
         component="ComponentInfo{com.android2.calculator3/com.android2.calculator3.Calculator}"
         drawable="calculator2" />
-    <item 
-        component="ComponentInfo{com.xlythe.calculator.material/com.xlythe.calculator.material.Calculator}" 
-        drawable="calculator3"/>    
+    <item
+        component="ComponentInfo{com.xlythe.calculator.material/com.xlythe.calculator.material.Calculator}"
+        drawable="calculator3" />
     <item
         component="ComponentInfo{org.gege.caldavsyncadapter/org.gege.caldavsyncadapter.authenticator.AuthenticatorActivity}"
         drawable="caldavsync" />
@@ -1337,9 +1337,9 @@
     <item
         component="ComponentInfo{org.eehouse.android.xw4/org.eehouse.android.xw4.GamesListActivity}"
         drawable="crosswords" />
-    <item 
-        component="ComponentInfo{de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity}" 
-        drawable="cryptoprices"/>
+    <item
+        component="ComponentInfo{de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity}"
+        drawable="cryptoprices" />
     <item
         component="ComponentInfo{com.csipsimple/com.csipsimple.ui.SipHome}"
         drawable="csipsimple" />
@@ -1466,9 +1466,9 @@
     <item
         component="ComponentInfo{com.nagopy.android.disablemanager2/com.nagopy.android.disablemanager2.MainActivity}"
         drawable="disablemanager" />
-    <item 
-        component="ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}"                 
-        drawable="discreetlauncher"/>    
+    <item
+        component="ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}"
+        drawable="discreetlauncher" />
     <item
         component="ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}"
         drawable="discreetlauncher" />
@@ -2324,9 +2324,9 @@
     <item
         component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity}"
         drawable="libretorrent" />
-    <item 
-        component="ComponentInfo{de.beowulf.libretranslater/de.beowulf.libretranslater.MainActivity}" 
-        drawable="libretranslater"/>    
+    <item
+        component="ComponentInfo{de.beowulf.libretranslater/de.beowulf.libretranslater.MainActivity}"
+        drawable="libretranslater" />
     <item
         component="ComponentInfo{acr.browser.barebones/acr.browser.barebones.activities.BrowserActivity}"
         drawable="lightningbrowser" />
@@ -3608,9 +3608,9 @@
     <item
         component="ComponentInfo{com.wesaphzt.privatelocation/com.wesaphzt.privatelocation.MainActivity}"
         drawable="privatelocation" />
-    <item 
-        component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" 
-        drawable="protonvpn"/>    
+    <item
+        component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}"
+        drawable="protonvpn" />
     <item
         component="ComponentInfo{com.android.providers.media/com.android.providers.media.RingtonePickerActivity}"
         drawable="providersmedia" />
@@ -5828,9 +5828,9 @@
     <item
         component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Grey_black}"
         drawable="simplevoicerecorder" />
-    <item 
-        component="ComponentInfo{com.simplytranslate/com.simplytranslate.MainActivity}" 
-        drawable="simplytranslate"/>    
+    <item
+        component="ComponentInfo{com.simplytranslate/com.simplytranslate.MainActivity}"
+        drawable="simplytranslate" />
     <item
         component="ComponentInfo{com.android.cp.stkmanager/com.android.cp.stkmanager.STKManagerActivity}"
         drawable="simtk" />
@@ -6464,9 +6464,9 @@
     <item
         component="ComponentInfo{org.emunix.unipatcher/org.emunix.unipatcher.ui.activity.MainActivity}"
         drawable="unipatcher" />
-    <item 
-        component="ComponentInfo{com.jkuester.unlauncher/com.sduduzog.slimlauncher.MainActivity}" 
-        drawable="unlauncher"/>    
+    <item
+        component="ComponentInfo{com.jkuester.unlauncher/com.sduduzog.slimlauncher.MainActivity}"
+        drawable="unlauncher" />
     <item
         component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}"
         drawable="unote" />
@@ -6512,9 +6512,9 @@
     <item
         component="ComponentInfo{protect.videoeditor/protect.videotranscoder.activity.MainActivity}"
         drawable="videotranscoder" />
-    <item 
-        component="ComponentInfo{com.crazylegend.vigilante/com.crazylegend.vigilante.MainActivity}" 
-        drawable="vigilante"/>    
+    <item
+        component="ComponentInfo{com.crazylegend.vigilante/com.crazylegend.vigilante.MainActivity}"
+        drawable="vigilante" />
     <item
         component="ComponentInfo{net.momodalo.app.vimtouch/net.momodalo.app.vimtouch.VimTouch}"
         drawable="vimtouch" />
@@ -6650,9 +6650,9 @@
     <item
         component="ComponentInfo{ru.gelin.android.weather.notification/ru.gelin.android.weather.notification.app.MainActivity}"
         drawable="weathernotification" />
-    <item 
-        component="ComponentInfo{org.secuso.privacyfriendlyweather/org.secuso.privacyfriendlyweather.activities.SplashActivity}" 
-        drawable="weathernotification"/>    
+    <item
+        component="ComponentInfo{org.secuso.privacyfriendlyweather/org.secuso.privacyfriendlyweather.activities.SplashActivity}"
+        drawable="weathernotification" />
     <item
         component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}"
         drawable="webapps" />
