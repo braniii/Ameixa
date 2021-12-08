@@ -7614,6 +7614,9 @@
         component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}"
         drawable="mumla" />
     <item
+        component="ComponentInfo{de.rki.covpass.app/de.rki.covpass.app.main.MainActivity}"
+        drawable="covpass" />
+    <item
         component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}"
         drawable="matlog" />
     <item
