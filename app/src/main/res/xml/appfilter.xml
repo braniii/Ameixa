@@ -7628,6 +7628,9 @@
     <item
         component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.modules.splash.activities.SplashActivity}"
         drawable="vodafone" />
+    <item
+        component="ComponentInfo{org.woheller69.level/org.woheller69.level.Level}"
+        drawable="bubble" />
 
     <!-- Nova Launcher specific -->
     <item
