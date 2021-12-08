@@ -7611,6 +7611,9 @@
         component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
         drawable="androidresources" />
     <item
+        component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}"
+        drawable="mumla" />
+    <item
         component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}"
         drawable="matlog" />
     <item
