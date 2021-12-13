@@ -6015,6 +6015,9 @@
         component="ComponentInfo{org.bottiger.podcast/org.bottiger.podcast.MainActivity}"
         drawable="soundwaves" />
     <item
+        component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}"
+        drawable="feeder" />
+    <item
         component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}"
         drawable="feeder" />
     <item
