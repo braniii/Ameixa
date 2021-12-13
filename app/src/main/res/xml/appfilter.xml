@@ -6900,6 +6900,9 @@
         component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}"
         drawable="zapp" />
     <item
+        component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.main.MainActivity}"
+        drawable="zapp" />
+    <item
         component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}"
         drawable="zapp" />
 
