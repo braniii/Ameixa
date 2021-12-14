@@ -8,5 +8,6 @@
     <string name="url_repository" translatable="false">https://gitlab.com/xphnx/ameixa</string>
     <string name="url_gplv3" translatable="false">https://www.gnu.org/licenses/gpl-3.0.html</string>
     <string name="url_ccbysa4" translatable="false">https://creativecommons.org/licenses/by-sa/4.0</string>
+    <string name="searchHint">Filter icons</string>
     <bool name="config_iconpack">true</bool>
 </resources>
