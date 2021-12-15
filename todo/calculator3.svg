@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="calculator3.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1858,14 +1858,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="18.40625"
-     inkscape:cy="12.375"
+     inkscape:zoom="26.969194"
+     inkscape:cx="4.3382832"
+     inkscape:cy="18.261577"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2344,58 +2344,57 @@
     </g>
     <g
        id="g5565"
-       transform="matrix(1.080395,0,0,1.0803727,-1.1348059,-1.1537132)">
+       transform="matrix(0.99640795,0,0,0.99638738,0.0710206,0.05268255)"
+       style="stroke-width:1.08429">
       <g
-         id="g3607">
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="g3607"
+         style="stroke-width:1.08429">
+        <path
            id="rect2635"
-           width="12.46"
-           height="12.525623"
-           x="8.1241388"
-           y="8.1091242" />
-        <path
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 14.366475,8.0643526 V 20.546804"
-           id="path2965" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 8.2271349,14.38817 H 20.655146"
-           id="path2967" />
+           style="color:#000000;fill:#ffffff;stroke-width:1.17145;stroke-linejoin:round;-inkscape-stroke:none"
+           d="M 7.6425781,7.2304688 A 0.37817605,0.37816825 0 0 0 7.2636719,7.6074219 V 21.138672 a 0.37817605,0.37816825 0 0 0 0.3789062,0.378906 H 21.103516 a 0.37817605,0.37816825 0 0 0 0.378906,-0.378906 V 7.6074219 A 0.37817605,0.37816825 0 0 0 21.103516,7.2304688 Z M 8.0214844,7.984375 h 5.9863276 v 6.029297 H 8.0214844 Z m 6.7441406,0 h 5.960937 v 6.029297 h -5.960937 z m 4.091797,1.3886719 -1.115234,1.1152341 -1.109376,-1.1113279 -0.533203,0.5332031 1.111329,1.1093748 -1.111329,1.111328 0.533203,0.535157 1.111329,-1.111328 1.113281,1.113281 0.533203,-0.533203 -1.113281,-1.113282 1.113281,-1.1132809 z M 9.046875,10.738281 v 0.75586 h 3.896484 v -0.75586 z m -1.0253906,4.03125 h 5.9863276 v 5.992188 H 8.0214844 Z M 10.632812,15.875 v 1.570312 H 9.0644531 v 0.753907 h 1.5683589 v 1.574219 h 0.75586 v -1.574219 h 1.574219 V 17.445312 H 11.388672 V 15.875 Z m 5.136719,0.810547 h 3.914063 v 0.759765 h -3.914063 z m 0,1.517578 h 3.914063 v 0.757813 h -3.914063 z"
+           transform="matrix(0.9255874,0,0,0.92560651,1.050362,1.0678844)" />
+        <g
+           id="path2965"
+           style="stroke-width:1.08429">
+          <path
+             style="color:#000000;fill:#ffffff;stroke-width:0.759003;-inkscape-stroke:none"
+             d="M 14.366475,8.0643526 V 20.546804"
+             id="path574" />
+        </g>
       </g>
-      <path
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffbfbf;fill-opacity:1;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="M 9.4231449,11.356848 H 13.03149"
-         id="path3082" />
+      <g
+         id="path3082"
+         style="stroke-width:1.08429">
+        <path
+           style="color:#000000;fill:#ffbfbf;stroke-width:0.759003;-inkscape-stroke:none"
+           d="M 9.4231449,11.356848 H 13.03149"
+           id="path618" />
+      </g>
       <g
          id="g2038"
-         style="fill:#370202;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
-        <path
-           style="fill:#370202;fill-opacity:1;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 9.439531,17.564478 h 3.608345"
-           id="path3082-1" />
-        <path
-           style="fill:#370202;fill-opacity:1;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 11.2423,19.370827 V 15.762483"
-           id="path3082-1-2" />
+         style="fill:#370202;fill-opacity:1;stroke:#ffffff;stroke-width:1.08429;stroke-opacity:1">
+        <g
+           id="path3082-1"
+           style="stroke-width:1.08429">
+          <path
+             style="color:#000000;stroke:none;stroke-width:0.759003;-inkscape-stroke:none"
+             d="m 9.439531,17.564478 h 3.608345"
+             id="path630" />
+        </g>
+        <g
+           id="path3082-1-2"
+           style="stroke-width:1.08429">
+          <path
+             style="color:#000000;stroke:none;stroke-width:0.759003;-inkscape-stroke:none"
+             d="M 11.2423,19.370827 V 15.762483"
+             id="path624" />
+        </g>
       </g>
       <g
          id="g2038-7"
          transform="rotate(-45,6.7585021,6.8945718)"
-         style="stroke:#ffffff;stroke-opacity:1">
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 9.439531,17.564478 h 3.608345"
-           id="path3082-1-0" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 11.2423,19.370827 V 15.762483"
-           id="path3082-1-2-9" />
-      </g>
-      <path
-         id="path5470"
-         style="opacity:1;vector-effect:none;fill:#ffffff;stroke-width:0.7;stop-color:#000000;stop-opacity:1"
-         d="m 14.521484,14.515625 v 5.900391 h 5.890625 v -5.900391 z m 1.125,1.996094 h 3.623047 v 0.703125 h -3.623047 z m 0,1.404297 h 3.623047 v 0.703125 h -3.623047 z" />
+         style="stroke:#ffffff;stroke-width:1.08429;stroke-opacity:1" />
     </g>
   </g>
   <g

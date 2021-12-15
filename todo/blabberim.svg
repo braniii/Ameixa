@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="28.746668"
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="blabberim.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
-   inkscape:export-ydpi="640">
+   inkscape:export-ydpi="640"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient2175"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -69,7 +68,7 @@
     </linearGradient>
     <linearGradient
        id="linearGradient3975"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ff5555;stop-opacity:1;"
          offset="0"
@@ -77,7 +76,7 @@
     </linearGradient>
     <linearGradient
        id="linearGradient3969"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#87cdde;stop-opacity:1;"
          offset="0"
@@ -1836,7 +1835,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always"
-       id="filter6206-7">
+       id="filter6206-7"
+       x="-0.071999998"
+       y="-0.071999998"
+       width="1.144"
+       height="1.144">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.658125"
@@ -1850,20 +1853,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="30.413506"
-     inkscape:cx="15.021119"
-     inkscape:cy="15.479312"
+     inkscape:zoom="60.827012"
+     inkscape:cx="14.944019"
+     inkscape:cy="13.998715"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-height="1163"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      units="px"
      showguides="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -2295,38 +2300,28 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 7.184,8.98 h 14.368 v 10.776 h -4.789333 l -1.197334,1.197333 H 13.170667 L 11.973333,19.756 H 7.184 Z"
-       id="path2171" />
-    <circle
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;fill-opacity:1"
+       id="path2171"
+       style="color:#000000;fill:#ffffff;stroke-width:1;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 7.7936258,8.6155304 A 0.27477078,0.27477078 0 0 0 7.5199557,8.8909892 v 9.8682218 a 0.27477078,0.27477078 0 0 0 0.2736701,0.275459 h 4.2731892 l 1.015977,1.015977 a 0.27477078,0.27477078 0 0 0 0.193178,0.08049 h 2.192938 a 0.27477078,0.27477078 0 0 0 0.194969,-0.08049 l 1.015976,-1.015977 h 4.27319 a 0.27477078,0.27477078 0 0 0 0.273669,-0.275459 V 8.8909892 A 0.27477078,0.27477078 0 0 0 20.953043,8.6155304 Z M 8.0690846,9.1646592 H 20.677584 v 9.3190928 h -4.112206 a 0.27477078,0.27477078 0 0 0 -0.193179,0.08049 l -1.015978,1.017766 h -1.965774 l -1.015978,-1.017766 a 0.27477078,0.27477078 0 0 0 -0.194967,-0.08049 H 8.0690846 Z m 3.5630774,3.8367478 c -0.451281,0 -0.822799,0.371517 -0.822799,0.822799 0,0.45128 0.371518,0.824588 0.822799,0.824588 0.451279,0 0.822798,-0.373309 0.822799,-0.824588 0,-0.451282 -0.37152,-0.822799 -0.822799,-0.822799 z m 2.740277,0 c -0.451279,0 -0.822798,0.371517 -0.822798,0.822799 0,0.45128 0.371519,0.824588 0.822798,0.824588 0.451281,0 0.822799,-0.373309 0.8228,-0.824588 0,-0.451282 -0.371519,-0.822799 -0.8228,-0.822799 z m 2.742067,0 c -0.451279,0 -0.822798,0.371517 -0.822798,0.822799 0,0.45128 0.371518,0.824588 0.822798,0.824588 0.451281,0 0.822799,-0.373309 0.8228,-0.824588 0,-0.451282 -0.371519,-0.822799 -0.8228,-0.822799 z" />
+    <g
        id="path2188"
-       cx="11.374667"
-       cy="14.368"
-       r="0.59866667" />
-    <circle
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;fill-opacity:1"
-       id="path2190"
-       cx="14.368"
-       cy="14.368"
-       r="0.59866667" />
-    <circle
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;fill-opacity:1"
-       id="path2192"
-       cx="17.361334"
-       cy="14.368"
-       r="0.59866667" />
+       transform="translate(0,-2)">
+      <g
+         id="g1815"
+         transform="translate(0.00516743,2)" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="hint"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.07038245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0703825;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4387-7-8"
        width="13.100284"
        height="13.100285"
@@ -2334,14 +2329,14 @@
        y="-20.923475"
        transform="rotate(90)" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.06958948;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.0695895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862"
        width="14.29841"
        height="11.441077"
        x="7.2241287"
        y="8.6527958" />
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.06958948;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.0695895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862-6"
        width="14.29841"
        height="11.441076"
