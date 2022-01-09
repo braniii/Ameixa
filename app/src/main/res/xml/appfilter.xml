@@ -7652,27 +7652,6 @@
         component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}"
         drawable="openboard" />
     <item
-        component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}"
-        drawable="organicmaps" />
-    <item
-        component="ComponentInfo{com.nathaniel.motus.umlclasseditor/com.nathaniel.motus.umlclasseditor.controller.MainActivity}"
-        drawable="umlclasseditor" />
-    <item
-        component="ComponentInfo{org.catrobat.paintdroid/org.catrobat.paintdroid.MainActivity}"
-        drawable="pocketpaint" />
-    <item
-        component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
-        drawable="androidresources" />
-    <item
-        component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}"
-        drawable="mumla" />
-    <item
-        component="ComponentInfo{de.rki.covpass.app/de.rki.covpass.app.main.MainActivity}"
-        drawable="covpass" />
-    <item
-        component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
-        drawable="usagedirect" />
-    <item
         component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}"
         drawable="matlog" />
     <item
@@ -7755,80 +7734,27 @@
     <item
         component="ComponentInfo{com.castlewrath.hexpress/org.love2d.android.GameActivity}"
         drawable="hexpress" />
-
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
-
-
-    <!-- 4.9.0 -->
     <item
-        component="ComponentInfo{dasher.android/dasher.android.DasherActivity}"
-        drawable="dashersetup" />
+        component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}"
+        drawable="mumla" />
     <item
-        component="ComponentInfo{com.enrico.earthquake.batterysimplysolid/com.enrico.earthquake.batterysimplysolid.PreferenceActivity}"
-        drawable="batterylive" />
+        component="ComponentInfo{de.rki.covpass.app/de.rki.covpass.app.main.MainActivity}"
+        drawable="covpass" />
     <item
-        component="ComponentInfo{io.github.datastopwatch/io.github.datastopwatch.MainActivity}"
-        drawable="datastopwatch" />
+        component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
+        drawable="usagedirect" />
     <item
-        component="ComponentInfo{com.lucao.limpazap/com.lucao.limpazap.MainActivity}"
-        drawable="limpazap" />
+        component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}"
+        drawable="organicmaps" />
     <item
-        component="ComponentInfo{com.roozen.SoundManagerv2/com.roozen.SoundManagerv2.MainSettings}"
-        drawable="soundmanager" />
+        component="ComponentInfo{com.nathaniel.motus.umlclasseditor/com.nathaniel.motus.umlclasseditor.controller.MainActivity}"
+        drawable="umlclasseditor" />
     <item
-        component="ComponentInfo{xyz.deepdaikon.xeonjia/xyz.deepdaikon.xeonjia.MainActivity}"
-        drawable="xeonjia" />
+        component="ComponentInfo{org.catrobat.paintdroid/org.catrobat.paintdroid.MainActivity}"
+        drawable="pocketpaint" />
     <item
-        component="ComponentInfo{de.spiritcroc.riotx/im.vector.app.features.Alias}"
-        drawable="schildichat" />
-    <item
-        component="ComponentInfo{com.ionicframework.backingtrainer763961/com.ionicframework.backingtrainer763961.MainActivity}"
-        drawable="backingtrainer" />
-    <item
-        component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}"
-        drawable="lichess" />
-    <item
-        component="ComponentInfo{net.currit.tonality/net.currit.tonality.TonalityMainActivity}"
-        drawable="tonality" />
-    <item
-        component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}"
-        drawable="hypatia" />
-    <item
-        component="ComponentInfo{de.mwvb.blockpuzzle/de.mwvb.blockpuzzle.global.StartScreenActivity}"
-        drawable="blockpuzzle" />
-    <item
-        component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}"
-        drawable="supertuxkart" />
-    <item
-        component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}"
-        drawable="openapk" />
-    <item
-        component="ComponentInfo{me.jmh.authenticatorpro/crc643c2a2b888a14ec9a.MainActivity}"
-        drawable="authenticator" />
-    <item
-        component="ComponentInfo{com.nitish.privacyindicator/com.nitish.privacyindicator.ui.home.HomeActivity}"
-        drawable="privacyindicators" />
-    <item
-        component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.activity.MainActivity}"
-        drawable="noice" />
-    <item
-        component="ComponentInfo{com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity}"
-        drawable="binauralbeats" />
-    <item
-        component="ComponentInfo{nekox.messenger/org.telegram.ui.LaunchActivity}"
-        drawable="nekogramx" />
-    <item
-        component="ComponentInfo{com.vishnuraghav.EnRecipes/com.tns.NativeScriptActivity}"
-        drawable="enrecipes" />
-    <item
-        component="ComponentInfo{com.jakewharton.telecine/com.jakewharton.telecine.TelecineActivity}"
-        drawable="telecine" />
-    <item
-        component="ComponentInfo{ch.fixme.cowsay/ch.fixme.cowsay.Main}"
-        drawable="cowsay" />
-    <item
-        component="ComponentInfo{com.castlewrath.hexpress/org.love2d.android.GameActivity}"
-        drawable="hexpress" />
+        component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
+        drawable="androidresources" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
