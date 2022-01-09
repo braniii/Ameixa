@@ -6,8 +6,8 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="batterylivewall.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="batterylive.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1847,17 +1847,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="12.772115"
-     inkscape:cy="14.650368"
+     inkscape:zoom="64.000003"
+     inkscape:cx="16.218749"
+     inkscape:cy="14.249999"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
@@ -2294,30 +2294,10 @@
      id="layer2"
      inkscape:label="icon"
      style="display:inline">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round"
+    <path
        id="rect1354"
-       width="9.5786667"
-       height="14.368"
-       x="9.5786667"
-       y="7.184"
-       ry="0.96654499" />
-    <rect
-       style="fill:#ff9800;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round"
-       id="rect1532"
-       width="3.5919995"
-       height="4.7893333"
-       x="12.572001"
-       y="12.572001"
-       ry="0.32940054" />
-    <rect
-       style="fill:#ff9800;fill-opacity:1;stroke:none;stroke-width:1.87309;stroke-linejoin:round"
-       id="rect2541"
-       width="1.4480875"
-       height="1.6080582"
-       x="13.643957"
-       y="11.562609"
-       ry="0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.544922 7.1835938 C 10.009456 7.1835937 9.578125 7.6149247 9.578125 8.1503906 L 9.578125 20.585938 C 9.578125 21.121403 10.009456 21.552734 10.544922 21.552734 L 18.191406 21.552734 C 18.726872 21.552734 19.158203 21.121403 19.158203 20.585938 L 19.158203 8.1503906 C 19.158203 7.6149247 18.726872 7.1835938 18.191406 7.1835938 L 10.544922 7.1835938 z M 13.644531 11.5625 L 15.091797 11.5625 L 15.091797 12.572266 L 15.833984 12.572266 C 16.016472 12.572266 16.164062 12.719856 16.164062 12.902344 L 16.164062 17.03125 C 16.164062 17.213738 16.016472 17.361328 15.833984 17.361328 L 12.902344 17.361328 C 12.719856 17.361328 12.572266 17.213738 12.572266 17.03125 L 12.572266 12.902344 C 12.572266 12.719856 12.719856 12.572266 12.902344 12.572266 L 13.644531 12.572266 L 13.644531 11.5625 z " />
   </g>
   <g
      inkscape:groupmode="layer"

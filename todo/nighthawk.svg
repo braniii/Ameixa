@@ -4,7 +4,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="nighthawk.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1846,16 +1846,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="46.205494"
-     inkscape:cx="12.790687"
-     inkscape:cy="12.044022"
+     inkscape:cx="12.812329"
+     inkscape:cy="12.033201"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1200"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:document-rotation="0"
@@ -2297,7 +2297,7 @@
     <path
        id="path1324"
        style="color:#000000;fill:#fffffa;stroke-width:1;stroke-linejoin:bevel;-inkscape-stroke:none"
-       d="M 13.779954,8.6997807 V 10.291383 H 7.9918875 v 1.073406 h 5.7880665 v 2.725156 l -6.049478,3.359023 0.2614115,1.006317 h 5.7880665 v 1.591602 h 1.184448 v -1.591602 h 5.790378 v -1.073406 h -5.790378 v -2.722843 l 6.05179,-3.363648 -0.261412,-1.004005 H 14.964402 V 8.6997807 Z m 1.184448,2.6650083 h 3.719907 l -3.719907,2.065845 z m -1.184448,3.951245 v 2.065845 H 10.06236 Z" />
+       d="M 13.779954,8.6997808 V 10.291383 H 7.9918874 v 1.073406 h 5.7880666 v 2.725156 l -6.0494781,3.359023 0.2614115,1.006317 h 5.7880666 v 1.591602 h 1.184448 v -1.591602 h 5.790378 v -1.073406 h -5.790378 v -2.722843 l 6.05179,-3.363648 -0.261412,-1.004005 H 14.964402 V 8.6997808 Z m 1.184448,2.6650082 h 3.719907 l -3.719907,2.065845 z m -1.184448,3.951245 v 2.065845 H 10.06236 Z" />
   </g>
   <g
      inkscape:groupmode="layer"

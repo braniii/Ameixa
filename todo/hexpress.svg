@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="hexpress.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1848,21 +1848,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="13.633903"
-     inkscape:cy="14.153184"
+     inkscape:cx="13.656"
+     inkscape:cy="14.142136"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:snap-page="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -2295,7 +2295,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        aria-label="H"
        id="text10234"
@@ -2303,9 +2304,8 @@
        transform="matrix(0.85208545,0.48573394,-0.48723047,0.85471068,9.678299,2.02008)">
       <path
          id="path13700"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.982319"
-         d="m 11.074219,8.0703125 a 0.59629458,0.59629458 0 0 0 -0.515625,0.296875 L 7.2675781,14.070312 a 0.59629458,0.59629458 0 0 0 0,0.595704 l 3.2910159,5.701172 a 0.59629458,0.59629458 0 0 0 0.515625,0.298828 h 6.58789 a 0.59629458,0.59629458 0 0 0 0.515625,-0.298828 l 3.291016,-5.701172 a 0.59629458,0.59629458 0 0 0 0,-0.595704 L 18.177734,8.3671875 a 0.59629458,0.59629458 0 0 0 -0.515625,-0.296875 z m 0.345703,1.1914063 h 1.628906 L 12.867188,9.5820312 9.3105469,15.820312 8.4726562,14.367188 Z m 3.113281,0 h 2.783203 l 1.314453,2.2773432 -1.847656,3.240235 -4.072265,-2.320313 1.634765,-2.865234 z m 4.845703,3.5722652 0.884766,1.533204 -2.947266,5.107421 h -1.724609 z m -7.207031,0.570313 4.072266,2.322265 -2.138672,3.748047 h -2.685547 l -1.363281,-2.361328 z"
-         transform="matrix(0.88575561,-0.50337684,0.50492773,0.88303502,-9.592602,3.0880302)" />
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+         d="M 4.8376028,4.9869109 A 0.55421764,0.55251536 6.6440762e-5 0 0 4.5579083,5.4624966 L 4.5256653,11.56354 a 0.55421764,0.55251536 6.6440762e-5 0 0 0.2741977,0.479527 l 5.281548,3.079121 a 0.55421764,0.55251536 6.6440762e-5 0 0 0.553892,0.0039 l 5.31942,-3.023039 a 0.55421764,0.55251536 6.6440762e-5 0 0 0.278796,-0.477157 l 0.03315,-6.099472 a 0.55421764,0.55251536 6.6440762e-5 0 0 -0.2742,-0.4794742 L 10.710016,1.9662402 a 0.55421764,0.55251536 6.6440762e-5 0 0 -0.552993,-0.00237 z m 0.827534,0.8004159 1.3152674,-0.7474694 7.712e-4,0.341194 -3.955e-4,6.6537206 -1.3454197,-0.785239 z m 2.5138326,-1.4286165 2.2473096,-1.2771509 2.109604,1.2300292 -4.45e-4,3.4561547 -4.3561894,8.808e-4 0.00116,-3.0565976 z m 5.5569686,0.6519948 1.42013,0.8281901 -0.02888,5.4637778 -1.392543,0.791386 z m -5.5568382,3.7662359 4.3570882,6.9e-4 -0.0017,3.99847 -2.168457,1.23234 -2.1876872,-1.275229 z" />
     </g>
   </g>
   <g

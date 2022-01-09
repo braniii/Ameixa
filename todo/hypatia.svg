@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="hypatia.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1847,17 +1847,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="13.611805"
-     inkscape:cy="14.429397"
+     inkscape:zoom="45.254836"
+     inkscape:cx="14.738756"
+     inkscape:cy="11.888232"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
@@ -2304,11 +2304,12 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="icon 1"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
     <path
        id="rect4049"
        style="fill:#ffffff;stroke-width:0.501;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.494919"
-       d="m 14.367188,7.1835938 -5.8652349,2.71875 v 3.8007812 c 0,3.032538 1.1540669,4.34276 2.2734379,5.613281 1.415421,1.606549 3.591797,2.236328 3.591797,2.236328 0,0 2.029762,-0.6057 3.59375,-2.236328 1.172101,-1.222044 2.261718,-2.59204 2.261718,-5.613281 V 9.9023438 Z m 0,1.4960937 v 5.6875005 h 4.439453 c 0,0 0.139425,1.756671 -1.445313,3.59375 -1.659049,1.923223 -2.994141,2.095703 -2.99414,2.095703 V 14.367188 H 9.6816406 v -3.591797 z" />
+       d="M 14.378139,7.3039909 8.6069716,9.9791372 v 3.7398238 c 0,2.983902 1.1355578,4.27311 2.2369754,5.523254 1.392721,1.580783 3.534192,2.200462 3.534192,2.200462 0,0 1.997208,-0.595986 3.536113,-2.200462 1.153302,-1.202444 2.225444,-2.550468 2.225444,-5.523254 V 9.9791372 Z m 0,1.4720991 v 5.596284 h 4.368252 c 0,0 0.137189,1.728497 -1.422133,3.536113 -1.632441,1.892378 -2.94612,2.062091 -2.946119,2.062091 v -5.598204 h -4.6104 v -3.534192 z" />
   </g>
   <g
      inkscape:groupmode="layer"

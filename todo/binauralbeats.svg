@@ -6,8 +6,8 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="binaturalbeats.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="binauralbeats.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1847,17 +1847,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="15.158601"
-     inkscape:cy="16.860076"
+     inkscape:zoom="32"
+     inkscape:cx="7.0625"
+     inkscape:cy="19"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
@@ -2298,17 +2298,16 @@
      id="layer4"
      inkscape:label="icon 1"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0223px;line-height:1.25;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.25556"
-       x="6.6641717"
-       y="18.201937"
-       id="text16261"><tspan
-         sodipodi:role="line"
-         id="tspan16259"
-         x="6.6641717"
-         y="18.201937"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:3.25556">Bb</tspan></text>
+    <g
+       aria-label="Bb"
+       id="text16261"
+       style="font-size:13.0223px;line-height:1.25;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter, Normal';letter-spacing:0px;fill:#ffffff;stroke-width:3.25556">
+      <path
+         id="path4076"
+         style="font-family:Aleo;-inkscape-font-specification:Aleo;stroke-width:3.25556"
+         d="m 14.920887,9.6887237 v 0.5425653 c 0,0.05876 0.01828,0.113197 0.05186,0.163567 0.03358,0.04197 0.07888,0.06541 0.137636,0.07381 l 0.528602,0.08976 0.277266,0.0379 v 8.108555 c 1.166908,0.23506 2.106965,0.353066 2.820541,0.353066 0.402961,0 0.773267,-0.07629 1.109067,-0.227398 0.344196,-0.151111 0.638214,-0.359699 0.881669,-0.628338 0.243455,-0.268642 0.444895,-0.613517 0.604401,-1.033268 0.15111,-0.402961 0.225404,-0.869415 0.225404,-1.398302 0,-0.496939 -0.07996,-1.034894 -0.20147,-1.448171 -0.121512,-0.413277 -0.268858,-0.71351 -0.478734,-1.007335 -0.209876,-0.285431 -0.46018,-0.494018 -0.754006,-0.628337 -0.293826,-0.134321 -0.629559,-0.201468 -1.007336,-0.201468 -0.436541,0 -0.823134,0.09058 -1.158935,0.275271 -0.3358,0.184692 -0.638959,0.433417 -0.9076,0.744033 V 9.6887237 Z M 7.1893345,9.9400591 v 0.5545329 c 0,0.125926 0.063574,0.202214 0.1894989,0.227399 l 0.7181008,0.149604 v 7.153082 l -0.7181008,0.1516 c -0.1259253,0.02519 -0.1894989,0.101476 -0.1894989,0.227398 v 0.552539 H 11.28251 c 0.940241,0 1.704286,-0.221302 2.291938,-0.666238 0.587651,-0.453331 0.881669,-1.086655 0.881669,-1.900972 0,-1.116538 -0.664323,-1.806289 -1.990736,-2.066536 0.570862,-0.176294 0.995599,-0.435741 1.272635,-0.779936 0.277035,-0.344197 0.414902,-0.788795 0.414902,-1.334471 0,-0.772342 -0.284876,-1.344088 -0.855737,-1.713469 -0.562466,-0.36938 -1.333658,-0.5545329 -2.315875,-0.5545329 z m 2.1283712,0.9833989 h 1.6636003 c 0.646416,0 1.132732,0.121579 1.460138,0.365034 0.335801,0.235062 0.502671,0.625228 0.502671,1.170904 0,0.512096 -0.176011,0.893121 -0.528602,1.144972 -0.352591,0.243455 -0.848049,0.365034 -1.48607,0.365034 H 9.3177057 Z m 9.4569893,2.441543 c 0.268641,0 0.499084,0.04371 0.69217,0.127662 0.184689,0.08395 0.353554,0.22539 0.504665,0.426871 0.142715,0.201481 0.251579,0.444639 0.327135,0.73007 0.06716,0.26864 0.101731,0.622658 0.101731,1.059198 v 0.09974 c 0,0.327405 -0.04371,0.646851 -0.127662,0.957468 -0.08395,0.293825 -0.205529,0.546124 -0.365035,0.756 l -0.01197,0.02394 c -0.167901,0.218271 -0.3602,0.377994 -0.578471,0.478734 -0.176295,0.08395 -0.403165,0.13481 -0.680201,0.1516 h -0.327135 c -0.243456,-0.0084 -0.488609,-0.03382 -0.732064,-0.0758 -0.23506,-0.05037 -0.411072,-0.09209 -0.528602,-0.125668 v -3.638377 c 0.226666,-0.302221 0.478965,-0.541806 0.756,-0.718101 0.260247,-0.1679 0.583266,-0.25333 0.969437,-0.25333 z m -9.4569893,1.48607 h 1.9528353 c 0.621231,-10e-7 1.103974,0.121579 1.44817,0.365034 0.352591,0.243455 0.528602,0.626476 0.528602,1.146967 0,0.528887 -0.163296,0.935341 -0.490702,1.220772 -0.31901,0.277035 -0.810895,0.411329 -1.474101,0.402934 H 9.3177057 Z"
+         sodipodi:nodetypes="cscccccscscczcsssccccsccccscscscsscsccscscsccccccsscccccccccccccscscccc" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
