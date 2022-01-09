@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="protonvpn.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1860,17 +1860,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="1.546796"
-     inkscape:cy="18.738329"
+     inkscape:zoom="32.000001"
+     inkscape:cx="11.874999"
+     inkscape:cy="17.187499"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1200"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0">
@@ -2305,7 +2305,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        fill="#000000"
        font-family="Roboto"
@@ -2367,7 +2368,7 @@
     </g>
     <path
        class="cls-3"
-       d="m 20.90994,8.8196638 a 1.5971358,1.5971358 0 0 0 -3.194271,0 c 0,0 0,0 0,0.04947 l -6.960968,2.2472972 a 1.5971356,1.5971356 0 1 0 -1.2861883,2.49464 1.5759347,1.5759347 0 0 0 0.487621,-0.0848 l 4.5723313,5.773716 a 1.5971356,1.5971356 0 1 0 2.508774,-0.586558 l 2.431039,-8.303693 A 1.5900687,1.5900687 0 0 0 20.90994,8.8196668 Z m -4.939814,9.4768082 a 1.5830017,1.5830017 0 0 0 -0.706696,0.176674 l -4.466327,-5.653577 a 1.5830017,1.5830017 0 0 0 0.226144,-0.664296 l 7.109374,-2.2684962 a 1.5971356,1.5971356 0 0 0 0.247343,0.2261422 l -2.40277,8.183553 z"
+       d="m 20.387202,9.2635819 a 1.4694116,1.4694116 0 0 0 -2.938822,0 c 0,0 0,0 0,0.045514 l -6.404294,2.0675791 a 1.4694114,1.4694114 0 1 0 -1.1833306,2.295142 1.449906,1.449906 0 0 0 0.4486256,-0.07802 l 4.206678,5.311988 a 1.4694114,1.4694114 0 1 0 2.308145,-0.539651 l 2.236627,-7.63964 a 1.4629096,1.4629096 0 0 0 1.326371,-1.4629102 z m -4.544773,8.7189411 a 1.4564078,1.4564078 0 0 0 -0.650181,0.162545 l -4.109151,-5.201456 a 1.4564078,1.4564078 0 0 0 0.208059,-0.611172 l 6.540832,-2.087083 a 1.4694114,1.4694114 0 0 0 0.227563,0.208058 l -2.210619,7.529108 z"
        id="path157"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.706697" />
   </g>

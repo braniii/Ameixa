@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="telecine.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1847,17 +1847,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000003"
-     inkscape:cx="15.249999"
-     inkscape:cy="8.1249995"
+     inkscape:zoom="32.000002"
+     inkscape:cx="12.249999"
+     inkscape:cy="15.843749"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0">
@@ -2292,32 +2292,12 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="rect49883"
        style="fill:#ffffff;stroke-width:1.53755;stroke-linecap:round;stroke-linejoin:round"
-       d="m 10.775999,12.245455 v 4.24509 h 5.660122 l -9.59e-4,-1.417184 2.123505,1.417184 v -4.24509 l -2.122546,1.415029 v -1.415029 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       id="rect50719"
-       style="fill:#ffffff;stroke-width:1.301;stroke-linecap:round;stroke-linejoin:round"
-       d="m 7.184,7.184 h 3.592 l 0,1.1973334 H 8.3813334 l 0,2.3946666 -1.1973334,0 z"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       id="rect50721"
-       style="fill:#ffffff;stroke-width:1.301;stroke-linecap:round;stroke-linejoin:round"
-       d="m 17.960001,7.184 h 3.592 v 3.592 l -1.197334,0 V 8.3813334 H 17.96 Z"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       id="path51207"
-       style="fill:#ffffff;stroke-width:1.301;stroke-linecap:round;stroke-linejoin:round"
-       d="m 21.552001,21.552 h -3.592 v -1.197333 h 2.394667 V 17.96 h 1.197333 z"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       id="path51209"
-       style="fill:#ffffff;stroke-width:1.301;stroke-linecap:round;stroke-linejoin:round"
-       d="M 10.776,21.552 H 7.184 V 17.96 h 1.197334 v 2.394667 h 2.394667 z"
-       sodipodi:nodetypes="ccccccc" />
+       d="M 7.8126221,7.8126221 V 11.089948 H 8.9050639 V 8.9050639 H 11.089948 V 7.8126221 Z m 9.8337589,0 v 1.0924418 h 2.184883 v 2.1848841 h 1.092442 V 7.8126221 Z m -6.556433,4.6192649 v 3.872554 h 5.164594 v -1.292039 l 1.937169,1.292039 v -3.872554 l -1.937169,1.290257 v -1.290257 z m -3.2773259,5.214494 v 3.277325 H 11.089948 V 19.831264 H 8.9050639 v -2.184883 z m 12.0186419,0 v 2.184883 h -2.184883 v 1.092442 h 3.277325 v -3.277325 z" />
   </g>
   <g
      inkscape:groupmode="layer"

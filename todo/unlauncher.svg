@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="unlauncher.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1847,17 +1847,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="29.079766"
-     inkscape:cy="27.753941"
+     inkscape:zoom="45.254834"
+     inkscape:cx="11.269514"
+     inkscape:cy="16.108776"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1200"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0">
@@ -2292,31 +2292,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g3202"
        transform="matrix(0.89905564,-0.55795452,0.55795452,0.89905564,-5.2376652,10.659723)">
       <path
          id="rect1731"
          style="fill:#ffffff;stroke-width:4.85174;stop-color:#000000"
-         d="m 13.368205,8.3884211 h 2.665599 V 13.66261 h -2.665599 z" />
-      <path
-         id="rect1731-6"
-         style="display:inline;fill:#ffffff;stroke-width:4.77452;stop-color:#000000"
-         d="m 13.365014,13.831357 h 2.665599 v 5.107631 h -2.665599 z" />
-      <path
-         id="rect1731-6-7"
-         style="display:inline;fill:#ffffff;stroke-width:3.08164;stop-color:#000000"
-         d="m 13.365014,19.111752 h 2.665599 l -1.328017,2.127767 v 0 z"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 13.17862,11.029372 11.445529,8.5228008 11.064681,7.5245075 H 12.5326 l 0.653779,0.8512476 z"
-         id="path2639" />
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 16.220635,11.029372 17.953726,8.5228008 18.334574,7.5245075 H 16.866655 L 16.212876,8.3757551 Z"
-         id="path2639-3" />
+         d="m 18.335581,7.5249085 -1.468043,-8.247e-4 -0.654523,0.8516324 0.0086,2.6535198 1.732061,-2.5074008 z m -2.301947,0.8633115 -2.665093,-7.475e-4 2.84e-4,5.2748075 2.666066,-8.2e-4 z m -3.499974,-0.8642899 -1.469017,7.427e-4 0.382353,0.9976347 1.731517,2.5062035 0.0088,-2.653574 z m 3.498052,6.3071779 -2.666066,8.2e-4 -5.1e-5,5.107324 2.666067,-8.19e-4 z m -0.0011,5.280487 -2.665093,-7.48e-4 1.337632,2.12924 z" />
     </g>
   </g>
   <g

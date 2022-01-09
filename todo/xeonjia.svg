@@ -6,8 +6,8 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="xeoninja.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="xeonjia.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1847,17 +1847,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="14.562499"
-     inkscape:cy="15.281249"
+     inkscape:zoom="32.000002"
+     inkscape:cx="15.593749"
+     inkscape:cy="13.999999"
      inkscape:document-units="pt"
      inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
@@ -2299,11 +2299,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="icon 1">
+     inkscape:label="icon 1"
+     sodipodi:insensitive="true">
     <path
        id="rect1568"
        style="fill:#ffffff;stroke-width:0.303809;stroke-linecap:round;stroke-linejoin:round"
-       d="M 8.3633596,7.2241287 7.2834135,8.3040748 9.4690187,10.489681 H 7.5959253 v 1.422127 h 3.2952197 l 0.02572,0.02572 1.566514,2.452625 -1.297517,2.15198 -0.318445,0.318446 H 7.5583447 v 1.424105 h 1.8829831 l -2.1579143,2.157912 1.0799461,1.079946 2.1480244,-2.148025 v 1.849359 h 1.424106 v -3.23984 l 2.559433,-1.633763 2.102531,1.267849 0.284822,0.28482 v 3.356535 h 1.424104 v -1.932431 l 2.195494,2.195496 1.079948,-1.079946 -2.13418,-2.134179 h 1.797931 V 16.88431 h -3.166655 l -1.625852,-2.545588 1.372679,-2.276591 0.124609,-0.124608 h 3.3328 V 10.513419 H 19.372481 L 21.581822,8.3040779 20.501874,7.2241317 18.330115,9.3958915 V 7.5742211 h -1.422127 v 3.2319269 l -2.464493,1.574426 -2.326037,-1.402346 -0.158233,-0.158234 V 7.5366406 h -1.424106 v 1.8592478 z" />
+       d="M 8.8330982,7.8472826 7.8472849,8.8330959 9.8423833,10.828195 H 8.1325568 v 1.298168 h 3.0079942 l 0.02348,0.02348 1.42997,2.238843 -1.18442,1.964404 -0.290688,0.290689 H 8.0982519 v 1.299974 h 1.7188542 l -1.9698212,1.969819 0.9858133,0.985813 1.9607938,-1.960794 v 1.688161 h 1.299974 v -2.957441 l 2.336342,-1.491357 1.919266,1.157337 0.259995,0.259994 v 3.063965 h 1.299973 v -1.763992 l 2.004125,2.004127 0.985816,-0.985813 -1.948156,-1.948155 h 1.641215 v -1.299975 h -2.890635 l -1.484136,-2.323704 1.25303,-2.078153 0.113748,-0.113747 h 3.042299 V 10.849864 H 18.882617 L 20.899383,8.8330988 19.913567,7.8472853 17.931108,9.8297452 V 8.1668594 H 16.63294 v 2.9502176 l -2.249677,1.437193 -2.12329,-1.280112 -0.14444,-0.144441 V 8.1325546 h -1.299975 v 1.6971878 z" />
   </g>
   <g
      inkscape:groupmode="layer"

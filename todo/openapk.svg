@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="openapk.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1848,16 +1848,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="15.687499"
-     inkscape:cy="17.156249"
+     inkscape:cx="-1.1249999"
+     inkscape:cy="14.874999"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0">
@@ -2292,19 +2292,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="rect29365">
       <path
          id="path29445"
          style="color:#000000;fill:#ffffff;stroke-width:1.19293;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="M 8.2925623,7.184 C 7.6889106,7.184 7.184,7.6889106 7.184,8.2925623 V 20.443766 c 0,0.603652 0.5049106,1.108562 1.1085623,1.108562 H 20.443766 c 0.603652,0 1.108562,-0.50491 1.108562,-1.108562 V 8.2925623 C 21.552328,7.6889106 21.047418,7.184 20.443766,7.184 Z" />
+         d="m 8.8286963,7.816205 c -0.5509338,0 -1.0124913,0.4615575 -1.0124913,1.0124913 V 19.917971 c 0,0.550934 0.4615575,1.012492 1.0124913,1.012492 H 19.917971 c 0.550934,0 1.012492,-0.461558 1.012492,-1.012492 V 8.8286963 c 0,-0.5509338 -0.461558,-1.0124913 -1.012492,-1.0124913 h -2.964389 v 4.023227 L 16.308297,11.29397 15.663013,11.839432 15.017728,11.29397 14.372443,11.839432 13.727158,11.29397 13.081873,11.839432 12.436588,11.29397 11.791303,11.839432 V 7.816205 Z" />
     </g>
-    <path
-       id="rect29571"
-       style="fill:#795548;stroke-width:1.41386;stroke-linecap:round;stroke-linejoin:round"
-       d="m 11.539855,5.6054732 h 5.65629 V 11.592141 L 16.489109,10.993473 15.782072,11.59214 15.075035,10.993473 14.368,11.59214 13.660963,10.993473 12.953927,11.59214 12.246891,10.993473 11.539855,11.592141 Z"
-       sodipodi:nodetypes="cccccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"

@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="vigilante.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1858,17 +1858,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="11.03125"
-     inkscape:cy="8.25"
+     inkscape:zoom="45.254834"
+     inkscape:cx="15.467961"
+     inkscape:cy="10.297243"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1200"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0">
@@ -2303,7 +2303,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        display="none"
        fill="none"
@@ -2346,15 +2347,9 @@
        id="g9544"
        transform="matrix(0.74688225,0,0,0.74688225,20.029908,5.0165349)">
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -9.3917666,9.1361187 1.811043,-0.9387881 1.8305056,0.9051989 v 1.7939725 l -1.8305056,0.899623 -1.8344416,-0.908354 z"
          id="path920"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M -3.9990866,3.0063253 H 0.449386 c 0,0 1.632711,0.016163 1.5779698,1.517934 C 1.9772341,5.8992981 1.6091171,6.6229742 1.6091171,6.6229742 L -6.0760906,21.001453 c 0,0 -0.520593,1.053729 -1.521855,1.047861 -1.0640554,-0.0062 -1.6546859,-1.001786 -1.6546859,-1.001786 L -16.920415,6.3453248 c 0,0 -0.347727,-0.5232242 -0.231784,-2.148355 0.08551,-1.1985548 1.403315,-1.1899015 1.403315,-1.1899015 h 4.717 c 0,0 0.805798,0.00484 1.3177067,1.2708112 0.2946344,0.7286453 0.2479756,2.8657146 0.2479756,2.8657146 h -1.3730143 c 0,0 -0.456193,0.079579 -0.737033,0.7050139 -0.20962,0.4668257 -0.04067,0.9875406 -0.04067,0.9875406 l 2.9840618,5.6783374 c 0,0 0.3659795,0.738852 1.0165541,0.730889 0.6816441,-0.0083 1.011985,-0.684983 1.011985,-0.684983 l 3.0096436,-5.8869186 c 0,0 0.1960137,-0.5879882 -0.1817399,-1.0469102 C -4.1126707,7.218055 -4.5651027,7.1542846 -4.5651027,7.1542846 h -1.2526672 c 0,0 -0.032846,-2.5256474 0.4109379,-3.2266657 0.597133,-0.9432539 1.4077454,-0.9212936 1.4077454,-0.9212936 z"
-         id="path1434"
-         sodipodi:nodetypes="ccsccsccsccsccsccsccsccsc" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -15.092442,3.7702426 c 0,-10e-8 -1.212922,-0.00802 -1.29157,1.094347 -0.106637,1.4947003 0.21406,1.9770402 0.21406,1.9770402 L -9.1180276,20.36343 c 0,0 0.5438093,0.915473 1.5224651,0.921176 0.9209025,0.0054 1.3998025,-0.964468 1.3998025,-0.964468 L 0.8730001,7.0965766 c 0,0 0.3387263,-0.6642569 0.3848253,-1.928937 0.050341,-1.3812411 -1.45271624,-1.397397 -1.45271624,-1.397397 H -4.2860645 c 0,-10e-8 -0.744767,-0.020935 -1.2939749,0.8466157 -0.4081673,0.6447556 -0.3776103,2.9679654 -0.3776103,2.9679654 h 1.152071 c 0,0 0.4146841,0.059614 0.7239519,0.4353342 0.3474363,0.4220887 0.1683614,0.9620633 0.1683614,0.9620633 l -2.7683375,5.4140108 c 0,0 -0.3038593,0.622518 -0.9307958,0.630152 -0.598361,0.0073 -0.9356071,-0.671039 -0.9356071,-0.671039 L -11.292291,9.1313401 c 0,0 -0.154314,-0.4773853 0.03848,-0.9067445 0.258299,-0.5752382 0.675849,-0.6493931 0.675849,-0.6493931 h 1.2627075 c 0,0 0.044898,-1.9658877 -0.226084,-2.636053 C -10.01216,3.7747833 -10.753535,3.7702426 -10.753535,3.7702426 Z m 7.5113108,4.7742395 -1.6643702,0.863452 -0.021649,1.6114569 1.6860165,0.834589 1.6836103,-0.827374 V 9.3766666 Z" />
     </g>
   </g>
   <g
