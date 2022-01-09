@@ -7493,6 +7493,9 @@
         component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}"
         drawable="dbnavigator" />
     <item
+        component="ComponentInfo{de.hafas.android.db.beta/de.bahn.dbtickets.ui.DBNavLauncherActivity}"
+        drawable="dbnavigator" />
+    <item
         component="ComponentInfo{com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity}"
         drawable="ebaykleinanzeigen" />
     <item
@@ -7755,6 +7758,12 @@
     <item
         component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
         drawable="androidresources" />
+    <item
+        component="ComponentInfo{com.jetbrains.youtrack.mobile.app/com.jetbrains.youtrack.mobile.app.MainActivity}"
+        drawable="youtrack" />
+    <item
+        component="ComponentInfo{com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity}"
+        drawable="nccookbook2" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
