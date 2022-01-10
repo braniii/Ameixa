@@ -6099,6 +6099,9 @@
         component="ComponentInfo{org.supertuxkart.stk/android.app.NativeActivity}"
         drawable="supertuxkart" />
     <item
+        component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}"
+        drawable="supertuxkart" />
+    <item
         component="ComponentInfo{com.koushikdutta.superuser/com.koushikdutta.superuser.MainActivity}"
         drawable="superuser" />
     <item
@@ -7705,14 +7708,11 @@
         component="ComponentInfo{de.mwvb.blockpuzzle/de.mwvb.blockpuzzle.global.StartScreenActivity}"
         drawable="blockpuzzle" />
     <item
-        component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}"
-        drawable="supertuxkart" />
-    <item
         component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}"
         drawable="openapk" />
     <item
         component="ComponentInfo{me.jmh.authenticatorpro/crc643c2a2b888a14ec9a.MainActivity}"
-        drawable="authenticator" />
+        drawable="authenticator2" />
     <item
         component="ComponentInfo{com.nitish.privacyindicator/com.nitish.privacyindicator.ui.home.HomeActivity}"
         drawable="privacyindicators" />
