@@ -25,6 +25,7 @@
         <item>andotp</item>
         <item>androbd</item>
         <item>androidpermissions</item>
+        <item>androidresources</item>
         <item>androidrun</item>
         <item>androidusbterminal</item>
         <item>androsens</item>
@@ -71,6 +72,7 @@
         <item>autoairplanemode</item>
         <item>autostarts</item>
         <item>babysleepsounds</item>
+        <item>backingtrainer</item>
         <item>barcodegen</item>
         <item>barcodescanner</item>
         <item>barcodescanner2</item>
@@ -79,6 +81,7 @@
         <item>batterychargelimit</item>
         <item>batteryfu</item>
         <item>batterylevel</item>
+        <item>batterylive</item>
         <item>baumann</item>
         <item>bbva</item>
         <item>bbvawallet</item>
@@ -89,6 +92,7 @@
         <item>biglybt</item>
         <item>bimba</item>
         <item>binaryeye</item>
+        <item>binauralbeats</item>
         <item>bipolalarm</item>
         <item>birthdayadapter</item>
         <item>birthdaydroid</item>
@@ -98,8 +102,10 @@
         <item>bitmask</item>
         <item>bitwala</item>
         <item>bitwarden</item>
+        <item>blabberim</item>
         <item>blockfolio</item>
         <item>blockinger</item>
+        <item>blockpuzzle</item>
         <item>blokada</item>
         <item>bluemono</item>
         <item>bluetooth</item>
@@ -111,6 +117,7 @@
         <item>bookcatalogue</item>
         <item>bookreader</item>
         <item>botbrew</item>
+        <item>brave</item>
         <item>briar</item>
         <item>broadcast</item>
         <item>bromite</item>
@@ -130,6 +137,7 @@
         <item>calculate</item>
         <item>calculator</item>
         <item>calculator2</item>
+        <item>calculator3</item>
         <item>calculatorplusplus</item>
         <item>calculatorpluspluswm</item>
         <item>caldavsync</item>
@@ -199,6 +207,8 @@
         <item>corona</item>
         <item>counterme</item>
         <item>covid19stats</item>
+        <item>covpass</item>
+        <item>cowsay</item>
         <item>cowsrevenge</item>
         <item>cpuinfo</item>
         <item>crbrowser</item>
@@ -207,6 +217,7 @@
         <item>cronograma</item>
         <item>crosswords</item>
         <item>cryptocom</item>
+        <item>cryptoprices</item>
         <item>csipsimple</item>
         <item>csobdokapsy</item>
         <item>csobsmartbanking</item>
@@ -217,7 +228,9 @@
         <item>currencyconverter</item>
         <item>cythara</item>
         <item>dashclock</item>
+        <item>dashersetup</item>
         <item>datastats</item>
+        <item>datastopwatch</item>
         <item>davdroid</item>
         <item>dbnavigator</item>
         <item>debiandroid</item>
@@ -243,6 +256,7 @@
         <item>dir</item>
         <item>disablemanager</item>
         <item>discord</item>
+        <item>discreetlauncher</item>
         <item>diskusage</item>
         <item>disrootapp</item>
         <item>dngprocessor</item>
@@ -286,6 +300,7 @@
         <item>emeralddialer</item>
         <item>enigmandroid</item>
         <item>enki</item>
+        <item>enrecipes</item>
         <item>ensichat</item>
         <item>enumbers</item>
         <item>episodes</item>
@@ -405,6 +420,7 @@
         <item>help</item>
         <item>hendroid</item>
         <item>hexiano</item>
+        <item>hexpress</item>
         <item>hexviewer</item>
         <item>hn</item>
         <item>holocounter</item>
@@ -414,6 +430,7 @@
         <item>hueessentials</item>
         <item>husky</item>
         <item>hwmanager</item>
+        <item>hypatia</item>
         <item>hyperrogue</item>
         <item>i2p</item>
         <item>icecat</item>
@@ -488,9 +505,12 @@
         <item>librerapro</item>
         <item>libretasks</item>
         <item>libretorrent</item>
+        <item>libretranslater</item>
+        <item>lichess</item>
         <item>lightningbrowser</item>
         <item>lildebi</item>
         <item>limbo</item>
+        <item>limpazap</item>
         <item>lincal</item>
         <item>linconnect</item>
         <item>linphone</item>
@@ -581,6 +601,7 @@
         <item>mullvadvpn</item>
         <item>multirommgr</item>
         <item>multivnc</item>
+        <item>mumla</item>
         <item>mupdf</item>
         <item>music</item>
         <item>musicpiped</item>
@@ -604,6 +625,8 @@
         <item>navit</item>
         <item>ncalc</item>
         <item>nccookbook</item>
+        <item>nccookbook2</item>
+        <item>nekogramx</item>
         <item>neochat</item>
         <item>netflix</item>
         <item>netguard</item>
@@ -623,14 +646,17 @@
         <item>nextcompanion</item>
         <item>nhbooks</item>
         <item>nicecompass</item>
+        <item>nighthawk</item>
         <item>nlpbackend</item>
         <item>nlpconfig</item>
         <item>nocknock</item>
         <item>noice</item>
         <item>nomad</item>
         <item>nonfree_arte</item>
+        <item>nonfree_asana</item>
         <item>nonfree_auchandrive</item>
         <item>nonfree_auchanfrance</item>
+        <item>nonfree_authenticator</item>
         <item>nonfree_badoo</item>
         <item>nonfree_booking</item>
         <item>nonfree_bouyguestelecom</item>
@@ -658,8 +684,10 @@
         <item>nonfree_linguish</item>
         <item>nonfree_messenger</item>
         <item>nonfree_myedenred</item>
+        <item>nonfree_myphone</item>
         <item>nonfree_okoo</item>
         <item>nonfree_petitbambou</item>
+        <item>nonfree_pocketcasts</item>
         <item>nonfree_pr0gramm</item>
         <item>nonfree_rteeco2mix</item>
         <item>nonfree_samsungcalendar</item>
@@ -670,6 +698,7 @@
         <item>nonfree_slack</item>
         <item>nonfree_spotify</item>
         <item>nonfree_spotifykids</item>
+        <item>nonfree_steam</item>
         <item>nonfree_tinder</item>
         <item>nonfree_twitch</item>
         <item>nonfree_twitter</item>
@@ -707,6 +736,7 @@
         <item>omniswitch</item>
         <item>onelist</item>
         <item>onetimepad</item>
+        <item>openapk</item>
         <item>openbikesharing</item>
         <item>openboard</item>
         <item>opencamera</item>
@@ -738,6 +768,7 @@
         <item>opsu</item>
         <item>orbot</item>
         <item>orfox</item>
+        <item>organicmaps</item>
         <item>orgro</item>
         <item>orgzly</item>
         <item>orwall</item>
@@ -801,6 +832,7 @@
         <item>plumble</item>
         <item>pocketgopher</item>
         <item>pocketmaps</item>
+        <item>pocketpaint</item>
         <item>podax</item>
         <item>podcastaddict</item>
         <item>podlisten</item>
@@ -817,9 +849,11 @@
         <item>pretendyourexyzzy</item>
         <item>prevo</item>
         <item>privacybrowser</item>
+        <item>privacyindicators</item>
         <item>privatelocation</item>
         <item>proofmode</item>
         <item>protonmail</item>
+        <item>protonvpn</item>
         <item>providersmedia</item>
         <item>pubtran</item>
         <item>puff</item>
@@ -846,6 +880,7 @@
         <item>radiobeacon</item>
         <item>radiodroid</item>
         <item>rainwave</item>
+        <item>randomix</item>
         <item>raspicheck</item>
         <item>readerforselfoss</item>
         <item>readrops</item>
@@ -890,6 +925,7 @@
         <item>savetoncbookmarks</item>
         <item>scarletfdroid</item>
         <item>schessclock</item>
+        <item>schildichat</item>
         <item>scid</item>
         <item>scrabble</item>
         <item>scrambledeggsif</item>
@@ -928,9 +964,11 @@
         <item>sendtosd</item>
         <item>sendwithftp</item>
         <item>sensorssandbox</item>
+        <item>sentienlauncher</item>
         <item>seriesguide</item>
         <item>servdroid</item>
         <item>servestream</item>
+        <item>session</item>
         <item>settings</item>
         <item>settings2</item>
         <item>sfen</item>
@@ -979,6 +1017,7 @@
         <item>simplethankyou</item>
         <item>simpletodo</item>
         <item>simplevoicerecorder</item>
+        <item>simplytranslate</item>
         <item>simtk</item>
         <item>sipdroid</item>
         <item>sismicsreader</item>
@@ -1004,6 +1043,7 @@
         <item>sokoban</item>
         <item>solitaire</item>
         <item>solitairecg</item>
+        <item>soundmanager</item>
         <item>soundrecorder</item>
         <item>soundwaves</item>
         <item>sparserss</item>
@@ -1030,6 +1070,7 @@
         <item>suntime</item>
         <item>superfreezz</item>
         <item>supertuxkart</item>
+        <item>supertuxkartst</item>
         <item>superuser</item>
         <item>survivalmanual</item>
         <item>svgviewer</item>
@@ -1062,6 +1103,7 @@
         <item>taskwarrior</item>
         <item>td</item>
         <item>teatimer</item>
+        <item>telecine</item>
         <item>telegram</item>
         <item>telegramx</item>
         <item>tempmonitor</item>
@@ -1094,6 +1136,7 @@
         <item>toffeed</item>
         <item>togozip</item>
         <item>tomdroid</item>
+        <item>tonality</item>
         <item>torbrowser</item>
         <item>torbrowseralpha</item>
         <item>torch</item>
@@ -1138,12 +1181,15 @@
         <item>ukweather</item>
         <item>ulogger</item>
         <item>umbrella</item>
+        <item>umlclasseditor</item>
         <item>unciv</item>
         <item>unicodemap</item>
         <item>unipatcher</item>
+        <item>unlauncher</item>
         <item>unote</item>
         <item>untrackme</item>
         <item>updaterforspotify</item>
+        <item>usagedirect</item>
         <item>usbmountr</item>
         <item>vanillamusic</item>
         <item>vanillamusicheadphone</item>
@@ -1153,6 +1199,7 @@
         <item>vespucci</item>
         <item>videoeditor</item>
         <item>videotranscoder</item>
+        <item>vigilante</item>
         <item>vim8</item>
         <item>vimtouch</item>
         <item>vinyl</item>
@@ -1220,6 +1267,7 @@
         <item>xabber</item>
         <item>xbmc</item>
         <item>xdafeedreader</item>
+        <item>xeonjia</item>
         <item>xjackoverride</item>
         <item>xkcdviewer</item>
         <item>xmouse</item>
@@ -1237,6 +1285,7 @@
         <item>yalpstore</item>
         <item>yaxim</item>
         <item>yoke</item>
+        <item>youtrack</item>
         <item>yubico</item>
         <item>zapp</item>
         <item>zapwallet</item>
