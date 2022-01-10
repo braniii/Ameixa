@@ -205,7 +205,7 @@ echo "ok, done"
 
 echo "(12/${CHECK_COUNT}) Checking \"only template colors are used\"..."
 TEMPLATE_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' ./other/templates/*.svg | tr [:lower:] [:upper:] | sort | uniq)"
-for SVG in ${TODO_FOLDER}/*.svg
+for SVG in "$(find ${TODO_FOLDER} -name '*.svg')"
 do
     USED_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' $SVG | sort | uniq)"
     JOINT_COLORS="$(echo $TEMPLATE_COLORS $USED_COLORS | tr [:lower:] [:upper:] | tr ' ' '\n' | sort | uniq)"
