@@ -10,7 +10,7 @@ ICON_SIZES="drawable-mdpi drawable-hdpi drawable-xhdpi drawable-xxhdpi drawable-
 
 DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 
-CHECK_COUNT="12"
+CHECK_COUNT="13"
 return_value=0
 
 echo "(1/${CHECK_COUNT}) Checking \"each application component name is unique in ${DEFINITION_FILE}\"..."
@@ -203,7 +203,21 @@ do
 done
 echo "ok, done"
 
-echo "(12/${CHECK_COUNT}) Checking \"each monochrome png file is really monochrome\"..."
+echo "(12/${CHECK_COUNT}) Checking \"only template colors are used\"..."
+TEMPLATE_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' ./other/templates/*.svg | tr [:lower:] [:upper:] | sort | uniq)"
+for SVG in ${TODO_FOLDER}/*.svg
+do
+    USED_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' $SVG | sort | uniq)"
+    JOINT_COLORS="$(echo $TEMPLATE_COLORS $USED_COLORS | tr [:lower:] [:upper:] | tr ' ' '\n' | sort | uniq)"
+    if [[ "$TEMPLATE_COLORS" != "$JOINT_COLORS" ]]; then
+        echo "File icon has not allowed color: ${SVG}"
+	diff <(echo "$TEMPLATE_COLORS") <(echo "$JOINT_COLORS")
+        return_value=$((return_value + 1))
+    fi
+done
+echo "ok, done"
+
+echo "(13/${CHECK_COUNT}) Checking \"each monochrome png file is really monochrome\"..."
 PNG_MONOCHROMATIC_BASE_FOLDER="app/src/monochromatic/res/drawable-xxxhdpi"
 for PNG in ${PNG_MONOCHROMATIC_BASE_FOLDER}/*.png
 do
