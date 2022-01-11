@@ -7788,6 +7788,45 @@
     <item
         component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}"
         drawable="screencast" />
+    <item
+        component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}"
+        drawable="telegram" />
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="dialer" />
+    <item
+        component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}"
+        drawable="miuinotes" />
+    <item
+        component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}"
+        drawable="videoeditor" />
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}"
+        drawable="settings" />
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
+        drawable="gappsbrowser" />
+    <item
+        component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}"
+        drawable="scanner" />
+    <item
+        component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}"
+        drawable="fmradio" />
+    <item
+        component="ComponentInfo{com.orpheusdroid.sqliteviewer/com.orpheusdroid.sqliteviewer.ui.MainActivity}"
+        drawable="sqliteviewer" />
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="sms" />
+    <item
+        component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}"
+        drawable="themes" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
