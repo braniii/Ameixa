@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 15.168 15.168" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" x="-.072" y="-.072" width="1.144" height="1.144" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
         </filter>
     </defs>
-    <g transform="translate(-6.784 -1100.6)">
+    <g transform="translate(0 -1093.8)">
         <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
         <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#232323"/>
         <g transform="translate(-22.32 1056.5)">
@@ -75,10 +75,10 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
-    <g transform="translate(-6.784,-6.784)">
-        <path d="m14.367 7.8551c-3.591 0-6.5121 2.9211-6.5121 6.5121s2.9211 6.5137 6.5121 6.5137 6.5137-2.9228 6.5137-6.5137c0-3.591-2.9228-6.5121-6.5137-6.5121zm0 1.0034c3.0483 0 5.5087 2.4604 5.5087 5.5087s-2.4604 5.5087-5.5087 5.5087-5.5087-2.4604-5.5087-5.5087 2.4604-5.5087 5.5087-5.5087z" color="#000000" fill="#fffffd" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+    <g transform="translate(.0055339 .0053339)">
+        <path d="m14.367 7.8551c-3.591 0-6.5121 2.9211-6.5121 6.5121s2.9211 6.5137 6.5121 6.5137 6.5137-2.9228 6.5137-6.5137c0-3.591-2.9228-6.5121-6.5137-6.5121zm0 1.0034c3.0483 0 5.5087 2.4604 5.5087 5.5087s-2.4604 5.5087-5.5087 5.5087-5.5087-2.4604-5.5087-5.5087 2.4604-5.5087 5.5087-5.5087z" color="#000000" fill="#fff" stroke-linejoin="round" style="-inkscape-stroke:none"/>
     </g>
-    <g transform="translate(-6.784,-6.784)" display="none" fill="none">
+    <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>
         <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>

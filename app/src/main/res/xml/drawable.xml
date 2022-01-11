@@ -69,6 +69,7 @@
     <item drawable="auroradroid" />
     <item drawable="aurorastore" />
     <item drawable="authenticator" />
+    <item drawable="authenticator2" />
     <item drawable="autoairplanemode" />
     <item drawable="autostarts" />
     <item drawable="babysleepsounds" />
@@ -569,6 +570,7 @@
     <item drawable="microg" />
     <item drawable="micromath" />
     <item drawable="midisheetmusic" />
+    <item drawable="midrop" />
     <item drawable="mifare" />
     <item drawable="mimanganu" />
     <item drawable="mindustry" />
@@ -580,6 +582,8 @@
     <item drawable="mirakel" />
     <item drawable="miros" />
     <item drawable="mitzuli" />
+    <item drawable="miuisecuritycenter" />
+    <item drawable="miuiweather" />
     <item drawable="mlmanager" />
     <item drawable="mnml" />
     <item drawable="mobilewebcam" />

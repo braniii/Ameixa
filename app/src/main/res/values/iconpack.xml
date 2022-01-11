@@ -69,6 +69,7 @@
         <item>auroradroid</item>
         <item>aurorastore</item>
         <item>authenticator</item>
+        <item>authenticator2</item>
         <item>autoairplanemode</item>
         <item>autostarts</item>
         <item>babysleepsounds</item>
@@ -569,6 +570,7 @@
         <item>microg</item>
         <item>micromath</item>
         <item>midisheetmusic</item>
+        <item>midrop</item>
         <item>mifare</item>
         <item>mimanganu</item>
         <item>mindustry</item>
@@ -580,6 +582,8 @@
         <item>mirakel</item>
         <item>miros</item>
         <item>mitzuli</item>
+        <item>miuisecuritycenter</item>
+        <item>miuiweather</item>
         <item>mlmanager</item>
         <item>mnml</item>
         <item>mobilewebcam</item>
