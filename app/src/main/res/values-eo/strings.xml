@@ -5,5 +5,6 @@
     <string name="license">Permesilo</string>
     <string name="description_code">Ĉi tiu aplikaĵa fontkodo estas disponebligada laŭ Ĝenerala Publika Permesilo de GNU v3.</string>
     <string name="description_images">La bildoj enhavitaj en ĉi tiu aplikaĵo estas disponebligada laŭ la permesilo Krea Komunaĵo Atribuite-Samkondiĉe 4.0.</string>
+    <string name="searchHint">Filtri piktogramoj</string>
 </resources>
 

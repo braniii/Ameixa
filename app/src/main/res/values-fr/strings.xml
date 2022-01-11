@@ -5,4 +5,5 @@
     <string name="license">Licence</string>
     <string name="description_code">Le code source de ce programme est disponible sous la licence publique générale GNU v3.</string>
     <string name="description_images">Les images incluses dans ce programme sont disponibles sous la licence Creative Commons Attribution Share Alike 4.0.</string>
+    <string name="searchHint">Filtrer icônes</string>
 </resources>
