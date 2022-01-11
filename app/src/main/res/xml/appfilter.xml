@@ -7764,6 +7764,30 @@
     <item
         component="ComponentInfo{com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity}"
         drawable="nccookbook2" />
+    <item
+        component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}"
+        drawable="simplefilemanager" />
+    <item
+        component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}"
+        drawable="simplecalculator" />
+    <item
+        component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}"
+        drawable="miuiweather" />
+    <item
+        component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen}"
+        drawable="midrop" />
+    <item
+        component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}"
+        drawable="help" />
+    <item
+        component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}"
+        drawable="miuisecuritycenter" />
+    <item
+        component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}"
+        drawable="screencast" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
