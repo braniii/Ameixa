@@ -13,7 +13,22 @@ DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 CHECK_COUNT="13"
 return_value=0
 
-echo "(1/${CHECK_COUNT}) Checking \"each application component name is unique in ${DEFINITION_FILE}\"..."
+
+echo "(1/${CHECK_COUNT}) Checking \"only template colors are used\"..."
+TEMPLATE_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' ./other/templates/*.svg | tr [:lower:] [:upper:] | sort | uniq)"
+for SVG in $(find ${TODO_FOLDER} -name '*.svg' | tr '\n' ' ')
+do
+    USED_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' $SVG | sort | uniq)"
+    JOINT_COLORS="$(echo $TEMPLATE_COLORS $USED_COLORS | tr [:lower:] [:upper:] | tr ' ' '\n' | sort | uniq)"
+    if [[ "$TEMPLATE_COLORS" != "$JOINT_COLORS" ]]; then
+        echo "File icon has not allowed color: $SVG"
+	diff <(echo "$TEMPLATE_COLORS") <(echo "$JOINT_COLORS")
+        return_value=$((return_value + 1))
+    fi
+done
+echo "ok, done"
+
+echo "(2/${CHECK_COUNT}) Checking \"each application component name is unique in ${DEFINITION_FILE}\"..."
 DUPLICATES=$(grep "component=" ${DEFINITION_FILE} | sort | uniq --count --repeated)
 DUPLICATES_COUNT=$(echo "${DUPLICATES}" | sed '/^$/d' | wc -l | awk '{print $0}')
 if [[ $DUPLICATES_COUNT -ne 0 ]]
@@ -24,7 +39,7 @@ then
 fi
 echo "ok, done"
 
-echo "(2/${CHECK_COUNT}) Checking \"consistant formatting ${DEFINITION_FILE}\"..."
+echo "(3/${CHECK_COUNT}) Checking \"consistant formatting ${DEFINITION_FILE}\"..."
 
 WRONGINDENT_ITEM=$(grep -nE "<item" ${DEFINITION_FILE} | grep -vE "^*:    <item$")
 WRONGINDENT_COMPONENT=$(grep -nE "component=" ${DEFINITION_FILE} | grep -vE "^*:        component=\"ComponentInfo\{.*\}\"$" | grep -vE "component=\":")
@@ -41,7 +56,7 @@ then
 fi
 echo "ok, done"
 
-echo "(3/${CHECK_COUNT}) Checking \"each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type\"..."
+echo "(4/${CHECK_COUNT}) Checking \"each icon definition in ${DEFINITION_FILE} has an existing svg icon file for each type\"..."
 ICON_DEFINITIONS=$(sed 's/ /\n/g' ${DEFINITION_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DEFINITIONS}
 do
@@ -61,7 +76,7 @@ do
 done
 echo "ok, done"
 
-echo "(4/${CHECK_COUNT}) Checking \"each icon definition in ${DRAWABLE_FILE} has an existing svg icon file for each type\"..."
+echo "(5/${CHECK_COUNT}) Checking \"each icon definition in ${DRAWABLE_FILE} has an existing svg icon file for each type\"..."
 ICON_DRAWABLE=$(sed 's/ /\n/g' ${DRAWABLE_FILE} | grep "drawable" | cut -d"\"" -f2 | sort | uniq)
 for ICON in ${ICON_DRAWABLE}
 do
@@ -81,7 +96,7 @@ do
 done
 echo "ok, done"
 
-echo "(5/${CHECK_COUNT}) Checking \"each icon definition in ${ICONPACK_FILE} has an existing svg icon file for each type\"..."
+echo "(6/${CHECK_COUNT}) Checking \"each icon definition in ${ICONPACK_FILE} has an existing svg icon file for each type\"..."
 ICON_ICONPACK=$(sed 's/ /\n/g' ${ICONPACK_FILE} | grep "item" | cut -d">" -f2 | cut -d"<" -f1 | sort | uniq)
 for ICON in ${ICON_ICONPACK}
 do
@@ -101,7 +116,7 @@ do
 done
 echo "ok, done"
 
-echo "(6/${CHECK_COUNT}) Checking \"each svg icon file exists in each icon type\"..."
+echo "(7/${CHECK_COUNT}) Checking \"each svg icon file exists in each icon type\"..."
 for TYPE1 in ${ICON_TYPES}
 do
     for TYPE2 in ${ICON_TYPES}
@@ -122,7 +137,7 @@ do
 done
 echo "ok, done"
 
-echo "(7/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DEFINITION_FILE}\"..."
+echo "(8/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DEFINITION_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -136,7 +151,7 @@ do
 done
 echo "ok, done"
 
-echo "(8/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DRAWABLE_FILE}\"..."
+echo "(9/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${DRAWABLE_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -150,7 +165,7 @@ do
 done
 echo "ok, done"
 
-echo "(9/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${ICONPACK_FILE}\"..."
+echo "(10/${CHECK_COUNT}) Checking \"each svg icon file has at least one icon definition in ${ICONPACK_FILE}\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -164,7 +179,7 @@ do
 done
 echo "ok, done"
 
-echo "(10/${CHECK_COUNT}) Checking \"each svg file has a png rendered file in each type/size\"..."
+echo "(11/${CHECK_COUNT}) Checking \"each svg file has a png rendered file in each type/size\"..."
 for SVG in ${SVG_BASE_FOLDER}/${DEFAULT_ICON_TYPE}/*.svg
 do
     ICON_NAME=$(basename ${SVG} .svg)
@@ -183,7 +198,7 @@ do
 done
 echo "ok, done"
 
-echo "(11/${CHECK_COUNT}) Checking \"each generated png icon file is referenced in ${DEFINITION_FILE}\"..."
+echo "(12/${CHECK_COUNT}) Checking \"each generated png icon file is referenced in ${DEFINITION_FILE}\"..."
 for TYPE in ${ICON_TYPES}
 do
     for SIZE in ${ICON_SIZES}
@@ -200,20 +215,6 @@ do
             fi
         done
     done
-done
-echo "ok, done"
-
-echo "(12/${CHECK_COUNT}) Checking \"only template colors are used\"..."
-TEMPLATE_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' ./other/templates/*.svg | tr [:lower:] [:upper:] | sort | uniq)"
-for SVG in "$(find ${TODO_FOLDER} -name '*.svg')"
-do
-    USED_COLORS="$(grep -h -o '#[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' $SVG | sort | uniq)"
-    JOINT_COLORS="$(echo $TEMPLATE_COLORS $USED_COLORS | tr [:lower:] [:upper:] | tr ' ' '\n' | sort | uniq)"
-    if [[ "$TEMPLATE_COLORS" != "$JOINT_COLORS" ]]; then
-        echo "File icon has not allowed color: ${SVG}"
-	diff <(echo "$TEMPLATE_COLORS") <(echo "$JOINT_COLORS")
-        return_value=$((return_value + 1))
-    fi
 done
 echo "ok, done"
 
