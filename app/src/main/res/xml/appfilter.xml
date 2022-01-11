@@ -164,6 +164,9 @@
         component="ComponentInfo{com.petitbambou/com.petitbambou.frontend.launcher.ActivityLauncherCustomizable}"
         drawable="nonfree_petitbambou" />
     <item
+        component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}"
+        drawable="nonfree_pocketcasts" />
+    <item
         component="ComponentInfo{com.pr0gramm.app/com.pr0gramm.app.ui.MainActivity}"
         drawable="nonfree_pr0gramm" />
     <item
@@ -6096,6 +6099,9 @@
         component="ComponentInfo{org.supertuxkart.stk/android.app.NativeActivity}"
         drawable="supertuxkart" />
     <item
+        component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}"
+        drawable="supertuxkart" />
+    <item
         component="ComponentInfo{com.koushikdutta.superuser/com.koushikdutta.superuser.MainActivity}"
         drawable="superuser" />
     <item
@@ -7490,6 +7496,9 @@
         component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}"
         drawable="dbnavigator" />
     <item
+        component="ComponentInfo{de.hafas.android.db.beta/de.bahn.dbtickets.ui.DBNavLauncherActivity}"
+        drawable="dbnavigator" />
+    <item
         component="ComponentInfo{com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity}"
         drawable="ebaykleinanzeigen" />
     <item
@@ -7578,7 +7587,7 @@
         component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashScreenActivity}"
         drawable="outbank" />
 
-    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+    <!-- 4.8.1 -->
     <item
         component="ComponentInfo{org.tamanegi.aneko/org.tamanegi.aneko.ANekoActivity}"
         drawable="aneko" />
@@ -7649,6 +7658,95 @@
         component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}"
         drawable="openboard" />
     <item
+        component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}"
+        drawable="matlog" />
+    <item
+        component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}"
+        drawable="nlpconfig" />
+    <item
+        component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.modules.splash.activities.SplashActivity}"
+        drawable="vodafone" />
+    <item
+        component="ComponentInfo{org.woheller69.level/org.woheller69.level.Level}"
+        drawable="bubble" />
+
+    <!-- 4.9.0 -->
+    <item
+        component="ComponentInfo{dasher.android/dasher.android.DasherActivity}"
+        drawable="dashersetup" />
+    <item
+        component="ComponentInfo{com.enrico.earthquake.batterysimplysolid/com.enrico.earthquake.batterysimplysolid.PreferenceActivity}"
+        drawable="batterylive" />
+    <item
+        component="ComponentInfo{io.github.datastopwatch/io.github.datastopwatch.MainActivity}"
+        drawable="datastopwatch" />
+    <item
+        component="ComponentInfo{com.lucao.limpazap/com.lucao.limpazap.MainActivity}"
+        drawable="limpazap" />
+    <item
+        component="ComponentInfo{com.roozen.SoundManagerv2/com.roozen.SoundManagerv2.MainSettings}"
+        drawable="soundmanager" />
+    <item
+        component="ComponentInfo{xyz.deepdaikon.xeonjia/xyz.deepdaikon.xeonjia.MainActivity}"
+        drawable="xeonjia" />
+    <item
+        component="ComponentInfo{de.spiritcroc.riotx/im.vector.app.features.Alias}"
+        drawable="schildichat" />
+    <item
+        component="ComponentInfo{com.ionicframework.backingtrainer763961/com.ionicframework.backingtrainer763961.MainActivity}"
+        drawable="backingtrainer" />
+    <item
+        component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}"
+        drawable="lichess" />
+    <item
+        component="ComponentInfo{net.currit.tonality/net.currit.tonality.TonalityMainActivity}"
+        drawable="tonality" />
+    <item
+        component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}"
+        drawable="hypatia" />
+    <item
+        component="ComponentInfo{de.mwvb.blockpuzzle/de.mwvb.blockpuzzle.global.StartScreenActivity}"
+        drawable="blockpuzzle" />
+    <item
+        component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}"
+        drawable="openapk" />
+    <item
+        component="ComponentInfo{me.jmh.authenticatorpro/crc643c2a2b888a14ec9a.MainActivity}"
+        drawable="authenticator2" />
+    <item
+        component="ComponentInfo{com.nitish.privacyindicator/com.nitish.privacyindicator.ui.home.HomeActivity}"
+        drawable="privacyindicators" />
+    <item
+        component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.activity.MainActivity}"
+        drawable="noice" />
+    <item
+        component="ComponentInfo{com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity}"
+        drawable="binauralbeats" />
+    <item
+        component="ComponentInfo{nekox.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="nekogramx" />
+    <item
+        component="ComponentInfo{com.vishnuraghav.EnRecipes/com.tns.NativeScriptActivity}"
+        drawable="enrecipes" />
+    <item
+        component="ComponentInfo{com.jakewharton.telecine/com.jakewharton.telecine.TelecineActivity}"
+        drawable="telecine" />
+    <item
+        component="ComponentInfo{ch.fixme.cowsay/ch.fixme.cowsay.Main}"
+        drawable="cowsay" />
+    <item
+        component="ComponentInfo{com.castlewrath.hexpress/org.love2d.android.GameActivity}"
+        drawable="hexpress" />
+    <item
+        component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}"
+        drawable="mumla" />
+    <item
+        component="ComponentInfo{de.rki.covpass.app/de.rki.covpass.app.main.MainActivity}"
+        drawable="covpass" />
+    <item
+        component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
+        drawable="usagedirect" />
+    <item
         component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}"
         drawable="organicmaps" />
     <item
@@ -7661,26 +7759,38 @@
         component="ComponentInfo{aws.apps.androidDrawables/aws.apps.androidDrawables.activities.Main}"
         drawable="androidresources" />
     <item
-        component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}"
-        drawable="mumla" />
+        component="ComponentInfo{com.jetbrains.youtrack.mobile.app/com.jetbrains.youtrack.mobile.app.MainActivity}"
+        drawable="youtrack" />
     <item
-        component="ComponentInfo{de.rki.covpass.app/de.rki.covpass.app.main.MainActivity}"
-        drawable="covpass" />
+        component="ComponentInfo{com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity}"
+        drawable="nccookbook2" />
     <item
-        component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}"
-        drawable="usagedirect" />
+        component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}"
+        drawable="simplefilemanager" />
     <item
-        component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}"
-        drawable="matlog" />
+        component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}"
+        drawable="simplecalculator" />
     <item
-        component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}"
-        drawable="nlpconfig" />
+        component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}"
+        drawable="miuiweather" />
     <item
-        component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.modules.splash.activities.SplashActivity}"
-        drawable="vodafone" />
+        component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen}"
+        drawable="midrop" />
     <item
-        component="ComponentInfo{org.woheller69.level/org.woheller69.level.Level}"
-        drawable="bubble" />
+        component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}"
+        drawable="help" />
+    <item
+        component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}"
+        drawable="miuisecuritycenter" />
+    <item
+        component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}"
+        drawable="screencast" />
+
+    <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
+
 
     <!-- Nova Launcher specific -->
     <item
