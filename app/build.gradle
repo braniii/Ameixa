@@ -8,8 +8,8 @@ android {
         applicationId "org.xphnx.ameixa"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 481
-        versionName "4.8.1"
+        versionCode 490
+        versionName "4.9.0"
     }
 
     buildTypes {
