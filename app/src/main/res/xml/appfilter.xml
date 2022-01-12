@@ -7826,7 +7826,7 @@
         drawable="sms" />
     <item
         component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}"
-        drawable="themes" />
+        drawable="miuithemes" />
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
