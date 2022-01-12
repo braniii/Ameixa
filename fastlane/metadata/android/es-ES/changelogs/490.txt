@@ -1,0 +1,7 @@
+4.9.0:
+* añadido 60+ iconos y arreglado muchos filtros
+* nueva búsqueda de iconos en la aplicación, gracias a @donnnno
+* más mejoras en el CI
+* mejora de la pauta de contribución
+
+Gracias a una comunidad activa que contribuye (en orden alfabético): @bdju, @benoit.harrault, @deusdenton, @egecelikci, @germe-fur, Jochen Spickhof, @load_sas, @twilight1794, @zachir
