@@ -18,7 +18,7 @@ function openPopup(){
   var img = document.createElement('img');
   img.src = this.src;
   img.alt = this.alt;
-  fig.addEventListener('click', closePopup); 
+  fig.addEventListener('click', closePopup);
   fig.appendChild(title);
   fig.appendChild(img);
   document.body.appendChild(fig);
@@ -110,6 +110,10 @@ function genImageGrid(){
     im.addEventListener('click', openPopup);
     document.getElementsByClassName('tab')[1].appendChild(im);
   }
+  // Icon counter
+  count = document.createElement("p");
+  count.innerText = 'Now, there are ' + docs.length + ' icons!';
+  carrousel.appendChild(count);
 }
 document.addEventListener("DOMContentLoaded", function(){
   document.getElementById('colored').onclick = toggleColor;
