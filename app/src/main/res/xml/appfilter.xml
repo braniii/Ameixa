@@ -7830,6 +7830,9 @@
     <item
         component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}"
         drawable="miuithemes" />
+    <item
+        component="ComponentInfo{com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity}"
+        drawable="trebleshot"/>
 
 
     <!-- Nova Launcher specific -->
