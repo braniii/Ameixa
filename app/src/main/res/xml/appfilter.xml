@@ -7854,6 +7854,12 @@
     <item
         component="ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}"
         drawable="glider" />
+    <item
+        component="ComponentInfo{org.plumvillageapp/org.plumvillageapp.MainActivity}"
+        drawable="nonfree_plumvillage" />
+    <item
+        component="ComponentInfo{es.wolfi.app.passman.alpha/es.wolfi.app.passman.PasswordList}"
+        drawable="passman" />
 
 
     <!-- Nova Launcher specific -->
