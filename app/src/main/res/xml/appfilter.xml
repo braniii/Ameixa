@@ -7842,6 +7842,15 @@
     <item
         component="ComponentInfo{at.h4x.fdroidforumclient/at.h4x.fdroidforumclient.MainActivity}"
         drawable="fdroidforum" />
+    <item
+        component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}"
+        drawable="nonfree_titaniumbackup" />
+    <item
+        component="ComponentInfo{ca.rmen.android.poetassistant/ca.rmen.android.poetassistant.main.MainActivity}"
+        drawable="poetassistant" />
+    <item
+        component="ComponentInfo{com.sketchpunk.ocomicreader/com.sketchpunk.ocomicreader.LibraryActivity}"
+        drawable="opencomicreader" />
 
 
     <!-- Nova Launcher specific -->
