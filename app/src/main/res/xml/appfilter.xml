@@ -7836,6 +7836,12 @@
     <item
         component="ComponentInfoua.itaysonlab.messenger/org.telegram.messenger.CG_Icon_Alt_Blue}"
         drawable="catogram" />
+    <item
+        component="ComponentInfo{org.commonvoice.saverio/org.commonvoice.saverio.SplashScreen}"
+        drawable="cvproject" />
+    <item
+        component="ComponentInfo{at.h4x.fdroidforumclient/at.h4x.fdroidforumclient.MainActivity}"
+        drawable="fdroidforum" />
 
 
     <!-- Nova Launcher specific -->
