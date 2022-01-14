@@ -7832,7 +7832,10 @@
         drawable="miuithemes" />
     <item
         component="ComponentInfo{com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity}"
-        drawable="trebleshot"/>
+        drawable="trebleshot" />
+    <item
+        component="ComponentInfoua.itaysonlab.messenger/org.telegram.messenger.CG_Icon_Alt_Blue}"
+        drawable="catogram" />
 
 
     <!-- Nova Launcher specific -->
