@@ -7851,6 +7851,9 @@
     <item
         component="ComponentInfo{com.sketchpunk.ocomicreader/com.sketchpunk.ocomicreader.LibraryActivity}"
         drawable="opencomicreader" />
+    <item
+        component="ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}"
+        drawable="glider" />
 
 
     <!-- Nova Launcher specific -->
