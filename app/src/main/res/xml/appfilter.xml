@@ -7834,7 +7834,7 @@
         component="ComponentInfo{com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity}"
         drawable="trebleshot" />
     <item
-        component="ComponentInfoua.itaysonlab.messenger/org.telegram.messenger.CG_Icon_Alt_Blue}"
+        component="ComponentInfo{ua.itaysonlab.messenger/org.telegram.messenger.CG_Icon_Alt_Blue}"
         drawable="catogram" />
     <item
         component="ComponentInfo{org.commonvoice.saverio/org.commonvoice.saverio.SplashScreen}"
