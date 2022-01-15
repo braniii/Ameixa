@@ -7796,7 +7796,7 @@
         drawable="telegram" />
     <item
         component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="dialer" />
+        drawable="phone" />
     <item
         component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}"
         drawable="miuinotes" />
@@ -7823,7 +7823,7 @@
         drawable="fmradio" />
     <item
         component="ComponentInfo{com.orpheusdroid.sqliteviewer/com.orpheusdroid.sqliteviewer.ui.MainActivity}"
-        drawable="sqliteviewer" />
+        drawable="asqlitemanager" />
     <item
         component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
         drawable="sms" />
@@ -7860,6 +7860,9 @@
     <item
         component="ComponentInfo{es.wolfi.app.passman.alpha/es.wolfi.app.passman.PasswordList}"
         drawable="passman" />
+    <item
+        component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity}"
+        drawable="termuxwidget" />
 
 
     <!-- Nova Launcher specific -->
