@@ -7863,6 +7863,13 @@
     <item
         component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity}"
         drawable="termuxwidget" />
+    <item
+        component="ComponentInfo{com.m2049r.xmrwallet/com.m2049r.xmrwallet.MainActivity}"
+        drawable="monerujo" />
+    <item
+        component="ComponentInfo{com.m2049r.xmrwallet.stage/com.m2049r.xmrwallet.MainActivity}"
+        drawable="monerujostagenet" />
+
 
 
     <!-- Nova Launcher specific -->
