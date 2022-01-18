@@ -7869,7 +7869,18 @@
     <item
         component="ComponentInfo{com.m2049r.xmrwallet.stage/com.m2049r.xmrwallet.MainActivity}"
         drawable="monerujostagenet" />
-
+    <item
+        component="ComponentInfo{com.twidere.twiderex/com.twidere.twiderex.TwidereXActivity}"
+        drawable="twiderex" />
+    <item
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenShareIntoActivity}"
+        drawable="markor_share" />
+    <item
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity}"
+        drawable="markor_quick" />
+    <item
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity}"
+        drawable="markor_todo" />
 
 
     <!-- Nova Launcher specific -->
