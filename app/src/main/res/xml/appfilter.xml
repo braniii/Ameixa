@@ -7899,6 +7899,9 @@
     <item
         component="ComponentInfo{de.phase6.freeversion.beta/de.phase6.vtrainer.StartActivity}"
         drawable="phase6" />
+    <item
+        component="ComponentInfo{org.andstatus.game2048/org.andstatus.game2048.MainActivity}"
+        drawable="game2048" />
 
 
     <!-- Nova Launcher specific -->
