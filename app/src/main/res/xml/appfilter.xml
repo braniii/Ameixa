@@ -7881,6 +7881,15 @@
     <item
         component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity}"
         drawable="markor_todo" />
+    <item
+        component="ComponentInfo{com.example.deeplviewer/com.example.deeplviewer.MainActivity}"
+        drawable="deepl" />
+    <item
+        component="ComponentInfo{de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity}"
+        drawable="komoot" />
+    <item
+        component="ComponentInfo{de.rki.covpass.checkapp/de.rki.covpass.checkapp.main.MainActivity}"
+        drawable="covpasscheck" />
 
 
     <!-- Nova Launcher specific -->
