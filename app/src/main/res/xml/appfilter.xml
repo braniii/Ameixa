@@ -7890,6 +7890,15 @@
     <item
         component="ComponentInfo{de.rki.covpass.checkapp/de.rki.covpass.checkapp.main.MainActivity}"
         drawable="covpasscheck" />
+    <item
+        component="ComponentInfo{com.meteoblue.droid/crc64759a0cf6dda89994.MainActivity}"
+        drawable="meteoblue" />
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
+        drawable="snapseed" />
+    <item
+        component="ComponentInfo{de.phase6.freeversion.beta/de.phase6.vtrainer.StartActivity}"
+        drawable="phase6" />
 
 
     <!-- Nova Launcher specific -->
