@@ -7902,6 +7902,12 @@
     <item
         component="ComponentInfo{org.andstatus.game2048/org.andstatus.game2048.MainActivity}"
         drawable="game2048" />
+    <item
+        component="ComponentInfo{com.foxdebug.acode/com.foxdebug.acode.MainActivity}"
+        drawable="acode" />
+    <item
+        component="ComponentInfo{kuesji.link_eye/kuesji.link_eye.Main}"
+        drawable="linkeye" />
 
 
     <!-- Nova Launcher specific -->
