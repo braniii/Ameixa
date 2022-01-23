@@ -7908,6 +7908,9 @@
     <item
         component="ComponentInfo{kuesji.link_eye/kuesji.link_eye.Main}"
         drawable="linkeye" />
+    <item
+        component="ComponentInfo{com.cookiegames.smartcookie/com.cookiegames.smartcookie.MainActivity}"
+        drawable="smartcookieweb" />
 
 
     <!-- Nova Launcher specific -->
