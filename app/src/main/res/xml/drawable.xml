@@ -6,6 +6,7 @@
     <item drawable="abcore" />
     <item drawable="acaldav" />
     <item drawable="acastus" />
+    <item drawable="acode" />
     <item drawable="activitylauncher" />
     <item drawable="adaway" />
     <item drawable="adfree" />
@@ -163,6 +164,7 @@
     <item drawable="catgenerator" />
     <item drawable="cathode" />
     <item drawable="catlog" />
+    <item drawable="catogram" />
     <item drawable="caweather" />
     <item drawable="cfe" />
     <item drawable="cgeo" />
@@ -196,6 +198,7 @@
     <item drawable="coloringbook" />
     <item drawable="communitycompass" />
     <item drawable="compass" />
+    <item drawable="cone" />
     <item drawable="connectbot" />
     <item drawable="constellations" />
     <item drawable="contactmerger" />
@@ -209,6 +212,7 @@
     <item drawable="counterme" />
     <item drawable="covid19stats" />
     <item drawable="covpass" />
+    <item drawable="covpasscheck" />
     <item drawable="cowsay" />
     <item drawable="cowsrevenge" />
     <item drawable="cpuinfo" />
@@ -227,6 +231,7 @@
     <item drawable="cupsprint" />
     <item drawable="cupsprintservice" />
     <item drawable="currencyconverter" />
+    <item drawable="cvproject" />
     <item drawable="cythara" />
     <item drawable="dashclock" />
     <item drawable="dashersetup" />
@@ -237,6 +242,7 @@
     <item drawable="debiandroid" />
     <item drawable="debiankit" />
     <item drawable="decsynccc" />
+    <item drawable="deepl" />
     <item drawable="defaulticon" />
     <item drawable="defendo" />
     <item drawable="deltachat" />
@@ -326,6 +332,7 @@
     <item drawable="fdprivileged" />
     <item drawable="fdroid" />
     <item drawable="fdroidbuildstatus" />
+    <item drawable="fdroidforum" />
     <item drawable="fedilab" />
     <item drawable="feeder" />
     <item drawable="feedhive" />
@@ -390,6 +397,7 @@
     <item drawable="github" />
     <item drawable="gitnex" />
     <item drawable="gittouch" />
+    <item drawable="glider" />
     <item drawable="gloomydungeons" />
     <item drawable="gltron" />
     <item drawable="glucosio" />
@@ -484,6 +492,7 @@
     <item drawable="knockonports" />
     <item drawable="kodi" />
     <item drawable="kolabnotes" />
+    <item drawable="komoot" />
     <item drawable="kontalk" />
     <item drawable="kore" />
     <item drawable="koreader" />
@@ -514,6 +523,7 @@
     <item drawable="limpazap" />
     <item drawable="lincal" />
     <item drawable="linconnect" />
+    <item drawable="linkeye" />
     <item drawable="linphone" />
     <item drawable="linuxcommands" />
     <item drawable="linuxdeploy" />
@@ -547,6 +557,9 @@
     <item drawable="markdownview" />
     <item drawable="markers" />
     <item drawable="markor" />
+    <item drawable="markor_quick" />
+    <item drawable="markor_share" />
+    <item drawable="markor_todo" />
     <item drawable="materialicons" />
     <item drawable="materialnotes" />
     <item drawable="mathdoku" />
@@ -562,6 +575,7 @@
     <item drawable="memrise" />
     <item drawable="mercury" />
     <item drawable="metadataremover" />
+    <item drawable="meteoblue" />
     <item drawable="metro" />
     <item drawable="metronome" />
     <item drawable="mgit" />
@@ -582,12 +596,16 @@
     <item drawable="mirakel" />
     <item drawable="miros" />
     <item drawable="mitzuli" />
+    <item drawable="miuinotes" />
     <item drawable="miuisecuritycenter" />
+    <item drawable="miuithemes" />
     <item drawable="miuiweather" />
     <item drawable="mlmanager" />
     <item drawable="mnml" />
     <item drawable="mobilewebcam" />
     <item drawable="mobilizon" />
+    <item drawable="monerujo" />
+    <item drawable="monerujostagenet" />
     <item drawable="moneybalance" />
     <item drawable="moneymanagerex" />
     <item drawable="moonlight" />
@@ -691,6 +709,7 @@
     <item drawable="nonfree_myphone" />
     <item drawable="nonfree_okoo" />
     <item drawable="nonfree_petitbambou" />
+    <item drawable="nonfree_plumvillage" />
     <item drawable="nonfree_pocketcasts" />
     <item drawable="nonfree_pr0gramm" />
     <item drawable="nonfree_rteeco2mix" />
@@ -704,6 +723,7 @@
     <item drawable="nonfree_spotifykids" />
     <item drawable="nonfree_steam" />
     <item drawable="nonfree_tinder" />
+    <item drawable="nonfree_titaniumbackup" />
     <item drawable="nonfree_twitch" />
     <item drawable="nonfree_twitter" />
     <item drawable="nonfree_waze" />
@@ -744,6 +764,7 @@
     <item drawable="openbikesharing" />
     <item drawable="openboard" />
     <item drawable="opencamera" />
+    <item drawable="opencomicreader" />
     <item drawable="opencvengine" />
     <item drawable="opendocumentreader" />
     <item drawable="openexplorer" />
@@ -805,6 +826,7 @@
     <item drawable="papercraft" />
     <item drawable="paperlaunch" />
     <item drawable="passandroid" />
+    <item drawable="passman" />
     <item drawable="passwdsafe" />
     <item drawable="pattle" />
     <item drawable="pdfcreator" />
@@ -821,6 +843,7 @@
     <item drawable="periodical" />
     <item drawable="persiancalendar" />
     <item drawable="pftpd" />
+    <item drawable="phase6" />
     <item drawable="phone" />
     <item drawable="photomath" />
     <item drawable="phyphox" />
@@ -840,6 +863,7 @@
     <item drawable="podax" />
     <item drawable="podcastaddict" />
     <item drawable="podlisten" />
+    <item drawable="poetassistant" />
     <item drawable="politedroid" />
     <item drawable="pomodoro" />
     <item drawable="portauthority" />
@@ -927,6 +951,7 @@
     <item drawable="satstat" />
     <item drawable="saveforoffline" />
     <item drawable="savetoncbookmarks" />
+    <item drawable="scanner" />
     <item drawable="scarletfdroid" />
     <item drawable="schessclock" />
     <item drawable="schildichat" />
@@ -1033,6 +1058,7 @@
     <item drawable="slideshow" />
     <item drawable="slightbackup" />
     <item drawable="slimfacebook" />
+    <item drawable="smartcookieweb" />
     <item drawable="smarterwifimanager" />
     <item drawable="smartnavi" />
     <item drawable="sms" />
@@ -1041,6 +1067,7 @@
     <item drawable="smsgate" />
     <item drawable="smsscheduler" />
     <item drawable="smssecure" />
+    <item drawable="snapseed" />
     <item drawable="snes9xex" />
     <item drawable="snooperstopper" />
     <item drawable="snoopsnitch" />
@@ -1116,6 +1143,7 @@
     <item drawable="termux" />
     <item drawable="termuxboot" />
     <item drawable="termuxfloat" />
+    <item drawable="termuxwidget" />
     <item drawable="testnet3" />
     <item drawable="tethercompanion" />
     <item drawable="textfiction" />
@@ -1177,6 +1205,7 @@
     <item drawable="tuxrider" />
     <item drawable="tvkill" />
     <item drawable="twidere" />
+    <item drawable="twiderex" />
     <item drawable="twire" />
     <item drawable="twittnuker" />
     <item drawable="twobuntu" />

@@ -7791,6 +7791,130 @@
 
     <!-- PUT NEWEST ADDITIONS AFTER THIS LINE-->
 
+    <item
+        component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}"
+        drawable="telegram" />
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="phone" />
+    <item
+        component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}"
+        drawable="miuinotes" />
+    <item
+        component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}"
+        drawable="videoeditor" />
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}"
+        drawable="settings" />
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
+        drawable="gappsbrowser" />
+    <item
+        component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}"
+        drawable="scanner" />
+    <item
+        component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}"
+        drawable="fmradio" />
+    <item
+        component="ComponentInfo{com.orpheusdroid.sqliteviewer/com.orpheusdroid.sqliteviewer.ui.MainActivity}"
+        drawable="asqlitemanager" />
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="sms" />
+    <item
+        component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}"
+        drawable="miuithemes" />
+    <item
+        component="ComponentInfo{com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity}"
+        drawable="trebleshot" />
+    <item
+        component="ComponentInfo{ua.itaysonlab.messenger/org.telegram.messenger.CG_Icon_Alt_Blue}"
+        drawable="catogram" />
+    <item
+        component="ComponentInfo{org.commonvoice.saverio/org.commonvoice.saverio.SplashScreen}"
+        drawable="cvproject" />
+    <item
+        component="ComponentInfo{at.h4x.fdroidforumclient/at.h4x.fdroidforumclient.MainActivity}"
+        drawable="fdroidforum" />
+    <item
+        component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}"
+        drawable="nonfree_titaniumbackup" />
+    <item
+        component="ComponentInfo{ca.rmen.android.poetassistant/ca.rmen.android.poetassistant.main.MainActivity}"
+        drawable="poetassistant" />
+    <item
+        component="ComponentInfo{com.sketchpunk.ocomicreader/com.sketchpunk.ocomicreader.LibraryActivity}"
+        drawable="opencomicreader" />
+    <item
+        component="ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}"
+        drawable="glider" />
+    <item
+        component="ComponentInfo{org.plumvillageapp/org.plumvillageapp.MainActivity}"
+        drawable="nonfree_plumvillage" />
+    <item
+        component="ComponentInfo{es.wolfi.app.passman.alpha/es.wolfi.app.passman.PasswordList}"
+        drawable="passman" />
+    <item
+        component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity}"
+        drawable="termuxwidget" />
+    <item
+        component="ComponentInfo{com.m2049r.xmrwallet/com.m2049r.xmrwallet.MainActivity}"
+        drawable="monerujo" />
+    <item
+        component="ComponentInfo{com.m2049r.xmrwallet.stage/com.m2049r.xmrwallet.MainActivity}"
+        drawable="monerujostagenet" />
+    <item
+        component="ComponentInfo{com.twidere.twiderex/com.twidere.twiderex.TwidereXActivity}"
+        drawable="twiderex" />
+    <item
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenShareIntoActivity}"
+        drawable="markor_share" />
+    <item
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity}"
+        drawable="markor_quick" />
+    <item
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity}"
+        drawable="markor_todo" />
+    <item
+        component="ComponentInfo{com.example.deeplviewer/com.example.deeplviewer.MainActivity}"
+        drawable="deepl" />
+    <item
+        component="ComponentInfo{de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity}"
+        drawable="komoot" />
+    <item
+        component="ComponentInfo{de.rki.covpass.checkapp/de.rki.covpass.checkapp.main.MainActivity}"
+        drawable="covpasscheck" />
+    <item
+        component="ComponentInfo{com.meteoblue.droid/crc64759a0cf6dda89994.MainActivity}"
+        drawable="meteoblue" />
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
+        drawable="snapseed" />
+    <item
+        component="ComponentInfo{de.phase6.freeversion.beta/de.phase6.vtrainer.StartActivity}"
+        drawable="phase6" />
+    <item
+        component="ComponentInfo{org.andstatus.game2048/org.andstatus.game2048.MainActivity}"
+        drawable="game2048" />
+    <item
+        component="ComponentInfo{com.foxdebug.acode/com.foxdebug.acode.MainActivity}"
+        drawable="acode" />
+    <item
+        component="ComponentInfo{kuesji.link_eye/kuesji.link_eye.Main}"
+        drawable="linkeye" />
+    <item
+        component="ComponentInfo{com.cookiegames.smartcookie/com.cookiegames.smartcookie.MainActivity}"
+        drawable="smartcookieweb" />
+    <item
+        component="ComponentInfo{info.tangential.cone/info.tangential.cone.MainActivity}"
+        drawable="cone" />
+
 
     <!-- Nova Launcher specific -->
     <item
