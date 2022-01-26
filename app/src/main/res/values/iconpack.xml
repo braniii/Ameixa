@@ -6,6 +6,7 @@
         <item>abcore</item>
         <item>acaldav</item>
         <item>acastus</item>
+        <item>acode</item>
         <item>activitylauncher</item>
         <item>adaway</item>
         <item>adfree</item>
@@ -163,6 +164,7 @@
         <item>catgenerator</item>
         <item>cathode</item>
         <item>catlog</item>
+        <item>catogram</item>
         <item>caweather</item>
         <item>cfe</item>
         <item>cgeo</item>
@@ -196,6 +198,7 @@
         <item>coloringbook</item>
         <item>communitycompass</item>
         <item>compass</item>
+        <item>cone</item>
         <item>connectbot</item>
         <item>constellations</item>
         <item>contactmerger</item>
@@ -209,6 +212,7 @@
         <item>counterme</item>
         <item>covid19stats</item>
         <item>covpass</item>
+        <item>covpasscheck</item>
         <item>cowsay</item>
         <item>cowsrevenge</item>
         <item>cpuinfo</item>
@@ -227,6 +231,7 @@
         <item>cupsprint</item>
         <item>cupsprintservice</item>
         <item>currencyconverter</item>
+        <item>cvproject</item>
         <item>cythara</item>
         <item>dashclock</item>
         <item>dashersetup</item>
@@ -237,6 +242,7 @@
         <item>debiandroid</item>
         <item>debiankit</item>
         <item>decsynccc</item>
+        <item>deepl</item>
         <item>defaulticon</item>
         <item>defendo</item>
         <item>deltachat</item>
@@ -326,6 +332,7 @@
         <item>fdprivileged</item>
         <item>fdroid</item>
         <item>fdroidbuildstatus</item>
+        <item>fdroidforum</item>
         <item>fedilab</item>
         <item>feeder</item>
         <item>feedhive</item>
@@ -390,6 +397,7 @@
         <item>github</item>
         <item>gitnex</item>
         <item>gittouch</item>
+        <item>glider</item>
         <item>gloomydungeons</item>
         <item>gltron</item>
         <item>glucosio</item>
@@ -484,6 +492,7 @@
         <item>knockonports</item>
         <item>kodi</item>
         <item>kolabnotes</item>
+        <item>komoot</item>
         <item>kontalk</item>
         <item>kore</item>
         <item>koreader</item>
@@ -514,6 +523,7 @@
         <item>limpazap</item>
         <item>lincal</item>
         <item>linconnect</item>
+        <item>linkeye</item>
         <item>linphone</item>
         <item>linuxcommands</item>
         <item>linuxdeploy</item>
@@ -547,6 +557,9 @@
         <item>markdownview</item>
         <item>markers</item>
         <item>markor</item>
+        <item>markor_quick</item>
+        <item>markor_share</item>
+        <item>markor_todo</item>
         <item>materialicons</item>
         <item>materialnotes</item>
         <item>mathdoku</item>
@@ -562,6 +575,7 @@
         <item>memrise</item>
         <item>mercury</item>
         <item>metadataremover</item>
+        <item>meteoblue</item>
         <item>metro</item>
         <item>metronome</item>
         <item>mgit</item>
@@ -582,12 +596,16 @@
         <item>mirakel</item>
         <item>miros</item>
         <item>mitzuli</item>
+        <item>miuinotes</item>
         <item>miuisecuritycenter</item>
+        <item>miuithemes</item>
         <item>miuiweather</item>
         <item>mlmanager</item>
         <item>mnml</item>
         <item>mobilewebcam</item>
         <item>mobilizon</item>
+        <item>monerujo</item>
+        <item>monerujostagenet</item>
         <item>moneybalance</item>
         <item>moneymanagerex</item>
         <item>moonlight</item>
@@ -691,6 +709,7 @@
         <item>nonfree_myphone</item>
         <item>nonfree_okoo</item>
         <item>nonfree_petitbambou</item>
+        <item>nonfree_plumvillage</item>
         <item>nonfree_pocketcasts</item>
         <item>nonfree_pr0gramm</item>
         <item>nonfree_rteeco2mix</item>
@@ -704,6 +723,7 @@
         <item>nonfree_spotifykids</item>
         <item>nonfree_steam</item>
         <item>nonfree_tinder</item>
+        <item>nonfree_titaniumbackup</item>
         <item>nonfree_twitch</item>
         <item>nonfree_twitter</item>
         <item>nonfree_waze</item>
@@ -744,6 +764,7 @@
         <item>openbikesharing</item>
         <item>openboard</item>
         <item>opencamera</item>
+        <item>opencomicreader</item>
         <item>opencvengine</item>
         <item>opendocumentreader</item>
         <item>openexplorer</item>
@@ -805,6 +826,7 @@
         <item>papercraft</item>
         <item>paperlaunch</item>
         <item>passandroid</item>
+        <item>passman</item>
         <item>passwdsafe</item>
         <item>pattle</item>
         <item>pdfcreator</item>
@@ -821,6 +843,7 @@
         <item>periodical</item>
         <item>persiancalendar</item>
         <item>pftpd</item>
+        <item>phase6</item>
         <item>phone</item>
         <item>photomath</item>
         <item>phyphox</item>
@@ -840,6 +863,7 @@
         <item>podax</item>
         <item>podcastaddict</item>
         <item>podlisten</item>
+        <item>poetassistant</item>
         <item>politedroid</item>
         <item>pomodoro</item>
         <item>portauthority</item>
@@ -927,6 +951,7 @@
         <item>satstat</item>
         <item>saveforoffline</item>
         <item>savetoncbookmarks</item>
+        <item>scanner</item>
         <item>scarletfdroid</item>
         <item>schessclock</item>
         <item>schildichat</item>
@@ -1033,6 +1058,7 @@
         <item>slideshow</item>
         <item>slightbackup</item>
         <item>slimfacebook</item>
+        <item>smartcookieweb</item>
         <item>smarterwifimanager</item>
         <item>smartnavi</item>
         <item>sms</item>
@@ -1041,6 +1067,7 @@
         <item>smsgate</item>
         <item>smsscheduler</item>
         <item>smssecure</item>
+        <item>snapseed</item>
         <item>snes9xex</item>
         <item>snooperstopper</item>
         <item>snoopsnitch</item>
@@ -1116,6 +1143,7 @@
         <item>termux</item>
         <item>termuxboot</item>
         <item>termuxfloat</item>
+        <item>termuxwidget</item>
         <item>testnet3</item>
         <item>tethercompanion</item>
         <item>textfiction</item>
@@ -1177,6 +1205,7 @@
         <item>tuxrider</item>
         <item>tvkill</item>
         <item>twidere</item>
+        <item>twiderex</item>
         <item>twire</item>
         <item>twittnuker</item>
         <item>twobuntu</item>
