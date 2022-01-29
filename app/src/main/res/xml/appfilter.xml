@@ -7914,6 +7914,42 @@
     <item
         component="ComponentInfo{info.tangential.cone/info.tangential.cone.MainActivity}"
         drawable="cone" />
+    <item
+        component="ComponentInfo{mx.com.miapp/mx.com.miapp.ui.general.splash.SplashActivity}"
+        drawable="nonfree_bancoppel" />
+    <item
+        component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}"
+        drawable="nonfree_googleclassroom" />
+    <item
+        component="ComponentInfo{com.lagradost.cloudstream3/com.lagradost.cloudstream3.MainActivity}"
+        drawable="cloudstream" />
+    <item
+        component="ComponentInfo{com.coppel.coppelapp/com.coppel.coppelapp.splash.view.SplashActivity}"
+        drawable="nonfree_coppel" />
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="nonfree_googleslides" />
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="nonfree_googledocs" />
+    <item
+        component="ComponentInfo{com.fiverr.fiverr/com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint}"
+        drawable="nonfree_fiverr" />
+    <item
+        component="ComponentInfo{com.odnovolov.forgetmenot/com.odnovolov.forgetmenot.presentation.common.mainactivity.MainActivity}"
+        drawable="forgetmenot" />
+    <item
+        component="ComponentInfo{de.baumann.hhsmoodle/de.baumann.hhsmoodle.Activity_Main}"
+        drawable="fossmoodle" />
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="nonfree_googlesheets" />
+    <item
+        component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
+        drawable="nonfree_googleplaygames" />
+    <item
+        component="ComponentInfo{com.quora.android/com.quora.android.components.activities.LauncherActivity}"
+        drawable="nonfree_quora" />
 
 
     <!-- Nova Launcher specific -->
