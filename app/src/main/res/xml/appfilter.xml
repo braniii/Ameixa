@@ -7950,6 +7950,9 @@
     <item
         component="ComponentInfo{com.quora.android/com.quora.android.components.activities.LauncherActivity}"
         drawable="nonfree_quora" />
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity}"
+        drawable="magiskmanager" />
 
 
     <!-- Nova Launcher specific -->
