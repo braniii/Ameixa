@@ -7920,6 +7920,9 @@
     <item
         component="ComponentInfo{app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity}"
         drawable="camera2" />
+    <item
+        component="ComponentInfo{de.congstar.fraenk/de.congstar.fraenk.MainActivity}"
+        drawable="fraenk" />
 
 
     <!-- Nova Launcher specific -->
