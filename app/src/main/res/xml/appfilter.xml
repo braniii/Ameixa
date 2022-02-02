@@ -7914,6 +7914,9 @@
     <item
         component="ComponentInfo{info.tangential.cone/info.tangential.cone.MainActivity}"
         drawable="cone" />
+    <item
+        component="ComponentInfo{de.congstar.fraenk/de.congstar.fraenk.MainActivity}"
+        drawable="fraenk" />
 
 
     <!-- Nova Launcher specific -->
