@@ -7914,6 +7914,9 @@
     <item
         component="ComponentInfo{info.tangential.cone/info.tangential.cone.MainActivity}"
         drawable="cone" />
+    <item
+        component="ComponentInfo{app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity}"
+        drawable="camera2" />
 
 
     <!-- Nova Launcher specific -->
