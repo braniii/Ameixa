@@ -7914,6 +7914,9 @@
     <item
         component="ComponentInfo{info.tangential.cone/info.tangential.cone.MainActivity}"
         drawable="cone" />
+    <item
+        component="ComponentInfo{com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity}"
+        drawable="plainupnp" />
 
 
     <!-- Nova Launcher specific -->
