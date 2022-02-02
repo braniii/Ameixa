@@ -7917,6 +7917,9 @@
     <item
         component="ComponentInfo{com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity}"
         drawable="plainupnp" />
+    <item
+        component="ComponentInfo{app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity}"
+        drawable="camera2" />
 
 
     <!-- Nova Launcher specific -->
