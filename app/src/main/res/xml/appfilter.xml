@@ -7929,6 +7929,9 @@
     <item
         component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity}"
         drawable="dkb" />
+    <item
+        component="ComponentInfo{app.grapheneos.apps/org.grapheneos.apps.client.ui.container.MainActivity}"
+        drawable="grapheneos_apps" />
 
     <!-- Nova Launcher specific -->
     <item
