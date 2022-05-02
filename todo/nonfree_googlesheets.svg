@@ -6,7 +6,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="nonfree_googlesheets.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1839,13 +1839,6 @@
          stdDeviation="0.658125"
          id="feGaussianBlur6208-9" />
     </filter>
-    <mask
-       id="mask-4"
-       fill="#ffffff">
-      <path
-         d="M 29.583333,0 H 4.4375 C 1.996875,0 0,1.996875 0,4.4375 v 56.208333 c 0,2.440625 1.996875,4.4375 4.4375,4.4375 h 38.458333 c 2.440625,0 4.4375,-1.996875 4.4375,-4.4375 V 17.75 Z"
-         id="use31" />
-    </mask>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1854,9 +1847,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000002"
-     inkscape:cx="11.562499"
-     inkscape:cy="19.906249"
+     inkscape:zoom="16.000001"
+     inkscape:cx="12.624999"
+     inkscape:cy="4.3749997"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1873,7 +1866,8 @@
      inkscape:bbox-nodes="true"
      inkscape:guide-bbox="true"
      inkscape:snap-center="true"
-     inkscape:object-nodes="false">
+     inkscape:object-nodes="false"
+     inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1902,7 +1896,7 @@
           </cc:Agent>
         </dc:creator>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -2307,13 +2301,9 @@
      inkscape:label="icon"
      style="display:inline">
     <path
-       d="M 11.833333,31.802083 V 53.25 H 35.5 V 31.802083 Z M 22.1875,50.291667 H 14.791667 V 46.59375 H 22.1875 Z m 0,-5.916667 H 14.791667 V 40.677083 H 22.1875 Z m 0,-5.916667 H 14.791667 V 34.760417 H 22.1875 Z M 32.541667,50.291667 H 25.145833 V 46.59375 h 7.395834 z m 0,-5.916667 h -7.395834 v -3.697917 h 7.395834 z m 0,-5.916667 h -7.395834 v -3.697916 h 7.395834 z"
-       id="Shape"
-       fill="#f1f1f1"
-       fill-rule="nonzero"
-       mask="url(#mask-4)"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
-       transform="matrix(0.55650705,0,0,0.55650705,1.2026662,-9.2927075)" />
+       d="M 7.7879994,8.4053759 V 20.341293 H 20.958666 V 8.4053759 Z M 13.550166,18.69496 H 9.434333 v -2.057917 h 4.115833 z m 0,-3.292667 H 9.434333 v -2.057917 h 4.115833 z m 0,-3.292667 H 9.434333 V 10.05171 h 4.115833 z m 5.762167,6.585334 h -4.115834 v -2.057917 h 4.115834 z m 0,-3.292667 h -4.115834 v -2.057917 h 4.115834 z m 0,-3.292667 H 15.196499 V 10.05171 h 4.115834 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1495" />
   </g>
   <g
      inkscape:groupmode="layer"

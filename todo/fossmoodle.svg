@@ -6,8 +6,8 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="orange.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="fossmoodle.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1848,7 +1848,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000002"
-     inkscape:cx="12.328124"
+     inkscape:cx="12.312499"
      inkscape:cy="12.874999"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
@@ -1895,7 +1895,7 @@
           </cc:Agent>
         </dc:creator>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -2299,15 +2299,10 @@
      id="layer2"
      inkscape:label="icon"
      style="display:inline">
-    <g
-       id="g1361"
-       transform="translate(-1.15e-6,0.45213351)"
-       style="display:inline;fill:#fffffe;fill-opacity:1">
-      <path
-         d="m 9.8016978,14.691847 v 2.612365 l 4.5716352,2.494807 4.571638,-2.494807 v -2.612365 l -4.571638,2.494808 z m 4.5716352,-6.648465 -7.183999,3.918546 7.183999,3.918545 5.877819,-3.206675 v 4.512857 h 1.306182 v -5.224727 z"
-         id="path3577"
-         style="fill:#fffffe;fill-opacity:1;stroke-width:0.653091" />
-    </g>
+    <path
+       d="m 9.8016967,15.143981 v 2.612365 l 4.5716353,2.494807 4.571638,-2.494807 v -2.612365 l -4.571638,2.494808 z m 4.5716353,-6.6484655 -7.1839992,3.9185465 7.1839992,3.918545 5.877819,-3.206675 v 4.512857 h 1.306182 v -5.224727 z"
+       id="path3577"
+       style="fill:#fffffe;fill-opacity:1;stroke-width:0.653091" />
   </g>
   <g
      inkscape:groupmode="layer"
