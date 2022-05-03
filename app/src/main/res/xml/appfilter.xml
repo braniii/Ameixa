@@ -6079,7 +6079,7 @@
         drawable="streetcomplete" />
     <item
         component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity}"
-        drawable="streetcomplete"/>
+        drawable="streetcomplete" />
     <item
         component="ComponentInfo{io.github.lonamiwebs.stringlate/io.github.lonamiwebs.stringlate.activities.repositories.RepositoriesActivity}"
         drawable="stringlate" />
@@ -7980,6 +7980,9 @@
     <item
         component="ComponentInfo{com.chen.deskclock/com.chen.deskclock.DeskClock}"
         drawable="clock" />
+    <item
+        component="ComponentInfo{com.kpstv.xclipper/com.kpstv.xclipper.ui.activities.Start}"
+        drawable="xclipper" />
 
 
     <!-- Nova Launcher specific -->
