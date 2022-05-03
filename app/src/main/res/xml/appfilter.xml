@@ -5835,6 +5835,9 @@
         component="ComponentInfo{com.simplytranslate/com.simplytranslate.MainActivity}"
         drawable="simplytranslate" />
     <item
+        component="ComponentInfo{com.simplytranslate_mobile/com.simplytranslate_mobile.MainActivity}"
+        drawable="simplytranslate" />
+    <item
         component="ComponentInfo{com.android.cp.stkmanager/com.android.cp.stkmanager.STKManagerActivity}"
         drawable="simtk" />
     <item
@@ -7968,6 +7971,15 @@
     <item
         component="ComponentInfo{com.fmsys.snapdrop/com.fmsys.snapdrop.MainActivity}"
         drawable="snapdrop" />
+    <item
+        component="ComponentInfo{dev.marchello.sharik/dev.marchello.sharik.MainActivity}"
+        drawable="sharik" />
+    <item
+        component="ComponentInfo{com.nikola.jakshic.dagger/com.nikola.jakshic.dagger.MainActivity}"
+        drawable="dagger" />
+    <item
+        component="ComponentInfo{com.chen.deskclock/com.chen.deskclock.DeskClock}"
+        drawable="clock" />
 
 
     <!-- Nova Launcher specific -->
