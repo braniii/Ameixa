@@ -7958,7 +7958,10 @@
         drawable="magiskmanager" />
     <item
         component="ComponentInfo{io.github.subhamtyagi.ocr/io.github.subhamtyagi.ocr.MainActivity}"
-        drawable="ocr"/>
+        drawable="ocr" />
+    <item
+        component="ComponentInfo{fr.emersion.goguma/fr.emersion.goguma.MainActivity}"
+        drawable="goguma" />
 
 
     <!-- Nova Launcher specific -->
