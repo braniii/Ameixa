@@ -7956,6 +7956,9 @@
     <item
         component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity}"
         drawable="magiskmanager" />
+    <item
+        component="ComponentInfo{io.github.subhamtyagi.ocr/io.github.subhamtyagi.ocr.MainActivity}"
+        drawable="ocr"/>
 
 
     <!-- Nova Launcher specific -->
