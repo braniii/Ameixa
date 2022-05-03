@@ -6072,6 +6072,9 @@
         component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}"
         drawable="streetcomplete" />
     <item
+        component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity}"
+        drawable="streetcomplete"/>
+    <item
         component="ComponentInfo{io.github.lonamiwebs.stringlate/io.github.lonamiwebs.stringlate.activities.repositories.RepositoriesActivity}"
         drawable="stringlate" />
     <item
