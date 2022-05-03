@@ -7965,6 +7965,9 @@
     <item
         component="ComponentInfo{fr.emersion.goguma/fr.emersion.goguma.MainActivity}"
         drawable="goguma" />
+    <item
+        component="ComponentInfo{com.fmsys.snapdrop/com.fmsys.snapdrop.MainActivity}"
+        drawable="snapdrop" />
 
 
     <!-- Nova Launcher specific -->
