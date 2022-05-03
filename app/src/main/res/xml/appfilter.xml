@@ -2238,6 +2238,9 @@
         component="ComponentInfo{org.koreader.launcher/org.koreader.launcher.MainActivity}"
         drawable="koreader" />
     <item
+        component="ComponentInfo{org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity}"
+        drawable="koreader" />
+    <item
         component="ComponentInfo{com.onetwofivegames.kungfoobarracuda/com.onetwofivegames.kungfoobarracuda.KungFooBarracudaNativeActivity}"
         drawable="kungfoobarracuda" />
     <item
