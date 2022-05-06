@@ -7983,6 +7983,27 @@
     <item
         component="ComponentInfo{com.kpstv.xclipper/com.kpstv.xclipper.ui.activities.Start}"
         drawable="xclipper" />
+    <item
+        component="ComponentInfo{org.ebur.debitum/org.ebur.debitum.ui.MainActivity}"
+        drawable="debitum" />
+    <item
+        component="ComponentInfo{com.securefilemanager.app/com.securefilemanager.app.activities.MainActivity}"
+        drawable="securefilemanagerbeta" />
+    <item
+        component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}"
+        drawable="rethinkdns" />
+    <item
+        component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}"
+        drawable="protonvpn" />
+    <item
+        component="ComponentInfo{dev.leonlatsch.photok/dev.leonlatsch.photok.MainLauncher}"
+        drawable="photok" />
+    <item
+        component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}"
+        drawable="mull" />
+    <item
+        component="ComponentInfo{com.brouken.player/com.brouken.player.PlayerActivity}"
+        drawable="justvideoplayer" />
 
 
     <!-- Nova Launcher specific -->
