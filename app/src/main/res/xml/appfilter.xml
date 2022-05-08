@@ -8001,6 +8001,15 @@
     <item
         component="ComponentInfo{com.brouken.player/com.brouken.player.PlayerActivity}"
         drawable="justvideoplayer" />
+    <item
+        component="ComponentInfo{com.elektropepi.bootboi/com.elektropepi.bootboi.MainActivity}"
+        drawable="bootboi" />
+    <item
+        component="ComponentInfo{com.subtracks/com.subtracks.MainActivity}"
+        drawable="subtracks" />
+    <item
+        component="ComponentInfo{slowscript.warpinator/slowscript.warpinator.MainActivity}"
+        drawable="warpinator_unofficial" />
 
 
     <!-- Nova Launcher specific -->
