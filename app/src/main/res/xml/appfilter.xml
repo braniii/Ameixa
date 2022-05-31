@@ -7938,6 +7938,9 @@
     <item
         component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.main.MainActivity}"
         drawable="trailsense" />
+    <item
+        component="ComponentInfo{foundation.e.mail/com.fsck.k9.activity.MessageList}"
+        drawable="mail_eos" />
 
     <!-- Nova Launcher specific -->
     <item
