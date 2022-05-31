@@ -7932,6 +7932,9 @@
     <item
         component="ComponentInfo{app.grapheneos.apps/org.grapheneos.apps.client.ui.container.MainActivity}"
         drawable="grapheneos_apps" />
+    <item
+        component="ComponentInfo{com.example.flutter_http_server/com.example.flutter_http_server.MainActivity}"
+        drawable="serveit" />
 
     <!-- Nova Launcher specific -->
     <item
