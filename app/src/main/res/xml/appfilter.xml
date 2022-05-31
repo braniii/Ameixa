@@ -7935,6 +7935,9 @@
     <item
         component="ComponentInfo{com.example.flutter_http_server/com.example.flutter_http_server.MainActivity}"
         drawable="serveit" />
+    <item
+        component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.main.MainActivity}"
+        drawable="trailsense" />
 
     <!-- Nova Launcher specific -->
     <item
