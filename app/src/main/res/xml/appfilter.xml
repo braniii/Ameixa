@@ -8010,7 +8010,9 @@
     <item
         component="ComponentInfo{slowscript.warpinator/slowscript.warpinator.MainActivity}"
         drawable="warpinator_unofficial" />
-
+    <item
+        component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}"
+        drawable="florisboardbeta" />
 
     <!-- Nova Launcher specific -->
     <item
