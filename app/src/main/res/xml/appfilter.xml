@@ -8013,6 +8013,82 @@
     <item
         component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}"
         drawable="florisboardbeta" />
+    <item
+        component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}"
+        drawable="catima" />
+    <item
+        component="ComponentInfo{com.ferrarid.converterpro/com.ferrarid.converterpro.MainActivity}"
+        drawable="science" />
+    <item
+        component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}"
+        drawable="phonetrack" />
+    <item
+        component="ComponentInfo{com.github.igrmk.smsq/com.github.igrmk.smsq.activities.WelcomeActivity}"
+        drawable="smsq" />
+    <item
+        component="ComponentInfo{dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity}"
+        drawable="yetanothercallblocker" />
+    <item
+        component="ComponentInfo{org.inaturalist.android/org.inaturalist.android.ObservationListActivity.inaturalist}"
+        drawable="inaturalist" />
+    <item
+        component="ComponentInfo{com.mickstarify.zooforzotero/com.mickstarify.zooforzotero.MainActivity}"
+        drawable="zooforzotero" />
+    <item
+        component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}"
+        drawable="nonfree_androidauto" />
+    <item
+        component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}"
+        drawable="nonfree_microsoftauthenticator" />
+    <item
+        component="ComponentInfo{deezer.android.app.nobilling/com.deezer.android.ui.activity.LauncherActivity}"
+        drawable="nonfree_deezer" />
+    <item
+        component="ComponentInfo{com.virtual.applets.chinesedictionary/com.nilhcem.frcndict.SplashActivity}"
+        drawable="dictionaryformids" />
+    <item
+        component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+        drawable="nonfree_microsoftoffice" />
+    <item
+        component="ComponentInfo{fr.stime.mcommerce/com.intermarche.moninter.ui.splash.view.SplashScreenActivity}"
+        drawable="nonfree_intermarche" />
+    <item
+        component="ComponentInfo{com.omronhealthcare.omronconnect/com.omronhealthcare.foresight.modules.views.splash.SplashActivity}"
+        drawable="nonfree_omronconnect" />
+    <item
+        component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
+        drawable="nonfree_microsoftonenote" />
+    <item
+        component="ComponentInfo{com.quechoisir.quelproduit/com.quechoisir.quelproduit.ui.screens.SplashscreenActivity}"
+        drawable="nonfree_quelproduit" />
+    <item
+        component="ComponentInfo{com.pcloud.pcloud/com.pcloud.screens.Main}"
+        drawable="nonfree_pcloud" />
+    <item
+        component="ComponentInfo{com.sncf.fusion/com.sncf.fusion.feature.splashscreen.ui.SplashScreenActivity}"
+        drawable="nonfree_sncf" />
+    <item
+        component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}"
+        drawable="nonfree_tisseo" />
+    <item
+        component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}"
+        drawable="nonfree_vivino" />
+    <item
+        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
+        drawable="nonfree_wechat" />
+    <item
+        component="ComponentInfo{fr.banquepopulaire.cyberplus/fr.bpce.pulsar.login.domain.startup.StartUpActivity}"
+        drawable="wallet_blue" />
+    <item
+        component="ComponentInfo{com.caisseepargne.android.mobilebanking/fr.bpce.pulsar.login.domain.startup.StartUpActivity}"
+        drawable="wallet_red" />
+    <item
+        component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.splash.SplashActivity}"
+        drawable="wallet_pink" />
+    <item
+        component="ComponentInfo{com.cm_prod.bad/com.e_i.bad.controls.activities.StartActivity}"
+        drawable="wallet_indigo" />
+
 
     <!-- Nova Launcher specific -->
     <item
