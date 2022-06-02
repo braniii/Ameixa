@@ -8012,7 +8012,7 @@
         drawable="warpinator_unofficial" />
     <item
         component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}"
-        drawable="florisboardbeta" />
+        drawable="florisboard" />
     <item
         component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}"
         drawable="catima" />
