@@ -2238,6 +2238,9 @@
         component="ComponentInfo{org.koreader.launcher/org.koreader.launcher.MainActivity}"
         drawable="koreader" />
     <item
+        component="ComponentInfo{org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity}"
+        drawable="koreader" />
+    <item
         component="ComponentInfo{com.onetwofivegames.kungfoobarracuda/com.onetwofivegames.kungfoobarracuda.KungFooBarracudaNativeActivity}"
         drawable="kungfoobarracuda" />
     <item
@@ -5832,6 +5835,9 @@
         component="ComponentInfo{com.simplytranslate/com.simplytranslate.MainActivity}"
         drawable="simplytranslate" />
     <item
+        component="ComponentInfo{com.simplytranslate_mobile/com.simplytranslate_mobile.MainActivity}"
+        drawable="simplytranslate" />
+    <item
         component="ComponentInfo{com.android.cp.stkmanager/com.android.cp.stkmanager.STKManagerActivity}"
         drawable="simtk" />
     <item
@@ -6070,6 +6076,9 @@
         drawable="steamgifts" />
     <item
         component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}"
+        drawable="streetcomplete" />
+    <item
+        component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity}"
         drawable="streetcomplete" />
     <item
         component="ComponentInfo{io.github.lonamiwebs.stringlate/io.github.lonamiwebs.stringlate.activities.repositories.RepositoriesActivity}"
@@ -7941,6 +7950,172 @@
     <item
         component="ComponentInfo{foundation.e.mail/com.fsck.k9.activity.MessageList}"
         drawable="mail_eos" />
+    <item
+        component="ComponentInfo{mx.com.miapp/mx.com.miapp.ui.general.splash.SplashActivity}"
+        drawable="nonfree_bancoppel" />
+    <item
+        component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}"
+        drawable="nonfree_googleclassroom" />
+    <item
+        component="ComponentInfo{com.lagradost.cloudstream3/com.lagradost.cloudstream3.MainActivity}"
+        drawable="cloudstream" />
+    <item
+        component="ComponentInfo{com.coppel.coppelapp/com.coppel.coppelapp.splash.view.SplashActivity}"
+        drawable="nonfree_coppel" />
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="nonfree_googleslides" />
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="nonfree_googledocs" />
+    <item
+        component="ComponentInfo{com.fiverr.fiverr/com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint}"
+        drawable="nonfree_fiverr" />
+    <item
+        component="ComponentInfo{com.odnovolov.forgetmenot/com.odnovolov.forgetmenot.presentation.common.mainactivity.MainActivity}"
+        drawable="forgetmenot" />
+    <item
+        component="ComponentInfo{de.baumann.hhsmoodle/de.baumann.hhsmoodle.Activity_Main}"
+        drawable="fossmoodle" />
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="nonfree_googlesheets" />
+    <item
+        component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
+        drawable="nonfree_googleplaygames" />
+    <item
+        component="ComponentInfo{com.quora.android/com.quora.android.components.activities.LauncherActivity}"
+        drawable="nonfree_quora" />
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity}"
+        drawable="magiskmanager" />
+    <item
+        component="ComponentInfo{io.github.subhamtyagi.ocr/io.github.subhamtyagi.ocr.MainActivity}"
+        drawable="ocr" />
+    <item
+        component="ComponentInfo{fr.emersion.goguma/fr.emersion.goguma.MainActivity}"
+        drawable="goguma" />
+    <item
+        component="ComponentInfo{com.fmsys.snapdrop/com.fmsys.snapdrop.MainActivity}"
+        drawable="snapdrop" />
+    <item
+        component="ComponentInfo{dev.marchello.sharik/dev.marchello.sharik.MainActivity}"
+        drawable="sharik" />
+    <item
+        component="ComponentInfo{com.nikola.jakshic.dagger/com.nikola.jakshic.dagger.MainActivity}"
+        drawable="dagger" />
+    <item
+        component="ComponentInfo{com.chen.deskclock/com.chen.deskclock.DeskClock}"
+        drawable="clock" />
+    <item
+        component="ComponentInfo{com.kpstv.xclipper/com.kpstv.xclipper.ui.activities.Start}"
+        drawable="xclipper" />
+    <item
+        component="ComponentInfo{org.ebur.debitum/org.ebur.debitum.ui.MainActivity}"
+        drawable="debitum" />
+    <item
+        component="ComponentInfo{com.securefilemanager.app/com.securefilemanager.app.activities.MainActivity}"
+        drawable="securefilemanager" />
+    <item
+        component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}"
+        drawable="rethinkdns" />
+    <item
+        component="ComponentInfo{dev.leonlatsch.photok/dev.leonlatsch.photok.MainLauncher}"
+        drawable="photok" />
+    <item
+        component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}"
+        drawable="mull" />
+    <item
+        component="ComponentInfo{com.brouken.player/com.brouken.player.PlayerActivity}"
+        drawable="justvideoplayer" />
+    <item
+        component="ComponentInfo{com.elektropepi.bootboi/com.elektropepi.bootboi.MainActivity}"
+        drawable="bootboi" />
+    <item
+        component="ComponentInfo{com.subtracks/com.subtracks.MainActivity}"
+        drawable="subtracks" />
+    <item
+        component="ComponentInfo{slowscript.warpinator/slowscript.warpinator.MainActivity}"
+        drawable="warpinator_unofficial" />
+    <item
+        component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}"
+        drawable="florisboard" />
+    <item
+        component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}"
+        drawable="catima" />
+    <item
+        component="ComponentInfo{com.ferrarid.converterpro/com.ferrarid.converterpro.MainActivity}"
+        drawable="science" />
+    <item
+        component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}"
+        drawable="phonetrack" />
+    <item
+        component="ComponentInfo{com.github.igrmk.smsq/com.github.igrmk.smsq.activities.WelcomeActivity}"
+        drawable="smsq" />
+    <item
+        component="ComponentInfo{dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity}"
+        drawable="yetanothercallblocker" />
+    <item
+        component="ComponentInfo{org.inaturalist.android/org.inaturalist.android.ObservationListActivity.inaturalist}"
+        drawable="inaturalist" />
+    <item
+        component="ComponentInfo{com.mickstarify.zooforzotero/com.mickstarify.zooforzotero.MainActivity}"
+        drawable="zooforzotero" />
+    <item
+        component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}"
+        drawable="nonfree_androidauto" />
+    <item
+        component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}"
+        drawable="nonfree_microsoftauthenticator" />
+    <item
+        component="ComponentInfo{deezer.android.app.nobilling/com.deezer.android.ui.activity.LauncherActivity}"
+        drawable="nonfree_deezer" />
+    <item
+        component="ComponentInfo{com.virtual.applets.chinesedictionary/com.nilhcem.frcndict.SplashActivity}"
+        drawable="dictionaryformids" />
+    <item
+        component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+        drawable="nonfree_microsoftoffice" />
+    <item
+        component="ComponentInfo{fr.stime.mcommerce/com.intermarche.moninter.ui.splash.view.SplashScreenActivity}"
+        drawable="nonfree_intermarche" />
+    <item
+        component="ComponentInfo{com.omronhealthcare.omronconnect/com.omronhealthcare.foresight.modules.views.splash.SplashActivity}"
+        drawable="nonfree_omronconnect" />
+    <item
+        component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
+        drawable="nonfree_microsoftonenote" />
+    <item
+        component="ComponentInfo{com.quechoisir.quelproduit/com.quechoisir.quelproduit.ui.screens.SplashscreenActivity}"
+        drawable="nonfree_quelproduit" />
+    <item
+        component="ComponentInfo{com.pcloud.pcloud/com.pcloud.screens.Main}"
+        drawable="nonfree_pcloud" />
+    <item
+        component="ComponentInfo{com.sncf.fusion/com.sncf.fusion.feature.splashscreen.ui.SplashScreenActivity}"
+        drawable="nonfree_sncf" />
+    <item
+        component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}"
+        drawable="nonfree_tisseo" />
+    <item
+        component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}"
+        drawable="nonfree_vivino" />
+    <item
+        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
+        drawable="nonfree_wechat" />
+    <item
+        component="ComponentInfo{fr.banquepopulaire.cyberplus/fr.bpce.pulsar.login.domain.startup.StartUpActivity}"
+        drawable="wallet_blue" />
+    <item
+        component="ComponentInfo{com.caisseepargne.android.mobilebanking/fr.bpce.pulsar.login.domain.startup.StartUpActivity}"
+        drawable="wallet_red" />
+    <item
+        component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.splash.SplashActivity}"
+        drawable="wallet_pink" />
+    <item
+        component="ComponentInfo{com.cm_prod.bad/com.e_i.bad.controls.activities.StartActivity}"
+        drawable="wallet_indigo" />
+
 
     <!-- Nova Launcher specific -->
     <item
