@@ -8115,6 +8115,9 @@
     <item
         component="ComponentInfo{com.cm_prod.bad/com.e_i.bad.controls.activities.StartActivity}"
         drawable="wallet_indigo" />
+    <item
+        component="ComponentInfo{org.kaqui/org.kaqui.mainmenu.MainActivity}"
+        drawable="kakugo" />
 
 
     <!-- Nova Launcher specific -->

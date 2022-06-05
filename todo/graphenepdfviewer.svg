@@ -6,12 +6,34 @@
    height="28.746668"
    id="svg2"
    version="1.1"
+   sodipodi:docname="graphenepdfviewer.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.011595"
+     inkscape:cx="14.353343"
+     inkscape:cy="14.353343"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="group_1" />
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
@@ -1768,7 +1790,7 @@
           </cc:Agent>
         </dc:creator>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -2168,7 +2190,7 @@
            id="path_1"
            d="m 23.015838,12.492074 c 0,0.371816 -0.30014,0.671956 -0.671956,0.671956 h -0.44797 v 0.559963 c 0,0.183668 -0.15231,0.335978 -0.335978,0.335978 -0.183668,0 -0.335978,-0.15231 -0.335978,-0.335978 v -1.903875 c 0,-0.246384 0.201587,-0.44797 0.447971,-0.44797 h 0.671955 c 0.371816,0 0.671956,0.30014 0.671956,0.671956 z m 2.239853,0.895941 c 0,0.371816 -0.30014,0.671956 -0.671956,0.671956 h -0.895941 c -0.125432,0 -0.223985,-0.09855 -0.223985,-0.223985 v -2.239853 c 0,-0.125432 0.09855,-0.223985 0.223985,-0.223985 h 0.895941 c 0.371816,0 0.671956,0.30014 0.671956,0.671956 z m 1.791882,-1.679889 c 0,0.183668 -0.15231,0.335978 -0.335978,0.335978 h -0.335978 v 0.44797 h 0.335978 c 0.183668,0 0.335978,0.15231 0.335978,0.335978 0,0.183668 -0.15231,0.335978 -0.335978,0.335978 h -0.335978 v 0.559963 c 0,0.183668 -0.15231,0.335978 -0.335978,0.335978 -0.183667,0 -0.335977,-0.15231 -0.335977,-0.335978 v -1.903875 c 0,-0.246384 0.201586,-0.44797 0.44797,-0.44797 h 0.559963 c 0.183668,0 0.335978,0.15231 0.335978,0.335978 z m -5.151661,0.783948 h 0.44797 v -0.44797 h -0.44797 z m 2.239853,0.895941 h 0.44797 v -1.343911 h -0.44797 z"
            fill="#000000"
-           style="fill:#ffffff;stroke-width:0.447971" />
+           style="fill:#ffffff;stroke-width:0.447971;stroke:none" />
       </g>
     </g>
   </g>
