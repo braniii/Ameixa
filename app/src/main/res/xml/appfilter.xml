@@ -7933,9 +7933,6 @@
         component="ComponentInfo{de.congstar.fraenk/de.congstar.fraenk.MainActivity}"
         drawable="fraenk" />
     <item
-        component="ComponentInfo{io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity}"
-        drawable="homeassistant" />
-    <item
         component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity}"
         drawable="dkb" />
     <item

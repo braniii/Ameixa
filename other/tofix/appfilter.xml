@@ -1,0 +1,3 @@
+    <item
+        component="ComponentInfo{io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity}"
+        drawable="homeassistant" />
