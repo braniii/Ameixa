@@ -118,6 +118,7 @@
         <item>bombusmod</item>
         <item>bookcatalogue</item>
         <item>bookreader</item>
+        <item>bootboi</item>
         <item>botbrew</item>
         <item>brave</item>
         <item>briar</item>
@@ -163,6 +164,7 @@
         <item>catandice</item>
         <item>catgenerator</item>
         <item>cathode</item>
+        <item>catima</item>
         <item>catlog</item>
         <item>catogram</item>
         <item>caweather</item>
@@ -188,6 +190,7 @@
         <item>clipboardbeam</item>
         <item>clipstack</item>
         <item>clock</item>
+        <item>cloudstream</item>
         <item>clover</item>
         <item>cmaccount</item>
         <item>cmbrowser</item>
@@ -233,6 +236,7 @@
         <item>currencyconverter</item>
         <item>cvproject</item>
         <item>cythara</item>
+        <item>dagger</item>
         <item>dashclock</item>
         <item>dashersetup</item>
         <item>datastats</item>
@@ -241,6 +245,7 @@
         <item>dbnavigator</item>
         <item>debiandroid</item>
         <item>debiankit</item>
+        <item>debitum</item>
         <item>decsynccc</item>
         <item>deepl</item>
         <item>defaulticon</item>
@@ -266,6 +271,7 @@
         <item>discreetlauncher</item>
         <item>diskusage</item>
         <item>disrootapp</item>
+        <item>dkb</item>
         <item>dngprocessor</item>
         <item>dns66</item>
         <item>dnsman</item>
@@ -360,12 +366,15 @@
         <item>focal</item>
         <item>forcedoze</item>
         <item>forecastie</item>
+        <item>forgetmenot</item>
         <item>forkhub</item>
         <item>fortunes</item>
         <item>fossbrowser</item>
+        <item>fossmoodle</item>
         <item>fotofinder</item>
         <item>fotofindermap</item>
         <item>foxydroid</item>
+        <item>fraenk</item>
         <item>fragdenstaat</item>
         <item>freedombox</item>
         <item>freeminer</item>
@@ -406,12 +415,14 @@
         <item>gnuprivacyguard</item>
         <item>gobandroid</item>
         <item>goblim</item>
+        <item>goguma</item>
         <item>goodtime</item>
         <item>googlemeet</item>
         <item>gpslogger</item>
         <item>gpstest</item>
         <item>gramophone</item>
         <item>graph89</item>
+        <item>grapheneos_apps</item>
         <item>graphenepdfviewer</item>
         <item>green</item>
         <item>greenaddress</item>
@@ -453,6 +464,7 @@
         <item>impression</item>
         <item>impressremote</item>
         <item>imsicatcher</item>
+        <item>inaturalist</item>
         <item>infinity</item>
         <item>instagrabber</item>
         <item>intentexplode</item>
@@ -472,6 +484,7 @@
         <item>joplin</item>
         <item>jupiterbroadcast</item>
         <item>justplayer</item>
+        <item>justvideoplayer</item>
         <item>k9mail</item>
         <item>kalgebra</item>
         <item>kanadrill</item>
@@ -546,6 +559,7 @@
         <item>magiskmanager</item>
         <item>mahjonggbuilder</item>
         <item>mail</item>
+        <item>mail_eos</item>
         <item>malclient</item>
         <item>malp</item>
         <item>manman</item>
@@ -620,6 +634,7 @@
         <item>mpdroid</item>
         <item>mpv</item>
         <item>mtgfamiliar</item>
+        <item>mull</item>
         <item>mullvadvpn</item>
         <item>multirommgr</item>
         <item>multivnc</item>
@@ -674,26 +689,36 @@
         <item>nocknock</item>
         <item>noice</item>
         <item>nomad</item>
+        <item>nonfree_androidauto</item>
         <item>nonfree_arte</item>
         <item>nonfree_asana</item>
         <item>nonfree_auchandrive</item>
         <item>nonfree_auchanfrance</item>
         <item>nonfree_authenticator</item>
         <item>nonfree_badoo</item>
+        <item>nonfree_bancoppel</item>
         <item>nonfree_booking</item>
         <item>nonfree_bouyguestelecom</item>
+        <item>nonfree_coppel</item>
         <item>nonfree_creditdunord</item>
+        <item>nonfree_deezer</item>
         <item>nonfree_ecoledirecte</item>
         <item>nonfree_famileo</item>
         <item>nonfree_fdj</item>
         <item>nonfree_fip</item>
+        <item>nonfree_fiverr</item>
         <item>nonfree_franceinter</item>
         <item>nonfree_gmail</item>
+        <item>nonfree_googleclassroom</item>
+        <item>nonfree_googledocs</item>
         <item>nonfree_googledrive</item>
         <item>nonfree_googleduo</item>
         <item>nonfree_googlemaps</item>
         <item>nonfree_googlephotos</item>
+        <item>nonfree_googleplaygames</item>
         <item>nonfree_googleplaystore</item>
+        <item>nonfree_googlesheets</item>
+        <item>nonfree_googleslides</item>
         <item>nonfree_happn</item>
         <item>nonfree_harmonieetmoi</item>
         <item>nonfree_hwouc</item>
@@ -701,17 +726,25 @@
         <item>nonfree_ilovehue</item>
         <item>nonfree_ilovehuetoo</item>
         <item>nonfree_instagram</item>
+        <item>nonfree_intermarche</item>
         <item>nonfree_lastfm</item>
         <item>nonfree_leboncoin</item>
         <item>nonfree_linguish</item>
         <item>nonfree_messenger</item>
+        <item>nonfree_microsoftauthenticator</item>
+        <item>nonfree_microsoftoffice</item>
+        <item>nonfree_microsoftonenote</item>
         <item>nonfree_myedenred</item>
         <item>nonfree_myphone</item>
         <item>nonfree_okoo</item>
+        <item>nonfree_omronconnect</item>
+        <item>nonfree_pcloud</item>
         <item>nonfree_petitbambou</item>
         <item>nonfree_plumvillage</item>
         <item>nonfree_pocketcasts</item>
         <item>nonfree_pr0gramm</item>
+        <item>nonfree_quelproduit</item>
+        <item>nonfree_quora</item>
         <item>nonfree_rteeco2mix</item>
         <item>nonfree_samsungcalendar</item>
         <item>nonfree_samsungkids</item>
@@ -719,14 +752,18 @@
         <item>nonfree_shazam</item>
         <item>nonfree_skype</item>
         <item>nonfree_slack</item>
+        <item>nonfree_sncf</item>
         <item>nonfree_spotify</item>
         <item>nonfree_spotifykids</item>
         <item>nonfree_steam</item>
         <item>nonfree_tinder</item>
+        <item>nonfree_tisseo</item>
         <item>nonfree_titaniumbackup</item>
         <item>nonfree_twitch</item>
         <item>nonfree_twitter</item>
+        <item>nonfree_vivino</item>
         <item>nonfree_waze</item>
+        <item>nonfree_wechat</item>
         <item>nonfree_whatsapp</item>
         <item>nonfree_youtube</item>
         <item>nonfree_ytmusic</item>
@@ -747,6 +784,7 @@
         <item>obscuracam</item>
         <item>obsqr</item>
         <item>ocbookmarks</item>
+        <item>ocr</item>
         <item>ocreader</item>
         <item>octodroid</item>
         <item>odyssey</item>
@@ -845,6 +883,8 @@
         <item>pftpd</item>
         <item>phase6</item>
         <item>phone</item>
+        <item>phonetrack</item>
+        <item>photok</item>
         <item>photomath</item>
         <item>phyphox</item>
         <item>piano</item>
@@ -856,6 +896,7 @@
         <item>pixeldungeon</item>
         <item>pixelesque</item>
         <item>pixelwheels</item>
+        <item>plainupnp</item>
         <item>plumble</item>
         <item>pocketgopher</item>
         <item>pocketmaps</item>
@@ -925,6 +966,7 @@
         <item>rekolacz</item>
         <item>remotekeyboard</item>
         <item>repay</item>
+        <item>rethinkdns</item>
         <item>retroarch</item>
         <item>retroboy</item>
         <item>retrobreaker</item>
@@ -956,6 +998,7 @@
         <item>schessclock</item>
         <item>schildichat</item>
         <item>scid</item>
+        <item>science</item>
         <item>scrabble</item>
         <item>scrambledeggsif</item>
         <item>screencam</item>
@@ -971,6 +1014,7 @@
         <item>secdroid</item>
         <item>secrecy</item>
         <item>secscanqr</item>
+        <item>securefilemanager</item>
         <item>secusodame</item>
         <item>secusodice</item>
         <item>secusodicegame</item>
@@ -996,6 +1040,7 @@
         <item>sentienlauncher</item>
         <item>seriesguide</item>
         <item>servdroid</item>
+        <item>serveit</item>
         <item>servestream</item>
         <item>session</item>
         <item>settings</item>
@@ -1008,6 +1053,7 @@
         <item>sharetoclipboard</item>
         <item>sharetocomputer</item>
         <item>shareviahttp</item>
+        <item>sharik</item>
         <item>shatteredpixel</item>
         <item>shelter</item>
         <item>shitter</item>
@@ -1065,8 +1111,10 @@
         <item>sms2</item>
         <item>smsbackup</item>
         <item>smsgate</item>
+        <item>smsq</item>
         <item>smsscheduler</item>
         <item>smssecure</item>
+        <item>snapdrop</item>
         <item>snapseed</item>
         <item>snes9xex</item>
         <item>snooperstopper</item>
@@ -1095,6 +1143,7 @@
         <item>stringlate</item>
         <item>subsonic</item>
         <item>substratum</item>
+        <item>subtracks</item>
         <item>sudokufree</item>
         <item>sudoq</item>
         <item>sudowars</item>
@@ -1178,6 +1227,7 @@
         <item>trackbook</item>
         <item>trackercontrol</item>
         <item>trackgraph</item>
+        <item>trailsense</item>
         <item>transdroid</item>
         <item>transdroidsearch</item>
         <item>transdrone</item>
@@ -1249,11 +1299,16 @@
         <item>vxconnectbot</item>
         <item>wakeonlan</item>
         <item>wallabag</item>
+        <item>wallet_blue</item>
         <item>walletbudgetbakers</item>
         <item>walleth</item>
+        <item>wallet_indigo</item>
+        <item>wallet_pink</item>
+        <item>wallet_red</item>
         <item>wallpaper</item>
         <item>wallpaperchanger</item>
         <item>wally</item>
+        <item>warpinator_unofficial</item>
         <item>watomatic</item>
         <item>waveup</item>
         <item>weathernotification</item>
@@ -1298,6 +1353,7 @@
         <item>x11basic</item>
         <item>xabber</item>
         <item>xbmc</item>
+        <item>xclipper</item>
         <item>xdafeedreader</item>
         <item>xeonjia</item>
         <item>xjackoverride</item>
@@ -1316,11 +1372,13 @@
         <item>yahtzee</item>
         <item>yalpstore</item>
         <item>yaxim</item>
+        <item>yetanothercallblocker</item>
         <item>yoke</item>
         <item>youtrack</item>
         <item>yubico</item>
         <item>zapp</item>
         <item>zapwallet</item>
+        <item>zooforzotero</item>
         <item>zoom</item>
     </string-array>
 </resources>
