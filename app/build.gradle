@@ -1,24 +1,30 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 30
-    buildToolsVersion "30.0.3"
+    compileSdkVersion rootProject.ext.CompileSdk
 
     defaultConfig {
-        applicationId "org.xphnx.ameixa"
-        minSdkVersion 16
-        targetSdkVersion 30
+        applicationId 'com.candybar.sample'
+        minSdkVersion rootProject.ext.MinSdk
+        targetSdkVersion rootProject.ext.TargetSdk
         versionCode 4100
-        versionName "4.10.0"
+        versionName '4.10.0'
+        multiDexEnabled true
+
+        // Naming app bundles
+        setArchivesBaseName("${parent.name}-v${versionCode}")
+    }
+
+    bundle {
+        language {
+            enableSplit false
+        }
     }
 
     buildTypes {
         release {
+            debuggable false
             minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-        debug {
-            zipAlignEnabled true
         }
     }
 
@@ -37,20 +43,21 @@ android {
     }
 
     compileOptions {
-        encoding "UTF-8"
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
-    }
-
-    lintOptions {
-        disable 'GoogleAppIndexingWarning'
-    }
-
-    packagingOptions {
-        exclude 'META-INF/*'
     }
 }
 
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.2.0'
+    /*
+     * CandyBar Material Dashboard Library
+     *
+     * TODO: How to update the dashboard?!
+     * Check this update guide for every version
+     *      - https://github.com/zixpo/candybar-sample/wiki/Updating-the-dashboard
+     * If you've missed some versions you've to also follow update guide for those versions
+     */
+
+    implementation 'com.github.Donnnno:candybar-foss:3.14.2'
+
 }
