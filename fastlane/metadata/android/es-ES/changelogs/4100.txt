@@ -1,5 +1,0 @@
-4.10.0:
-* añadido 60+ iconos y arreglado muchos filtros
-* más mejoras en el CI
-
-Gracias a una comunidad activa que contribuye (en orden alfabético): @bdju, @benoit.harrault, @deusdenton, @egecelikci, @germe-fur, Jochen Spickhof, @load_sas, @twilight1794, @zachir

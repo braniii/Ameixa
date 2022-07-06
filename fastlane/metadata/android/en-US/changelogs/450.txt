@@ -1,3 +1,0 @@
-* added more than 20 icons and many filters (thx @twilight1794)
-* fixed some icon
-* fixed showing new icons on website

@@ -1,4 +1,0 @@
-* Se agregaron 30+ iconos y se corrigieron otros
-* fijando muchos iconos
-* actualizar gradlle, etc.
-* anadir la traducción de eo, fr, de

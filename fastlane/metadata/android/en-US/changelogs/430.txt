@@ -1,4 +1,0 @@
-* added 30+ icons and many filters
-* fixing many icon
-* upgrade build tools
-* add eo, fr, de translation

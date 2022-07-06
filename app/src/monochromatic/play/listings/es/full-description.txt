@@ -1,0 +1,14 @@
+Ameixa es un tema de íconos inspirado en las directrices de Material Design, que tiene como objeto proporcionar una apariencia uniforme a su dispositivo. Este tema incluye principalmente íconos de aplicaciones libres, pero también incluye íconos de aplicaciones privativas si son de utilidad. También existe una <a href="https://f-droid.org/es/packages/org.xphnx.ameixa/">versión del tema a color</a>.
+
+Lanzadores soportados:
+<ul>
+<li>Trebuchet</li>
+<li>Kiss</li>
+<li>Nova</li>
+<li>Apex</li>
+<li>Holo</li>
+<li>Asus</li>
+<li>Adw</li>
+<li>OpenLauncher</li>
+<li>...y cualquier otro lanzador que soporte temas de íconos</li>
+</ul>

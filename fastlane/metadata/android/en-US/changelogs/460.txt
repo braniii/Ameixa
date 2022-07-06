@@ -1,3 +1,0 @@
-* added 8 icons and fixed many filters
-* upgraded build tools
-* updated code from upstream and cleaned up the repository a little
