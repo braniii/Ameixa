@@ -1,0 +1,14 @@
+Ameixa is a Material Design inspired icon theme aiming to provide a consistent and minimalistic look to your device. This theme supports mainly FLOSS apps icons, but privative app icons are included if useful. There is also a <a href="https://f-droid.org/en/packages/org.xphnx.ameixam/">colored version available</a>.
+
+Suported launchers:
+<ul>
+<li>Trebuchet</li>
+<li>Kiss</li>
+<li>Nova</li>
+<li>Apex</li>
+<li>Holo</li>
+<li>Asus</li>
+<li>Adw</li>
+<li>OpenLauncher</li>
+<li>...and any other launcher supporting icon themes</li>
+</ul>

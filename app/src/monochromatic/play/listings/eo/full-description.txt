@@ -1,0 +1,14 @@
+Ameixa (elparolita 'amejŝa') estas piktogrametoso inspirita de Material-Design-aj gvidlinioj, ke celas provizi unuforma kaj minimumisma fasado al via aparato. Ĉi tiu etoso subtenas ĉefe liberaj aplikaĵaj piktogramoj, sed proprietaj aplikaĵaj piktogramoj estas ankaŭ subtenitaj se ili estas utilaj. Ankaŭ estas <a href="https://f-droid.org/eo/packages/org.xphnx.ameixa/">kolora versio</a>.
+
+Subtenitaj lanĉiloj:
+<ul>
+<li>Trebuchet</li>
+<li>Kiss</li>
+<li>Nova</li>
+<li>Apex</li>
+<li>Holo</li>
+<li>Asus</li>
+<li>Adw</li>
+<li>OpenLauncher</li>
+<li>...kaj ajna alia lanĉilo subtenanta piktogrametoso</li>
+</ul>

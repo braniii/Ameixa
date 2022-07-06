@@ -1,4 +1,0 @@
-* added 60+ icons and fixed some filters
-* further improved CI
-
-Thx to: @germe-fur, @benoit.harrault, @twilight1794, Jochen Spickhof, @bdju

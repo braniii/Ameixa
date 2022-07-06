@@ -1,1 +1,0 @@
-* 45 iconos nuevos y correcciones de vinculaciones obsoletas (gracias a [@ClockGen](https://gitlab.com/ClockGen).

@@ -1,5 +1,0 @@
-* added 70+ icons and fixed many filters
-* improved CI
-* fixed wrong icon assignment
-
-Thx to an active community: @loadsas, @twilight1794, @benoit.harrault, @martin.allien, @jahed, @bdju
