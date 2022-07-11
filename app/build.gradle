@@ -49,15 +49,8 @@ android {
 }
 
 dependencies {
-    /*
-     * CandyBar Material Dashboard Library
-     *
-     * TODO: How to update the dashboard?!
-     * Check this update guide for every version
-     *      - https://github.com/zixpo/candybar-sample/wiki/Updating-the-dashboard
-     * If you've missed some versions you've to also follow update guide for those versions
-     */
 
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'com.github.Donnnno:candybar-foss:3.14.2'
 
 }
