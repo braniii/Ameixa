@@ -4,11 +4,11 @@ android {
     compileSdkVersion rootProject.ext.CompileSdk
 
     defaultConfig {
-        applicationId 'com.candybar.sample'
+        applicationId 'org.xphnx.ameixa'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4100
-        versionName '4.10.0'
+        versionCode 5000
+        versionName '5.00.0'
         multiDexEnabled true
 
         // Naming app bundles
