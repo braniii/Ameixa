@@ -8135,38 +8135,44 @@
         component="ComponentInfo{org.kaqui/org.kaqui.mainmenu.MainActivity}"
         drawable="kakugo" />
     <item
-        component="website.leifs.delta/website.deifs.delta.activities.SplashActivity"
+        component="ComponentInfo{website.leifs.delta/website.deifs.delta.activities.SplashActivity}"
         drawable="delta" />
     <item
-        component="com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity"
+        component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}"
         drawable="nonfree_airbnb" />
     <item
-        component="com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity"
+        component="ComponentInfo{com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity}"
         drawable="nonfree_googlechat" />
     <item
-        component="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"
+        component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
         drawable="nonfree_googletranslate" />
     <item
-        component="mx.com.liverpool.shoppingapp/mx.com.liverpool.shoppingappsplash.SplashActivity"
+        component="ComponentInfo{mx.com.liverpool.shoppingapp/mx.com.liverpool.shoppingappsplash.SplashActivity}"
         drawable="nonfree_liverpool" />
     <item
-        component="com.microsoft.teams/com.microsoft.skype.teams.Launcher"
+        component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}"
         drawable="nonfree_microsoftteams" />
     <item
-        component="com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity"
+        component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}"
         drawable="nonfree_teamviewer" />
     <item
-        component="com.telmex.mitelmex/com.icom.telmex.ui.splash.SplashActivity"
+        component="ComponentInfo{com.telmex.mitelmex/com.icom.telmex.ui.splash.SplashActivity}"
         drawable="nonfree_telmex" />
     <item
-        component="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity"
+        component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}"
         drawable="nonfree_uber" />
     <item
-        component="io.github.x0b.rcx/ca.pkay.rcloneexplorer.MainActivity"
+        component="ComponentInfo{io.github.x0b.rcx/ca.pkay.rcloneexplorer.MainActivity}"
         drawable="rcx" />
     <item
-        component="com.jakewharton.sdksearch/com.jakewharton.sdksearch.ui.M;ainActivity"
+        component="ComponentInfo{com.jakewharton.sdksearch/com.jakewharton.sdksearch.ui.MainActivity}"
         drawable="sdksearch" />
+    <item
+        component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+        drawable="nonfree_facebook" />
+    <item
+        component="ComponentInfo{com.junjunguo.pocketmaps/com.junjunguo.pocketmaps.activities.MainActivity}"
+        drawable="pocketmaps" />
 
     <!-- Nova Launcher specific -->
     <item

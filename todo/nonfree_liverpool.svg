@@ -1454,8 +1454,7 @@
      units="px"
      showguides="false"
      inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"><inkscape:grid
+     inkscape:pagecheckerboard="0"><inkscape:grid
        type="xygrid"
        id="grid2985"
        empspacing="4"
@@ -1818,9 +1817,4 @@
        height="11.441076"
        x="7.2241287"
        y="-20.093872"
-       transform="rotate(90)" /></g><style
-     type="text/css"
-     id="style995">
-	.st0{fill:#A34585;}
-	.st1{fill:#F57F1E;}
-</style></svg>
+       transform="rotate(90)" /></g></svg>

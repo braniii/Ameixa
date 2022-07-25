@@ -6,8 +6,8 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="nonfree_microsoftteams.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="nonfree_facebook.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1847,19 +1847,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="13.8125"
-     inkscape:cy="12.75"
+     inkscape:zoom="12.989894"
+     inkscape:cx="8.622087"
+     inkscape:cy="14.780721"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
-     showguides="true"
+     showguides="false"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -1890,10 +1890,10 @@
           </cc:Agent>
         </dc:creator>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -1925,7 +1925,7 @@
        d="m 4.417683,1028.1747 v 1.6051 H 2.8125 v 18.1922 h 1.605183 v 2.1402 h 18.192073 v -2.1402 H 24.75 v -18.1922 h -2.140244 v -1.6051 z"
        style="display:inline;opacity:0.2;fill:#1a237e;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#3f51b5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06666667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#2196f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06666667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="22.749332"
        height="22.749332"
@@ -2295,9 +2295,9 @@
      inkscape:label="icon"
      style="display:inline">
     <path
-       id="path1001"
-       style="fill:#ffffff;stroke-width:0.0069299"
-       d="m 9.5897125,12.578471 c -0.3724333,0.0092 -0.6668447,0.317006 -0.6582032,0.689453 v 4.144531 c -0.052009,2.235023 1.7162117,4.089834 3.9511727,4.144532 1.58717,-0.03884 2.604439,-0.94921 3.236095,-2.295167 -0.786222,-0.486525 -1.331654,-1.376786 -1.331799,-2.366942 v -3.958985 -0.357422 z m 5.6972655,0 v 0.107422 4.208985 c 1.25e-4,0.783118 0.461544,1.358903 1.064453,1.763672 0.144365,-0.432185 0.493631,-0.764359 0.482422,-1.246095 v -4.144531 c 0.0086,-0.372447 -0.287723,-0.680236 -0.660156,-0.689453 z m 0.109168,-3.0539892 a 2.334801,2.334801 0 0 1 -2.334801,2.3348012 2.334801,2.334801 0 0 1 -2.334801,-2.3348012 2.334801,2.334801 0 0 1 2.334801,-2.334801 2.334801,2.334801 0 0 1 2.334801,2.334801 z m 4.310398,0.7183942 a 1.6163992,1.6163992 0 0 1 -1.616399,1.616399 1.6163992,1.6163992 0 0 1 -1.616399,-1.616399 1.6163992,1.6163992 0 0 1 1.616399,-1.6163991 1.6163992,1.6163992 0 0 1 1.616399,1.6163991 z M 15.3944,12.578471 c -0.05883,0 -0.05851,0.08024 -0.107422,0.105469 v 0.002 4.207031 0.002 c 2.01e-4,1.250163 1.007644,2.257985 2.257813,2.257812 h 0.01172 c 1.250181,0 2.259765,-1.009583 2.259765,-2.259766 v -3.882812 c 0,-0.241816 -0.191778,-0.431641 -0.433594,-0.431641 z" />
+       fill="#ffffff"
+       d="m 15.477372,21.552 v -6.551199 h 2.199049 l 0.328216,-2.553522 h -2.527265 v -1.627954 c 0,-0.741769 0.203494,-1.2406583 1.266914,-1.2406583 h 1.352252 V 7.2877168 c -0.236317,-0.032827 -1.037163,-0.098466 -1.969298,-0.098466 -1.949605,0 -3.282164,1.1881429 -3.282164,3.3740632 v 1.883962 H 10.639462 V 15.0008 h 2.205614 v 6.5512 z"
+       style="stroke-width:0.0656433" />
   </g>
   <g
      inkscape:groupmode="layer"
