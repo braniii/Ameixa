@@ -323,6 +323,9 @@
         component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}"
         drawable="threema" />
     <item
+        component="ComponentInfo{ch.threema.app.libre/ch.threema.app.activities.MainActivity}"
+        drawable="threema" />
+    <item
         component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}"
         drawable="telegramx" />
     <item
@@ -3191,6 +3194,10 @@
     <item
         component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.SplashscreenActivity}"
         drawable="owncloudnotes" />
+    <item
+        component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.main.MainActivity}"
+        drawable="owncloudnotes" />
+
     <item
         component="ComponentInfo{fr.unix_experience.owncloud_sms/fr.unix_experience.owncloud_sms.activities.MainActivity}"
         drawable="owncloudsms" />
@@ -8112,7 +8119,6 @@
     <item
         component="ComponentInfo{com.cm_prod.bad/com.e_i.bad.controls.activities.StartActivity}"
         drawable="wallet_indigo" />
-
 
     <!-- Nova Launcher specific -->
     <item
