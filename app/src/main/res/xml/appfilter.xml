@@ -8125,6 +8125,9 @@
     <item
         component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}"
         drawable="tidal" />
+    <item
+        component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}"
+        drawable="dolphinemulator" />
 
     <!-- Nova Launcher specific -->
     <item
