@@ -8122,6 +8122,9 @@
     <item
         component="ComponentInfo{com.raumfeld.android.controller/com.raumfeld.android.controller.clean.external.ui.root.RootActivity}"
         drawable="raumfeld" />
+    <item
+        component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}"
+        drawable="tidal" />
 
     <!-- Nova Launcher specific -->
     <item
