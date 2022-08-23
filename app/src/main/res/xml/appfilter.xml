@@ -8119,6 +8119,9 @@
     <item
         component="ComponentInfo{com.cm_prod.bad/com.e_i.bad.controls.activities.StartActivity}"
         drawable="wallet_indigo" />
+    <item
+        component="ComponentInfo{com.raumfeld.android.controller/com.raumfeld.android.controller.clean.external.ui.root.RootActivity}"
+        drawable="raumfeld" />
 
     <!-- Nova Launcher specific -->
     <item
