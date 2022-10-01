@@ -2466,6 +2466,9 @@
         component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}"
         drawable="mapsme" />
     <item
+        component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.MainActivity}"
+        drawable="mapsme" />
+    <item
         component="ComponentInfo{org.kde.marble.maps/org.kde.marble.maps.TextToSpeechClient}"
         drawable="marblemaps" />
     <item
@@ -6244,6 +6247,9 @@
         component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
         drawable="telegram" />
     <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}"
+        drawable="telegram" />
+    <item
         component="ComponentInfo{com.gmail.jiwopene.temperature/com.gmail.jiwopene.temperature.TemperaturesActivity}"
         drawable="tempmonitor" />
     <item
@@ -8078,6 +8084,9 @@
         component="ComponentInfo{deezer.android.app.nobilling/com.deezer.android.ui.activity.LauncherActivity}"
         drawable="nonfree_deezer" />
     <item
+        component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivity}"
+        drawable="nonfree_deezer" />
+    <item
         component="ComponentInfo{com.virtual.applets.chinesedictionary/com.nilhcem.frcndict.SplashActivity}"
         drawable="dictionaryformids" />
     <item
@@ -8088,6 +8097,9 @@
         drawable="nonfree_intermarche" />
     <item
         component="ComponentInfo{com.omronhealthcare.omronconnect/com.omronhealthcare.foresight.modules.views.splash.SplashActivity}"
+        drawable="nonfree_omronconnect" />
+    <item
+        component="ComponentInfo{com.omronhealthcare.omronconnect/com.omronhealthcare.foresight.view.module.splash.SplashActivity}"
         drawable="nonfree_omronconnect" />
     <item
         component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
@@ -8105,6 +8117,9 @@
         component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}"
         drawable="nonfree_tisseo" />
     <item
+        component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.splashscreen.SplashScreenActivity}"
+        drawable="nonfree_tisseo" />
+    <item
         component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}"
         drawable="nonfree_vivino" />
     <item
@@ -8114,7 +8129,13 @@
         component="ComponentInfo{fr.banquepopulaire.cyberplus/fr.bpce.pulsar.login.domain.startup.StartUpActivity}"
         drawable="wallet_blue" />
     <item
+        component="ComponentInfo{fr.banquepopulaire.cyberplus/fr.bpce.pulsar.login.ui.startup.StartUpActivity}"
+        drawable="wallet_blue" />
+    <item
         component="ComponentInfo{com.caisseepargne.android.mobilebanking/fr.bpce.pulsar.login.domain.startup.StartUpActivity}"
+        drawable="wallet_red" />
+    <item
+        component="ComponentInfo{com.caisseepargne.android.mobilebanking/fr.bpce.pulsar.login.ui.startup.StartUpActivity}"
         drawable="wallet_red" />
     <item
         component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.splash.SplashActivity}"
