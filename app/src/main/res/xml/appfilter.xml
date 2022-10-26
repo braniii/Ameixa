@@ -8216,15 +8216,6 @@
         component="ComponentInfo{com.aliucord.installer/com.aliucord.installer.MainActivity}"
         drawable="aliucordinstaller" />
     <item
-        component="ComponentInfo{com.raumfeld.android.controller/com.raumfeld.android.controller.clean.external.ui.root.RootActivity}"
-        drawable="raumfeld" />
-    <item
-        component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}"
-        drawable="tidal" />
-    <item
-        component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}"
-        drawable="dolphinemulator" />
-    <item
         component="ComponentInfo{de.benibela.videlibri/de.benibela.videlibri.activities.LendingList}"
         drawable="videlibri" />
     <item
