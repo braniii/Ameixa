@@ -3009,6 +3009,9 @@
         component="ComponentInfo{be.brunoparmentier.openbikesharing.app/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity}"
         drawable="openbikesharing" />
     <item
+        component="ComponentInfo{fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity}"
+        drawable="openbikesharing" />
+    <item
         component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}"
         drawable="opencamera" />
     <item
@@ -7119,6 +7122,9 @@
         component="ComponentInfo{de.dennisguse.opentracks/de.dennisguse.opentracks.TrackListActivity}"
         drawable="opentracks" />
     <item
+        component="ComponentInfo{de.dennisguse.opentracks/de.dennisguse.opentracks.introduction.IntroductionActivity}"
+        drawable="opentracks" />
+    <item
         component="ComponentInfo{com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity}"
         drawable="clover" />
     <item
@@ -8209,6 +8215,25 @@
     <item
         component="ComponentInfo{com.aliucord.installer/com.aliucord.installer.MainActivity}"
         drawable="aliucordinstaller" />
+    <item
+        component="ComponentInfo{com.raumfeld.android.controller/com.raumfeld.android.controller.clean.external.ui.root.RootActivity}"
+        drawable="raumfeld" />
+    <item
+        component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}"
+        drawable="tidal" />
+    <item
+        component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}"
+        drawable="dolphinemulator" />
+    <item
+        component="ComponentInfo{de.benibela.videlibri/de.benibela.videlibri.activities.LendingList}"
+        drawable="videlibri" />
+    <item
+        component="ComponentInfo{de.grobox.blitzmail/de.grobox.blitzmail.MainActivity}"
+        drawable="blitzmail" />
+    <item
+        component="ComponentInfo{de.grobox.blitzmail/de.grobox.blitzmail.NoteActivity}"
+        drawable="blitzmail" />
+
 
     <!-- Nova Launcher specific -->
     <item
