@@ -8224,6 +8224,12 @@
     <item
         component="ComponentInfo{de.grobox.blitzmail/de.grobox.blitzmail.NoteActivity}"
         drawable="blitzmail" />
+    <item
+        component="ComponentInfo{com.nintendo.znca/com.nintendo.coral.ui.boot.BootActivity}"
+        drawable="nonfree_nintendoswitchonline" />
+    <item
+        component="ComponentInfo{com.abitdo.advance/com.abitdo.advance.Activity.SearchActivity}"
+        drawable="nonfree_ultimatesoftware" />
 
 
     <!-- Nova Launcher specific -->
