@@ -7269,6 +7269,9 @@
         component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}"
         drawable="element" />
     <item
+        component="ComponentInfo{im.vector.app/im.vector.application.features.Alias}"
+        drawable="element" />
+    <item
         component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}"
         drawable="unciv" />
     <item
@@ -7785,6 +7788,9 @@
         drawable="usagedirect" />
     <item
         component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}"
+        drawable="organicmaps" />
+    <item
+        component="ComponentInfo{app.organicmaps/app.organicmaps.DownloadResourcesActivity}"
         drawable="organicmaps" />
     <item
         component="ComponentInfo{com.nathaniel.motus.umlclasseditor/com.nathaniel.motus.umlclasseditor.controller.MainActivity}"
