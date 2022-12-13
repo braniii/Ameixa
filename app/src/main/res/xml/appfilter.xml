@@ -8233,6 +8233,9 @@
     <item
         component="ComponentInfo{com.abitdo.advance/com.abitdo.advance.Activity.SearchActivity}"
         drawable="nonfree_ultimatesoftware" />
+    <item
+        component="ComponentInfo{onlymash.flexbooru.play/onlymash.flexbooru.ui.activity.MainActivity}"
+        drawable="flexbooru" />
 
 
     <!-- Nova Launcher specific -->
