@@ -7134,6 +7134,9 @@
         component="ComponentInfo{com.pavelrekun.rekado/com.pavelrekun.rekado.containers.PrimaryContainerActivity}"
         drawable="rekado" />
     <item
+        component="ComponentInfo{com.pavelrekun.rekado/com.pavelrekun.rekado.screens.navigation_activity.NavigationActivity}"
+        drawable="rekado" />
+    <item
         component="ComponentInfo{com.blogspot.developersu.ns_usbloader/com.blogspot.developersu.ns_usbloader.MainActivity}"
         drawable="nsusbloader" />
     <item
