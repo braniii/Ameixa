@@ -430,6 +430,9 @@
         component="ComponentInfo{com.fr3ts0n.ecu.gui.androbd/com.fr3ts0n.ecu.gui.androbd.MainActivity}"
         drawable="androbd" />
     <item
+        component="ComponentInfo{com.fr3ts0n.androbd.plugin.sensorprovider/com.fr3ts0n.androbd.plugin.sensorprovider.SettingsActivity}"
+        drawable="androbdsensorprovider" />
+    <item
         component="ComponentInfo{in.arjsna.permissionchecker/in.arjsna.permissionchecker.MainActivity}"
         drawable="androidpermissions" />
     <item
