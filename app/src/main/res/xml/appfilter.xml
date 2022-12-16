@@ -8248,6 +8248,22 @@
     <item
         component="ComponentInfo{com.hiddenramblings.tagmo.eightbit/com.hiddenramblings.tagmo.browser.BrowserActivity}"
         drawable="tagmo" />
+    <item
+        component="ComponentInfo{com.oasisfeng.island.fdroid/com.oasisfeng.island.MainActivity}"
+        drawable="insular" />
+    <item
+        component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}"
+        drawable="kiwibrowser" />
+    <item
+        component="ComponentInfo{moe.dic1911.urlsanitizer/moe.dic1911.urlsanitizer.MainActivity}"
+        drawable="urlsanitizer" />
+    <item
+        component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}"
+        drawable="shizuku" />
+    <item
+        component="ComponentInfo{net.kdt.pojavlaunch/net.kdt.pojavlaunch.PojavLoginActivity}"
+        drawable="pojavlauncher" />
+
 
     <!-- Nova Launcher specific -->
     <item
