@@ -981,6 +981,9 @@
         component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}"
         drawable="camera2" />
     <item
+        component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}"
+        drawable="camera2" />
+    <item
         component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}"
         drawable="camera2" />
     <item
