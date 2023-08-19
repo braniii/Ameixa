@@ -7399,6 +7399,9 @@
         component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}"
         drawable="multivnc" />
     <item
+        component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.ui.MainMenuActivity}"
+        drawable="multivnc" />
+    <item
         component="ComponentInfo{rocks.poopjournal.flashy/com.poopjournal.flashy.MainActivity}"
         drawable="flashy" />
     <item
