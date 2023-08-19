@@ -7437,6 +7437,9 @@
         component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}"
         drawable="appmanager" />
     <item
+        component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}"
+        drawable="appmanager" />
+    <item
         component="ComponentInfo{com.picross.nonocross/com.picross.nonocross.MainActivity}"
         drawable="nonocross" />
     <item
@@ -7905,6 +7908,9 @@
         drawable="nonfree_plumvillage" />
     <item
         component="ComponentInfo{es.wolfi.app.passman.alpha/es.wolfi.app.passman.PasswordList}"
+        drawable="passman" />
+    <item
+        component="ComponentInfo{es.wolfi.app.passman/es.wolfi.app.passman.activities.PasswordListActivity}"
         drawable="passman" />
     <item
         component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity}"
