@@ -2976,6 +2976,9 @@
         component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}"
         drawable="odyssey" />
     <item
+        component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseyMainActivity}"
+        drawable="odyssey" />
+    <item
         component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.directions.DirectionsActivity}"
         drawable="oeffidirections" />
     <item
@@ -8173,6 +8176,18 @@
     <item
         component="ComponentInfo{com.junjunguo.pocketmaps/com.junjunguo.pocketmaps.activities.MainActivity}"
         drawable="pocketmaps" />
+    <item
+        component="ComponentInfo{mx.weex.ss/mx.weex.ss/activity.HomeActivity}"
+        drawable="nonfree_weex" />
+    <item
+        component="ComponentInfo{io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity}"
+        drawable="ntfy" />
+    <item
+        component="ComponentInfo{com.aliucord/com.discord.app.AppActivity$Main}"
+        drawable="aliucord" />
+    <item
+        component="ComponentInfo{com.aliucord.installer/com.aliucord.installer.MainActivity}"
+        drawable="aliucordinstaller" />
 
     <!-- Nova Launcher specific -->
     <item
