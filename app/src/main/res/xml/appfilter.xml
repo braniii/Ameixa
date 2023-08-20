@@ -8275,7 +8275,15 @@
     <item
         component="ComponentInfo{net.kdt.pojavlaunch/net.kdt.pojavlaunch.PojavLoginActivity}"
         drawable="pojavlauncher" />
-
+    <item
+        component="ComponentInfo{com.amaze.fileutilities/com.amaze.fileutilities.home_page.MainActivity}"
+        drawable="amazeutilities" />
+    <item
+        component="ComponentInfo{at.techbee.jtx/at.techbee.jtx.MainActivity2}"
+        drawable="jtxboard" />
+    <item
+        component="ComponentInfo{com.bobek.compass/com.bobek.compass.MainActivity}"
+        drawable="kompass_bobek" />
 
     <!-- Nova Launcher specific -->
     <item
