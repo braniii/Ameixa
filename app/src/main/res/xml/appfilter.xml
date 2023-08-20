@@ -8284,6 +8284,9 @@
     <item
         component="ComponentInfo{com.bobek.compass/com.bobek.compass.MainActivity}"
         drawable="kompass_bobek" />
+    <item
+        component="ComponentInfo{com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity}"
+        drawable="finamp" />
 
     <!-- Nova Launcher specific -->
     <item
