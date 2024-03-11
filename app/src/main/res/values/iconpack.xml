@@ -17,14 +17,18 @@
         <item>afreerdp</item>
         <item>aizoban</item>
         <item>alarmio</item>
+        <item>aliucord</item>
+        <item>aliucordinstaller</item>
         <item>alogcatroot</item>
         <item>altcoin</item>
         <item>alzacz</item>
         <item>amaze</item>
+        <item>amazeutilities</item>
         <item>ametro</item>
         <item>andbible</item>
         <item>andotp</item>
         <item>androbd</item>
+        <item>androbdsensorprovider</item>
         <item>androidpermissions</item>
         <item>androidresources</item>
         <item>androidrun</item>
@@ -105,6 +109,7 @@
         <item>bitwala</item>
         <item>bitwarden</item>
         <item>blabberim</item>
+        <item>blitzmail</item>
         <item>blockfolio</item>
         <item>blockinger</item>
         <item>blockpuzzle</item>
@@ -201,6 +206,7 @@
         <item>coloringbook</item>
         <item>communitycompass</item>
         <item>compass</item>
+        <item>compass_bobek</item>
         <item>cone</item>
         <item>connectbot</item>
         <item>constellations</item>
@@ -250,6 +256,7 @@
         <item>deepl</item>
         <item>defaulticon</item>
         <item>defendo</item>
+        <item>delta</item>
         <item>deltachat</item>
         <item>democracydroid</item>
         <item>derandom</item>
@@ -277,6 +284,7 @@
         <item>dnsman</item>
         <item>documents</item>
         <item>documentviewer</item>
+        <item>dolphinemulator</item>
         <item>doomytorch</item>
         <item>downloadnavi</item>
         <item>downloads</item>
@@ -351,6 +359,7 @@
         <item>filemanager</item>
         <item>filemanagerpro</item>
         <item>filemanagersc</item>
+        <item>finamp</item>
         <item>findmyphone</item>
         <item>fiobankacz</item>
         <item>firefox</item>
@@ -358,6 +367,7 @@
         <item>firewall</item>
         <item>fitotrack</item>
         <item>flashy</item>
+        <item>flexbooru</item>
         <item>floatingstickies</item>
         <item>florisboard</item>
         <item>fluffychat</item>
@@ -445,6 +455,7 @@
         <item>hn</item>
         <item>holocounter</item>
         <item>holokenmod</item>
+        <item>homeassistant</item>
         <item>hourlyreminder</item>
         <item>httpshortcuts</item>
         <item>hueessentials</item>
@@ -467,6 +478,7 @@
         <item>inaturalist</item>
         <item>infinity</item>
         <item>instagrabber</item>
+        <item>insular</item>
         <item>intentexplode</item>
         <item>intentintercept</item>
         <item>intheclear</item>
@@ -482,10 +494,12 @@
         <item>jiten</item>
         <item>jitsi</item>
         <item>joplin</item>
+        <item>jtxboard</item>
         <item>jupiterbroadcast</item>
         <item>justplayer</item>
         <item>justvideoplayer</item>
         <item>k9mail</item>
+        <item>kakugo</item>
         <item>kalgebra</item>
         <item>kanadrill</item>
         <item>kandroid</item>
@@ -500,6 +514,7 @@
         <item>keypadmapper</item>
         <item>kisslauncher</item>
         <item>kitsu</item>
+        <item>kiwibrowser</item>
         <item>kiwix</item>
         <item>klooni</item>
         <item>knockonports</item>
@@ -689,6 +704,7 @@
         <item>nocknock</item>
         <item>noice</item>
         <item>nomad</item>
+        <item>nonfree_airbnb</item>
         <item>nonfree_androidauto</item>
         <item>nonfree_arte</item>
         <item>nonfree_asana</item>
@@ -703,12 +719,14 @@
         <item>nonfree_creditdunord</item>
         <item>nonfree_deezer</item>
         <item>nonfree_ecoledirecte</item>
+        <item>nonfree_facebook</item>
         <item>nonfree_famileo</item>
         <item>nonfree_fdj</item>
         <item>nonfree_fip</item>
         <item>nonfree_fiverr</item>
         <item>nonfree_franceinter</item>
         <item>nonfree_gmail</item>
+        <item>nonfree_googlechat</item>
         <item>nonfree_googleclassroom</item>
         <item>nonfree_googledocs</item>
         <item>nonfree_googledrive</item>
@@ -719,6 +737,7 @@
         <item>nonfree_googleplaystore</item>
         <item>nonfree_googlesheets</item>
         <item>nonfree_googleslides</item>
+        <item>nonfree_googletranslate</item>
         <item>nonfree_happn</item>
         <item>nonfree_harmonieetmoi</item>
         <item>nonfree_hwouc</item>
@@ -730,12 +749,15 @@
         <item>nonfree_lastfm</item>
         <item>nonfree_leboncoin</item>
         <item>nonfree_linguish</item>
+        <item>nonfree_liverpool</item>
         <item>nonfree_messenger</item>
         <item>nonfree_microsoftauthenticator</item>
         <item>nonfree_microsoftoffice</item>
         <item>nonfree_microsoftonenote</item>
+        <item>nonfree_microsoftteams</item>
         <item>nonfree_myedenred</item>
         <item>nonfree_myphone</item>
+        <item>nonfree_nintendoswitchonline</item>
         <item>nonfree_okoo</item>
         <item>nonfree_omronconnect</item>
         <item>nonfree_pcloud</item>
@@ -756,14 +778,19 @@
         <item>nonfree_spotify</item>
         <item>nonfree_spotifykids</item>
         <item>nonfree_steam</item>
+        <item>nonfree_teamviewer</item>
+        <item>nonfree_telmex</item>
         <item>nonfree_tinder</item>
         <item>nonfree_tisseo</item>
         <item>nonfree_titaniumbackup</item>
         <item>nonfree_twitch</item>
         <item>nonfree_twitter</item>
+        <item>nonfree_uber</item>
+        <item>nonfree_ultimatesoftware</item>
         <item>nonfree_vivino</item>
         <item>nonfree_waze</item>
         <item>nonfree_wechat</item>
+        <item>nonfree_weex</item>
         <item>nonfree_whatsapp</item>
         <item>nonfree_youtube</item>
         <item>nonfree_ytmusic</item>
@@ -778,6 +805,7 @@
         <item>notificationnotes</item>
         <item>nounours</item>
         <item>nsusbloader</item>
+        <item>ntfy</item>
         <item>ntpsync</item>
         <item>oandbackup</item>
         <item>oasvn</item>
@@ -905,6 +933,7 @@
         <item>podcastaddict</item>
         <item>podlisten</item>
         <item>poetassistant</item>
+        <item>pojavlauncher</item>
         <item>politedroid</item>
         <item>pomodoro</item>
         <item>portauthority</item>
@@ -951,6 +980,8 @@
         <item>rainwave</item>
         <item>randomix</item>
         <item>raspicheck</item>
+        <item>raumfeld</item>
+        <item>rcx</item>
         <item>readerforselfoss</item>
         <item>readrops</item>
         <item>receipts</item>
@@ -1007,6 +1038,7 @@
         <item>screenshotsharer</item>
         <item>screenstream</item>
         <item>scummvm</item>
+        <item>sdksearch</item>
         <item>sdscanner</item>
         <item>seadroid2</item>
         <item>searchsearx</item>
@@ -1057,6 +1089,7 @@
         <item>shatteredpixel</item>
         <item>shelter</item>
         <item>shitter</item>
+        <item>shizuku</item>
         <item>shoppinglist</item>
         <item>shuttle</item>
         <item>sicmuplayer</item>
@@ -1170,6 +1203,7 @@
         <item>tacere</item>
         <item>tachiyomi</item>
         <item>tagdrop</item>
+        <item>tagmo</item>
         <item>tags</item>
         <item>talalarmo</item>
         <item>tanksoffreedom</item>
@@ -1202,6 +1236,7 @@
         <item>thetranslator</item>
         <item>threema</item>
         <item>tickmate</item>
+        <item>tidal</item>
         <item>tide</item>
         <item>tigase</item>
         <item>timber</item>
@@ -1271,6 +1306,7 @@
         <item>unote</item>
         <item>untrackme</item>
         <item>updaterforspotify</item>
+        <item>urlsanitizer</item>
         <item>usagedirect</item>
         <item>usbmountr</item>
         <item>vanillamusic</item>
@@ -1279,6 +1315,7 @@
         <item>vectorpinball</item>
         <item>vegemap</item>
         <item>vespucci</item>
+        <item>videlibri</item>
         <item>videoeditor</item>
         <item>videotranscoder</item>
         <item>vigilante</item>

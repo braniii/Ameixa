@@ -76,7 +76,7 @@
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
     <g letter-spacing="0px" word-spacing="0px">
-        <flowRoot fill="#232323" font-family="Roboto" font-size="12.8px" stroke-width="1.0667px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" stroke-width="1.0667px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
         <g fill="#fff" stroke-width=".40498" aria-label="$">
             <path d="m13.863 19.873v1.7009h1.1015v-1.7009c2.1869-0.24298 3.499-1.3931 3.499-3.499 0-1.7819-0.98814-2.7376-3.499-3.4342v-3.256c0.79375 0.11339 1.2635 0.74515 1.2635 1.6847v0.09719h2.0735c-0.0324-2.0249-1.2959-3.3046-3.337-3.418v-0.87475h-1.1015v0.87475c-2.0897 0.19439-3.3046 1.3769-3.3046 3.1912 0 1.7981 1.1177 2.9482 3.3046 3.4504v3.4504c-0.90714-0.16199-1.4093-0.82615-1.4579-1.9601h-2.1221v0.14579c0 1.9277 1.2635 3.3208 3.58 3.5476zm0-7.2572c-0.90714-0.29158-1.3121-0.72896-1.3121-1.4417 0-0.82615 0.42117-1.3121 1.3121-1.4903zm1.1015 2.3489c0.90714 0.27538 1.3607 0.82615 1.3607 1.6037 0 0.80995-0.45357 1.3445-1.3607 1.5713z" fill="#fff" stroke-width=".40498"/>
         </g>

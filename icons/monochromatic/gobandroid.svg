@@ -6,7 +6,7 @@
         </filter>
     </defs>
     <g transform="translate(0 -1025.4)">
-        <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
+        <path transform="matrix(1.0107 0 0 .99762 -.087875 2.579)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051h-18.192z" fill="#212121" filter="url(#filter6206-7)" opacity=".2"/>
         <rect x="2.8113" y="1028.2" width="21.327" height="21.327" rx="1.1225" ry="1.1226" fill="#232323"/>
         <g transform="translate(-20.925 990.46)">
             <path d="m0 0h48v48h-48z" fill="none"/>
@@ -73,7 +73,7 @@
                 </g>
             </g>
         </g>
-        <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#232323" opacity=".2"/>
+        <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#212121" opacity=".2"/>
     </g>
     <path d="m6.7969 6.8066v13.348h13.348v-13.348zm1 1h11.348v11.348h-11.348zm8.7801 7.4364c-0.73884 0-1.3312 0.59241-1.3312 1.3312 0 0.73523 0.59602 1.3312 1.3312 1.3312s1.3312-0.59602 1.3312-1.3312c0-0.73884-0.59906-1.3312-1.3312-1.3312m-0.66562-1.9969c0-0.73884-0.59906-1.3312-1.3312-1.3312-0.73884 0-1.3312 0.59241-1.3312 1.3312 0 0.73523 0.59602 1.3312 1.3312 1.3312s1.3312-0.59602 1.3312-1.3312m-3.3281 1.9969c-0.73523 0-1.3312 0.59602-1.3312 1.3312s0.59602 1.3312 1.3312 1.3312 1.3312-0.59602 1.3312-1.3312c0-0.73884-0.59906-1.3312-1.3312-1.3312z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     <g display="none" fill="none">

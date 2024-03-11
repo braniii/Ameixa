@@ -75,10 +75,10 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
-    <g transform="translate(.17129 .79936)" letter-spacing="0px" stroke-width="1px" word-spacing="0px">
-        <flowRoot fill="#232323" font-family="Roboto" font-size="3.75px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <g transform="scale(.90728 1.1022)" fill="#fff" aria-label="Ey">
-            <path d="m14.739 9.1699h1.8812l1.5817 3.9937 1.3452-3.9937h1.8812l-2.475 6.4425q-0.3731 0.98266-0.87231 1.3715-0.49396 0.39412-1.3085 0.39412h-1.0878v-1.2349h0.58855q0.4782 0 0.69364-0.15239 0.2207-0.15239 0.34157-0.54651l0.05255-0.1629zm-6.5003-1.9601h5.4598v1.5292h-3.4367v1.4609h3.2318v1.5292h-3.2318v1.7972h3.5523v1.5292h-5.5754z" style=""/>
+    <g transform="matrix(1.096 0 0 1.096 -.37434 -.4778)" letter-spacing="0px" word-spacing="0px">
+        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" stroke-width=".91241px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512" stroke-width=".91241px"/></flowRegion><flowPara>your</flowPara></flowRoot>
+        <g transform="scale(.90728 1.1022)" fill="#fff" stroke-width=".82697px" aria-label="Ey">
+            <path d="m8.2393 7.2098v7.8448h5.5743v-1.5295h-3.5512v-1.7963h3.2311v-1.5295h-3.2311v-1.4616h3.4373v-1.5279zm6.4955 1.9596 2.6222 6.1116-0.05303 0.1633c-0.08057 0.26274-0.19463 0.44489-0.34177 0.54648-0.14363 0.10159-0.37456 0.15198-0.69335 0.15198h-0.58925v1.2352h1.0882c0.543 0 0.97884-0.13176 1.3081-0.3945 0.33281-0.25924 0.62336-0.71595 0.87209-1.3711l2.4749-6.443h-1.8797l-1.3455 3.9935-1.5831-3.9935z" stroke-width=".91241px"/>
         </g>
     </g>
     <g display="none" fill="none">
