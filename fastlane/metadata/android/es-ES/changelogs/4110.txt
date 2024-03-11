@@ -1,0 +1,5 @@
+4.11.0:
+* Añadidos 41 nuevos iconos, corregidos otro tanto
+* Corregido el código SVG de muchos iconos, gracias a @mahlzahn
+
+Gracias a una comunidad activa que contribuye (en orden alfabético): @bdju, @branii, @DJaeger

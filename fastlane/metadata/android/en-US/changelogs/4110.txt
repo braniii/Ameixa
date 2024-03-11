@@ -1,0 +1,5 @@
+4.11.0:
+* Added 41 new icons, fixed a lot
+* Fixed many SVG code icons, thanks to @mahlzahn
+
+Thx to an active contributing community (in alphabetical order): @bdju, @branii, @DJaeger
