@@ -4,9 +4,6 @@
         <filter id="filter6206-7" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
         </filter>
-        <filter id="filter6206-7-1" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="0.658125"/>
-        </filter>
     </defs>
     <g transform="translate(0 -1093.8)">
         <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
@@ -78,24 +75,9 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
-    <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
+    <flowRoot fill="#232323" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
     <g transform="translate(-443.81 248.22)">
         <g transform="translate(0 -1093.8)">
-            <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#232323" filter="url(#filter6206-7-1)" opacity=".2"/>
-            <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#232323"/>
-            <g transform="translate(-22.32 1056.5)">
-                <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
-                <g transform="matrix(.33601 0 0 .33601 1.5296 73.043)">
-                    <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
-                </g>
-                <g transform="matrix(.37187 0 0 .37187 38.802 63.239)">
-                    <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
-                    <g transform="matrix(2.6891 0 0 2.6891 -82.906 -48.45)">
-                        <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
-                    </g>
-                </g>
-            </g>
-            <path d="m4.1958 1096.8c-0.66332 0-1.1979 0.5346-1.1979 1.1979v0.3334c0-0.6634 0.53459-1.1979 1.1979-1.1979h20.354c0.66332 0 1.1979 0.5345 1.1979 1.1979v-0.3334c0-0.6633-0.5346-1.1979-1.1979-1.1979z" fill="#fff" opacity=".2"/>
             <rect x="128" y="546.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
             <rect x="128" y="631.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
             <rect x="128" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
@@ -133,12 +115,6 @@
             <rect x="341.33" y="674.52" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
             <rect x="341.33" y="759.85" width="42.667" height="42.667" fill="none" stroke-width="1.0667"/>
             <rect x="160" y="578.52" width="192" height="192" fill="none" stroke-width="1.0667"/>
-            <g transform="matrix(.37344 0 0 .37344 4.7333 1097.4)">
-                <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
-            </g>
-            <g transform="matrix(.36471 0 0 .36471 5.1356 1097.4)">
-                <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
-            </g>
             <g transform="matrix(.41585 0 0 .41585 84.325 1055.9)">
                 <g transform="matrix(.062269 0 0 .062269 -28.238 185.29)">
                     <g transform="matrix(38.618 0 0 38.618 14724 -13542)">
@@ -148,10 +124,7 @@
                     </g>
                 </g>
             </g>
-            <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
         </g>
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" letter-spacing="0px" stroke-width="1.0667px" word-spacing="0px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <path d="m13.212 20.835c-0.71052-0.13889-1.5057-0.42297-2.026-0.72378l-0.36574-0.21145-1.202 0.31084c-0.6611 0.17096-1.2284 0.31084-1.2607 0.31084-0.032301 0 0.088883-0.53481 0.2693-1.1885l0.32803-1.1885-0.38634-0.75582c-0.57666-1.1282-0.7627-1.9896-0.70993-3.2872 0.07385-1.816 0.64679-3.0944 1.9805-4.4191 0.61784-0.61365 0.89895-0.81906 1.5815-1.1556 1.093-0.53892 1.8085-0.70488 3.0147-0.69926 1.8578 0.00867 3.2298 0.582 4.5455 1.8995 0.88484 0.88604 1.3313 1.5843 1.6775 2.6241 0.20779 0.62395 0.27713 1.2781 0.27713 1.9661 0.0025 0.60486-0.05456 1.3304-0.27823 2.0126-0.41089 1.2533-1.0394 2.1914-2.0665 3.0844-0.5567 0.48401-1.8149 1.1311-2.5826 1.3282-0.74974 0.19248-2.0629 0.23596-2.7963 0.09259zm4.279-3.016c0.56127-0.31366 0.76018-0.59042 0.81201-1.1298l0.04201-0.43734-0.88278-0.443c-0.48553-0.24365-0.93805-0.443-1.0056-0.443s-0.29437 0.21393-0.50404 0.4754-0.43858 0.49932-0.5087 0.52856c-0.19462 0.08117-1.2999-0.50767-1.8313-0.97567-0.52634-0.4635-1.2307-1.3702-1.2307-1.5842 0-0.07619 0.09582-0.23898 0.21293-0.36177 0.11712-0.12278 0.27104-0.33577 0.34204-0.4733 0.1223-0.23687 0.1087-0.29877-0.25782-1.1736-0.21281-0.50794-0.40328-0.93989-0.42328-0.95989-0.01999-0.01999-0.23248-0.0424-0.47219-0.04978-0.35453-0.01091-0.48009 0.02732-0.67308 0.20504-0.64092 0.59016-0.82706 1.7028-0.44165 2.6399 0.49697 1.2084 2.1923 3.0716 3.3361 3.6665 0.52335 0.2722 1.5247 0.65558 2.0907 0.80046 0.3333 0.08532 0.96339-0.04319 1.3953-0.28456z" fill="#fff"/>
         <g display="none" fill="none">
             <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
             <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".069589"/>

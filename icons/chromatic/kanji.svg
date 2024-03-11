@@ -77,10 +77,7 @@
     </g>
     <g transform="matrix(.092318 0 0 .092318 23.657 12.12)">
         <g transform="matrix(1.0878 0 0 1.0878 10.034 -3.9721)" fill="none" stroke="#fff" stroke-width="10.832">
-            <path d="m-165.99-6.863v-22.2l110.66-0.68309v22.542"/>
-            <path d="m-150.28-5.5397 75.14-0.68309c-4.9063 9.1038-19.583 17.456-36.204 25.659v52.257c-8.8802 7.5291-17.76 4.555-26.641 2.3908"/>
-            <path d="m-170.76 30.499h120.95"/>
-            <path d="m-111.68-47.647v19.609"/>
+            <path transform="matrix(9.9578 0 0 9.9578 -244.8 -117.04)" d="m12.824 6.9688v1.293l-5.4551 0.033203v2.7695h1.0879v-1.6895l10.025-0.0625v1.7168h1.0879v-2.8105l-5.6582 0.035156v-1.2852h-1.0879zm5.1289 3.6074-8.4668 0.076172 0.0097657 1.0879 6.2363-0.05664c-0.6399 0.48933-1.5399 1.0237-2.5723 1.5332l-0.30273 0.15039v0.9043h-5.4219v1.0879h5.4219v3.3184c-0.26583 0.17348-0.5044 0.22141-0.78516 0.2168-0.34698-0.005698-0.7557-0.1181-1.2168-0.23047l-0.25781 1.0566c0.43076 0.10497 0.91223 0.25277 1.457 0.26172 0.5448 0.008947 1.1582-0.15651 1.6992-0.61523l0.19141-0.16211v-3.8457h5.6367v-1.0879h-5.6367v-0.23242c1.5633-0.77689 2.9683-1.5352 3.5703-2.6523l0.4375-0.81055z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="none" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
         </g>
     </g>
     <g display="none" fill="none">

@@ -76,7 +76,9 @@
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#232323" opacity=".2"/>
     </g>
     <g transform="translate(-6.853e-8 .61625)">
-        <text x="10.203742" y="19.523518" fill="#ffffff" font-family="Roboto" font-size="17.267px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="10.203742" y="19.523518">f</tspan></text>
+        <g fill="#fff" aria-label="f">
+            <path d="m12.151 19.524v-7.9169h-1.4417v-1.2057h1.4417v-0.93586q0-1.467 0.7841-2.268 0.7841-0.80096 2.2174-0.80096 0.53959 0 1.0708 0.14333l-0.08431 1.2647q-0.39626-0.07588-0.84312-0.07588-0.7588 0-1.1719 0.44685-0.41313 0.43842-0.41313 1.2647v0.96115h1.9476v1.2057h-1.9476v7.9169z" style=""/>
+        </g>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

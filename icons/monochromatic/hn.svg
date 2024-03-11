@@ -76,8 +76,9 @@
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#232323" opacity=".2"/>
     </g>
     <g letter-spacing="0px" word-spacing="0px">
-        <flowRoot fill="#000000" font-family="Roboto" font-size="3.75px" stroke-width="1px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
-        <text x="5.6907849" y="17.467257" fill="#ffffff" font-family="wasy10" font-size="10.953px" style="line-height:125%" xml:space="preserve"><tspan x="5.6907849" y="17.467257" dx="0 -0.86051881" fill="#ffffff" font-family="STIXVariants">HN</tspan></text>
+        <g fill="#fff" aria-label="HN">
+            <path d="m14.141 9.4825h1.4547l3.5405 6.6798v-6.6798h1.0482v7.9848h-1.4547l-3.5405-6.6798v6.6798h-1.0482zm-7.3756 0h1.0803v3.2731h3.9255v-3.2731h1.0803v7.9848h-1.0803v-3.8025h-3.9255v3.8025h-1.0803z" fill="#fff"/>
+        </g>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>

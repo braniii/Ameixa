@@ -76,8 +76,9 @@
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#232323" opacity=".2"/>
     </g>
     <g letter-spacing="0px" word-spacing="0px">
-        <flowRoot fill="#000000" font-family="Roboto" font-size="12.8px" stroke-width="1.0667px" style="line-height:0.01%" xml:space="preserve"><flowRegion><rect x="11.375" y="11.984" width="4.7893" height="5.388" stroke-width="1.1378px"/></flowRegion><flowPara font-size="4px" style="line-height:1.25">your</flowPara></flowRoot>
-        <text x="6.2323003" y="20.361713" fill="#ffffff" font-family="Calibri" font-size="19.044px" stroke-width=".47609" style="line-height:1.25" xml:space="preserve"><tspan x="6.2323003" y="20.361713" fill="#ffffff" stroke-width=".47609">M</tspan></text>
+        <g fill="#fff" stroke-width=".47609" aria-label="M">
+            <path d="m13.997 15.908q0.12088 0.21387 0.21387 0.43704 0.10229 0.22317 0.19528 0.45564 0.09299-0.24177 0.18598-0.46494 0.10229-0.22317 0.21387-0.42775l4.3147-7.4856q0.11159-0.19528 0.24177-0.23247 0.13018-0.046494 0.35336-0.046494h1.246v12.219h-1.4971v-8.9176q0-0.18598 0.0093-0.40915 0.0186-0.23247 0.03719-0.46494l-4.3612 7.6622q-0.21387 0.38125-0.61372 0.38125h-0.24177q-0.39985 0-0.61372-0.38125l-4.4634-7.6529q0.055793 0.46494 0.055793 0.86479v8.9176h-1.4878v-12.219h1.246q0.22317 0 0.34406 0.046494 0.13018 0.037195 0.25107 0.24177l4.3704 7.4763z" fill="#fff" stroke-width=".47609"/>
+        </g>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>

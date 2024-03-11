@@ -76,11 +76,10 @@
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#232323" opacity=".2"/>
     </g>
     <g font-family="Roboto" letter-spacing="0px" word-spacing="0px">
-        <flowRoot fill="#000000" font-size="3.75px" stroke-width="1px" style="line-height:125%" xml:space="preserve"><flowRegion><rect x="10.664" y="11.235" width="4.49" height="5.0512"/></flowRegion><flowPara>your</flowPara></flowRoot>
         <g transform="translate(-.065012 -1025.4)" fill="#fff">
-            <text x="6.0223746" y="1044.2073" font-size="14.966px" style="line-height:125%" xml:space="preserve"><tspan x="6.0223746" y="1044.2073">E</tspan></text>
-            <text x="16.44335" y="1038.2338" font-size="6.7204px" style="line-height:125%" xml:space="preserve"><tspan x="16.44335" y="1038.2338">F</tspan></text>
-            <text x="16.526358" y="1044.2511" font-size="6.7204px" style="line-height:125%" xml:space="preserve"><tspan x="16.526358" y="1044.2511">F</tspan></text>
+            <g aria-label="F">
+                <path d="m19.716 1042.1h-2.005v2.11h-0.63004v-4.7778h2.9599v0.5185h-2.3298v1.6341h2.005zm-0.08301-6.0173h-2.005v2.11h-0.63004v-4.7778h2.9599v0.5184h-2.3298v1.6342h2.005zm-6.3614 3.1654h-4.6111v3.7708h5.3565v1.1473h-6.7595v-10.64h6.6865v1.1546h-5.2834v3.42h4.6111z" style=""/>
+            </g>
         </g>
     </g>
     <g display="none" fill="none">

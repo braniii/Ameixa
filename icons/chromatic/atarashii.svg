@@ -75,11 +75,7 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#1a237e" opacity=".2"/>
     </g>
-    <g transform="matrix(1.196 0 0 1.2818 -32.957 -4.6676)">
-        <text transform="scale(.96023 1.0414)" x="35.022377" y="18.176712" fill="#ffffff" font-family="sans-serif" font-size="12.533px" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="35.022377" y="18.176712">A</tspan></text>
-        <path d="m42.875 17.827h1.0494l-8e-5 1.1076h-1.0493z" fill="#fff"/>
-        <path d="m42.875 9.3743h1.0494v6.4415h-1.0494z" fill="#fff"/>
-    </g>
+    <path d="m18.322 7.3484h1.2551v8.2567h-1.2551zm-6.138 1.677-1.9257 6.0695h3.8584zm-0.80119-1.6256h1.6094l3.9989 12.196h-1.4759l-0.95581-3.1287h-4.7298l-0.95581 3.1287h-1.497zm6.9392 10.783h1.2551l-9.5e-5 1.4197h-1.255z" fill="#fff" stroke-width="1.2382"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

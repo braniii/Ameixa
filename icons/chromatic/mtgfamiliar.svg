@@ -75,8 +75,7 @@
         </g>
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#263238" opacity=".2"/>
     </g>
-    <path transform="scale(1,-1)" d="m13.475-7.6571-6.1684-4.4816 2.3561-7.2514h7.6246l2.3561 7.2514z" fill="none" stroke="#fff"/>
-    <path transform="scale(1,-1)" d="m13.475-7.4028-0.03854-6.503-6.1966 1.9729 6.1728-2.0462-3.7912-5.2837 3.8535 5.2384 3.8535-5.2384-3.7912 5.2837 6.1728 2.0462-6.1966-1.9729z" fill="none" stroke="#fff" stroke-width=".97006"/>
+    <path d="m13.475 7.0391-6.7559 4.9082 2.5801 7.9434h8.3516l2.5801-7.9434-6.4609-4.6953-0.29492-0.21289zm-0.49219 1.5938-0.027344 4.6113-4.3926-1.3984 4.4199-3.2129zm0.98633 0.0019531 4.418 3.2109-4.3926 1.3984-0.025391-4.6094zm-5.9551 4.0645 4.6211 1.5332-2.8379 3.9531-1.7832-5.4863zm10.92 0.001953-1.7812 5.4844-2.8379-3.9531 4.6191-1.5312zm-5.459 2.1426 2.9785 4.0469h-5.957l2.9785-4.0469z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
         <rect x="6.7726" y="8.112" width="13.405" height="10.726" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06524"/>

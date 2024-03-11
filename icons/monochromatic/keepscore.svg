@@ -76,19 +76,7 @@
         <path d="m23.015 1049.6c0.6218 0 1.123-0.5012 1.123-1.123v-0.3125c0 0.6218-0.5012 1.123-1.123 1.123h-19.082c-0.6218 0-1.123-0.5012-1.123-1.123v0.3125c0 0.6218 0.5012 1.123 1.123 1.123h19.082z" fill="#232323" opacity=".2"/>
     </g>
     <g transform="translate(.002505)" fill="#fff" stroke="#fff">
-        <rect x="7.2472" y="8.5291" width=".37925" height="9.8918" rx="0" ry="0" stroke-width=".83699"/>
-        <rect x="19.318" y="8.5291" width=".37925" height="9.8918" rx="0" ry="0" stroke-width=".83699"/>
-        <g transform="translate(0 -.21219)">
-            <rect transform="rotate(-90)" x="-10.893" y="7.8097" width=".1559" height="11.326" rx="0" ry="0" stroke-width=".57421"/>
-            <rect transform="rotate(-90)" x="-13.831" y="7.8096" width=".15586" height="11.326" rx="0" ry="0" stroke-width=".57414"/>
-            <rect transform="rotate(-90)" x="-16.638" y="7.8096" width=".15586" height="11.326" rx="0" ry="0" stroke-width=".57414"/>
-            <rect x="9.9212" y="10.269" width=".30433" height="1.091" ry="0" stroke-width=".83826"/>
-            <rect x="11.413" y="10.269" width=".30433" height="1.091" ry="0" stroke-width=".83826"/>
-            <rect x="12.904" y="10.269" width=".30433" height="1.091" ry="0" stroke-width=".83826"/>
-            <rect x="16.083" y="13.208" width=".30433" height="1.091" ry="0" stroke-width=".83826"/>
-            <rect x="12.255" y="16.014" width=".30433" height="1.091" ry="0" stroke-width=".83826"/>
-            <rect x="13.85" y="16.014" width=".30433" height="1.091" ry="0" stroke-width=".83826"/>
-        </g>
+        <path transform="translate(-.002505)" d="m6.8301 8.1113v0.41797 10.311h1.2168v-2.127h3.791v0.59766h1.1426v-0.59766h0.45312v0.59766h1.1426v-0.59766h4.3262v2.127h1.2148v-10.729h-1.2148v0.41797 1.707h-5.2734v-0.59961h-1.1426v0.41992 0.17969h-0.34766v-0.59961h-1.1426v0.41992 0.17969h-0.34961v-0.59961h-1.1426v0.41992 0.17969h-1.457v-2.125h-1.2168zm1.2168 2.8555h1.457v0.59961h1.1426v-0.59961h0.34961v0.59961h1.1426v-0.59961h0.34766v0.59961h1.1426v-0.59961h5.2734v2.209h-2.0938v-0.59961h-1.1426v0.41797 0.18164h-7.6191v-2.209zm0 2.9375h7.6191v0.60156h1.1426v-0.60156h2.0938v2.0781h-4.3262v-0.59961h-1.1426v0.41797 0.18164h-0.45312v-0.59961h-1.1426v0.41797 0.18164h-3.791v-2.0781z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="none" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     </g>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.3342" y="-19.616" width="12.282" height="12.282" display="inline" stroke="#000" stroke-width=".065984"/>
