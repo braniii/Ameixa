@@ -8287,6 +8287,24 @@
     <item
         component="ComponentInfo{com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity}"
         drawable="finamp" />
+    <item
+        component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Green}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}"
+        drawable="filemanager" />
+    <item
+        component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Grey_black}"
+        drawable="sms" />
+    <item
+        component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Green}"
+        drawable="phone" />
 
     <!-- Nova Launcher specific -->
     <item
