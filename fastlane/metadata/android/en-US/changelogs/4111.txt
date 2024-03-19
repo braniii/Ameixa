@@ -1,0 +1,6 @@
+4.11.1:
+* Fixed a build problem with AGP (thanks to @Licaon_Kter)
+* Added 41 new icons, fixed a lot
+* Fixed many SVG code icons, thanks to @mahlzahn
+
+Thx to an active contributing community (in alphabetical order): @bdju, @branii, @DJaeger
